@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e228e91-8da4-472d-a020-58db94d30776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/comments_collector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextBlob.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NbW8zfRAW4XJ0Pka7AS5YPMneH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679933109577</updated>
-      <workItem from="1679933112144" duration="382000" />
+      <workItem from="1679933112144" duration="571000" />
     </task>
     <servers />
   </component>
