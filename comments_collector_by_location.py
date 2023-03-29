@@ -10,10 +10,16 @@ reddit = praw.Reddit(
 
 sub = reddit.subreddit('all')
 
+keywords = ['chatGPT', 'chat GPT']
+
+# Set the location for the search query
+location = 'Los Angeles'
+
+# Construct the search query by concatenating the location with the keywords
+search_query = f'{keywords} location:{location}'
+
 start_date = dt.datetime(2022, 11, 1)
 end_date = dt.datetime(2023, 3, 17)
-
-keywords = ['chatGPT', 'chat GPT']
 
 posts = sub.search(keywords, limit=None)
 
@@ -56,11 +62,11 @@ def process_comments(comments):
             process_comments(comment.replies)
 
 
-with open('comments.txt', mode='w', encoding='utf-8') as file:
+with open('comments_by_location.txt', mode='w', encoding='utf-8') as file:
     # clear the file
     file.write('')
 
-with open('comments.csv', mode='w', encoding='utf-8', newline='') as csvfile:
+with open('comments_by_location.csv', mode='w', encoding='utf-8', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     # write the header row
     csv_writer.writerow(['Comment ID', 'Score', 'Author', 'Created', 'Text'])
