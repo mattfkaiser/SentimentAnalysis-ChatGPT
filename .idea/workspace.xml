@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e228e91-8da4-472d-a020-58db94d30776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/comments_collector_by_location.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comments_collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/comments_collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments_collector_by_location.py" beforeDir="false" afterPath="$PROJECT_DIR$/comments_collector_by_location.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kaise/OneDrive - Indiana University/Research/SentimentAnalysis-ChatGPT",
+    "last_opened_file_path": "C:/Users/kaise/OneDrive - Indiana University/Research/ChatGPT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +77,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.comments_collector" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,10 +94,15 @@
       <workItem from="1679933112144" duration="2127000" />
       <workItem from="1680094112897" duration="73000" />
       <workItem from="1680094217132" duration="1662000" />
+      <workItem from="1680118295805" duration="38000" />
+      <workItem from="1680118373763" duration="1705000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SentimentAnalysis_ChatGPT$comments_collector.coverage" NAME="comments_collector Coverage Results" MODIFIED="1680119759088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
