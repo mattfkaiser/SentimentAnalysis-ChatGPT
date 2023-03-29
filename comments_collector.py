@@ -3,17 +3,17 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="xxxx",
-    client_secret="xxxx",
-    user_agent="xxxx",
+    client_id="SLKaJnEY-edqw82COgS6QA",
+    client_secret="qTiNGh980kZhuyIrV4boyL_DE3I_ww",
+    user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
 
 sub = reddit.subreddit('all')
 
+keywords = ['chatGPT', 'chat GPT']
+
 start_date = dt.datetime(2022, 11, 1)
 end_date = dt.datetime(2023, 3, 17)
-
-keywords = ['chatGPT', 'chat GPT']
 
 posts = sub.search(keywords, limit=None)
 
@@ -21,18 +21,29 @@ posts = sub.search(keywords, limit=None)
 # Process a single comment to check for keywords and write to files if found
 def process_comment(comment):
     # Check if comment falls within the specified date range
-    if start_date.timestamp() < comment.created_utc < end_date.timestamp():
+    if comment.created_utc > start_date.timestamp() and comment.created_utc < end_date.timestamp():
         # Iterate over the keywords list
         for kw in keywords:
             # Check if the keyword is present in the comment's body (case-insensitive)
             if kw.lower() in comment.body.lower():
                 # Set the author name to 'Deleted' if the author is None (e.g., deleted account)
                 author_name = 'Deleted' if comment.author is None else comment.author.name
+
+                # Fetch the author's information and extract their location data if available
+                author_location = None
+                if comment.author:
+                    try:
+                        user = reddit.user(comment.author.name)
+                        author_location = user.subreddit['location'] if user.subreddit and 'location' in user.subreddit else None
+                    except:
+                        print(f"Error fetching user information for {comment.author.name}")
+
                 # Write the comment data to the TXT file
                 with open('comments.txt', mode='a', encoding='utf-8') as file:
                     file.write(f'Comment ID: {comment.id}\n')
                     file.write(f'Score: {comment.score}\n')
                     file.write(f'Author: {author_name}\n')
+                    file.write(f'Author Location: {author_location}\n')
                     file.write(f'Created: {dt.datetime.fromtimestamp(comment.created_utc)}\n')
                     file.write(f'Text: {comment.body}\n\n')
 
@@ -40,10 +51,12 @@ def process_comment(comment):
                 with open('comments.csv', mode='a', encoding='utf-8', newline='') as csvfile:
                     csv_writer = csv.writer(csvfile)
                     csv_writer.writerow(
-                        [comment.id, comment.score, author_name, dt.datetime.fromtimestamp(comment.created_utc),
+                        [comment.id, comment.score, author_name, author_location, dt.datetime.fromtimestamp(comment.created_utc),
                          comment.body])
                 # Exit the loop when a keyword is found
                 break
+
+
 
 
 def process_comments(comments):
@@ -56,18 +69,14 @@ def process_comments(comments):
             process_comments(comment.replies)
 
 
-with open('comments.txt', mode='w', encoding='utf-8') as file:
-    # clear the file
-    file.write('')
-
-with open('comments.csv', mode='w', encoding='utf-8', newline='') as csvfile:
+with open('comments_with_location.csv', mode='w', encoding='utf-8', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     # write the header row
     csv_writer.writerow(['Comment ID', 'Score', 'Author', 'Created', 'Text'])
 
 # Initialize the post_count variable and set the max_posts limit
 post_count = 0
-max_posts = 10000  # Change this value to the desired number of posts
+max_posts = 100  # Change this value to the desired number of posts
 
 # Iterate through the posts and process their comments
 for post in posts:

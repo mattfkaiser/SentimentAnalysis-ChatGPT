@@ -3,9 +3,9 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="xxxx",
-    client_secret="xxxx",
-    user_agent="xxxx",
+    client_id="SLKaJnEY-edqw82COgS6QA",
+    client_secret="qTiNGh980kZhuyIrV4boyL_DE3I_ww",
+    user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
 
 sub = reddit.subreddit('all')
@@ -13,7 +13,7 @@ sub = reddit.subreddit('all')
 keywords = ['chatGPT', 'chat GPT']
 
 # Set the location for the search query
-location = 'Los Angeles'
+location = 'Indianapolis'
 
 # Construct the search query by concatenating the location with the keywords
 search_query = f'{keywords} location:{location}'
@@ -62,10 +62,6 @@ def process_comments(comments):
             process_comments(comment.replies)
 
 
-with open('comments_by_location.txt', mode='w', encoding='utf-8') as file:
-    # clear the file
-    file.write('')
-
 with open('comments_by_location.csv', mode='w', encoding='utf-8', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     # write the header row
@@ -73,7 +69,7 @@ with open('comments_by_location.csv', mode='w', encoding='utf-8', newline='') as
 
 # Initialize the post_count variable and set the max_posts limit
 post_count = 0
-max_posts = 10000  # Change this value to the desired number of posts
+max_posts = 100  # Change this value to the desired number of posts
 
 # Iterate through the posts and process their comments
 for post in posts:
