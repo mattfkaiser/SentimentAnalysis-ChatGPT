@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e228e91-8da4-472d-a020-58db94d30776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/textBlob_polarity_neutral_05.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textBlob_polarity_neutral_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textBlob_polarity_neutral_15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textBlob_polarity_neutral_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textBlob_polarity_neutral_25.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comments.csv" beforeDir="false" afterPath="$PROJECT_DIR$/comments.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textBlob.py" beforeDir="false" afterPath="$PROJECT_DIR$/textBlob.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +142,7 @@
       <workItem from="1680118295805" duration="38000" />
       <workItem from="1680118373763" duration="1705000" />
       <workItem from="1680131169267" duration="8000" />
-      <workItem from="1680131199509" duration="3227000" />
+      <workItem from="1680131199509" duration="3617000" />
     </task>
     <servers />
   </component>
