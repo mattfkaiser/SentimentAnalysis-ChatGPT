@@ -26,9 +26,9 @@ df['sentiment_polarity'] = sentiments
 
 # Function to categorize sentiment
 def categorize_sentiment(polarity):
-    if polarity > 0.05:
+    if polarity > 0.25:
         return 'Positive'
-    elif polarity < -0.05:
+    elif polarity < -0.25:
         return 'Negative'
     else:
         return 'Neutral'
@@ -38,5 +38,5 @@ def categorize_sentiment(polarity):
 df['sentiment'] = df['sentiment_polarity'].apply(categorize_sentiment)
 
 # Save the DataFrame with sentiment analysis to a new CSV file
-output_file_path = 'reddit_comments_with_sentiments_More_Neutral.csv'
+output_file_path = 'textBlob_polarity_neutral_25.csv'
 df.to_csv(output_file_path, index=False)
