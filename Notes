@@ -3,3 +3,14 @@ Posts do not carry a location tag.
 Location may not be a valid way to drill in on comments.
 Location may not be a valid way to drill in on posts.
 
+When you use VADER sentiment analysis, it provides you with four different scores for each text or comment:
+
+    Negative (neg) score: This represents the proportion of negative sentiment words in the text. The score ranges from 0 to 1, where a higher value indicates a higher proportion of negative words.
+
+    Positive (pos) score: This represents the proportion of positive sentiment words in the text. The score ranges from 0 to 1, where a higher value indicates a higher proportion of positive words.
+
+    Neutral (neu) score: This represents the proportion of neutral sentiment words (or words that don't convey any sentiment) in the text. The score ranges from 0 to 1, where a higher value indicates a higher proportion of neutral words.
+
+    Compound score: This is a single value that represents the overall sentiment polarity of the text. It is calculated based on the individual positive, negative, and neutral sentiment scores for each word or token in the text. The compound score ranges from -1 (most negative sentiment) to 1 (most positive sentiment).
+
+The negative, positive, and neutral scores represent the proportions of the respective sentiment words in the text, and their sum is always equal to 1. The compound score, on the other hand, provides an overall measure of the sentiment polarity by combining the information from the other three scores.
