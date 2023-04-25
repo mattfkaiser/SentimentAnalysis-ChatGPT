@@ -1,0 +1,14 @@
+Count of Field2,Field1,,,,
+Field2,Positive,Neutral,Negative,emotion,Grand Total
+positive,3385,259,,,3644
+fear,54,1477,245,,1776
+trust,935,276,86,,1297
+negative,,,816,,816
+anticipation,79,151,22,,252
+anger,20,87,144,,251
+surprise,53,45,13,,111
+sadness,1,5,2,,8
+disgust,1,2,,,3
+joy,1,,,,1
+top_emotion,,,,1,1
+Grand Total,4529,2302,1328,1,8160
