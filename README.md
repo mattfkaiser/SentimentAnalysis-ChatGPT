@@ -11,3 +11,5 @@ Dependencies:
 <br>textblob
 <br>praw
 <br>Reddit API Credentials
+<br>vader
+<br>NRCLex
