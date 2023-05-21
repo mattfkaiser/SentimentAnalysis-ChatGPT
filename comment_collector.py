@@ -3,15 +3,15 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="xxx",
-    client_secret="xxx",
+    client_id="xxxx",
+    client_secret="xxxx",
     user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
 
 sub = reddit.subreddit('all')
 
 start_date = dt.datetime(2022, 11, 1)
-end_date = dt.datetime(2023, 3, 17)
+end_date = dt.datetime(2023, 5, 21)
 
 keywords = ['chatGPT', 'chat GPT']
 
@@ -56,7 +56,7 @@ with open('comments.csv', mode='w', encoding='utf-8', newline='') as csvfile:
 
 # Initialize the post_count variable and set the max_posts limit
 post_count = 0
-max_posts = 10  # Change this value to the desired number of posts
+max_posts = 100000  # Change this value to the desired number of posts
 
 # Iterate through the posts and process their comments
 for post in posts:
