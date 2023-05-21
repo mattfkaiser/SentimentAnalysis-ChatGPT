@@ -3,14 +3,14 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="xxxx",
-    client_secret="xxxx",
+    client_id="SLKaJnEY-edqw82COgS6QA",
+    client_secret="qTiNGh980kZhuyIrV4boyL_DE3I_ww",
     user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
 
 sub = reddit.subreddit('all')
 
-start_date = dt.datetime(2022, 11, 1)
+start_date = dt.datetime(2023, 3, 18)
 end_date = dt.datetime(2023, 5, 21)
 
 keywords = ['chatGPT', 'chat GPT']
