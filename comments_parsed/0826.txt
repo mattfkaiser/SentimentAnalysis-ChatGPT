@@ -1,0 +1,2 @@
+It doesn't have a memory of the things it has read or written for other users. You can write an original text and then ask ChatGPT: did you write this? And it would answer yes I did, because it thinks that's what the appropriate answer is. Because that's how it works.
+

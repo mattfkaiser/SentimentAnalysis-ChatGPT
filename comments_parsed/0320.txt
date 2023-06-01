@@ -1,0 +1,2 @@
+An expert will notice problems in your request, such as [the XY problem](https://xyproblem.info/), and help you better orient yourself to the problem you're really trying to solve, _rather than_ efficiently synthesizing good advice for pursuing the bad path you wrongly thought you wanted.
+

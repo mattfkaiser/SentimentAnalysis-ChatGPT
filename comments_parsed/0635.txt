@@ -1,0 +1,9 @@
+Strength: 8
+Dexterity: 16
+Constitution: 12
+Intelligence: 12
+Wisdom: 10
+Charisma: 14
+He has the ""Mobile"" feat, and is proficient in Sleight of Hand and Stealth.
+His armor class is 14 and he has hit points of (6 + Constitution modifier) = 18.
+

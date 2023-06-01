@@ -1,0 +1,3 @@
+Anyway, I'm mostly mentioning how things are right now. Surely it would be stupid to assume that things can't change drastically. (And even more stupid to ignore such a possibly extremely disruptive development - but it's not 100% sure it will happen)"
+"It’s a predictive model that has been trained on a large portion of all the text humans have written. It has a trillion parameters. It’s a black box. Calling it ”just” anything or claiming that you understand it because you know the basic algorithms behind it is reductive to the point of being borderline misinformation - especially when we have articles like this https://arxiv.org/abs/2303.12712 that actually go deeper to test it. The conclusions from that article are worth considering.
+

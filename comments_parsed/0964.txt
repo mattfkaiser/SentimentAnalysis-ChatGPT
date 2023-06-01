@@ -1,0 +1,3 @@
+If you ask it to tell you something about a subject, then there's a solid chance at least some of what comes out is completely bogus because ChatGPT doesn't actually know what's true and what's not; it just knows that some things are similar to others."
+"I've seen multiple comments on different posts from people who don't realize that ChatGPT isn't necessarily giving them true information.  They think anything it says is fact, as if it's scanning Google and Wikipedia before figuring out the truth and then telling the user.
+

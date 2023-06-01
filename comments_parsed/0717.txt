@@ -1,0 +1,4 @@
+Choosing just one of “reversed” or “dissolved” tends to get you dark/dystopian stuff - *Left Hand of Darkness* is reversed, *Harrison Bergeron* is dissolved."
+How do you get ChatGPT and MidJourney to cooperate together to make images? I've tried various prompts and nothing works.
+"There's no direct plugin, I simply copy the prompts ChatGPT gives me into the Midjourney private Discord bot channel. ChatGPT also doesn't know anything about Midjourney prompt syntax specifically, but it still works (and since ChatGPT's release of real-live Browsing, you can actually get it to read the Midjourney docs if needed).
+

@@ -1,0 +1,5 @@
+Oddly, when I correct it and say “No, nine out of ten of your example races are not in Talislanta” it will apologize and come up with a NEW list, this time with a higher percentage of actual Talislanta races! Like, for some reason when I call it on its BS it will think harder and give me something more closely approximating the facts. Why doesn’t it do this from the start? I have no idea."
+"> As a scientist, I have noticed that ChatGPT does a good job of writing as if it knows things but shows high-level conceptual misunderstandings.
+>
+> So a lot of times, with technical subjects, if you really read what it writes, you notice it doesn't really understand the subject matter.
+

@@ -1,0 +1,8 @@
+>> * OpenAI’s models are not fine-tuned to provide medical information. You should never use our models to provide diagnostic or treatment services for serious medical conditions.
+>> * OpenAI’s platforms should not be used to triage or manage life-threatening issues that need immediate attention."
+But what does ChatGPT say?
+"I feel like this is meant to be a defense for people, but reads as another reason chatgpt has an advantage."
+Well at least this is proving that Chat GPT is better at pretending to be a doctor than randos are
+"I don’t think so… these are voluntary answers too.. but i also do not doubt the warm vibes i feel reading chatgpt’s responses to my personal abd medical questions. Very comforting, balanced, and knowledgeable"
+"Instead of double blind, have the patient be diagnosed by the doctor, then feed the info (minus doctor diagnosis) to chatgpt, that way they're still getting advice from a doctor, but you can compare if the ai gave a different diagnosis. Later on, you can see whether the doctor was right.
+

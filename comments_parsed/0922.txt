@@ -1,0 +1,2 @@
+To give a more general example, I think one huge breakthrough in AI was AlphaGo and especially AlphaZero. Go was considered too complex for algorithms and yet they beat top Go players. Ironically I read a few months ago that there observed AlphaZero being beaten with a simple trick that the AI just ignored. (So definitely not a professional level trick) FWIW AlphaZero is highly different from AlphaGo or ChatGPT in that it doesn't learn from existing data sets ""auto complete"" but actually generates a whole synthetic universe of possible games itself and learning from that.
+

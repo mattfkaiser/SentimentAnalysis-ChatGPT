@@ -1,0 +1,2 @@
+I have spent some time using ChatGPT for my work, and it's outdoing Google by a factor of 10. The reason ChatGPT is a game-changer is that it changes how we acquire information. Take a simple task like writing a piece of code and debugging issues. Normally, I can spend a lot of time using Google and Stackoverflow to try an find examples and other people with a similar problem, but most of the time it doesn't apply to my specific case, and there is tons of superfluous information I have to sort through.
+

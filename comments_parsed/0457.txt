@@ -1,0 +1,2 @@
+A week ago, I asked it to implement a Base32 encoding algorithm in C#. It was very subtly incorrect and almost fooled me. Today, I asked it to compare two camera models and it innovated a disadvantage for one of them being a fixed lens with no zoom although neither had zoom. ChatGPT does this _all the time_. All. The. Time. If you aren't introduced to the fields you're likely to miss it though. Hell, even if you _are_, it's so damn convincing that you may just believe it.
+

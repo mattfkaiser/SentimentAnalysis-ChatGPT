@@ -1,0 +1,2 @@
+The problem here is that to know if hard determinism is true, we have to rule out all other ideas. We don’t have enough information to rule out these other ideas.
+

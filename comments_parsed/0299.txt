@@ -1,0 +1,3 @@
+ChatGPT is sold as the next evolution of ai but it’s more likely the end of the line.  When the mainstream realizes it’s not worth the BILLIONS we have spent on it… the entire field will likely die."
+"The funniest code problem I've seen on ChatGPT was with an arcane language called LSL (linden scripting language). Somehow it managed to train information from an ancient wiki page of proposed functions. Nothing on that page was ever implemented, so there's like hundreds of functions it could potentially throw your way that simply don't exist if you ask it to write something in that language.
+

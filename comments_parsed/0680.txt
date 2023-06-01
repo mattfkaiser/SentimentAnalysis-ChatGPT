@@ -1,0 +1,3 @@
+A great test, apparently, is to ask GPT-4 to draw a unicorn in TikZ. It actually creates a remarkably good one. But post-safety training its unicorn looks much worse. So we would have to test if Dan or Tom can draw a better unicorn. I imagine someone who has access to GPT-4's API and TikZ could do that for us."
+"It’s not the edge lords that have been the cause of neutering ChatGPT.
+

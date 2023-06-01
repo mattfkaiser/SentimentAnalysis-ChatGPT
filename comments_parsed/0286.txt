@@ -1,0 +1,2 @@
+For example, walking is learned behavior based on touch, pain, proprioception, etc. I can write, ""you put one leg in front of the other,"" based on my experience actually doing that, and underneath the shallow expression is an immense amount of meaning and detail of exactly how you do that. When chat GPT says, ""you put one leg in front of the other"" it has none of that. Chat GPT could not ""drive"" a boston dynamics walking robot. In fact, it couldn't even identify a leg in a picture. It knows what words to put in what order and nothing else.
+

@@ -1,0 +1,6 @@
+If you're using a language parsing AI to try to find information, I feel like you have a fundamental misunderstanding of how language parsing AIs work, and what exactly they are meant to do."
+"Right. Or for another [farfetched but philosophically analogous] example: if somehow ChatGPT would have existed in the mid 1700s, and you were to have asked it about the righteousness and ethics of slavery, ChatGPT would undoubtedly have supported slavery very eloquently. Why?  Because all it does is spout a moshing together of what humans have written. And most literature in those days was supportive of slavery. There is no fundamental truth or critical thought in what it's doing."
+The truth will be if most of the period'd literature support slavery or not. If there wasn't a ChatGPT in the 1700s you'd have to read all those sources yourself to make such a summary. Or have another human do it for you. So why not use a machine to do this work instead.
+"
+>if somehow ChatGPT would have existed in the mid 1700s, and you were to have asked it about the righteousness and ethics of slavery, ChatGPT would undoubtedly have supported slavery very eloquently.
+

@@ -1,0 +1,2 @@
+When I say ""doing research,"" I mean things like trying to understand how LLMs work. I don't rely on ChatGPT for facts at all, in the technical sense. And when I come across something that is of that nature, I use other sources to confirm.
+

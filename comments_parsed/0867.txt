@@ -1,0 +1,2 @@
+In the limitations they literally state that they didn't check the chatGTP responses for accuracy. So while it might be more empathetic, it might also be telling you complete nonsense. They even admit that their grading scale wasn't verified in anyway and basically came down to what three doctors felt like on the day (who were also co-authors btw).
+

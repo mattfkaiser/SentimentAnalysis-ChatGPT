@@ -1,0 +1,9 @@
+Now, I'm guessing Chat GPT can probably mimic this revision process, but I'll have to play around and confirm..."
+"* Have ChatGPT write an essay
+* Translate to another language
+* Translate it back to english
+* Type that into Word at a reasonable pace, for the history function. This is your 'rough draft'
+* Go back through and make 'edits', updating the grammar to match the original ChatGPT version"
+"Check out Perplexity, it's ChatGPT but provides the sources it used, much like how the new Bing chat does. https://www.perplexity.ai/"
+"The thing is ChatGPT doesn't really *cite* things.
+

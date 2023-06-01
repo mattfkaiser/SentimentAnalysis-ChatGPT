@@ -1,0 +1,2 @@
+There was an example where somebody told it code it provided used a deprecated API, and it admitted the mistake, but all it did was confirm that by searching its dataset and producing different code using a different API. It didn't occur to it to do that in the first place.
+

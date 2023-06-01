@@ -1,0 +1,5 @@
+Ignore the media charlatans, they just need to generate headlines. If some of them feel threatened by ChatGPT, that's more a reflection on their journalism than ChatGPT."
+Also parrots are really smart. They're one of the few animals observed to [be able to use tools](https://www.forbes.com/sites/grrlscientist/2018/07/12/what-makes-parrots-so-intelligent/?sh=38810a0234e6). And they do have some understanding of some words. The same is true of dogs and cats and other pets who have small vocabularies even if they can't vocalize the words they learn. Calling ChatGPT a parrot isn't the argument that OP thinks it is...
+"Same here - we had a weird problem with a redis database and a very specific API in a very specific configuration. We googled the problem and didn't find anything that met our problem, so on a whim my boss said ""Let's try ChatGPT and see what it says about this"". Lo and behold, ChatGPT found the EXACT problem we had and even gave us a (trivial) bit of code to fix it."
+"This is the kind of problem chatgpt is good for, especially since you can confirm the answer.
+

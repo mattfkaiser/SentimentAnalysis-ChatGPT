@@ -1,0 +1,3 @@
+A lot of students don't either, though."
+"Nah. If I specifically tell you “Here’s my question. Don’t answer if you don’t know for certain. I would rather hear ‘I don’t know’ than a made-up response.” then a human will take that instruction into consideration. ChatGPT will flat-out ignore you and just go right ahead and answer the question whether it knows anything on the topic or not.
+

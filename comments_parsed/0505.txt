@@ -1,0 +1,5 @@
+Open your Word document.
+Go to the ""File"" menu.
+Click on ""Info.""
+Under ""Manage Document,"" click on ""Version History"" or ""Manage Versions.""
+

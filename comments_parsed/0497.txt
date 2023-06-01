@@ -1,0 +1,2 @@
+Then I run it through OpenAI’s own detector where I make sure my client’s paper gets a “very unlikely AI” review.
+

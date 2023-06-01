@@ -1,0 +1,2 @@
+>Lack of Contextual Awareness: I was trained on a large corpus of text, but I don't have access to external information or the ability to hold onto context between turns in a conversation. This can sometimes lead to inaccuracies or a lack of coherence in my responses.
+

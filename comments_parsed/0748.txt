@@ -1,0 +1,5 @@
+This is especially problematic for social or health sciences (Like psychology), because it can incidentally create misinformation in field that often garners a lot of interest from lay people."
+"ChatGPT does use reinforcement learning with a dynamically updated reward model as part of the process of fine tuning the unsupervised language model. It may not technically be a GAN depending on the precise definition, but it's definitely similar (excluding the other training steps)."
+A fundamentally more important point in this case is that ChatGPT is not even designed or trained to perform this function.
+"It's crazy how many people seem to think ""I asked ChatGPT if it could do X, and it said it can do X, so therefore it can do X"" is a valid line of reasoning.
+

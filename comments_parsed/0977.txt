@@ -1,0 +1,4 @@
+given how often I've seen these chatbots ""lie"", it's no wonder the false positive rate is so high."
+"I saw a paper where the guy forgot to even delete the fucking ""I am an AI""disclaimer, like he printed that shit out and turned it in with fucking ""Chat GPT"" written on the front page."
+"I’m hearing all these stories but like, I’ve watched a bunch of ChatGPT YouTube vids and the responses it gave back were kinda trash. DougDoug recently had a video where he wanted to see if he could learn AP history from ChatGPT. Hed tack on caveats like “but speak like yoda”, but he fed real prompts into it and it just came back with some gibberish that really didn’t answer the question or repeated the prompt or was just vague. The only time I’ve seen it work really well was when it was asked to code.
+

@@ -1,0 +1,4 @@
+Occasionally it will cause the orange text and ""this goes against OpenAI content policies"" because it will say something that the system thinks is against the rules.  Today one got flagged and the only reason I could see is it included a lot of strong language and the phrase ""stick to my guns"", as in hold onto an opinion.  Nothing else in it was noteworthy."
+Just block the URL of the mod API that is called by the ChatGPT web UI after a POST conversation.
+">block the URL of the mod API that is called by the ChatGPT web UI after a POST conversation.
+

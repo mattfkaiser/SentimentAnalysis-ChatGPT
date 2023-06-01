@@ -1,0 +1,2 @@
+A few years ago, machine learning was nowhere near this state. Yes, you are right that its current state still isnt flawless and its reasoning is patchy. But the fact that LLMs have come this far this fast is insane.
+

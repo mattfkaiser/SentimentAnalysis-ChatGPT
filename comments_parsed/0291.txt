@@ -1,0 +1,4 @@
+Oh ffs."
+"Okay, fine granted we shouldn't *gush* over ChatGPT. But I was fucking shocked at how I asked it to solve a network BGP routing problem that had stumped me for 2.5 weeks. It was dead on, even to the accuracy of the configuration file syntax to use. ChatGPT did solve my problem but there was enough data out there in the interwebs to make some correct guesses and compile the answer faster than I could using google."
+"Yeah that's because your question was already asked before. I asked it to help me reverse engineer and resend some BLE packets, and while it did provide the code, said code did not compile, and did not work after fixing it.
+

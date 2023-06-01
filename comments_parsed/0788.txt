@@ -1,0 +1,3 @@
+ChatGPT should capitalize on this and make a end to end encryption system that allows businesses to feel more secure… but that’s just my opinion. Some rich people are probably already working on it"
+"??? It's impossible to encrypt anything in the way you're imagining - it's impossible for ChatGPT to give a response to an encrypted request without being able to decrypt it (well, a sensible response anyway...), and if ChatGPT is able to decrypt the request then whoever is controlling the ChatGPT server is also able to decrypt the request because they have access to all of the same things that ChatGPT does.
+

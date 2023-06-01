@@ -1,0 +1,3 @@
+My general usage pattern:
+AI for iterative research, pulling in other online resources to confirm factual information.
+

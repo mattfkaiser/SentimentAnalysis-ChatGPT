@@ -1,0 +1,2 @@
+That said, haven't tried ChatGPT Plugins or Plus (I'm sure it's more powerful) but tried Github Co-Pilot though. It provides good autocomplete for highly repetitive code as well as for well-known problems. (It's really good at generating for one-liners for libraries I'm not familiar with)
+

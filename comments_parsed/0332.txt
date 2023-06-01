@@ -1,0 +1,2 @@
+It can be useful if integrated into a search engine, providing you with links to things relevant to your input, but without that its output has the same informational value as skimming headlines -- _less_ than zero, since it's more likely to misinform than inform.
+

@@ -1,0 +1,2 @@
+On another instance I was asking ChatGPT about numerics of a triangle or another simple geometric shape. It failed horribly.
+

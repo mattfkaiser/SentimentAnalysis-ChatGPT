@@ -1,0 +1,2 @@
+Not to be to philosophical or anything, but we also can't prove that humans have intentionality.  It absolutely can be argued that neural net learning algorithms simply gather a data set and look for correlations to determine the correct answer, but how different is that actually when compared to what we understand concretely about how the human brain works.  Both are a fuzzy logic system based on stored data and iteration to determine what yields the best result based on a fuzzy logic system of what the best result is.
+

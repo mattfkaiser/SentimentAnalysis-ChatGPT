@@ -1,0 +1,2 @@
+There are some exceptions to this. For example, GPT is constantly updated by OpenAI. Their long term safety mechanism is to release slightly more powerful versions every major update, see how people break it, and patch those weak points. The idea is to get all the tomfoolery out of the way before they unleash something truly, extremely potent that could go horribly wrong. That's literally, explicitly why ChatGPT exists
+

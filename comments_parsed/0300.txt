@@ -1,0 +1,3 @@
+But yeah, no gripes here with how well it can slap together PHP or Python."
+"Confirm.  It's very hit and miss.  If you give it a problem, it can give you a good answer, or it can give you BS.  I asked it to give me the total possible number of QR codes given that they are created from a 38 x 38 matrix and was impressed that it was able to give the technically correct answer of 2^1444, or 2.8585x10^434.  It's actually not that easy to find a calculator that will handle a number that large.
+

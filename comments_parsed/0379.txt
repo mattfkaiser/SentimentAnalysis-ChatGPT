@@ -1,0 +1,3 @@
+As it stands now, OpenAI hasn’t solved the hallucination issues endemic to statistical language models. I say this as an ML engineer myself having read the paper, but also as someone who has experimented with it. The paper admits it, and the demo confirms it."
+"The problem is we started to search google and put 'reddit' on the end to find good answers.
+

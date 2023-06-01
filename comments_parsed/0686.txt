@@ -1,0 +1,2 @@
+And it only requires a prompt that is less than a full sentance.
+

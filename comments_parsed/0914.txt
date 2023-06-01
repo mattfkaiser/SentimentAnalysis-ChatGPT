@@ -1,0 +1,2 @@
+ChatGPT has analyzed tons of text, and it can create new text by pattern. If you ask it what a hot dog is, it will tell you, because that *text exists in it's dataset*. If you ask it if it understands what a hot dog is, it (I'm assuming) will tell you that it does, and then explain what a hot dog is. Is that because it can imagine and think about hot dogs, and contemplate what a hot dog is? No, it's because it's analyzed so much human writing that it can calculate what words it should output when responding to ""do you understand..."".
+

@@ -1,0 +1,8 @@
+It would be nice to catch them cheating, and I'm curious on how exactly they do it. Probably just a cellphone in the lap. But to fail them, I don't need it."
+"This could be do in any other class.  Present your work and get asked follow-up.  They can use whatever tool they like, the Dewey Decimal system, Google, chat GPT.  In the end, do they understand wtf is going on?"
+I am a college professor and this is crazy. I have loaded my own writing in ChatGPT and it comes back as 100% AI written every time. So it is already a mess.
+I know.  That’s why I’m shocked at his actions. False positives are abundant in ChatGPT. Even tools like ZeroGPT are giving way too many false positives.
+"There are no false positives in ChatGPT because CharGPT is not even an AI detector. You ask it if it wrote a text and it has no way of knowing if it actually did, but it often says yes because no idea why."
+"OpenAI/ChatGPT never claimed it can ""detect"" AI texts, it is just a chatbot that is programmed to give you pleasing answers based on statistic likelihood."
+"ChatGPT is a language model, it's main purpose is to sound natural. It has no concept of ""facts"" and any time it happens to say something true is purely coincidental, due to a correlation between statements that sound true and things that are true. Which is why anyone relying on it to tell them facts is incredibly misinformed.
+

@@ -1,0 +1,2 @@
+The “feed it more data” line will only work for so long.  Eventually you will realize you could have done what ChatGPT did in a fraction of the effort you put into getting it to spit out code that doesn’t work.
+

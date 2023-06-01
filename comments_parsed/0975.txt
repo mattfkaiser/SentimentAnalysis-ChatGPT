@@ -1,0 +1,3 @@
+All that to say, I write my own papers, and I’m a cranky middle aged guy who isn’t gonna “prove version history”. Then again, I also pay for MS Office. One last thing though: getting a degree is a fine balance between “I have a piece of paper that says I can make more money” and “I actually learned something that I can use to make myself more effective and competitive”. Obviously, the deadlines and large amount of work make the latter a little more difficult, so sometimes you just need to do the minimal effort to pass; sometimes it benefits to learn just a little more."
+"I just create multiple .tex files within my overleaf projects and ctrl c + v content in the rare instances I want to keep a backup of an older version.
+

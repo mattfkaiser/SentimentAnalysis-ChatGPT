@@ -1,0 +1,2 @@
+AlphaGo is ""frozen in time,"" as are most AI models. They get trained once, and they stop learning after that. Every time you start up the model, it's like it's waking up for the first time. None of the data from it's previous games gets saved and incorporated into training, because that A) might throw off how finely it's tuned and make it difficult to analyze, and B) it's expensive
+

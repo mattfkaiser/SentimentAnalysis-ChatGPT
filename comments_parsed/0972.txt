@@ -1,0 +1,4 @@
+There's no way to fight this.  It's coming."
+"Write whole thing on chatgpt, copy to note pad, slowly copy it to Word"
+"Tell chatgpt to write you a python script that will slowly type the words from a text file into word.
+

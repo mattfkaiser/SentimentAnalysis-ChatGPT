@@ -1,0 +1,2 @@
+When I ask it something I actually know the answer to, I find it sometimes gives out the right answer, but often will list out like 3 answers including the right one and 2 wrong approaches, or complete BS that rephrased the question without answering it.
+

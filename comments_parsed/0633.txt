@@ -1,0 +1,9 @@
+Strength: 8
+Dexterity: 10
+Constitution: 12
+Intelligence: 18
+Wisdom: 10
+Charisma: 12
+He has the ""Spell Sniper"" feat, and is proficient in Arcana and Investigation.
+His armor class is 12 and he has hit points of (6 + Constitution modifier) = 18.
+

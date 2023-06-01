@@ -24,7 +24,7 @@ with open('comments_text_only.txt', 'r', encoding='utf-8') as f:
             comment_counter += 1
             comments.append("\n")  # Add a newline to separate comments
             # If we've processed 1000 comments, save them to a new file
-            if comment_counter == 1000:
+            if comment_counter == 1:
                 with open(f'comments_parsed/{str(file_counter).zfill(4)}.txt', 'w', encoding='utf-8') as out_file:
                     out_file.write("\n".join(comments))
                 # Reset the comment and file counter

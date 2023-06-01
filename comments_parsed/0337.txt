@@ -1,0 +1,2 @@
+The fact that it can do as much as it can just as a byproduct of being trained on so much written material is remarkable. As far as I understand it, it hasn't been explicitly trained to solve physics problems, write computer code, or translate beteeen English and Chinese, and yet it can do all of that things shockingly well (but also imperfectly).
+

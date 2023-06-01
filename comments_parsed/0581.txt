@@ -1,0 +1,5 @@
+Now let’s do the same example but at 80% accuracy. 100 students at 80% would give you 20 students falsely accused."
+Use ChatGPT to answer back as convincing as it can that you're not using ChatGPT.
+I would ask chatgpt how to respond.
+"I don't know, you should try asking ChatGPT \\s
+

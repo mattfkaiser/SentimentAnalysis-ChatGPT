@@ -1,0 +1,3 @@
+I could see this technology being used in conjunction with a knowledge engine back-end of some kind to let it sound more natural but that's something other than ChatGPT."
+"Absolutely this. It even says this on the openAI page when you sign up. ChatGPT was created for understanding and reproducing human language. It's purpose is to write texts that look like they are written by humans, the content is secondary.
+

@@ -1,0 +1,2 @@
+Yes, it was trained on previous movie reviews that helped to determine the weights of those functions, but no database is referenced once the model is trained. This is a common misconception people have, and the neural network will often take 1/10,000th the size of the training data, or less meaning that it simply can’t be storing the data in a database.
+

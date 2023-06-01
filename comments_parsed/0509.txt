@@ -1,0 +1,4 @@
+Look at the ""AutoRecover file location"" field. This is where your AutoRecover files are saved.
+Open a new File Explorer window, navigate to this location, and see if there's a copy of your document there.
+Keep in mind that AutoRecover is not meant to be a way to access old versions of a file, but rather a way to recover work in case of a crash. It's not guaranteed to have a copy of your document from a specific point in time.
+

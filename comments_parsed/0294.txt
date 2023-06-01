@@ -1,0 +1,4 @@
+At the end of the day, it's all trained on data from the internet, if the internet doesn't know something - ChatGPT will be able to guess, at best. How good of a guess it'll be - we don't know. I think it would be useful to show some kind of confidence level in the answers, so you'll know whether the answer should be trusted or not."
+I've had plenty of good results just explaining the error and asking ChatGPT what's causing it. Half the time it rewrites the code to fix it without even needing additional prompting.
+"It did not learn about syntax or structure.  That is not how neural networks work.
+

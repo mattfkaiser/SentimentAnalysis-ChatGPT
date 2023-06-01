@@ -1,0 +1,2 @@
+My understanding is that you can see this most clearly by playing games with chat GPT. It literally does not have the capacity to store information about objects like chess pieces, it only has a capacity to work off of text, and only a certain window of text, and so it will eventually spit out nonsense moves because it is tracking the text, not the game.
+

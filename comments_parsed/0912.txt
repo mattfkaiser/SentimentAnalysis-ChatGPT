@@ -1,0 +1,2 @@
+>Logically, stating that an LLM can't ""understand"" anything just because there are probabilities involved or because we have a grasp of the process doesn't make any sense.
+

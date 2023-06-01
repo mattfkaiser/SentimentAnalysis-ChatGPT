@@ -1,0 +1,2 @@
+Instead, the query is tokenized, and those tokens are processed and then run through the neural network. A neural network is just a series of interlock parametrized functions that will give us a response that is (in this case) a series of tokens which create a movie review.
+

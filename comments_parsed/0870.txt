@@ -1,0 +1,3 @@
+Using ChatGPT for medical diagnose (or anything else) is like using the maps from ""Lord of the Rings"" to study for a geography test."
+"Yes. Some people might think we're overreacting, but ChatGPT is being portrayed as something it's not. Seeing the positive comments here talking about how it bodes well for the future is so confusing when you think about what ChatGPT is actually doing. It's not magically being more empathic, it's essentially retelling what it already knows, and it's advanced enough to be able to generate new text based on all the different data combined. It does not know what it's talking about, and it inherits all the mistakes, biases, misinformation, and potentially intentional disinformation that could exist in it's data.
+

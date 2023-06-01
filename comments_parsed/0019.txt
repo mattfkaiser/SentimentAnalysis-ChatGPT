@@ -1,0 +1,2 @@
+>A: ChatGPT can write stories, shooting scripts, design programs, write programs, write technical documentation, write autopsy reports, rewrite articles, and write fake interviews. It can convert between different text styles. HINT: Try giving it a few paragraphs of a book and ask for it to be converted into a screenplay. ChatGPT can even pretend to be a character so long as you provide the **appropriate** details.
+

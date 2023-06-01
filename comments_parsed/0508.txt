@@ -1,0 +1,4 @@
+Go to the ""File"" menu.
+Click on ""Options.""
+Go to the ""Save"" tab.
+

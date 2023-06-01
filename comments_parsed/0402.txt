@@ -1,0 +1,2 @@
+>Instead it will gather up the thousands of reviews that actually did mention all those things and mush them together, outputting a reasonable approximation of a film review.
+

@@ -1,0 +1,2 @@
+AlphaGo not ""understanding"" this basic principle of Go is actually pretty interesting, it tells us a lot about how it's engaging with the game. But it's not indicative of some fundamental lack of ""understanding""
+

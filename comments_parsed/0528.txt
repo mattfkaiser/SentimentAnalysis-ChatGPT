@@ -1,0 +1,2 @@
+I'll give you an example. Let's say you run a medium size chain store company that does automotive maintenance and repair. You have to maintain massive libraries of technical manuals for your employee's to lookup the specifics of fixing a particular model of car for a particular kind of problem. This is not only costly but error prone.
+

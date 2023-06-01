@@ -1,0 +1,2 @@
+Most people are absolutely ignorant on the fact that ChatGPT is an AI that was **specifically built to ""sound human"", not to be right**. In other words: it's an algorithm that is good at writing, but writes made up stuff. When it does write something that is technically correct it's just out of pure chance (because the training data contains *some* technically correct data).
+

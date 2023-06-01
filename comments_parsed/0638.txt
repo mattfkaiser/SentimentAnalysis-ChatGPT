@@ -1,0 +1,4 @@
+Goblin warrior (armor class 15, hit points 7)
+Goblin archer (armor class 13, hit points 5)
+Goblin shaman (armor class 12, hit points 4)
+

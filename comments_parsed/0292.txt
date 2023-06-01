@@ -1,0 +1,2 @@
+Sure it can help you solve issues with popular languages which StackOverflow mouthwaters over, but get into some more obscure stuff requiring actual understanding of the issue and code - it'll fail.
+

@@ -1,0 +1,3 @@
+* It's clear that we're not *just* learning machines, and have several built-in systems. Babies with no experience still do things. Some of the things we do as adults are likely innate as well.
+* We match patterns in more than just text. In fact, text is the most superficial aspect of our brain - it's an abstraction of sounds that are abstractions of all other cognitive features.
+

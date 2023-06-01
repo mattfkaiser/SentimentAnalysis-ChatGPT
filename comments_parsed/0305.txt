@@ -1,0 +1,2 @@
+Or even more obvious, ask it to write an LCD driver for Arduino, but completely invent the name. It will produce boilerplate that uses a SPI LCD library without even knowing, or critically, asking you about the LCD.
+

@@ -1,0 +1,2 @@
+>Bias in Training Data: I was trained on the text that was available to OpenAI, which reflects the biases and perspectives present in that text. These biases can be reflected in my responses, so it's important to consider the source and possible limitations of the training data when using an AI language model like me.
+

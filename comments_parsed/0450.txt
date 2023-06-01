@@ -1,0 +1,2 @@
+The problem is I literally have no experience with backend cloud tech. So all along I  knew that I needed to make an MVP of the app without the backend then find some way to scrounge up enough money to hire someone to lay down the foundation. Literally weeks before I was at that point I heard about ChatGPT.
+

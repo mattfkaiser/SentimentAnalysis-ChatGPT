@@ -1,0 +1,2 @@
+And that is a quick use case, without a tremendous amount of thought put into it. In terms of medical information, purpose built extensions of models like chatgpt have a reasonable chance of becoming the primary way we diagnose problems within the next three to five years (this is my personal opinion). The benchmarks already show that AI's of this nature can already outperform seasoned physicians in diagnosing diseases. Don't get me wrong, we absolutely need those professional doctors to interpret, consider, and apply what the actual medical course should be.
+

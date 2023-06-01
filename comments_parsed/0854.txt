@@ -1,0 +1,6 @@
+The responses sounds like answers from webMD anyways.  Also, I work at a hospital, and our EMR system already gives doctors suggestions like these."
+"This is exactly the reason why ChatGPT hallucinates so much. It was trained based on human feedback. And most people, when presented with two responses, one ""sorry I don't know"" and one that is wrong, but contains lots of smart sounding technical terms, will choose the smart sounding one as the better response. So ChatGPT became pretty good at bullshitting it's way through training."
+"""ChatGPT, generate an empathetic and kind response to the patient's problem""."
+"""ChatGPT response no longer the preferred response as it only has a greeting with no results."""
+"High confidently, sometimes wrong, but very fluffy fluff that sound great to people uneducated on the subject.
+

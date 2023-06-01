@@ -1,0 +1,2 @@
+No, use Google like you would use Google. ChatGPT is something very different. ChatGPT is designed to *sound plausible*, which means it will totally make up stuff out of whole cloth. I've encountered this frequently, I'll ask it ""how do I do X?"" And it will confidently give me code with APIs that don't exist, or in one case it gave me a walkthrough of a game that was basically fanfiction.
+

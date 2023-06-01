@@ -1,0 +1,5 @@
+It has no knowledge database or any fact checking mechanisms. It will spew out a load of bullshit with absolute confidence, just like politicians. And just like with politicians, people will just believe it"
+"Finally someone understand it. The bot is amazing, yes, but it's still a bot, and you can easily and clearly find its flaws if you playing around a little. If the whole Turing test thing is still credible, ChatGPT has not passed it yet."
+"Unless you use the bing-infused chat gpt that Microsoft is baking into Microsoft edge, then it shows you search results with chatgpt next to them."
+"Never had Google suggest subscribing to kindle unlimited to use with my non-amazon ebook reader. Or suggest a book that doesn't exist. Or give me a response that's the literally the opposite of what's in the documentation of an application (Stack Overflow does it sometimes but then it's clear it's not coming from an official source).
+

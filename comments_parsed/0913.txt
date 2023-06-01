@@ -1,0 +1,3 @@
+I'm not saying that. I'm saying that, logically, it makes no sense to say that it ""understands"" anything, because there is nothing that suggests that it does.
+It *literally doesn't do anything else* than string together words in a probabilistic way. It would be like training a neural net to draw faces and say that it ""understands what a face is"". No, it's analyzed a ton of faces, and it can draw new one's by pattern.
+

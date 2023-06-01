@@ -1,0 +1,2 @@
+It is already remarkably useful if you don't expect it to do things well that it wasn't designed to do. Once this kind of language model gets combined with actual search capability, information databases, explicit instruction on actual skills, it is going to be much much much more useful, even if it doesn't have is own intentionally.
+

@@ -1,0 +1,9 @@
+Strength: 16
+Dexterity: 12
+Constitution: 14
+Intelligence: 10
+Wisdom: 8
+Charisma: 10
+You have the ""Great Weapon Master"" feat, and are proficient in Athletics and Intimidation.
+Your armor class is 16 and you have hit points of (10 + Constitution modifier) = 24.
+

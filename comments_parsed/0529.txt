@@ -1,0 +1,2 @@
+It's possible to create more fine tuned versions of models, while at the moment that's not available for the underlying chatgpt 4 model (note that's not the same as gpt 4), they can be used to contain the information that's in all of the documents your employees need.
+

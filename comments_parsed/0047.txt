@@ -1,0 +1,6 @@
+Funny joke, but no, South Park didn't invent using ChatGPT"
+"Thats where the Instruct Davinci model comes in, which IMO is better than ChatGPT for actual human like conversations."
+Can you share some more thoughts / insights of your experiences with Instruct DaVinci vs ChatGPT?
+For now. This technology is moving at an incredibly rapid pace. In a few years running a chatGPT-level bot on your own computer likely won't be very hard.
+"Are you under the impression that language models are hard to run?
+

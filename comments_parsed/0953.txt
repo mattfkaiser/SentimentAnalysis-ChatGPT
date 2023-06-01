@@ -1,0 +1,2 @@
+As an example, I tried asking ChatGPT for the process flow of a 7nm FINFET, and while correct on a surface level, wasn't in-depth enough for a satisfactory answer. Asking it to elaborate on certain things loops it between, ""we do this because it works"", and ""it works, that's why we do this"".
+

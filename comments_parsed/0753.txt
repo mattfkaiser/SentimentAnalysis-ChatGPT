@@ -1,0 +1,3 @@
+At least, this is my experience and view on it based on current info."
+"I worried when I typed that, that I would get this sort of response. The shorter the problem, the more likely the LLM gets it correct. And newer models are indeed better at math, because we are focusing on trying to teach it them through RLHF and more training data.
+

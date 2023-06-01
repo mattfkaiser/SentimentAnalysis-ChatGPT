@@ -1,0 +1,3 @@
+1. ChatGPT answers with a LOT of flavour text. The physician response very often is basically the same, but abbreviated, with less ""Im sorry that.."" and with les may/may not text.
+2. The more complex the problem gets, the more generic the answer becomes and ChatGPT begins to overreport.
+

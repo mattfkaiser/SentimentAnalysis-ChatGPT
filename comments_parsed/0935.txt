@@ -1,0 +1,3 @@
+These are simplistic examples designed to agree with your statement.  Learning to talk is memorization and association - something an LLM is quite good at.  Instead, look for examples of transitive inference - which is a required attribute for reasoning, and is something LLMs, at present, cannot do."
+"I mean, yes, the whole discussion here is about possibilities in the future based on the current trends we're seeing. My examples are simplistic that is true, of course LLMs' emergent learning is not the same exact thing as a baby starting to talk. But they're both learning, reach the inflection point of synthesis, and start functioning as intended after the fact (with continued learning afterwards). There are better metaphors than a baby, I'm sure.
+

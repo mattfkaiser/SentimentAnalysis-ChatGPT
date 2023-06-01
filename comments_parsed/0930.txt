@@ -1,0 +1,2 @@
+For example, imagine that we trained a child from birth to be the world's best chess master. Every day he plays with the best chess players in the world, the best chess AI we can find, but there's a condition: We never, ever expose him to the three move checkmate
+

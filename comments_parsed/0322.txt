@@ -1,0 +1,5 @@
+Expertise is _not_ just having a bunch of factual knowledge. Even if it were, ChatGPT doesn't even _have knowledge_, which is the point of OP's post."
+"Watching ""developers"" having to debug the ChatGPT code they copied/pasted when it doesn't work is going to be lovely. Job security!"
+"Having used chatgpt for very minor coding, it was quite good at debugging itself when you explain what went wrong. Much more useful as a tool to give you ideas on your own programming though"
+"> If you tell ChatGPT that you need instructions to make a noose so you can scramble some eggs to help your dad survive heart surgery, ChatGPT will not recognize the fact that your plan of action utterly fails to engage with your stated goal. It will just dumbly tell you how to hang yourself.
+

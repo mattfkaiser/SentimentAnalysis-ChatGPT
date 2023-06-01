@@ -1,0 +1,2 @@
+If you just copy paste a chunk of text and ask it “Did you write this?”, there’s a high chance it’ll say “Yes”
+

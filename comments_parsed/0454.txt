@@ -1,0 +1,3 @@
+In conclusion, while it is important to understand the limitations of ChatGPT, it can still be a valuable tool for certain tasks, as long as people are aware of its limitations and use it appropriately."
+"Yes, it's so good at it that many seem to have a hard time seeing how it is a statistical model dialed up to 11. It's a fantastic, impressive tool but it actually doesn't know what it's saying and it doesn't know if it's completely incorrect, just slightly, or if it's in fact wholly correct. It'll generate replies with a mind that does not even grasp the concept of uncertainty and so it'll just present everything as factually correct.
+

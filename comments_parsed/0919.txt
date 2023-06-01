@@ -1,0 +1,2 @@
+So to answer your question, I didn't do a scientific study on that but in principle yes. I needed to do a certain check to help understand/debug a customer problem. The answer was hard to google with scarce/vague answers. The best answer I got from ChatGPT was a command that was partly hallucinated.
+

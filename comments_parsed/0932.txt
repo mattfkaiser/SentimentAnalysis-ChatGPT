@@ -1,0 +1,2 @@
+AlphaGo is fairly similar to such a scenario. It was trained to deal with high level strategies, but never got exposed to something so ""basic"" that no one would ever really try it in a high level game. Add that to the fact that it never learns until put through a new training regimen, and it's going to have an obvious deficiency. Similar to how our Chess prodigy would have a similar deficiency if you wiped his memory every time someone used the three move checkmate on him
+

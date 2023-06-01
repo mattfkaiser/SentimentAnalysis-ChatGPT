@@ -1,0 +1,2 @@
+But then I asked it what the best president of the US was, and it suggested FDR, Abraham Lincoln, George Washington -- and G. H. W. Bush.  That last one surprised me.  I looked around online and couldn't find a single survey or ranking that put GHW higher than 17/46 (see Wikipedia's page on the matter for a list of a dozen or so rankings), and when I asked ChatGPT why it put him in the ~top 4, it just gave vague answers about how its data was sourced from a variety of areas.  I pressed the question, and it just wouldn't give me a straight answer.
+

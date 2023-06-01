@@ -1,0 +1,3 @@
+You claim that ChatGPT when asked to do a film review of Star Wars episode IV, will look up thousands of similar reviews and mash them together. This is blatantly false. ChatGPT, I’m
+Its current state, is not connected to any database. Asking ChatGPT something is not equivalent to doing a Google search, where tons of files are parsed and returned based on a search query.
+

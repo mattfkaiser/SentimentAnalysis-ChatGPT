@@ -1,0 +1,2 @@
+If you want ChatGPT to write something for you, it should be something that fits a template or a form letter, or using only information *you* feed it, so that you can verify it's all true.
+

@@ -1,0 +1,2 @@
+On a whim I asked it how it would build out a back end using my specifications. To my shock it started feeding me actual code that wasn't 100% perfect but well within my capabilities to spot the mistakes and fix them. A few months in I am WAAAAAAY further along that I had ever imagined 100% solo. It's also written a ton of the typical startup business plan/model, elevator pitch, mission statements etc. I'm hoping to actually release the beta by the end of March.
+

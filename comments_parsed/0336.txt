@@ -1,0 +1,2 @@
+It isn't a search engine; it's a language generation tool. All it is trying to do is predict what language would come next in a given context. And it isn't just parroting or cribbing existing content; it's generating new language, based on the sum total of what it's been exposed to, which is essentially the same thing that humans do when they are ""creative"". It's basically a much better version of the suggested words above the keyboard on an iPhone.
+

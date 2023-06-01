@@ -1,0 +1,4 @@
+We can't algorithmically make a machine seem intelligent. Current AIs are all based on being able to mimic something. In the case of StableDiffusion, it mimics visual input. In the case of ChatGPT, it mimics human speech - and thus, human behavioural patterns."
+"Yeah, AI is in its nascent form. Perhaps in latter iterations of Chat GPT (or some competitor), there'll be attempts made to train AI to discern good and bad information more systemically."
+"To your point, Sam Altman is a multi millionaire and outspoken doomsday pepper who is hoarding ammo, food, and gold in his bunker
+

@@ -1,0 +1,2 @@
+That last point is critical. It doesn't reason about what it may or may not know, nor does it enquire. It isn't proactive and it doesn't use feedback within an answer. It can't create it's own questions, even within the context of the question posed to it. It doesn't reason.
+

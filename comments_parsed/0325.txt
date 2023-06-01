@@ -1,0 +1,2 @@
+ChatGPT is very good as an aid to creativity, where making stuff up is actually the goal. For writing little programs and functions where the stuff it says can be immediately validated. For a summary explanation of something when the veracity doesn't actually matter much or can be easily checked against other sources. But as a ""knowledge engine"", no, it's a bad idea to use it that way.
+

@@ -1,0 +1,5 @@
+But it stands to reason that IF a panel of licensed healthcare professionals were judging the quality of responses AND ChatGPT was filling it’s answers with “fluff” AND the panel preferred the quality of ChatGPT’s responses, then the panel must prefer fluffier responses."
+"I asked a question on Askdocs once, the answer was polite enough, but just didn't really answer the question. I suspect that a lot of docs on that forum, not having a sense of whether the person asking the question is scientifically literate and maybe worried about causing problems for other doctors, lean toward answers that are simplistic. ChatGPT might not have this kind of hangup."
+"Yeah that's likely a part of it too. A doctor might think ""to give you a real answer, I'd have to examine you and ask you a bunch of questions to rule out rare-but-possible things, so I'm just going to play it safe and be noncommittal"" whereas ChatGPT might in effect say ""Here's an answer that will be accurate and helpful for 95% of people asking this question"" even if it might be wrong for the remaining 5%."
+"So Ive read the example texts provided and Im noticing two things:
+

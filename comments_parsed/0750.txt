@@ -1,0 +1,3 @@
+But the second I ask it to expand, correct, or focus on something, it drops way down."
+"The amount of false positive and false negatives are staggerring, though. Just today, I fed a chatpgt 4 text with the prompt ""write with the style and tone of Edgar Allan poe"" into a few AI checkers, and they were all convinced it was human. The few that were on the fence were convinced once I told chatgpt to throw in a few misplaced commas and slight misspellings of some multisyllabic words.
+

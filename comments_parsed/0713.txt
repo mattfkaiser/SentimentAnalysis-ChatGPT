@@ -1,0 +1,4 @@
+\- When asking it to retell the book R.U.R., it changed the story and created [a happy end](https://www.instagram.com/p/CsEFWLvoLRs/) with humans and robots cooperating"
+"I've noticed the same thing across many prompts. The most recent was a story in which OpenAI tests ChatGPTs ability to take care of a cat, and it passed with flying colors, learning about how cat ownership has to do with deeply empathizing with the needs of the cat and stuff."
+"The full prompt was ""Please in 10 parts describe a world where the power structures are reversed. For each part, add a short visual image description to accompany the text."" I used Midjourney to generate the images based on the prompts ChatGPT provided. I added the same stylistic words to every prompt to get 1970s-oriented concept art, as well as words to get a more diverse crowd than the generator's default.
+

@@ -1,0 +1,3 @@
+You will see a list of autosaved versions of your document. You can open any of these versions to see the changes made at that point.
+If you haven't been using OneDrive or SharePoint, Word does not automatically save previous versions of your document. However, it does automatically save a copy of your document every few minutes in case of a crash. This is called an AutoRecover file.
+
