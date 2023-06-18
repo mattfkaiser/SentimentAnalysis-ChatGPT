@@ -3,8 +3,8 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="SLKaJnEY-edqw82COgS6QA",
-    client_secret="qTiNGh980kZhuyIrV4boyL_DE3I_ww",
+    client_id="xxxx",
+    client_secret="xxxx",
     user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
 
