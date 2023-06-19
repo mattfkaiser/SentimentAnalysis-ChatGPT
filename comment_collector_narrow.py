@@ -3,8 +3,8 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="xxxx",
-    client_secret="xxxx",
+    client_id="SLKaJnEY-edqw82COgS6QA",
+    client_secret="qTiNGh980kZhuyIrV4boyL_DE3I_ww",
     user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
 
@@ -32,7 +32,7 @@ def process_comment(comment):
                 author_name = 'Deleted' if comment.author is None else comment.author.name
 
                 # Write the comment data to the CSV file
-                with open('comments_narrow_11_1_22_present.csv', mode='a', encoding='utf-8', newline='') as csvfile:
+                with open('comments_narrow_11_1_22_present_v2.csv', mode='a', encoding='utf-8', newline='') as csvfile:
                     csv_writer = csv.writer(csvfile)
                     csv_writer.writerow(
                         [comment.id, comment.score, author_name, dt.datetime.fromtimestamp(comment.created_utc),
@@ -67,7 +67,7 @@ def process_comments(comments):
 
 
 # Create the CSV file and write the header row
-with open('comments_narrow_11_1_22_present.csv', mode='w', encoding='utf-8', newline='') as csvfile:
+with open('comments_narrow_11_1_22_present_v2.csv', mode='w', encoding='utf-8', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     # write the header row
     csv_writer.writerow(['Comment ID', 'Score', 'Author', 'Created', 'Text', 'Subreddit'])  # Add 'Subreddit'
@@ -94,7 +94,7 @@ for sub_name in subreddit_list:
             break  # Break when we've reached the max posts for this subreddit
 
 # Write the total comments and comments per subreddit to the CSV file
-with open('comments_narrow_11_1_22_present.csv', mode='a', encoding='utf-8', newline='') as csvfile:
+with open('comments_narrow_11_1_22_present_v2.csv', mode='a', encoding='utf-8', newline='') as csvfile:
     total_comments
     comments_per_subreddit
     csv_writer = csv.writer(csvfile)
