@@ -3,7 +3,7 @@ import datetime as dt
 import csv
 
 reddit = praw.Reddit(
-    client_id="xxxx",
+    client_id="xxx",
     client_secret="xxxx",
     user_agent="windows:GPTCSResearch:1.0 (by /u/GPTCSResearch)",
 )
@@ -30,7 +30,7 @@ def process_comment(comment):
                 author_name = 'Deleted' if comment.author is None else comment.author.name
 
                 # Write the comment data to the CSV file
-                with open('comments.csv', mode='a', encoding='utf-8', newline='') as csvfile:
+                with open('comments_6_19_23.csv', mode='a', encoding='utf-8', newline='') as csvfile:
                     csv_writer = csv.writer(csvfile)
                     csv_writer.writerow(
                         [comment.id, comment.score, author_name, dt.datetime.fromtimestamp(comment.created_utc),
@@ -49,7 +49,7 @@ def process_comments(comments):
             process_comments(comment.replies)
 
 
-with open('comments.csv', mode='w', encoding='utf-8', newline='') as csvfile:
+with open('comments_6_19_23.csv', mode='w', encoding='utf-8', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
     # write the header row
     csv_writer.writerow(['Comment ID', 'Score', 'Author', 'Created', 'Text'])
