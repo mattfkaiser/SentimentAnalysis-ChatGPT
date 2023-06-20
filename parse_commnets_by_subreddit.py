@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Load the excel data
-data = pd.read_excel('comments.xlsx', engine='openpyxl')
+data = pd.read_excel('C:\Users\t0044sk\Documents\GitHub\SentimentAnalysis-ChatGPT\comments_narrow_11_1_22_present.csv', engine='openpyxl')
 
 # Loop over the unique subreddits in the data
 for subreddit in data['subreddit'].unique():
