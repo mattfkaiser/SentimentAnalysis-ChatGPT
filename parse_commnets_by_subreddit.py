@@ -4,6 +4,9 @@ import pandas as pd
 # Load the data
 data = pd.read_csv(r'C:\Users\t0044sk\Documents\GitHub\SentimentAnalysis-ChatGPT\comments_narrow_11_1_22_present.csv')
 
+# Remove rows with 'nan' in 'Subreddit' column
+data = data[data['Subreddit'].notna()]
+
 # Print the number of unique subreddits
 print(f'Number of unique subreddits: {len(data["Subreddit"].unique())}')
 
