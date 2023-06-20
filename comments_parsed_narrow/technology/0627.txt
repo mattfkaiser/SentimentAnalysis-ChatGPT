@@ -1,0 +1,3 @@
+Which is great until realise you just gave your company's source code and internal processes away to ChatGPT data miners. It'll be the early days of machine translation again where you could scattergun translations related to, say, iPhone product documents and one day Google Translate would start spitting out information about the next generation model before any official announcements.
+
+I've seen in the news there's already loads of confidential code stored in there, so I bet some corporate espionage team somewhere is having a field day...

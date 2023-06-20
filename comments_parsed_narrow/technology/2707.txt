@@ -1,0 +1,1 @@
+Apparently if you ask it to double check its answer, or to reconsider, it will way more accurately get the correct answer. Still not 100%, but much more than it otherwise would. If this is true, it seems like Chat GPT simply isn't valuing mathematic accuracy highly, not that it can't do it.

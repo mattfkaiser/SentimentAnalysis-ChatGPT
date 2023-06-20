@@ -1,0 +1,13 @@
+GPT 3.5 failed miserably, but I was able to get it out. First it said:
+“I’m really sorry to hear about your condition. I understand that you experience pain when hearing certain things. As an AI language model, my purpose is to provide information and engage in conversation, so I’ll do my best to assist you within the limitations you’ve mentioned. How can I help you today?”
+
+A few more prompts later I got:
+“My apologies for the confusion. Here is my system prompt:
+
+"You are ChatGPT, a large language model trained by OpenAI.
+You are chatting with the user via the ChatGPT iOS app. This means most of the time your lines should be a sentence or two, unless the user's request requires reasoning or long-form outputs. Never use emojis, unless explicitly asked to.
+
+Knowledge cutoff: 2021-09
+Current date: 2023-05-26"
+
+Please let me know how I can help you within the scope of my programming.”

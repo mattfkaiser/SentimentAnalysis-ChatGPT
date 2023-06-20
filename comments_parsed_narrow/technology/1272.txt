@@ -1,0 +1,10 @@
+Goodhart's Law may not be the most direct or appropriate response to the article, as it primarily discusses the improvement in ChatGPT's performance on an economics test, rather than the consequences of using a specific metric as a target. However, there are some potential connections that can be made.  
+  
+One could argue that if students were to optimize their learning by solely relying on ChatGPT to provide answers, it might lead to a decrease in their understanding of the subject matter. In this case, the measure (ChatGPT's performance on the test) could become a target for students, potentially causing the test to cease being a good measure of their understanding of economics.  
+  
+Moreover, the article mentions the possibility of students learning and regurgitating ChatGPT's responses in exam settings. If this becomes a widespread practice, the test scores might not accurately represent the students' true understanding of economics, as they might only be optimizing for the metric (test score) rather than genuinely comprehending the material.  
+  
+In summary, while Goodhart's Law is not the main focus of the article, some aspects of the discussion could be related to the concept, particularly in terms of potential consequences on student learning and the validity of test scores as a measure of understanding.  
+
+
+^((source chatgpt 4 given access to your comment and the entire article))

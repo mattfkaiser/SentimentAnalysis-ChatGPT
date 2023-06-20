@@ -1,0 +1,5 @@
+Minor problem with your statement: the study didn’t evaluate anything related to dates. They basically said, “you are a financial analyst. Given the following headline, tell us if it would positively impact the stock price or negatively.”
+
+It’s only evaluating the sentimental value of the statement.
+
+These ChatGPT headlines are written by goons that don’t understand it’s just a language model. It’s not actually investing in stocks and shit.

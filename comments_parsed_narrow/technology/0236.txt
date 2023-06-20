@@ -1,0 +1,5 @@
+Also [OpenAI themselves say](https://openai.com/research/gpt-4):
+
+>GPT-4 generally lacks knowledge of events that have occurred after the vast majority of its data cuts off (September 2021)
+
+So the same problem would largely be true for chatGPT-4.

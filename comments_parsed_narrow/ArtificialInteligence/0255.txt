@@ -1,0 +1,1 @@
+How would chat GPT know the specifics of your properties?  Were you able to use some kind of local version and train it?

@@ -1,0 +1,7 @@
+... ish.
+
+It's playing a character. ChatGPT is playing the character of a helpful robo-butler.
+
+It's truthiness seems to vary somewhat based on the character it plays. 
+
+I saw a paper looking at whether there's ways to tell if these models know when they're probably-lying. It seems like there's some very promising work.

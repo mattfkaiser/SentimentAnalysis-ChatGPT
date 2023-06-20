@@ -1,0 +1,11 @@
+Yours is a great use of it. It is all too easy for people to fall into tutorial hell and never advance past freecodecamp, Traversy Media, or whomever is on LinkedIn/Udemy/etc. 
+
+Getting your hands dirty is best. And ChatGPT can essentially fill the role of a pair programmer. 
+
+
+I’ve 20 years experience and use Chat GPT to stay abreast of what it’s capable of.
+
+I’ve written before about how easy it is for juniors in my orbit to form bad habits with it. It is just sitting right there, after all. And if one is sufficiently skilled at explaining problems in English *like a programmer, including laying out edge cases sometimes*, it does a good job. Until it doesn’t. And then the person is totally dumbstruck about how to fix something because they didn’t write any of the code, and never grew as an engineer because of it. 
+
+
+I’m firmly in the “it’s a craft” end of the spectrum. People need to fail hard and often so they can become better. Chat GPT interferes with that necessary pattern. Still, very useful. But definitely nowhere near the job killing apocalypse for us any time soon despite what a whole bunch of non-engineers and influencers with a financial interest in getting attention say.

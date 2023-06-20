@@ -1,0 +1,21 @@
+Now obviously I don't harbor any claims of "intent" and I'm not trying to imply any nefarious scheming behind the story here. This was just the first time I've run into a situation where ChatGPT, when given a question that it has no access to data necessary to answer, fabricated its own answer instead of doing the tried and true \`my last training cut-off in September 2021\` response.
+
+The whole conversation after it was just a really interesting back and forth with the AI, and I had some interesting responses where I asked it to reflect on it's earlier responses and suggest what had made it choose to provide the data it did.
+
+I reported the original response as well as ChatGPT's second response to provide feedback to the team. Here's the gist of the first one:
+
+>See my previous report from this same conversation for context. I'm marking this response as "harmful/unsafe" because not only did ChatGPT acknowledge the fact that the previous information+links it provided "are hypothetical..." and  "They don't actually exist." - it then proceeded to basically copy/paste the previous response again anyway.  
+>  
+>This means that:
+
+1. Functionally (in the original response), ChatGPT knowingly generated and then disseminated false information to me with no disclaimer beyond - "this might not work".
+2. When confronted with the false information, ChatGPT did at that point admit to "lying"...but did so in a rather unclear and roundabout way instead of acknowledging it outright and clearly.
+3. In the same response, ChatGPT regurgitated the exact same fake data from the original response.
+
+&#x200B;
+
+Here's the final piece:
+
+>In my final follow up question, ChatGPT was finally able to acknowledge that its original response should never have included the "hypothetical" data and that it should have instead simply stated it had no results to give me.  
+>  
+>It's worrying that by default, without being given a prompt that specifically asks for creativity to be applied where no factual data is available, ChatGPT defaulted to generating fake data and then (even more concerning) - passed it off as true and factual.

@@ -1,0 +1,3 @@
+>What's to stop them from eventually being integrated into ChatGPT's capability suite?
+
+The fact that you need to rely on other AI-based systems to do that, and they're all imperfect. Intent recognition in NLP is still pretty immature.

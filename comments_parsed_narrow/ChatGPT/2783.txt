@@ -1,0 +1,1 @@
+Clearly, ChatGPT is not using a random number method to calculate then. Apparently, it must be using its dataset to predict what the user may want. In this case, it is wrong, but apparently within its dataset whenever there was talk of a dice roll, 4 came up most of the time.

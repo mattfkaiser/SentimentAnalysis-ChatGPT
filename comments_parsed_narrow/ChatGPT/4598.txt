@@ -1,0 +1,7 @@
+I'm a software developer, and am working on a website for a friend who does handyman work. I'm terrible at writing content, so I've been using ChatGPT to create some of that content for me.
+
+For example, in the sections about services that he offers, I might prompt ChatGPT with "Write an elevator pitch for someone who paints home interiors", and get this response:
+
+> Are you tired of living in a space that doesn't reflect your personality or style? Let me transform your home into a place you'll love to come back to. As an experienced interior painter, I specialize in creating customized color schemes and finishes that bring out the best in your home. Whether you're looking for a modern, minimalist look or a cozy, traditional feel, I have the expertise and attention to detail to make your vision a reality. With my affordable rates and flexible scheduling, updating your home's interior has never been easier. Contact me today to discuss your project and get a quote!
+
+I'll adjust it to sound less like an infomercial. I know it's a small thing, but I really struggle with writing content. I was able to complete that for about a dozen services in about half an hour.

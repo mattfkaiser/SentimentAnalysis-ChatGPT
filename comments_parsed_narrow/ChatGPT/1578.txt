@@ -1,0 +1,1 @@
+I’ve had chatGPT generate word docs and pdfs. How do you open them? What are the best tools, prompts or other frameworks to use?

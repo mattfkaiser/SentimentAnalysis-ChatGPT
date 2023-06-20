@@ -1,0 +1,3 @@
+Considering the huge context that these models have you'd have to have essentially the exact same conversation for a long while to get to the same prompt. Otherwise you have slightly different context which will lead to different hallucinations. 
+
+Don't believe me infact try it on ChatGPT. Make it hallucinate, open another chat ask it the same question but paraphrased and it'll hallucinate something else. There's a long technical reason for this which I'll skip here for brevity.

@@ -1,0 +1,1 @@
+The API can be interacted with differently based on the inputs which each of these do interfaces presumably do differently. ChatGPT is not exactly the same as GPT-4's API. It uses it, yes, but it interacts differently. For example the API will do certain things that ChatGPT will not.

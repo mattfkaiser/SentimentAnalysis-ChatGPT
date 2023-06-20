@@ -1,0 +1,11 @@
+You can use their API for that. Tons of people are doing similar stuff.
+
+The challenge is basically that ChatGPT can't digest the "whole" thing. So what a typical solution looks like is this:
+
+1. User enters query
+2. Search the website for some of the most relevant results (or look them up in your own database)
+3. Feed those results to ChatGPT followed by the user's query, and have it output the results
+
+If you want to try it out, OpenAI has a playground where you can see what's possible with their API.
+
+https://platform.openai.com/playground

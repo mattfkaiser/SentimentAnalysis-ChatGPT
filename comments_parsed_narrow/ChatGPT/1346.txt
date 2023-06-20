@@ -1,0 +1,3 @@
+Sure, and I'm not denying that it's cool ChatGPT can do stuff like this (even though, if we're being precise, it just luckily hallucinated a correct answer - I did get many incorrect results in the same way from it...).
+
+But these statements here about how this example is proof that ChatGPT is superior to search engines is incorrect and demonstrates how people misunderstand what LLMs are doing.

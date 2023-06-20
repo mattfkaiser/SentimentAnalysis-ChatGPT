@@ -1,0 +1,3 @@
+Google engineers wrote the Transformer architecture used by ChatGPT in a paper back in 2017.  Hence why they already have the tech in-house, they just haven't prioritized it for public use (yet).
+
+Here's a link to the paper: https://arxiv.org/pdf/1706.03762.pdf

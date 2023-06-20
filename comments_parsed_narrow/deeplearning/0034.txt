@@ -1,0 +1,1 @@
+Can you get the perplexity according to chatgpt? If so, you'd have to know the prompt wouldn't you?

@@ -1,0 +1,6 @@
+they both remember nothing that is why I wrote "forgets" in Quotes.   
+
+
+Every time you send a prompt and ChatGPT reads the whole conversation from start. The cutoff for 3 is at **4096 tokens**, GPT-4 has a limit of **8192 tokens.** After that it won't see what you wrote at the start anymore. 
+
+The system prompt makes sure that the commands are always included and boosted. That is why important context should go in there.

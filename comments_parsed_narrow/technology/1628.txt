@@ -1,0 +1,5 @@
+When devs/programmers joke that they just web search whatever they don't know, _they're not joking._
+
+This is less of a story about ChatGPT and more of an example of how much information is easily and quickly crowdsourced through properly formatted web searches. 
+
+DNRTFA, but I doubt CGPT was trained on volumes nd volumes of Comp Sci education.

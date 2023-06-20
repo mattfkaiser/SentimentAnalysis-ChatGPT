@@ -1,0 +1,2 @@
+You probably don’t want to use fine-tuning.  A retrieval (search) augmented generation pattern might work better.  
+See: https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087

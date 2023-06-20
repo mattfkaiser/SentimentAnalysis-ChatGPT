@@ -1,0 +1,1 @@
+ChatGPT has token limitations that make it difficult to complete too large of code and systems, I completed my own requirements by dividing the functions and copy the function asking for help piece by piece (although the code may be a bit messy), you can see my full conversation with GPT4

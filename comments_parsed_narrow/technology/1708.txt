@@ -1,0 +1,1 @@
+Ironically chat gpt api is extremely good for fine-tuning smaller scale models

@@ -1,0 +1,1 @@
+I was writing a crude shell script last week to cobble together outputs of multiple linux tools and format the results into a table. ChatGPT generated a good chunk of that code, including a lot of regex that I hate having to do myself.

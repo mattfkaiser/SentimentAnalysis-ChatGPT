@@ -1,0 +1,1 @@
+Hey from Personified -> you can try out [Personified](https://www.personified.me) - we use index your data and use semantic search with the help of GPT3 to relevant support + provide answers relating to docs <-> you’re right - it’s not quite Chat GPT and there are differences, but it behaves in a manner similar to what people are expecting - once their data is in :)

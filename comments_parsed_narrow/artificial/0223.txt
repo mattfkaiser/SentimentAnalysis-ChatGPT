@@ -1,0 +1,23 @@
+Hey fellow builders!
+
+I recently got my dev access for ChatGPT plugins and I just wanted to share my process to make this little PokéGPT plugin (do not share with the Team Rocket)
+
+First things first, ChatGPT plugins are no more than a way to interact with an external API so the structure should be:
+
+**\[your API\] <——> \[OpenAI\]**
+
+To be short, ChatGPT will now when it’s relevant to call your API and take care of both sending the request payload in a suited shape and formatting the response with the context you provided in the question.
+
+So in my case, I have an Express server where I build some endpoints to get Pokémon abilities, Sprites, and some stats. I used the PokéAPI to retrieve that data.
+
+In addition, you have to provide a manifest to ChatGPT that way OpenAI can know how to use your API and what things ChatGPT can ask of your API. It’s a static file so I just set up an endpoint to serve it according to the ChatGPT request for this manifest. The manifest also contains your plugin logo and info like your API URL, description, available endpoints, and the parameters needed…
+
+**Finally, the entire process looks like this:**
+
+1- Start my Express server in localhost  
+2- I ask something about Blastoise in ChatGPT  
+3- ChatGPT evaluate my question and trigger the use of my API (sometimes it fails)  
+4- ChatGPT sends a request to my API with the proper payload like GET my-api/get-sprites/:blastoise (it can also be a POST with a bigger payload if needed)  
+5- ChatGPT formats the JSON response from my API in a way that solves my question
+
+That’s it!Feel free to ask anything :)

@@ -1,0 +1,3 @@
+People are giving some dangerous advice here: Unless you have explicit permission, you should not paste any proprietary information (including your company's code) into ChatGPT. Trying to get around that by copying code to your personal laptop could easily get you fired, or even land you in legal trouble if it's something particularly sensitive.
+
+What you can do is ask ChatGPT for help in general. Basically, if it's ok to Google, it's almost certainly ok to ask ChatGPT. If someone complains you can just point out that you are using it as a more effective search tool and there's no company data being shared.

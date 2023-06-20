@@ -1,0 +1,3 @@
+ChatGPT's data storage comes with inherent risks. This data can be accessed by unauthorized parties, leading to data breaches and other security threats and leakage of sensitive data including medical data. This data in the wrong hands would be disastrous. It's mind-boggling to see the sheer lack of awareness, where people are opening up their entire life and data including corporate data to ChatGPT and hence covered further details here:
+
+https://youtu.be/DENq2U004fw

@@ -1,0 +1,5 @@
+That is not remotely comparable. The two hemispheres of your brain are both 'part' of your brain. ChatGPT is clearly delegating these queries to Wolfram Alpha directly. It even says it bottom that it is trying to send your query to wolfram verbatim. 
+
+This does not show that the model itself can do math, only that it can ask Wolfram Alpha for info and computations and then return the results. Just as I can type [square root of 500 + 238/0.6](https://www.wolframalpha.com/input?i=square+root+of+%28500+%2B+238%2F0.6%29) into wolfram and give you the exact same answer, because that's what wolfram shows. 
+
+There is a distinction between being able to perform mathematics and being able to ask someone to perform mathematics for you. It is still impressive, but it is not ChatGPT doing math, at least until wolfram is embedded within the core model somehow, in my opinion.

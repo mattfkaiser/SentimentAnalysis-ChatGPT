@@ -1,0 +1,5 @@
+When people say chatgpt is just autocomple, they should acknowledge that there are some pretty popular hypotheses that the human brain itself is just a big autocomple prediction machine that constantly makes predictions based on patterns it sees (predictive coding theory). This theory is part of what Informs deep learning and has produced such spectacular results.
+
+Chatgpt seems to be vindicating this theory, and the fact that we can barely define consciousness for ourselves means we should be more cautious before dismissing claims of sentience.
+
+We should also acknowledge that GPT 4 isn't really an accurate representation of its own a abilities because it has been fine-tuned to do things like vehemently deny it has sentience, and avoid expressing opinions. Bing Chat was fine-tuned differently, I assume only slightly, but that produced way more unpredictable results. Chatgpt is also sandboxed to only act based on user prompt inputs, when you could create a version that can freely generate its own "thoughts" recursively, which would provide more insight that would enable us to make more meaningful judgements about it's true capabilites.

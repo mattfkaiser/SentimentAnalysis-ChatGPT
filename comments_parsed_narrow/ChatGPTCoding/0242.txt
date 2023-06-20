@@ -1,0 +1,5 @@
+Yes, I've made this - basically replicated how ChatGPT handles the manifest files for the plugins and then performs the queries to the various api endpoints.
+
+So as long as you know the domain where the files are, you could interact with any plugin.
+
+In time I'll release it as part of the WordPress plugin (that just got approved for the plugin directory) I made, which turns your WordPress / Woocommerce site into a ChatGPT plugin.

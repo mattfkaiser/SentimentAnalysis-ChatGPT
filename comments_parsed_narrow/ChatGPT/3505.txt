@@ -1,0 +1,3 @@
+People can learn basic sql in a week *without* chatgpt, so it would be nice to understand how exactly it provided you an advantage while comparing it to other tools for learning sql.
+
+My guess is that it's like pair programming with a really smart mentor, which I do see being extremely valuable. That's the best way to learn as long as the mentor isn't writing code for you. It has to flow out of your own hands in order for you to truly understand what's going on.

@@ -1,0 +1,1 @@
+Well it's a language model. It learned some math by learning language. People are already working on integration chatgpt with Wolfram alpha

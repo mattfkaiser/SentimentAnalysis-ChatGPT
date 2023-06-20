@@ -1,0 +1,1 @@
+ChatGPT 4 is built on the GPT-4 LLM. It’s literally the same minus the conversational flair it adds to responses to seem more human like.

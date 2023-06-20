@@ -1,0 +1,1 @@
+This is more a problem with with coding interviews than how great ChatGPT is. All coding interviews are is a series of leetcode questions

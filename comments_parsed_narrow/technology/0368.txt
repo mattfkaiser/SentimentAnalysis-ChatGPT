@@ -1,0 +1,7 @@
+>ChatGPT et al are just another generation of tools that if applied properly will benefit us all overall.
+
+I went through the same stages in school trying to adjust to the internet, and I see where you're coming from. The problem is that ChatGPT will confidently output completely wrong but plausible-sounding information even when it has access to correct information.
+
+ChatGPT is not a research tool, it is a writing tool. When ChatGPT (and other language models like it) write a sentence, they are predicting the next word based on the previous words and in the context of the original prompt. This is basically an advanced form of the word prediction systems in text messaging apps, and an extension of grammar correction software. It's been dubbed "spicy autocorrect" by Leo Laporte.
+
+When ChatGPT produces an output, it needs to be understood as basically auto-generated filler text that follows the rules of grammar and human speech patterns. The information can be straight-up lies as long as the order of words sounds like something a human would write, because that's all the model has been trained to do - imitate human writing.

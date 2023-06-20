@@ -1,0 +1,3 @@
+> ChatGPT would crush an MIT calculus exam, doesn’t mean calculus is easy
+
+... No, it wouldn't. Have you ever even used a Large Language Model before? They absolutely suck at math, because they're *language* models. They're essentially incredibly complex matrixes computing text prediction, not math.

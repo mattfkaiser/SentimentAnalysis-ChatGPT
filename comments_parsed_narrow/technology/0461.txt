@@ -1,0 +1,1 @@
+ChatGPT was trained on reddit.  Reddit is changing their API, so that people using it to train AI need to starting paying.

@@ -1,0 +1,1 @@
+Hook up chatgpt with notion and save recepies there. I also use ocr with chatgpt and notion to save recepies from pictures

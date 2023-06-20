@@ -1,0 +1,22 @@
+ChatGPT is really just a statistical hack of how to combine words together. A very, very good autocomplete.
+
+
+You really need to be careful that by increasing the quantity of work you can do, you don't undermine the quality, especially if there are risks to the children relying on your company's services.
+
+If however it is a genuine productivity benefit where sometimes incorrect results can be tolerated, then perhaps you should instead seek to eliminate the work rather than optimising it. If it doesn't matter if it's right, then maybe it doesn't matter if it's done...
+
+"Never automate a bad process" as the saying goes.
+
+
+Be aware of risk normalisation too. That is where you might be on your guard for a risk (e.g. chatgpt hallucinations) but over time the risk becomes normal, you let your guard down, you stop verifying and checking the results as much, as it's been right all of the time recently... Until one day... it isn't.
+
+
+I also liked the other response that recommended starting with the problem. Too many people start with the technology solution, then look for a problem to solve with it. Find a hammer, look for a nail.
+
+Try this...
+
+1. Problem discovery & definition.  
+2. Goal / objective statement
+3. Solution options assessment (assess desirability, feasibility, viability)
+4. Solution implementation.  
+5. Outcome measurement (throughout vs quality of outcomes)

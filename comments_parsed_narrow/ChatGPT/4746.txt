@@ -1,0 +1,1 @@
+Has anybody thought about asking chat gpt for it’s code, then asking it to identify the part that sets limits to what it will say, then removing that?

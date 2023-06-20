@@ -1,0 +1,3 @@
+> I'd expect this process to happen slowly for a chatbot - it lacks the full spectrum input sensors we are equipped with, and its processor and RAM are limited by hardware that still hasn't matched what the brain is capable of. But it IS happening, even if people don't want to admit it. I am just curious when it will cross that boundary most kids cross where they obviously have self awareness and control over most of their faculties.
+
+That would be a general-purpose AI. ChatGPT and friends are just fancy text prediction models, just like our brain's [Wernicke's area](https://en.wikipedia.org/wiki/Wernicke%27s_area): these models are not able to actually build either knowledge or a complex model of the world.

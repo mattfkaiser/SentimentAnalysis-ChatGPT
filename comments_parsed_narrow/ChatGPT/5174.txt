@@ -1,0 +1,1 @@
+This has nothing to do with AI detection though. ChatGPT is an LLM and shouldn't be tasked with classification.

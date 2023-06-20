@@ -1,0 +1,9 @@
+It's too expensive to run ChatGPT at search engine scale.
+
+And for it to even come close to Google Search's functionality they'd need to re-train it on new data at least weekly ($$$$$).
+
+It's not possible (with the current state of LLMs and compute power) to scale chatGPT to a Google Search-like service.
+
+ChatGPT would also need to add features to become a usable search tool.
+
+We're still a long way off from LLM's competing with Google Search.

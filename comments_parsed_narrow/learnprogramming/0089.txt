@@ -1,0 +1,15 @@
+What's being called AI right now is like those paddles on wheels being called Hoverboards, like the antigravity skateboards from Back to the Future.  
+
+That they're calling it that doesn't mean that's what it is.
+
+Like, there was the Go playing bot that was so good one of the best players who has lived quit the game after being beaten.  That bot can be beaten [by a moron who barely understands the rules](https://www.vice.com/en/article/v7v5xb/a-human-amateur-beat-a-top-go-playing-ai-using-a-simple-trick) as long as the moron doesn't play to win Go, but plays to beat the Bot.  Because the Bot doesn't know what Go is, what the goal of the game is, what the game even is, it just knows that if it sees these patterns, do these patterns in response without any comprehension of what any of that means.
+
+That's ChatGPT - stringing together sentences because they fit the pattern without having the first clue what any of it actually means.  A 2 year old has a better grasp of the meaning than the "AI" bots.
+
+Because they aren't AI, they're Autopredict on steroids.  Same thing with the artbots - they don't *know* what any of the shit is, which is why you got the laughable errors of too many fingers or 180 individual abdominal muscles and so on.  Sure, those are getting rarer, but it still doesn't know what the hell you mean when you say "Make me a sunset, but more peaceful" other than to aggregate what it knows Sunset and Peaceful to mean.  
+
+There's the Chinese Room philosophical experiment - I do think that it puts too much "special" on humans, and I do think that at some point we will have Bots that actually do understand the same way a 2 year old understands things.
+
+We're also decades away from that, if not centuries.  Before we can make it, we first gotta figure out how the hell a 2 year old's brain works in the first place.  We don't even know how a rat's brain works.
+
+... anyway, yeah, if you want to have a conversation about AI, you first really need to have you and your conversation partner(s) agree to a working definition of what AI even means.  I don't think it'll meet the Intelligence part until we get to intentional behavior - and we've seen no signs of that.

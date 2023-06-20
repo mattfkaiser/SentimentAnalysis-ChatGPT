@@ -1,0 +1,15 @@
+Likely
+
+The possible implementation path is just using it, lol, it is already capable of doing that.
+
+At this moment, your two bets are:
+
+- OpenAI watermarks their generated text and you have models which cam detect this watermark
+- a bigger, better model comes out which can detect synthetic text (although then THAT model becomes the problem)
+
+You could also counter misinformation with a fact checking model, but there are two big problems:
+
+- we are nowhere near developing useful AI that can reason
+- the truth is subjective and full of dogmas, ex. look at how most countries implement dogmas regarding the holocaust - your model would, without a severe transformation of society itself, be biased and capable of spreading propaganda in a general sense, and misinformation as a subset of propaganda
+
+Therefore I believe your question should be: when can we expect to have models that only share the "truth of the victor". And that's already happening with ChatGPT now, as it seems to be spreading western liberal views.

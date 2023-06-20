@@ -1,0 +1,7 @@
+>I want to learn ___ within 6 months. You'll design a course divided into 6 parts (one for each month) that will cover every aspect of the subject. The course should be progressive such as that the first part is easier than the second and so forth. The list should be exhaustive and broken down into as many topics and subtopics as necessary. When I prompt you for the first month, you'll provide me with the syllabus for that month only. Then I'll prompt you again for each remaining month. OK? Please ask any clarifying questions if necessary.
+
+It'll ask something and provide the list after my response. I then just keep asking for the stuff for following month. Like:
+
+>Now please provide the outline for the second month.
+
+This is for ChatGPT3.5, which generally cuts off the list or doesn't make it exhaustive if you ask for everything in one go instead of divided into parts.

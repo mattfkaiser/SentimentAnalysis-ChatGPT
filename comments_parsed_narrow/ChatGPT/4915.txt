@@ -1,0 +1,7 @@
+I Like it and think I understand it a bit more now.   
+
+
+If ChatGPT determines that your plugin is needed and the user has not given enough information for the API is it able to prompt the user for the additional information?   
+
+
+Love the implications of this

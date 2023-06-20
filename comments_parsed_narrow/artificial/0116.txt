@@ -1,0 +1,1 @@
+Azure isn’t efficient to run LLM workloads compared to AWS and Google, so Microsoft is likely taking a huge hit with the cost of ChatGPT.

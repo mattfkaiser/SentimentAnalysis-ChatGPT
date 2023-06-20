@@ -1,0 +1,5 @@
+Here's what ChatGPT generated, if anyone is wondering:
+
+`Yes, I have been trained on Winograd schemas. Winograd schemas are a type of language understanding task that requires a machine to use contextual knowledge to determine the referent of a pronoun in a sentence. This task is often used to test a machine's ability to understand the nuances of human language and to reason about ambiguous or complex language constructs.`  
+  
+`As a language model, I have been trained on a large corpus of text that includes examples of Winograd schemas, among many other types of language constructs. This training allows me to understand the contextual cues that are necessary to correctly resolve ambiguous pronouns in a sentence and to generate responses that reflect this understanding.`

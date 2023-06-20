@@ -1,0 +1,7 @@
+I just tested it - i got chatGPT to write a story about a young dragon and a viking boy - zerogpt said 47% AI-written.
+
+I then asked chatGPT to rewrite the story so plagiarism detectors couldn't tell the story was written by an AI and pasted in the new text.
+
+Now, zero-GPT says it's 0% AI-written, 100% human written.
+
+https://i.imgur.com/7zcZEkC.png

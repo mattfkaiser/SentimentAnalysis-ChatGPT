@@ -1,0 +1,3 @@
+It seems like they had no idea how big chatgpt was going to be, given the insane adoption curve to 100m+ users.
+
+They're bringing andrej karpathy back, so I have some faith that they'll be competitive for a while.

@@ -1,0 +1,1 @@
+seems to miss reinforcement learning with human feedback thats pretty essential to chatgpt

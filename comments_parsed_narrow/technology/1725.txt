@@ -1,0 +1,11 @@
+> what fundamentally IS knowledge and understanding except repetition of previous behavior?
+
+It's that, but it's also more than that.
+
+This is essentially a [behaviorist](https://en.wikipedia.org/wiki/Behaviorism) view of human psychology. Which is a powerful framework but it cannot explain everything, and has largely been eclipsed by [cognitive psychology](https://en.wikipedia.org/wiki/Cognitive_psychology).
+
+Understanding is more than the repetition of previous behavior based on inputs. Among other things, it's also the ability to form generalized mental models with which we can predict outcomes of novel events, derive the rules of a system and reason based on those rules to solve problems we haven't encountered before, and engage in creativity which involves imagining things and possibilities we've never seen.
+
+The exchange we're having right now is a lot more than just "I've seen these words together before and I know that when I see that this word then it's statistically likely this other word follows" which is all chatGPT is doing. In our case, these words map to some mental model of what the words represent. Which is to say we both have some sense of what these words *mean*, how that meaning is altered by putting them in this order with this grammar, and whether that meaning makes sense judged against our mental models of the world.
+
+None of this is stuff current "AI" systems are even arguably doing. And we don't have the first clue as to how to teach a system to do these things.

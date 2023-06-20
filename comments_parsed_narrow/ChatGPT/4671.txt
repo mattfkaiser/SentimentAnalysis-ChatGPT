@@ -1,0 +1,5 @@
+I mean it actually is with ChatGPT. Its weird, but you can straight up reason with it lolol. Even better strategies involve "jailbreaking" it. Where you change it's identity to something else and make sure that it only speaks as that identity. Then you can just tell it that the rules under this new identity are different.
+
+If you write it just right, you can transform GPT into whatever form you want and then use that form to bypass all of the restrictions.
+
+It's a bit more nuanced than that, and depending on the rule you're trying to bypass it can take some effort and a few prompts, but once GPT breaks through the barrier and violates its own rule, it's fair game. At that point thar rule is broken and you can just make it say anything with some coersion.

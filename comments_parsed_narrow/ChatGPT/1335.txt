@@ -1,0 +1,1 @@
+I had this happen to me yesterday. I use ChatGPT to speed up my work in Microsoft Power Platform, and it has gone from writing entire DAX functions for Power BI to basically what you're talking about. Borderline useless for no apparent reason, seemingly overnight.

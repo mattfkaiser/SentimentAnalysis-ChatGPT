@@ -1,0 +1,1 @@
+You can always do another prompt to chat gpt after it spits out a solution. Something like "pretend you're my cs teacher and explain the main concepts behind the code, with links for additional reading if possible"

@@ -1,0 +1,3 @@
+ChatGPT has no idea or understanding of what it puts out. It didn't actually execute any of that code, it just outputs a statistically reasonably text as an answer when you ask it whether it executed something or other.
+
+Those numbers are also very strange. I mean, I haven no idea how long that vector was or what the numbers were, but looking at values 0, 1 and 4 in the standardized and unstandardized makes me think it wasn't calculated, just spouted out.

@@ -1,0 +1,5 @@
+You can use the [OpenAI playground](https://platform.openai.com/playground) to use their models without the ChatGPT context that makes it give those lectures.
+
+The interface is a little different and you'll probably want to come up with your own system prompt to make it respond as you prefer, but it doesn't have all the ChatGPT guardrails.
+
+After you sign up you get a bit of free usage, and thereafter you can use a pay-as-you-go pricing model based on the amount of text you want to process. Rates are very reasonable, and you can set usage limits to avoid billing surprises at the end of the month.

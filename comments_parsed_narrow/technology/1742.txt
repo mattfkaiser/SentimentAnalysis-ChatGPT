@@ -1,0 +1,1 @@
+Copilot uses the same base model hay ChatGPT, and it will start to predict results of my code because it sees that I put two numbers in the comment above with a pretty similar call. Those numbers have been correct on accident and often incorrect. But ballpark seems alright if you go up an order of magnitude for example (and have done so before)

@@ -1,0 +1,1 @@
+I was given a chatgpt result from Microsoft on a question I had about their azure api. The directions chatgpt gave out looked legit but were completely made up. They looked convincingly real.

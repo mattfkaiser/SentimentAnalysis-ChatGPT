@@ -1,0 +1,9 @@
+It could invent stuff, but not in the setup you describe. You seem to be describing a totally autonomous system with no human interaction, looping around. It will tend to get stuck, repeating the same ideas over and over, in the same way today ChatGPT repeats the same 25 jokes.
+
+To get out of that you need human input and feedback. GPT4 is smart, but not that smart to reason very much - just a little. It is not enough to do it all by itself. Also, that system has no way of proving if the ideas work or not.
+
+I think an LLM that reaches AGI can do this by itself and probably can outpace humanity if you allow for re-training with new discoveries and new data as it goes. Of course, the problem is that in 1000AD we did not have resources to train it.
+
+The current state of the art GPT-4 could help invent new stuff with the right setup and human input+feedback. We would need a way to create a infinite amount of inputs for random problems that can be solved, stuff that could be optimized, etc - something that keeps feeding different information to the AI so it keeps generating different approaches each time. But you cannot use an LLM to generate inputs in a simple manner - they will tend to repeat themselves. If that is solved, then it's about implementing some autonomous Tree of Thoughts that explores millions of branches, evaluates, and starts getting possible ideas out as you describe. At some point you want to put a human on the loop, to evaluate and feed new data and insights, then back to ToT; rinse and repeat until a human considers that the idea is worth a try.
+
+I haven't tried GPT-4 myself, just the 3.5, and I did not see enough reasoning skills to think that it will work good enough. Maybe GPT-4 is just barely enough... It is most likely that a new generation of LLM (GPT-5 or so) will be needed to make this work properly.

@@ -1,0 +1,7 @@
+Is ChatGPT not unidirectional? My understanding was:
+
+user provides input -> input hits the embedding layer -> the converted vectors/embeddings get weights/importance applied -> the fnn then processes that, providing an intermediate representation -> which is handed off to the output layer -> which finally generates an appropriate response based on the derived probability distribution
+
+In my way of seeing things that's all unidirectional from input -> output. At no point does the arrow (->) point in the other direction. Right? Like my rain stick analogy, which I turn over from end to end, rather than shake, there's activation: turning it over, input: the pebbles/tokens, and output something that sounds like rain, or in ChatGPT's case something that sounds human.
+
+Given that input -> output one way flow, I don't see how there's room for an active reflecting AGI mind in that architecture. Is there something I've missed?

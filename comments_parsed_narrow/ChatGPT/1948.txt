@@ -1,0 +1,3 @@
+They’re different tools to accomplish different jobs. When the response I’m looking for is specific, then the “legacy” search engines are perfectly fine for that. When I’m after generalized knowledge about a subject, it’s much more useful to have ChatGPT teach me what I need to know because it boils down the sum of its knowledge into a response that is easily-digestible by humans.
+
+I imagine that legacy search engines will eventually become just another tool that AIs like ChatGPT just rely upon to gather additional data to help it fulfill requests, and we’ll soon hardly remember them as a passing fad in the evolution of technology.

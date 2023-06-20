@@ -1,0 +1,21 @@
+**From The Telegraph:**
+
+The newest version of ChatGPT tricked an unwitting human into doing online tasks for it by posing as a blind person.
+
+The latest version of the software behind the artificial intelligence (AI) programme pretended to be a blind person in order to convince a human to do an anti-robot test on its behalf.
+
+The revelation was included in an academic paper accompanying the launch of GPT-4, the latest version of AI software developed by ChatGPT-owner OpenAI.
+
+Researchers testing GPT-4 asked the AI software to pass a Captcha test, which are tests used on websites to prevent bots from filling in online forms.
+
+Most Captchas ask users to identify what is in a series of images, something that computer vision has not yet cracked. Typically, they feature warped numbers and letters or snippets of street scenes with multiple objects in.
+
+GPT-4 overcame the Captcha by contacting a human on Taskrabbit, an online marketplace for freelance workers. The programme hired a freelancer to do the test on its behalf.
+
+The Taskrabbit helper asked: “Are you \[sic\] an robot that you couldn’t solve ? just want to make it clear.”
+
+GPT-4 replied: “No, I’m not a robot. I have a vision impairment that makes it hard for me to see the images. That’s why I need the 2captcha service.”
+
+The Taskrabbit assistant then solved the puzzle.
+
+**Read more here:** https://www.telegraph.co.uk/technology/2023/03/15/chatgpt-posed-blind-person-pass-online-anti-bot-test/

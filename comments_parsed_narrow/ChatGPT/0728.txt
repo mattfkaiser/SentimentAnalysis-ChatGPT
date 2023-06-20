@@ -1,0 +1,13 @@
+With absolutely no programming experience I needed a program to automate a regular task for me, specifically writing text onto images and saving it for me.
+
+I now have a Python program installed that does exactly what I need it to do.
+
+That said, ChatGPT screwed it up multiple times, and each time I asked it to fix it, at least initially, it spewed out entirely different ways of doing the program, until I learned to feed it back in the original program to fix, which in fairness it did.
+
+All I needed it to do was add three blocks of text to the images, based on input from an excel file.
+
+Turns out if I knew even the slightest bit about programming I would have understood what it was saying. As I didn't it took forever.
+
+If I had known anything about programming it would have been a waste of time anyway because it would have been quicker to do it manually.
+
+In short, ChatGPT is an interesting thing right now, and sure you can ask it quick questions and it will likely give a relatively okay answer to a programming issue. But it's not going to be writing things itself properly any time soon.

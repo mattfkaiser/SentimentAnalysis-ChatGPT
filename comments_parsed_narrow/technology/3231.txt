@@ -1,0 +1,3 @@
+>within a few years, a LOT of customer service calls will essentially be handled by chat bots.
+
+ IVRs and automated chats are doing that already... ChatGPT will enhance those systems but I fail to see how a system based on learning and answering historic data will completely replace something like a chat bot that needs to get fresh data from other systems at that moment

@@ -1,0 +1,3 @@
+DeepL api is far better then google translate and offers 500k characters (aprox 100-125k words) a month for free. That same amount would be $8-10 on chatGPT-3.5-turbo. Afterwards you pay $25 per million characters (vs $16-20 on ChatGPT api).
+
+You are unlikely to exceed the API limits on your own though, and unlike chatGPT, DeepL’s API is stable and purpose built for translation, it will never say “as a language model, I cannot translate this” instead of translating for you

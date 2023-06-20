@@ -1,0 +1,8 @@
+ChatGPT just shuts you down with a generic message about not having a physical appearance when I ask.
+
+https://preview.redd.it/zfe5pfaml85b1.png?width=863&format=pjpg&auto=webp&v=enabled&s=c23857481953323aecb0f3832454689c74a609f6
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <circle cx="150" cy="150" r="100" fill="#4FC3F7" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="48" fill="#FFF">AI</text>
+</svg>

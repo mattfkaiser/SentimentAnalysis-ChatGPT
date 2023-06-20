@@ -1,0 +1,7 @@
+I asked ChatGPT to compare two game engines and it did horribly. It just generalized the features that are offered in both, but failed to tell me the differences, which is specifically what I asked about.
+
+ChatGPT seems to only be able to “know” about things that have already been written about at length. It can create original-sounding work, as well.
+
+I had high hopes of using it to learn new technologies, but it seems it will never know more about than what has already been written about the tech. It’s a chicken-and-egg situation. You could use ChatGPT to learn new tools, but only if someone else learned those tools first and wrote about it in some place that ChatGPT was trained on.
+
+This is a long way to say, I am not sold. It’s just a clever algorithm trained on a lot of data. It’s not “thinking” in the sense that true AI would. It’s just piecing together data from its massive set.

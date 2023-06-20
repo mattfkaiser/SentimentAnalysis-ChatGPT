@@ -1,0 +1,3 @@
+https://preview.redd.it/69zc16rbpv3b1.png?width=7824&format=png&auto=webp&v=enabled&s=8f547b3dc119c52d32bb4628b5c774ba461c8bc1
+
+I built a model to detect ChatGPT as a personal project, here are some graphs from my data analysis

@@ -1,0 +1,2 @@
+Whatever that critical mass is I don't think it's that easy to get replaced. Chatgpt helps people who ask repeat questions or who want to know basic to intermediate things easily accessible. There are too many things in programming even if you ask questions in its GitHub issues it would hard to find answers. 
+This is like the same argument of C++/C getting replaced by rust until you understand the decades of work went into where it stands today.

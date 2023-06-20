@@ -1,0 +1,1 @@
+AutoGPT isn’t a ChatGPT plugin. It’s a 3rd-party app that uses OpenAI API, which is separate from ChatGPT.

@@ -1,0 +1,21 @@
+Alphabet Inc.’s Google has invested almost $400 million in artificial intelligence startup Anthropic, which is testing a rival to OpenAI’s ChatGPT, according to a person familiar with the deal.
+
+Google and Anthropic declined to comment on the investment, but separately announced a partnership in which Anthropic will use Google’s cloud computing services. The deal marks the latest alliance between a tech giant and an AI startup as the field of generative AI — technology that can generate text and art in seconds — heats up.
+
+The deal gives Google a stake in Anthropic, but doesn’t require the startup to spend the funds buying cloud services from Google, said the person who asked not to be identified because the terms were confidential.
+ 
+“AI has evolved from academic research to become one of the biggest drivers of technological change, creating new opportunities for growth and improved services across all industries,” Thomas Kurian, chief executive officer of Google Cloud, said in a statement. “Google Cloud is providing open infrastructure for the next generation of AI startups, and our partnership with Anthropic is a great example of how we’re helping users and businesses tap into the power of reliable and responsible AI.”
+
+Founded in 2021 by former leaders of OpenAI Inc., including siblings Daniela and Dario Amodei, Anthropic AI in January released a limited test of a new chatbot named Claude to rival to OpenAI’s wildly popular ChatGPT. 
+
+The Google-Anthropic partnership follows a high-profile $10 billion investment by Microsoft Corp. in OpenAI, which built on the $1 billion the software giant had poured into the AI startup in 2019, plus another round in 2021.
+
+Such alliances give more established companies such as Microsoft and Google access to some of the most popular and advanced AI systems. Startups like Anthropic, in turn, need funding and cloud-computing resources that a tech giant like Google can provide. In announcing the deal, Google said its cloud division would lend computing power and advanced AI chips that Anthropic plans to use to train and deploy its future AI products.
+
+Anthropic’s language model assistant, Claude, hasn’t yet been released to the public, but the startup said it planned to expand access to the chatbot “in the coming months.”
+
+The deal underscores Google’s commitment to AI, particularly in ways that may be expanded beyond the company’s core search business. “I’m excited by the AI-driven leaps we’re about to unveil in Search and beyond,”
+
+Alphabet CEO Sundar Pichai said Thursday as the company reported fourth-quarter earnings. He said Google intended to release chatbots “in the coming weeks and months” and allow consumers to use such products “as a companion to search.”
+
+Google’s investment in Anthropic was reported earlier by the Financial Times. 

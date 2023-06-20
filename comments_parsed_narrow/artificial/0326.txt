@@ -1,0 +1,5 @@
+A little more background: This kind of test is called a [winograd schema](https://en.wikipedia.org/wiki/Winograd_schema_challenge).  ChatGPT is surprisingly good at passing certain instances of this type of test. However, I was still able to find an instance the AI struggled with. I thought I'd share this because:
+
+1. As amazing as it is, ChatGPT still has room for improvement (a scary yet amazing statement, indeed)
+2. I wanted to inspire a discussion about why it's easy for humans to pass this kind of test, yet hard for even the most robust Language Model we have yet
+3. Profit.

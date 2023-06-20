@@ -1,0 +1,1 @@
+Reviewing code is famously much harder than writing it. And ChatGPT is really good at producing code that's about 90% correct. So I wonder how much ChatGPT will *actually* improve coding productivity. It's really easy to spend 45 minutes trying to find the logical flaw in a 30-line function.

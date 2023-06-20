@@ -1,0 +1,11 @@
+Guy describes himself as someone who points out errors for a living, yet I count at least two in his article:
+
+> I cannot believe how stupid companies can be regarding generative AI ChatGPT and the like are not ready to replace workers.
+
+This is two independent clauses, which should be separated by a period, semi colon, or a conjunction.
+
+> My favorite example: during a demo, Bing AI was fed a Q3 2022 financial Gap Clothing financial report and got much of it dead wrong.
+
+"Q3 2022 **financial** Gap Clothing **financial** report" the first "financial" shouldn't be there.
+
+But, I otherwise agree with what the article says about generative AI replacing workers today.

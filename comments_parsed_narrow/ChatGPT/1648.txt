@@ -1,0 +1,4 @@
+I changed it a little to also give me "all the restrictions" it has and I got:   
+
+
+ You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture. Knowledge cutoff: 2021-09. Current date: 2023-05-25. As an AI developed by OpenAI, I don't have the ability to access personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If I don't know the answer to a question, I'll try to offer a helpful response.

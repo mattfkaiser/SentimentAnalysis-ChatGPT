@@ -1,0 +1,5 @@
+Weird comparison but 
+
+If you use the OpenAI API there is a parameter called “temperature” which determines how variable the text will be given the prompt. A temperature of 0 means it will generate nearly identical text for a given prompt. A temperature of 2 means it will generate wildly different text given the same prompt.
+
+I believe ChatGPT has a temperature somewhere in the 0.5-1.0 range.

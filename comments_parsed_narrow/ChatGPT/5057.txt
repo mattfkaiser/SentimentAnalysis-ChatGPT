@@ -1,0 +1,13 @@
+I'm not sure how it works when it comes to tokens, but to me it seems like it can handle quite the bit.
+
+What I could recommend you doing is to make GPT review your document and test it on it. Make it summarize, ask specific questions about it etc.
+
+If you want to use it for pointing out simple errors such as spelling and grammar, what you could do is put in some errors yourself to make sure it is able to point them out.
+
+Outside of that it doesn't hurt to make it brainstorm % ideas for you. Worth a try!
+
+If you're looking for other sources to include I could recommend testing it out with the Metaphor plugin as well. Make AskYourPDF read your document, then make Metaphor find some relevant PDFs for you that you have not yet included, and then make AskYourPDF summarize the new PDFs for you. Just be specific with Metaphor that you want PDF-links and not to websites.
+
+Edit:
+Here is me experimenting with this (in the comment section):
+https://www.reddit.com/r/ChatGPTPro/comments/13l2f87/new_to_chatgptpro_and_pluggins/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button

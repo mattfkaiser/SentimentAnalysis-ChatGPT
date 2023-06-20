@@ -1,0 +1,4 @@
+My first experience with ChatGPT was that it could produce nicely formatted and to the point answer to my question I sent it on a subject connected with OpenTelemetry. The second, however, was that it was inacurate. This already showed a problem with this technology - how do you know if it sells you bullshit. It's hard to imagine fully replacing people with this at present.  
+
+
+It is possible however, I believe, to create with this marketing content as convincing as the one written by humans.

@@ -1,0 +1,3 @@
+This is a myth. The truth is more simple. If ChatGPT's training data is the same as the prompter there is a match in terms of knowledge. If there is a mismatch ChatGPT cannot fill in its gaps of knowledge with common sense and is extremely dumb. This is a fact commonly known in the industry. I have 5+ years experience with deep ML.
+
+Prompt sellers push that prompting strategies are the holy grail to sell you their prompts. There is some truth that better prompting does result in better answers, BUT no amount of better prompting will help ChatGPT fill in its gaps of knowledge. Unlike humans it lacks common sense and cannot connect the dots to fill in its gaps.

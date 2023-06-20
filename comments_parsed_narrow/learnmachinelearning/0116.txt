@@ -1,0 +1,3 @@
+Just like a human being, the code written by ChatGPT seldom works perfectly the first time. Just like a human being, you must often debug and edit its output.
+
+I have seen some nearly perfect 50 line programs spit out by GPT-4 however. It is certainly on the right path.

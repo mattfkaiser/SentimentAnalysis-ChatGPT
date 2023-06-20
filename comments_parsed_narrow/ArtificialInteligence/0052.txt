@@ -1,0 +1,10 @@
+> How would ChatGPT do if you did the following experiment:       
+> Train it on [...]
+
+There's a flaw in your question/premise here.
+
+At that point it stops being ChatGPT (which was optimized more for "entertaining conversation" not "factual truth").
+
+Depending on how you train it, one could train a LLM that could result in any of the answers in your list.
+
+So you need an "all of the above" option.

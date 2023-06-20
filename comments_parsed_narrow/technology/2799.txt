@@ -1,0 +1,3 @@
+What they currently care about is the quality of the text, so this is the wrong test for what they're trying to achieve. For example, spelling errors might be very indicative of text written by humans. To make chatGPT texts more human-like, the model should introduce spelling mistakes, making the texts objectively worse.
+
+That being said, if at some point they want to optimize for indistinguishable-from-human-written, then this would be a great training test.

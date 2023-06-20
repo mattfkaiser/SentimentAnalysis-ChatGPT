@@ -1,0 +1,5 @@
+Bing is nicer without limits on amount of messages, but the 20 messages per conversation in Bing is annoying. Copying code out of bing is annoying. I had it build this today -- https://www.reddit.com/r/ChatGPTCoding/comments/137k21v/bingchat_copy_code_tamper_script_made_by_bingchat/
+
+[Check this out too](https://reticulated.net/dailyai/making-games-with-bing-chat-and-gpt4/)
+
+And ChatGPT4 will process your question and output code MUCH faster

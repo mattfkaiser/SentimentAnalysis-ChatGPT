@@ -1,0 +1,1 @@
+Any code on web chatGPT not api/playground. Unless specifically opt in to sharing

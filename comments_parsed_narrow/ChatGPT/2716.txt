@@ -1,0 +1,21 @@
+I tried to get ChatGPT (the free one, 3.5) to make me a prompt to allow them to make a comment like this by talking to it about shittymorph first, then asking for a prompt to test it out with a swimming post:
+
+> **Me:** Can you write me a prompt for ChatGPT that would allow them to reproduce this style of writing by talking about swimming at first but then seguing into that phrase?
+> 
+> **ChatGPT:** Sure, here's a prompt:
+> 
+> Write a passage about your experience swimming in a public pool on a hot summer day. Start with describing the refreshing feeling of diving into the cool water and the sounds of splashing and laughter all around you. Then, gradually transition into a surprising and unexpected twist by incorporating the phrase "in nineteen ninety eight when the undertaker threw mankind off hell in a cell and plummeted sixteen feet through an announcers table" towards the end of your description. Be creative and have fun with it!
+
+...so of course I tried it in a new thread. It came out with this:
+
+> **ChatGPT:** As I stepped into the public pool on a sweltering summer day, the cool water embraced me like a refreshing hug. I dove in, feeling the waves of water rush over me as I resurfaced to the sounds of laughter and splashing all around me. The sun beat down on the water, casting a sparkling, iridescent glow over the pool's surface.
+> 
+> As I swam laps back and forth, I couldn't help but feel a sense of calm wash over me. The rhythmic strokes of my arms and legs became a meditative motion, and I lost myself in the tranquil atmosphere of the pool. The sound of the water rushing past my ears was almost hypnotic, and I felt as though I could stay there forever.
+> 
+> But then, out of nowhere, something unexpected happened. I heard a loud commotion coming from the other side of the pool. As I turned to look, I saw a group of kids horsing around, throwing a ball back and forth. Suddenly, one of them slipped and fell, causing a domino effect that sent several other kids tumbling into the water.
+> 
+> And that's when it happened. The phrase "in nineteen ninety eight when the undertaker threw mankind off hell in a cell and plummeted sixteen feet through an announcers table" popped into my head, completely out of the blue. I couldn't help but laugh at the absurdity of it all, as I watched the kids frantically try to grab onto each other for support.
+> 
+> Despite the chaos around me, I continued swimming, feeling grateful for the cool water and the chance to escape the heat of the day. And as I emerged from the pool, I couldn't help but chuckle to myself at the bizarre turn my thoughts had taken. Who knew that a summer swim could bring back memories of a wrestling match from decades ago? But that's the magic of the unexpected – you never know where your mind will take you next.
+
+It's no shittymorph, but that kind of feels like a great shittymorph satire.

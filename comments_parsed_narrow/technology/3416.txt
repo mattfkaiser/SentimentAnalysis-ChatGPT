@@ -1,0 +1,7 @@
+>People are trying to make it seem like a Project Sponsor is just gonna tell ChatGPT what they want and boom it's live in production.
+
+That won't happen. What will happen is most programmers will lose their jobs and the ones that don't suddenly shoulder all the responsibility for code they didn't write and will, in a relatively short amount of time, be incapable of understanding as a whole.
+
+&#x200B;
+
+It's gonna make the C-levels so much money.

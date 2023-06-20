@@ -1,0 +1,3 @@
+Sure, but the *first* thing you should look for is “can this person write *correctly* and *to scope.*”
+
+ChatGPT has a serious advantage in that it has the entire repository of StackOverflow sitting in its database. Google isn’t going to ask a question that don’t have an answer to in their test, and if they have an answer it’s probably been asked by someone else, and if it’s been asked by someone else it’s probably on StackOverflow.

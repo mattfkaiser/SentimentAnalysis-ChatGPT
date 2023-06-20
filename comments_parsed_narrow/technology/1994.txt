@@ -1,0 +1,1 @@
+ChatGPT was able to write correct code in a programming language that I developed myself. The language was a commercial product in the early 1990s, and it’s long since obsolete now. There’s some material on the internet about it, but not really that much. I suspect it wouldn’t need much source material to synthesize a style.

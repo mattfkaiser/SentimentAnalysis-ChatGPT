@@ -1,0 +1,1 @@
+the 3.5 in the chatgpt website actually has a 8k token context window, but the gpt-4 in the website is only 4k

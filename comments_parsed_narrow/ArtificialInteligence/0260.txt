@@ -1,0 +1,12 @@
+Why wouldn't they reveal which specific extension (?) it was. I guess it has been removed already anyway.
+
+By not revealing the name of the extension, the security "firm" (fancy name for a business) makes people wonder what app or extension it is, and have eyes on the business, so their value goes up.
+
+I tried asking Bing Chat, don't know if it dug the correct info: "According to the article you shared, the fake ChatGPT app is a **counterfeit ChatGPT browser extension** that was available for Chrome¹². It was laced with **infostealer malware** that collected all the data stored in the browser, including stored passwords and credit card information². The threat actors used the stolen Facebook credentials to take over accounts and change their profiles to resemble actress **Lily Collins**². This incident is also known as the **Lily Collins Hack**¹.
+
+Source: Conversation with Bing, 4/18/2023
+(1) 4 million accounts compromised by fake ChatGPT app. https://www.emergentmind.com/posts/4-million-accounts-compromised-by-fake-chatgpt-app.
+(2) Researchers uncover fake ChatGPT browser extension siphoning off users .... https://www.axios.com/2023/04/14/chatgpt-scheme-ai-cybersecurity.
+(3) 4 million accounts compromised by fake ChatGPT app. https://rapidainews.wordpress.com/2023/04/18/4-million-accounts-compromised-by-fake-chatgpt-app/."
+
+/u/plantsnotevolution

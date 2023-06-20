@@ -1,0 +1,3 @@
+Chatgpt can pass an exam when it's trained on a closed loop of factually accurate information. When you set it loose on the internet, it pulls in truthful and untruthful information and does not know how to differentiate them. So the results it produces are inaccurate. 
+
+Or, Garbage In, Garbage Out.

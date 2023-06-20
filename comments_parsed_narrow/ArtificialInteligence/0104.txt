@@ -1,0 +1,1 @@
+Broadly I agree it feels antiquated but I guess where ChatGPT still to work on is “Truth” as ChatGPT presents the “answers” unlike Google which presents options (weblink) & onus is on searcher to find truth. Most large language models use web-text data for training without much validating because it is prohibitively expensive & technologically challenging.

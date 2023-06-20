@@ -1,0 +1,17 @@
+>There's a recurring theme that AI is not taking jobs
+
+AI is definately taking jobs and it's doing it right now.  ChatGPT is only one model, there are thousands and even more thousands built upon embeddings with OpenAI (and other) models.
+
+There are 1000's of websites already offering a range of specific services, services that contractors, consulatants and other professions do right now. All of these companies have customers, all of those customers used to either have someone on satff or they hired a contractor. Art is drastically down, I have seen many instances of this (I am partially in the art field) and most of the services like fiver, etsy are being taken over as we speak.  
+
+
+I can create an offshoot service based on OpenAI models dedicated to recipies in 5 minutes.  I can do the same with basic tax services, I can create a recommendation engine for interviews and all kinds of specific instances.
+
+There are alrady companies that have customer service department replacements.  it's NOT hard.  You take your years of chat logs, your years of recorded service calls (speech to text) and pop them into a spreadhseet, assing variables and embed it into the chatgpt model.  Next, you subscribe (or create) your voice assistant, text to voice (and they are really indestiguishable now) and boom.
+
+A customer calls in, the AI says "hello, this is Brad, how can I help you today"
+and the AI listens to, converts, and answers the customer based on previous engagement and current companies stock, policies and other details.
+
+In 2 years, maybe less, every customer service job will be gone.
+
+That's just customer service and anything done at home?  Yeah, gone.

@@ -1,0 +1,11 @@
+Beginning here:
+
+My experience. I have spent many hours learning coding in concept, but spread over many different languages. I don't know much of any of them, but the idea of object oriented programming, functions, calling, variables etc, all are familiar to me.
+
+I know almost no javascript, and a week ago I wanted to script some stuff into a google sheets app. It uses javascript as it's base language.
+
+The biggest help for me would be, asking chatgpt a general question, reading it's responses with specific wording, asking it to explain what each of those new terms meant in context, or quoting parts of the code snippet and asking it to explain why it was written that way. Copy/Pasting into my own code, trying it a bit, seeing the results, giving those results back to chatgpt, and then formulating a new request based on this feedback loop. In the course of a week I went from knowing basically nothing, to being able to create 250 lines of code that did exactly what I wanted, with tons of feedback and learning along the way. It was an *excellent* teacher. It was a personalized response to every problem I had, let me go down tangeants, gave me it's best answer, and rephrased it's answers when I didn't understand.
+
+I would say I could now create basic javascript programs with it's help going forward. And after making probably another 2-5 little programs, I doubt I would need it's help nearly as much as it would all just have absorbed into my brain.
+
+I do love it's ability though to give you a snippet that does basically exactly what you want, then on your own you tweak it to work with your previous code. I don't know how higher level understanding of the language would benefit from chatGPT, but I imagine it would be a faster experience than just googling the thing you're trying to remember the name of, and perhaps you could ask it higher level problem solving things to see what solutions it suggests?

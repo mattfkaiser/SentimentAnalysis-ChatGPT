@@ -1,0 +1,4 @@
+Actually that's not 100% true.  It depends on the data sources that were used to generate the model being used to create the work in AI.  I currently sell AI generative images through Adobe Stock and have worked with them to prove the sources of my model data (2.3 million photos shot by me) and retain full property rights to the works produced, complete with legally binding release forms that are distributed with the image downloads.  
+
+
+ChatGPT on the other hand is a "Generalized" model, which means it's a collection of publicly available information.  The words it spits out will not pass plagiarism checks by default, which is where a copy editor (they'll replace the writers) would go through and make it own able.  The other option is just to tell ChatGPT to ""rephrase this again using an even higher perplexity" and no AI detection tools will pick it up.

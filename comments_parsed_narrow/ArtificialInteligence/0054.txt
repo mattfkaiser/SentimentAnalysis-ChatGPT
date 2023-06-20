@@ -1,0 +1,7 @@
+ChatGPT (Actually the GPT model, ChatGPT is the web interface) has been trained on many words and sentences. It can take a prompt and regurgitate in its response, those words and sentences or rearrange those words in a manner that based on probability calculations appear to make sense.
+
+It cannot invent anything new but might stumble upon an output that appears to propose a new idea. However, without the use of Plugins/tools/agents what you get out of it is a probability based roll of the dice.
+
+In addition to that problem, the biggest issue will be token limitations. New ideas/inventions are based on previous context. GPT 4, has a memory of about 32000 tokens. This is not enough to complete the chain of tasks you gave in your example of sailing. Once the limit is reached, context is lost. After a short while the chain of what appears to be logical thought begins to break down. It might be producing sentences discussing the plans to sail the ocean and in the middle say "Oh look a squirrel."
+
+Having said that a recent paper (Apr 2023) claimed that BERT can now support 2 million tokens. It might still not be enough but the entire lord of the rings and the hobbit can be represented by 750,000 tokens, so it is a meaningful improvement.

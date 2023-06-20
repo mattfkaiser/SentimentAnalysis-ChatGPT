@@ -1,0 +1,1 @@
+The playground is designed to test the API. ChatGPT is designed to be used as an assistant.

@@ -1,0 +1,9 @@
+On the consumer side, there's no difference. On the author side, at least if you wrote the trash yourself instead of outsourcing it, you might pick up some skills/experience that would enable you to write better in the future.
+
+I think the issue people don't get is the amount of effort it would take for chatgpt to get from where it is now to writing coherent novels. [Scott McCloud's take on art and how people progress through it](https://dyn1.heritagestatic.com/lf?set=path%5B2%2F2%2F4%2F1%2F2%2F22412833%5D%2Csizedata%5B850x600%5D&call=url%5Bfile%3Aproduct.chain%5D) applies here, too.
+
+ChatGPT excels at the surface-level stuff: for the most part, its sentences are well-structured and it's good at technical writing. I think you could arguably say that it's good at the "craft" level of things as well since it is superior to other AI in how it organizes ideas.
+
+As it is now, though, anything composition and deeper is beyond what ChatGPT can do. This is why art AI also struggled with things like hands for awhile: they don't have any actual understanding of anatomy/story structure/etc. of how things are composed.
+
+But like you said, this is also an issue with inexperienced authors/artists. It may be a little different, because some new authors could be good at plotting a story (Structure/craft) but bad at stringing together coherent sentences (surface), meaning that their ideas get lost in the sauce.

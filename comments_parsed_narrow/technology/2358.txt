@@ -1,0 +1,7 @@
+Pro tip: When I finally got in I asked it to write me a Python program that would use the chatgpt api to allow me to interact with the bot.
+
+It instantly spit out a program that only needed a minor change to one of the module imports to work. I signed up for an api code, put it in the app, and boom, I now have access to chatgpt whenever I want.
+
+The output isn't as flexible as the web interface, but that's just a matter of updating the program.
+
+Edit: I've now learned that the API works with 3.5 models and not the current iteration of chatgpt, so it's close but not exactly what you'd get on the website.

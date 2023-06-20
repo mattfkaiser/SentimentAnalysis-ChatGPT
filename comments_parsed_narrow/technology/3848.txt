@@ -1,0 +1,8 @@
+Question: The first season of saved by the bell was originally titled Good Morning, Miss Bliss and did not include which character?
+
+Chatgpt: The first season of "Saved by the Bell" was originally titled "Good Morning, Miss Bliss" and did not include the character of Zack Morris.
+
+https://www.vulture.com/2014/08/take-vultures-saved-by-the-bell-superfan-quiz.html
+
+
+I then tried it with the multiple choice and it got almost every question wrong. How is it useful if it just guesses answers instead of saying it does not know?

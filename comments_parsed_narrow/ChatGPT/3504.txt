@@ -1,0 +1,1 @@
+Ive pretty much learned sql from scratch over the past two months w chatgpt 4 and spent the day today pretty drastically optimizing queries at work. Would have taken me forever to do it without gpt. Just an amazing programming tool. Even just the ability to ask for explanations of stuff is awesome if you know what to ask about

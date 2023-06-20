@@ -1,0 +1,3 @@
+I would worry such words would actually distract from the actual prompting you want to do.
+
+In a way, isn't a 'conversation' with an LLM writing a kind of code line by line?  I've had chatgpt fail to answer a current prompt by going way back to an earlier prompt instead.

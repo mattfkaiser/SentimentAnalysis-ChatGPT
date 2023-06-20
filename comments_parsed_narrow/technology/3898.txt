@@ -1,0 +1,4 @@
+TLDR; 
+
+
+Company that made ChatGPT do not disclose how they use and process users data. Which is a requirement in EU as part of GDPR.

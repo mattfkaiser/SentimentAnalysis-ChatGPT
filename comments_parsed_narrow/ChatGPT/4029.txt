@@ -1,0 +1,3 @@
+Almost all of our senior devs started using GitHub Copilot with the starting hype of ChatGPT and say it transformed the way they work in big ways.
+
+And some friends out of the network told me that they use it especially for legacy code where they only maintain old systems and it is very hard to even find fitting coders…

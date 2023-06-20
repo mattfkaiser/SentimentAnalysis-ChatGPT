@@ -1,0 +1,1 @@
+If you use ChatGPT to code by just copy-pasting whatever it spits out then YOU are creating insecure code. Don't blame the tool, blame the user.

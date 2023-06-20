@@ -1,0 +1,3 @@
+May be i am wrong, but Model: OpenAssistant/oasst-sft-6-llama-30b has 30b (billion) parameters. ChatGPT-3 has 175b, version 4 has many more... Quote: The exact number of parameters in GPT-4 is unknown but is rumored to be more than 1 trillion parameters.
+
+I got glitch in 2 messages.

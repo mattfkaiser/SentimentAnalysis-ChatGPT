@@ -1,0 +1,5 @@
+GPT2 can reliably produce syntactically correct English that was often kind of nonsensical. GPT3 can say things that seem very much meaningful. Both are examples of acquiring abstractions through unsupervised learning.  They were just fed massive amounts raw text data converted to tokens and embedded in an abstract mathematical space. They churned through it, learning abstractions like syntax and grammar. 
+
+This is why GPT is revolutionary. It demonstrated the ability of a pretrained unsupervised model to be relatively easily fine tuned for downstream tasks. 
+
+InstructGPT is GPT3 with an added human feedback element, among other things, and ChatGPT is a similar iteration. They both benefit from all the abstractions learned by the unsupervised model.

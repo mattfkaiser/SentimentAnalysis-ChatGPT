@@ -1,0 +1,3 @@
+> The chat bot, unlike Shapiro, can grow: I simply told the bot that its response was redundant and needed more detail, and it was able to fix the errors.
+
+To be clear, the underlying model isn't altering itself. It's just using an extended prompt with more tokens in memory to do its next text prediction. ChatGPT doesn't, for anyone who doesn't know, learn from user input and alter its code or anything like that. It's training has all already finished.

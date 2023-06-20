@@ -1,0 +1,1 @@
+This is the correct answer. For those who say “ChatGPT often writes in xxx” or have some detectable language structure you’re just dead wrong. And the structure can easily be modified through prompt.

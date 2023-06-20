@@ -1,0 +1,7 @@
+Then you should be able to make the equivalent of an enterprise grade software that is deployed globally. 
+
+Build a Twitter clone that I can access with minimal latency across the world. I want the database to be sharded and have various contingencies to ensure data is backed up. I want a search algorithm that can rank the results uniquely for each user based on a profile that we have built up of them. What happens when it hallucinates? How will you fix the error? How about when your services fail and you need production back up now? Do you trust ChatGPT to fix it? 
+
+I’ve had to fix buggy chatGPT code that people thought was fine. It pisses me off when people think they can just prompt there way to a product. Especially when it leads to hours of debugging to get it working. The people who use it correctly are generally senior devs (not me) who have years of experience and ask the right questions.
+
+If you genuinely want to make software, learn to code first, then start using ChatGPT/GitHub CoPilot. Look up languages like Mojo too. Gives you a glimpse of what programming might look like in the future.

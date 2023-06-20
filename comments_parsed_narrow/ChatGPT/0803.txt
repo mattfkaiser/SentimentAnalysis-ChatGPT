@@ -1,0 +1,3 @@
+Chat GPT isn't trained for medical advice. I'm no medical expert, but I am an expert in all things related to Cisco. If ChatGPT completely makes up answers on Cisco related questions I would suspect the same is true for medical related questions. Its still a cool new tool that has a place, but I wouldn't trust the answers as fact until verifying it yourself.
+
+That being said, I have played around with a custom-built knowledge base to train my own version of chatGPT and its showing potential. I can almost guarantee other people are doing the same for a purpose-built medical diagnosis bot.

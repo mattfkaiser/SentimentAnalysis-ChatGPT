@@ -1,0 +1,1 @@
+AI is a broad term. A simple flowchart can be considered AI. ChatGPT on the other hand is a language model but it’s not necessarily a knowledge system.

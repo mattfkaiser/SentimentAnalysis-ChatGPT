@@ -1,0 +1,1 @@
+Does chatgpt need to handle the openapi specs, surely the plugin interface would interpret that information and make the api call. I cant see why you would need to feed the openapi spec to the chat inferance engine.

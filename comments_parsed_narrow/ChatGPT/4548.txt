@@ -1,0 +1,3 @@
+I did this too! We actually made choose your own adventure stories. It was quite fun so we turned it into a webapp -> [whimsyapp.com](https://whimsyapp.com).
+
+But you can also make CYOA stories yourself in chatGPT without our app.

@@ -1,0 +1,9 @@
+> "All products are fated to become "restrained and family friendly" as they grow. Tumblr, Reddit, ChatGPT were all wild wests without restraints until they grew in size and the public eye watched them closer, neutering them to oblivion."
+
+Those are services. Is AI a service or can I spin one up for myself right now on local hardware or even by paying a small fee on a cloud computing service.
+
+
+A trained AI, or an AI you can train on your own is less like a live service and more like a large collection of data and that code / hardware that interprets it. And just like how people share thousands and thousands of movies, tv shows, games, etc I am sure these models will be easy to share as well. 
+
+
+This feels closer to Napster than Tumblr.

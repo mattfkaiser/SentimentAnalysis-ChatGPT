@@ -1,0 +1,9 @@
+>Now if there is a combination of machine learning to verify artificial intelligence’s findings, and at fast speed and vast scale, then we really have something special.
+
+That already exists, and is pretty useful for general purpose AI training. It's been used in training ChatGPT. An example of AI reinforcement learning at fast scale and speed would be training a more general AI based on feedback from specialised AI. 
+
+To give a human-like analogy, imagine being asked to answer questions that require knowledge of physics, maths, french, philosophy and painting, and each time you answer you are given feedback by a physicist, a mathematician, a french teacher, a philosopher and an artist. While none of these people can tell you if your answer is good in general, over time your ability to put everything together into great interdisciplinary answers will improve.
+
+>I’m trying to experiment with bing and chatgpt integration for my really complex tasks, but the mindset to create the prompts and even describe the problem that you are trying to solve is the missing human link, where all knowledge comes together.
+
+I don't think GPTs are anywhere near solving "really complex tasks", especially not free-for-use ones. They're great for lots of smaller tasks like previewing, reviewing, troubleshooting and planning - and of course they're fantastic for anything that requires unlimited emotional tolerance, like customer service etc. - but I've not yet seen any really complex use-cases that aren't deeply unethical. Happy to be challenged on that!

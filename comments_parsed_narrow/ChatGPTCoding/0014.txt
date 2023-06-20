@@ -1,0 +1,3 @@
+If you're on intellij and use java (narrow case, I know) you can try my plugin: https://plugins.jetbrains.com/plugin/21502-prompto--chatgpt-assistant
+
+It fetches your IDE info (types, errors, other stuff) and build a prompt from it that you can paste on your LLM of choice.

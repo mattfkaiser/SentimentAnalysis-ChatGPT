@@ -1,0 +1,9 @@
+First I'd like clarify the premise. It's not really possible to have a useful language model that is *only* trained on a smaller specialized dataset. It would not be able to understand your questions without having the "background knowledge" from huge amounts of training data.
+
+But that doesn't mean that you can't customize the behavior to *focus* on your dataset.
+
+There are two high-level techniques for this: **transfer learning** and **prompt engineering**. They can be used individually or in combination but you probably only want to start with one if you're new to this kind of programming.
+
+Transfer learning means you are providing new *labeled* training data and actually adjusting the weights of the model so that it answers differently to the same question. Labeled data in this context means that you have text structured in the format of a user saying something in chat + the chatbot responding appropriately. In my experience people rarely have their data already formatted like that, so transfer learning is more difficult. But if you did have data structured that way this would be the best practice. For OpenAI (maker of ChatGPT) they call it "fine-tuning" (https://platform.openai.com/docs/guides/fine-tuning)
+
+Prompt engineering means you are carefully creating a prompt that tells the model more about the kind of answer you want. Whereas transfer learning changes how the model responds to the same question, prompt engineering changes the question. You can do this programmatically and use various techniques to provide useful context based on your specialized dataset. Then you send the question using the standard API endpoints (/chat or /completions for OpenAI). Check out this OpenAI example that uses scraped data: https://github.com/openai/openai-cookbook/tree/main/apps/web-crawl-q-and-a

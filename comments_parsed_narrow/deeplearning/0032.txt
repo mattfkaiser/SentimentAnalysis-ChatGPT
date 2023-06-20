@@ -1,0 +1,1 @@
+How did you conclude that you're performing a semantic search by asking this to chatgpt? Chatgpt will just reply with whatever. It's not a search. What you want is a way to measure relevance of each sentence in your data set to each question that you'll ask.

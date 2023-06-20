@@ -1,0 +1,3 @@
+There isn't something out there yet, because it takes time, like with anything complicated.
+
+If you mean ChatGPT being GPT-3.5, then we are getting there with 30B parameter models. HuggingChat for example is fine and it uses these 30B models that you could run locally too.

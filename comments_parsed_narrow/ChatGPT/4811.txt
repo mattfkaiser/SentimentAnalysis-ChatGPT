@@ -1,0 +1,9 @@
+> You mean it clearly didn't recognize it as an answer, since it thought it was a new question asking if it was fire, it referring to chatGPT.
+
+Did you read what I wrote? I said "it clearly recognized **the** answer". I did not say "it clearly didn't recognize it as the answer to the riddle." 
+
+You are literally just restating my point in a different way. It recognized the answer, but failed to properly interpret as the subject that was being discussed, the answer to the riddle. That is a failure of the language model. 
+
+>Which it answered correctly, it isn't fire, and it also reminded OP that he still hadn't tried to answer the riddle (in its "mind").
+
+Yes, but no one would need to remind a human of that. At least not one over about 3. Anyone with even very slightly developed language skills would have no issue understanding the context that the word "fire" was being applied to. Again, this is a failure of the language model. That is the point I was making.

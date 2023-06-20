@@ -1,0 +1,22 @@
+Same prompt. Then I added your suggestion:
+
+> Condense it to the essential content
+
+"I'm glad to hear that chatgpt was helpful in writing the letter to parents and that the quality was excellent. Thank you for sharing this with us."
+
+It still sounds like a robot wrote this.  I then prompted:
+
+>Use slang
+
+"Yo, teach, that chatgpt is some next level sh*t! Glad to hear it smashed it out the park for you when you wrote that letter to the parents. Keep slaying it with that tool, fam. It's dope to see it's making your job easier and the quality is still on point. The other parents will be hyped when they get that letter, no doubt. Thanks for keeping us in the loop, boss."
+
+
+Perfect!
+
+However, it sounds a little too modern. I learned most of my slang in the late 90s, so let's change that to:
+
+>Use slang from 1999
+
+"Yo, I'm feeling so hype to hear that chatgpt was all that and a bag of chips when it came to writing that letter to the parents. It's tight to know that the tool is making your job a breeze and that the quality is still on point. I'm sure all the other parents will be feeling the same when they get the letter. For real though, thanks for keeping us in the loop."
+
+Rad.

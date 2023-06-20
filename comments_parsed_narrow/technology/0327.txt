@@ -1,0 +1,16 @@
+It predicts words, it has been trained on websites and provides a most plausible response. 
+
+Its not designed for medical diagnosis like the AI called “Watson” that is actuallly in use already was. 
+
+This is just OpenAI trying to create hype for funding and journalists eating it up. 
+
+There are drugs out there since at least 2013 but probably even earlier that were partially designed by AI, AI has been doing initial assessments on blood samples, Pap smears and certain xrays for a decade now. 
+This is not new. 
+
+It’s just for the first time something regular people can play with even if they have never writen a line of code or downloaded something from github. 
+AI has been all around for a while, but usually it was just a boring “give it a picture and it spits out what it thinks this is with a certainty scores of each possible diagnosis attached “ 
+
+Now suddenly there is an AI that can do human speech really well and is able to convince us that it’s search results are some higher level of intelligence.
+
+It’s still data in - data out. Just in a format that feels more interagent and trustworthy to us. But chatGPT can’t assess your rash or pap smear. It wasn’t made for thar. But it can comfort you when you get bad news or tell you how and when to take an at home stool sample for colon cancer screening. 
+The website from the CDC can do that too but you can’t ask the CDC website for clarification when you don’t understand a sentence.

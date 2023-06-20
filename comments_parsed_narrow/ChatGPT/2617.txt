@@ -1,0 +1,3 @@
+Personally I believe that PPO using RLHF for training datasets is key to ChatGPT's emergent qualities and thus success as an LLM. You can have the AI  train on other datasets like Wikipedia but this is already what earlier, lower quality versions of GPT did and the introduction of human input based datasets is what has really set it apart and given it advanced emergent qualities.
+
+That said, I don't know anything about why specifically the EU is banning it. Are they banning it because it collects data at all?

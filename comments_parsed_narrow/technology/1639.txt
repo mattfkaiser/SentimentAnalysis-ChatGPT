@@ -1,0 +1,3 @@
+Says more about the interview quality than the progress of AI.
+
+Wake me once ChatGPT solves Jira Tickets and writes commits.

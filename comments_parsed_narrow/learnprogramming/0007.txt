@@ -1,0 +1,1 @@
+As a side note, if I have to ask chat GPT how to do something, I also find it helpful, as a learning aid, to ask it to step me through the code line by line and explain how/why its solution works.

@@ -1,0 +1,7 @@
+This is what folks don’t understand today. ChatGPT is a toy unless you understand the power of prompts. This can also be true for google if you never learned the endless ways to actually use it, just entering a search term is meaningless.
+
+I’m one of those guys who can read code, I can’t write code. I can take snippets off W3schools or somewhere and make it work.
+
+With ChatGPT, I have no doubt I could rival anyone with a decade of experience. It’s stupid how well it can accomplish things when you put effort into it. Sure, it does require some effort, and sometimes a lot, but the reality being in a few days (hell, a few hours) you can build a functioning game, that would take a normal engineer 6 months of training, another 3 months of build time, 3 months of depression over something not working, and another 2 months to finish it up. 
+
+It’s wild how game changing this is, and we’re just in the second inning.

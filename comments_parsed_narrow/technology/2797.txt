@@ -1,0 +1,5 @@
+Yeah, they were primarily used as specialized service bots whereas ChatGPT is an amazing multitasker. I wouldn't say Google is shitting its pants though. There aren't really many secrets behind ChatGPT's success, and Google could certainly reproduce it. It's just a matter of cost/benefit. 
+
+OpenAI is in the business of selling AI solutions to businesses, particularly natural language interfaces. The ChatGPT app is fantastic marketing for their actual product. The billions of dollars spent developing ChatGPT went mostly towards making the actual model, which directly improves their API/services.
+
+On the other hand, Google wouldn't have had the same incentive to throw as much money at large language models. I'm sure they have some internally, but it's only now that ChatGPT and Bing are in the public eye that it seemed appropriate to fire up the money incinerator and train some huge models.

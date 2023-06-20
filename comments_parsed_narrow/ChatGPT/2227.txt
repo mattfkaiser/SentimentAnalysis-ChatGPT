@@ -1,0 +1,3 @@
+CHATGPT is NOT a magic bullet. I'd talk to your employer about what you're putting in there too! Anything you put in gets used for it's training model and as Samsung found out TWICE that will include any proprietary IP. Your employer should now be providing processes on how to use it, liability for data leaks and customer detail leaks. I know I'd be PISSED if a research group leaked my details online because someone pumped some information into chatGOT
+
+Also it's trained on stuff from the Internet so depending on what you're doing it could be feeding out crap. Eg. I would NEVER trust the security of any code it pops out without going through it first.

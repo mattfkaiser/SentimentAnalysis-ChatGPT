@@ -1,0 +1,5 @@
+Machine learning engineer who started out with training in anthropology (PhD). I find text and image generators as a fascinating insight into our culture. It’s like a giant statistical device ground the mass of information on the internet into an average understanding of almost every issue. If I want to know the scientific consensus on a given issue, I ask chatGPT to explain it to me. If I want to look for overlooked areas of research, I look for where the reasoning becomes circular. An example is I asked if monotremes were mammals (yes, even though they lay eggs). I then asked how milk evolved (with live birth instead of eggs). Bingo, a logic circle that highlights a gap in our understanding.
+
+When you ask a generative model for text or an image, it’s bringing you the loss minimized version of that concept. It is compelling to most people because most people are in that hump of the normal distribution for any given request the model receives. 
+
+So less wowed by the technology than I am in what it says about ourselves.

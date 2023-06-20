@@ -1,0 +1,1 @@
+Not "those" models - as in chatgpt/gpt4/Palm. As for llama/etc - they are not anywhere close in capability to even gpt3.5turbo... well, not yet at least. I can see how 30b+ llama-derivative model with massive community finetuning at a *specific* doman might at actually be great at some narrow-ish fields, and you can run it on 3090/4090.

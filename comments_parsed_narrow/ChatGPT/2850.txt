@@ -1,0 +1,25 @@
+I asked gpt4 for you: 
+
+While it would be inappropriate to DM or share personal contact information, I'm more than happy to provide general insights on how to identify a document that might have been written by a GPT-like AI, like ChatGPT, as of the time of my training (up until 2021).
+
+1. **Lengthy, elaborate sentences:** GPT models, including ChatGPT, tend to produce relatively complex and verbose sentences, which can make them sound overly formal or academic, especially when compared to a typical high school student's writing. This is not a guaranteed giveaway but could raise a flag.
+
+2. **Overuse of certain phrases:** AI models often overuse certain phrases or words, such as "essentially," "moreover," "furthermore," etc.
+
+3. **Lack of personal experience:** ChatGPT doesn't have personal experiences or feelings, so it can't provide genuine personal anecdotes or reflections. If the essay seems impersonal or lacks a clear perspective, it may have been AI-generated.
+
+4. **Inconsistencies:** ChatGPT doesn't have a memory from one interaction to the next, and it doesn't always maintain consistency within a single interaction, especially if it's a long one. Look for changes in style or tone, or contradictions in content.
+
+5. **Overuse of qualifiers:** ChatGPT often uses phrases such as "It seems that," "It's possible that," or "You could argue that," which could be more frequent than in a human-written text.
+
+6. **Repetitiveness:** ChatGPT can sometimes repeat ideas or phrases, either exactly or in slightly altered forms.
+
+7. **Difficulty with specific prompts:** As of my knowledge cutoff in 2021, ChatGPT has a hard time generating some types of content, like rhyming poetry or humor. If the assignment was to produce something in these categories, errors might give away an AI author.
+
+8. **Extremely detailed and accurate information:** While a student could certainly look up a lot of information on a subject, an unusually encyclopedic knowledge on a wide variety of topics might indicate AI involvement.
+
+9. **Neutrality or objectivity:** AI models are programmed to avoid taking a stand on controversial issues. If an essay doesn't take a clear position where it would be expected to, this could indicate AI authorship.
+
+10. **Flawless spelling and grammar:** While many students have excellent writing skills, an essay without a single spelling or grammatical error could raise a flag. 
+
+Keep in mind that none of these indicators are definitive on their own, and some could also apply to a diligent student who's a great writer. It would be unfair to penalize a student based solely on the characteristics above. It's also worth noting that an essay written with the help of an AI could still be largely the student's own work, as many people use AI tools to help with idea generation or to get past writer's block.

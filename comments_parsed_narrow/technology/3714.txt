@@ -1,0 +1,5 @@
+Correct.  There exists no general purpose robotic device for ChatGPT to control to perform this task. It can know everything there is to know about crewing for a balloon flight, but without the physical ability to actually do it, it is completely useless.  
+
+What it **can** do right now is replace the communication, scheduling, and repeated rescheduling of passengers and crew due to weather cancellations. It can onboard new crewmen.  It can teach new crewmen how to do their jobs. It can replace a bunch of administrative and management tasks, but it lacks the capability to perform any of the extensive physical tasks necessary to put a balloon in the air or recover it afterwards.
+
+Again, it can replace the sales, marketing, management, and similar tasks, but it can't secure a tie-down line or "tab in" a deflation vent.

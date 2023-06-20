@@ -1,0 +1,1 @@
+The quality of the software has already gone downhill without ChatGPT regurgitating the wrong answers from stack overflow. It’s going to be interesting to see what kind of buggy mess becomes the new normal in app development.

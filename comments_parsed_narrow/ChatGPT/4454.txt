@@ -1,0 +1,3 @@
+Yeah, I'd be more concerned about employees accidentally leaking PII and confidential information - especially if supposed to be our clients' data, as the firm as a whole would be on the hook for that. Consider too the multiple incidents that ChatGPT user chat histories have been exposed to other users by accident.
+
+My company's own policy is to treat ChatGPT just like any public forum. You're free to ask questions on StackOverflow and file issues on GitHub, but you're definitely *not* allowed to illustrate those posts with anything internal.

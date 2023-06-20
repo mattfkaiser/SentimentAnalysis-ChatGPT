@@ -1,0 +1,3 @@
+> ChatGPT in general is making obsolete years of work other companies have poured into proprietary Machine Learning models.  
+
+I have yet to read the paper, but I'm wondering about that. ChatGPT can't really forecast a time-series, so maybe there's a case for combining older techniques together with the new stuff?

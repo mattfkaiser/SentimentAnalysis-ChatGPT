@@ -1,0 +1,3 @@
+I wholeheartedly agree with your take here. I've messed around with the AI models as well and ChatGPT is super impressive with how far it has developed. But as it is today, it feels more like an assistive technology, rather than a self-guided one. It just messes up too many fine details to trust, and its creativity is neat but limited.
+
+Then move into AI art/images and it's certainly not a finished technology. It's cool, it's impressive, but for now, I think something like Adobe's upcoming integration of diffusion models is where the art scene will make use of it. The current tools just take so much effort to produce acceptable quality, and to be honest, traditional and digital artists just do it better.

@@ -1,0 +1,7 @@
+>	Jesus. You’re not wrong. ChatGPT understands DNA since it can be represented as text, and was able to give me an example of DNA for a hypothetical virus.
+
+Most likely gibberish. GPT has no concept of fact, and will happily hallucinate something up.
+
+>	I’m sure with the safeguards off, it would likely be able to create or be fine tuned to create what you’re talking about.
+
+It’s a language model, not a general AI.

@@ -1,0 +1,5 @@
+> companies must give users the ability to delete their data or deny access to it
+
+Not users, citizens; and it also includes the right to be forgotten. Right now there is no way for a European citizen to ask OpenAI to ensure his personal data isn't included in ChatGPT's output—including *incorrect* personal data.
+
+And since ChatGPT is basically making stuff up that (more or less often) happens to be correct or plausible but wrong, complying with the GDPR is fundamentally at odds with how it works.

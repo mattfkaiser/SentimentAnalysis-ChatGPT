@@ -1,0 +1,1 @@
+Fellow engineer here. I was hooking up a small LCD to a microcontroller over SPI today for funsies, and I decided to see if chatgpt could wire it up for me. It nailed it, *and* it wrote a great explanation I copied as a code comment.

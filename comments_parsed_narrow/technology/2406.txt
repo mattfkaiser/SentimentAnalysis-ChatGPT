@@ -1,0 +1,1 @@
+That'd nice, but the hardest part is making pretty charts. I'm not sure what ChatGPT's aesthetic sense is and how sensitive it would be to specifics of the data if using matplotlib

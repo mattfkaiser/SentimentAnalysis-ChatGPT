@@ -1,0 +1,7 @@
+You’re correct about what you said. But Tay the tweeting chatbot is a very very different product from ChatGPT, even if the underlying ml concepts used to make them work are almost the same. So yeah I still say ChatGPT is the first *product* of its kind. 
+
+Just like you and many other people on this thread, when it first came out last year, I was laughing at it, thinking this is some BS product and the hype will die out in weeks just like it did with many other products. But it’s been 4 months now, the user base has only grown. People are finding all sorts of ways to use and become productive. So the naysayers should at least start paying attention and keep their eyes open, that’s all. 
+
+And what on earth is a “bunch of trash parameters” anyway. It’s been proven repeatedly by multiple different research groups that increasing the size of the model (number of layers and units) and increasing the amount of data and training cycles itself is enough to dramatically improve the model, without doing much else different each time. 
+
+I don’t like to argue on Reddit either so I’ve acknowledged where all I agree with you and where I don’t, so we can leave it at that

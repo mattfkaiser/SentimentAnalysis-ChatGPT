@@ -1,0 +1,5 @@
+I have the plus version, and I’ve been using lots of hours lately to code JavaScript node+expressjs that I host online in order to automate  api calling, and treating information.
+
+I find liberating that Chad GPT is helping me with JavaScript coding to create or consume custom endpoints. 
+
+However, I am reading hear that OP is doing something even better than coding in javascript ? Is there a video YouTube that explains coding in Chat GPT plug-ins ?

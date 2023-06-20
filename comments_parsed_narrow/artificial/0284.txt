@@ -1,0 +1,3 @@
+Good advice! I'm also developing [my own ChatGPT API GUI](https://i.imgur.com/o29gkIP.png) with tkinter, but with the ultimate goal of learning and building skills to become more employable. It's also true that I genuinely prefer using it over chat.openai.com already, and that when GPT-3.5 becomes obsolete I should be able to just swap out the line `self.engine = "gpt-3.5-turbo"` for `self.engine = "gpt-4.0-public"` or whatever. Maybe my little tool retains value?
+
+Sam Altman's a pretty convincing salesperson so maybe I'm being taken for a ride, but I have to admit I buy [his argument here (Greylock interview)](https://youtu.be/WHoWGNQRXb0?t=195) that there will be an enormous app ecosystem built on top of finetuned LLMs.

@@ -1,0 +1,5 @@
+All I hear is someone rationalizing their bad research habits. ChatGPT is a language model, not a search engine. If what it was actually doing was “taking all sources from the internet and summarizing them” then it wouldn’t hallucinate so often — what it’s doing is stringing words together that seem like they should make sense based on the training data, but with no regard for their factuality. 
+
+That sometimes leads to correct information, especially for common things that appear often in the data, but it also leads to complete bullshit that never appeared in any source. How do you tell the difference between those? If someone questions you on the information and you tell them that it was ChatGPT, how do you convince them it wasn’t just a hallucination? 
+
+I’ve had ChatGPT completely make things up that aren’t true. I’ve had it give me statistics that don’t appear anywhere. I’ve asked it for sources and it gave me fake papers. I’ve had it insert incorrect information when I ask it to edit my writing for clarity. ChatGPT doesn’t think, it doesn’t know whether things are true or not, it only knows how to put together natural-sounding English text

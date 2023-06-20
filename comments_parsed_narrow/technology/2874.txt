@@ -1,0 +1,3 @@
+"Hey Chatgpt, write me a script that detects texts written by yourself. Post the code in python."
+
+It's not really difficult to write code using Chatgpt now.

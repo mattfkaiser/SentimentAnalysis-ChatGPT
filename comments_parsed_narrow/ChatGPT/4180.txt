@@ -1,0 +1,1 @@
+I asked chat gpt for some pixso documentation and ended up wasting 30 minutes trying to find a context menu that doesn’t exist because chat gpt was telling me about figma documentation and just changing the name lol.

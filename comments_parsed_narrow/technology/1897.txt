@@ -1,0 +1,4 @@
+In many cases you are using a google assistant. Chatgpt is very good at word processing and writes better than most humans. It however doesn’t know anything at all.
+
+Imagine you asked a generally smart person to google something for you, but they knew nothing about the subject. For example a person who never took a single music lesson, never touched an instrument, never saw sheet music in their life. Ask them musical details about a famous song. They will only be able to repeat what google tells them. If google told them B
+a Beethoven song was 12000 bpm, that’s exactly what they would tell you.

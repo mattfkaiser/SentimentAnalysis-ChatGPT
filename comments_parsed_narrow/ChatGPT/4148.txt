@@ -1,0 +1,1 @@
+This is by design.  Anything between <| and |> are special tokens that are used for input and outputs.  These are cleared before ChatGPT ever sees them.

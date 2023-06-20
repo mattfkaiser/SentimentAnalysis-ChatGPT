@@ -1,0 +1,5 @@
+I've been toying with it answering my emails last year, and that's actually a reason I'm considering eventually paying for a chatgpt subscription. I have it somewhat hooked into my mail client, if I go that route I'll have to improve that a bit. 
+
+Basically, I'm throwing it the original email, tell it where to get name and similar bits from, and then do one or two sentences with a description what I want to answer, in reference to the quoted mail, and the style I want it in. If necessary I can refine it a bit ("make it a bit more insulting").
+
+For quite a lot of my emails that gets better results than annoyed me would write, in shorter time.

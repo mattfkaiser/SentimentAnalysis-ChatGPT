@@ -1,0 +1,1 @@
+It's not AI Bias that's a concern, it's the humans specifically writing in corner cases like telling ChatGPT to *not* write an essay in defense of fossil fuels.

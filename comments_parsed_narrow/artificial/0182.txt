@@ -1,0 +1,1 @@
+Alternatively, if you can put the music notation in some type of structured format (i believe python has a way to construct/deconstruct notation into a code-like structure), then you could feed in that structured format into chatGPT and make modifications to it.

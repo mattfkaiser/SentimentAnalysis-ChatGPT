@@ -1,0 +1,7 @@
+The OpenAssistant models are still pretty bad right now.  They need a lot more training which the Open Assistant site is doing with real people.
+
+All of the current models that can be downloaded are always going to fall short of GPT-3 and GPT-4 (and even Bard).  Most of the models try to specialize in something like narrative writing, science, philosophy, etc to make up for the small parameter size.
+
+Once you get over 100 billion parameters the processing power is immense.  Transformer models have "quadratic" computational complexity. The processing for ChatGPT to produce an answer increases as the square of the amount of data it is fed as input.  That includes your chat prompts, so the longer your chat is the slower the response is going to be.
+
+We going to start to see hybrid language models coming soon that use convolutional language models with subsets of the model data using transformers.  The convolutional language models use processing power more efficiently, much like transformer models were more efficient than recurrent neural networks.

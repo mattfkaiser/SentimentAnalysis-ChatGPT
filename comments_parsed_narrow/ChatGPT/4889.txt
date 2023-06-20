@@ -1,0 +1,3 @@
+This basically revolutionised Integration.
+
+Imagine you have two plugins, one talks to System A and another talks to System B. Then you ask ChatGPT to run a user case involving both System A and System B. Boom! System Integration right there for you.

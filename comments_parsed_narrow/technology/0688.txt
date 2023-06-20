@@ -1,0 +1,4 @@
+As someone fairly inexperienced who just wants to make simple websites and python scripts, it's taken my projects from "I'm never going to have time to learn and implement all this stuff" to "wow, it was so fast to make this tool that I wanted and now I also understand a few things about how to approach this task"  
+
+
+When you're a beginner, you can get lost in hours and hours of google search, outdated/incomplete tutorials, stack overflow, youtube videos and then still end up getting nowhere. With ChatGPT I've made more progress than I ever thought was possible, it does take a lot of hours and frustrations due to ChatGPT's quirks, but for me, it's still so much faster to make simple projects come to life.

@@ -1,0 +1,1 @@
+I use an app that does fact checking as part of its parsing chatgpt. Lots of updates, so yes they are doing stupid things to how it works.

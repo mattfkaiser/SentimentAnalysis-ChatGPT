@@ -1,0 +1,1 @@
+ChatGPT can generate working SQL queries with a single prompt; it really depends on your use case.

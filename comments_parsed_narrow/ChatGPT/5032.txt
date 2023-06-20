@@ -1,0 +1,5 @@
+It hasn't peaked yet? He just said that simply scaling it up is not a smart (sustainable) way to progress, not that it won't work. It's better to make the models more efficient as the next scale-up will likely cost \~ a billion(s) if the trend continues.
+
+Another thing to consider is that they still owe Microsoft $10bn and 75% of their revenue + full access to model weights goes to them until that is paid off. That's potentially another incentive to make gpt4 cheaper and pay it off before training the next model.
+
+If Bing AI siphons subscribers away from ChatGPT+, it's possible that OpenAI would essentially be trapped into paying Microsoft back forever (or giving access to future models forever).

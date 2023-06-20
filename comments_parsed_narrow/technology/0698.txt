@@ -1,0 +1,3 @@
+Chat gpt provides great answers and write ups, we find it’s accurate 95% of the time for tier 1 questions. That’s why it’s a suggested answer, a user has to check it to make sure it’s not that 5%. At least for customer facing service requests.
+
+For internal IT we just have it run the show

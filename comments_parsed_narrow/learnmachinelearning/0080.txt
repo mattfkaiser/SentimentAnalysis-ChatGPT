@@ -1,0 +1,3 @@
+I asked "when I was 8, my brother was double my age. I am now 24, how old is my brother"
+
+"Your brother is 40" -chatgpt

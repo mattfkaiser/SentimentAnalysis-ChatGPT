@@ -1,0 +1,1 @@
+ChatGPT4 can reverse words just fine. I know this because I [incorrectly predicted](https://www.lesswrong.com/posts/HNqTzxjvaczguH2uJ/what-s-the-least-impressive-thing-gpt-4-won-t-be-able-to-do?commentId=8fAmhqWwf4utkRmSs), before GPT4 was released, that it would be unable to reverse phrases.

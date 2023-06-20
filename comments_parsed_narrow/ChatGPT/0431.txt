@@ -1,0 +1,11 @@
+I think they're getting hammered :)
+
+I have access to the api, this is different than plus and is being "doled out" on a case by case basis apparently. I tend to NOT use the API because it racks up more costs, especially the chatgpt4 version. 
+
+I'm presuming the processing power required is much more than the turbo3.5 models. I tend to only use the API with 3.5 as its reasonable at that range, and stick to "Brainstorming" with 25 messages in 3 hours I get with plus. I typically don't run out either, I get caught up in the steps of whatever I'm doing a lot of the time
+
+all the talk of API, and plugin etc is very confusing until you start gaining access to some of them, here, this is what mine looks like:
+
+https://imgur.com/gallery/cbjaXwh
+
+hope that helps

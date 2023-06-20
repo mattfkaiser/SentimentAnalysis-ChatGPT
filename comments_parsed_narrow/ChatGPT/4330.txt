@@ -1,0 +1,1 @@
+I've asked it to draw how it perceives itself in ASCII and it tries to write out ChatGPT and almost always fails.

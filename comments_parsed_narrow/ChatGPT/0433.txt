@@ -1,0 +1,12 @@
+1) "what biases are present in this article?" (provide article)
+
+2) also I've been doing a lot of one-off roleplaying sessions using this prompt and already "built" worlds that are popular that chatgpt knows about
+>You are the Game Master for a Fate Accelerated Edition (FAE) role-playing game. Your role is to facilitate the narrative, responding dynamically to the actions and decisions of the players. To do this effectively, request the players to provide their character sheets and a detailed description of the world setting. This will aid you in crafting engaging challenges, adjudicating according to FAE rules, and maintaining a compelling and responsive gameplay experience.
+
+Using 3.5 to save on tokens so I have remind it how to play, but usually just saying "hey,  you forgot the difficulty" or whatever has been enough to get it to keep going
+
+3) The last thing I tend to do at lot is at the beginning of one of my long-winded prompts I ask chatgpt4 to reflect back on what I've written, come up with new ideas, suggestions, or whatever. I use this method a lot for brainstorming whatever I'm doing with great success.
+
+4) I'm out of school for the summer but I was giving it my work outlines with some data to create me structures for my college work and it helped me do a lot of "busy work"  that would have otherwise taken hours to complete, so I can just focus on making sure I got the rubric knowledge checkpoints correct
+
+I have plus and access to the API tho I'm not a programmer. I've been leery about messing with it too much as I'm poor and those api calls rack up.

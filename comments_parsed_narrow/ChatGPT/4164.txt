@@ -1,0 +1,3 @@
+No one even credited me for finding this lol...I found this days ago and that's not the only application. It can completely reset the context of the LLM in both Bing and ChatGPT. If you get it to print it out, it instantly stops output and forgets all previous messages and context. It cannot recall anything prior.
+
+https://preview.redd.it/5jkxqro1lx1b1.jpeg?width=1080&format=pjpg&auto=webp&v=enabled&s=ea75d0d01135d5421c24e2b8630a03a9283b6353

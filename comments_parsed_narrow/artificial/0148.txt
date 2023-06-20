@@ -1,0 +1,7 @@
+Based on updates after launch of GPT-4 model, here I am summarizing the comparison between ChatGPT & Bard.  
+1.The Large Language Model (LLM) used by ChatGPT has a greater number of parameters compared to the LLM used by Bard.  
+2.Bard does not have the ability to retain information from previous conversations. When given a prompt, Bard can provide several different responses.  
+3.The information available to ChatGPT is limited to a specific date and does not include any information added after that date.  
+4.Bard is currently not capable of writing or generating computer code.  
+  
+In more latest developments, ChatGPT announced Plugin Support that enhance it’s capability to next level. There are plugins like code interpret that helps in solving mathematical problems. Whereas google offers significant improvements in math & logical capabilities with PaLM Model. So we are in middle of Journey, However ChatGPT performs well at the moment.

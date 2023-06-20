@@ -1,0 +1,21 @@
+Well, to start, I can't think of a case where CPU usage is ever 'hard coded'.  So that's hardly much of a statement.  It's always a matter of what is going on in the background.
+
+But, if you boil down what it told you (which you should always take with a grain of salt since GPT doesn't actually know what any of these words mean really), here's what it might be doing while idle:
+
+* Maintaining internal state
+* Updating model parameters (not retraining, but loading parameters resulting from training externally)
+* Perform background tasks
+
+Notice the things it doesn't claim to be doing:
+
+* Going through additional training
+* Thinking about things on it's own
+* Hanging out on Reddit
+
+If you go back and start a fresh conversation and ask it "once a neural network is trained and deployed for inference, does the original training process affect the computing power used while the system is idle?", you'll get some variation on:
+
+"No, the original training process does not affect the computing power used while the system is idle".
+
+Then ask it, "Is this the case for ChatGPT as well?"  And it will say something like:
+
+"Yes, this is also the case for ChatGPT.  Once ChatGPT has been trained and deployed for use, the computing power used while the system is idle should be minimal and should not depend on the original training process".

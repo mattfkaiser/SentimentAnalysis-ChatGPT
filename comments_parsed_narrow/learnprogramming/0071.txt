@@ -1,0 +1,1 @@
+chat gpt is bullshit. i had to make an assignement in Assembly Risc V and chat gpt could not even handle hexadecimal to binary conversions properly, i ended up having to properly teach chat gpt assembly theory in 32 byte registers before making any question so that i know that he will make the logical answer based on the info that i gave it. it cost me alot of time i must say

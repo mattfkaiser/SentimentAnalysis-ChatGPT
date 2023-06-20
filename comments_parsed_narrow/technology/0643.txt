@@ -1,0 +1,3 @@
+What do you mean according to ChatGPT? When asked what programming languages it knows it lists 19 but says those are just the most popular ones and it's knowledge is not limited to them.
+
+As it was trained on various text including source code, it probably knows every programmig language you can find on the web (even brainfuck that you couldn't really extrapolate much about). Of course it will understand the more common ones better but to imply it has a hard limit of x number of languages completely misunderstands how this AI was trained and how it works imo.

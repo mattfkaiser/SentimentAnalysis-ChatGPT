@@ -1,0 +1,93 @@
+I'd doubt it. AI as it exists today doesn't write - it regurgitates. That makes it excellent for drawing from an enormous database of knowledge and answering multiple choice questions or writing simple essays. 
+
+Yeah an AI can implement rhyme, meter, and _formatting_ commonly present in poetry. It can easily write haiku, or limericks, or in the style of John Milton during the first two years three months six days and a handful of minutes of his writing career. But these are _details_, not _skills_. 
+
+If you want an example, here's Frost's _The Road Not Taken_:
+
+> Two roads diverged in a yellow wood,
+
+> And sorry I could not travel both
+
+> And be one traveler, long I stood
+
+> And looked down one as far as I could
+
+> To where it bent in the undergrowth;
+
+> Then took the other, as just as fair,
+
+> And having perhaps the better claim,
+
+> Because it was grassy and wanted wear;
+
+>Though as for that the passing there
+
+> Had worn them really about the same,
+
+> And both that morning equally lay
+
+>In leaves no step had trodden black.
+
+> Oh, I kept the first for another day!
+
+> Yet knowing how way leads on to way,
+
+> I doubted if I should ever come back.
+
+> I shall be telling this with a sigh
+
+> Somewhere ages and ages hence:
+
+> Two roads diverged in a wood, and I—
+
+> I took the one less traveled by,
+
+> And that has made all the difference.
+
+Now here's ChatGPT writing a poem about travel in the style of Frost:
+
+> On paths less trodden, I often roam
+
+> To wander far from familiar home
+
+> In search of sights I've yet to see
+
+> And the beauty that lies ahead of me
+
+> I take the road that winds and curves
+
+> Through mountains high and valleys swerves
+
+> The snow-capped peaks, the rolling hills
+
+> My heart with wanderlust it fills
+
+
+> The journey's long, the way unclear
+
+> But I trudge on, free from fear
+
+> For every step brings new surprise
+
+
+> And adventure that before me lies
+
+>Through forests thick and deserts dry
+
+> I travel on, with open eye
+
+> To see the world, in all its grace
+
+> And find my own unique place
+
+> So here's to travel, and all it brings
+
+> The joy, the awe, the wondrous things
+
+> May we never tire of the road
+
+> And find in travel, our own abode
+
+It lacks soul. It reads like the poetry of a throw blanket. It understands that Frost rhymed words, that adjectives describe nouns, and that imagery connects to human emotions. But it's just a process. There's no conscious decision to experiment, to understand that some words might sound more enjoyable to a human ear than others, or how to be sarcastic or subversive. And perhaps most importantly, these systems will always create mediocrity of form _because they are trained to synthesize everything available_. 
+
+It can't win large poetry contests, for the same reason it would never write anything groundbreaking - it lacks creativity.

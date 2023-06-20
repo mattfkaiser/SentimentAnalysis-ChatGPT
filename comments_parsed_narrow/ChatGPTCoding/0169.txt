@@ -1,0 +1,7 @@
+Exactly. Ops post is basically my everyday experience with chatGPT; I guess I'm just used to it. 
+
+If you ask for a code example and it doesn't work you can tell chatGPT it doesn't work and it will say "you're correct, my mistake try this code instead"
+
+The funny thing is that even if the code is working you can tell chatGPT the code didn't work and it will say "oh you're right, The code isn't working because of xyz, try this updated code to fix the error. 
+
+That's when it really starts to become obvious how it all works.

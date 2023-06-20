@@ -1,0 +1,1 @@
+I haven't tried HuggingChat yet, but I have used both ChatGPT4 and Bard a bit and GPT4 blows Bard out of the water. Bard has had some decent updates recently (code formatting, copy, copy to Colab), but I feel the quality of the code is much better using GPT4.

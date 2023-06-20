@@ -1,0 +1,9 @@
+I think logic will prevail. Already good arguments against a ban coming from within Germany:
+
+> The former data protection officer of Baden-Württemberg, Stefan Brink, sees no reason to slow down AI software like ChatGPT for data protection reasons. "Although AI regularly uses personal data for training purposes," said the director of the scientific institute for the digitization of the working world (wida) of the Handelsblatt. "However, as far as the data is obtained from the Internet, the legitimate interests of the developers regularly outweigh the protection needs of those affected."
+
+>”The German supervisory authorities should therefore - unlike the Italian ones - observe the development, but not develop precautionary counter-positions for the sake of sensationalism and publicity," said Brink. It is not the task of supervisory authorities to stop new technologies of digitization . "Education certainly helps, but not doubting."
+
+>The head of the federal agency for disruptive innovations, Rafael Laguna, is also against a ban. "You can't stop such digital technology developments with bans, then they just take place somewhere else," he told the Handelsblatt. In fact, it only prohibits oneself from taking part in the opportunities. "We're in the middle of a disruption, it's better to do some research, take part and develop it into what you want and then specifically prevent what you don't," says Laguna.
+
+Source, original article (German): https://www.handelsblatt.com/politik/deutschland/nach-vorstoss-in-italien-man-kann-technologie-nicht-mit-verboten-aufhalten-diskussion-um-chatgpt-regulierung-in-deutschland/29075002.html

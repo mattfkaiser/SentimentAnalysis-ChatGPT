@@ -1,0 +1,3 @@
+https://preview.redd.it/e6jbzf949t1b1.jpeg?width=1080&format=pjpg&auto=webp&v=enabled&s=db60f499cca864450a176a6153ef99660fd16c17
+
+The quotation Marks don't influece the result. I did another Test and it apperently can't read it if it is in another query. OpenAI Probably does some filtering between messages so it's not ChatGPT that can't read stuff in <||> but a simple filter between messages.

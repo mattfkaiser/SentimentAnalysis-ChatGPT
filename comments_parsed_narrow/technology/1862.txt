@@ -1,0 +1,5 @@
+I rather enjoy using ChatGPT for coding. It writes, debugs and optimizes code faster than I can in A LOT of circumstances and generally improves my workflow.
+
+>It can’t write code on its own per se. It generates text based on a prediction of previous works.
+
+I think that's a distinction without a difference. By that definition I also cannot produce code per se.

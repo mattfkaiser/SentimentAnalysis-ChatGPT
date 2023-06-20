@@ -1,0 +1,5 @@
+No it's not.
+
+I've been through this kind of fad before: RAD, 4GL, MDA, what have you.
+
+Yet fundamental complexity laws cannot be ignored, even by ChatGPT

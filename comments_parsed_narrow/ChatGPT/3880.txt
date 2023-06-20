@@ -1,0 +1,3 @@
+> Chatgpt can certainly amalgamate ideas which is essentially what human invention is too
+
+This is what has me curious. The ability to predict what word sequence will sound right to a human is, itself, sort of a little invention -- that I believe chatgpt "invents" by seeing which pattern of words statistically is most likely to to "sound right" to a human. That's why I wonder whether it could use that same statistical inference model of predicting what "works" along with new data attained through experiments, to invent things the same way humans did.

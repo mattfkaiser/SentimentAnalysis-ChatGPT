@@ -1,0 +1,1 @@
+I really wish ChatGPT could return back a confidence interval as a percentage rather than spewing out some generic text about being a language model and could be wrong.

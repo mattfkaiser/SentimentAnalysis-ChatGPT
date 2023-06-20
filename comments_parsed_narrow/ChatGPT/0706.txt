@@ -1,0 +1,5 @@
+I've been programming for decades. I now use ChatGPT for hours a day just to help me think about programming problems.  I've become so much more creative and...umm...widespread?  I will attempt things I wouldn't before because I know ChatGPT will get me going way faster than anything before.
+
+ChatGPT is not for giving me the answer, it's for helping me ask the right questions.
+
+It's kind of like an uber rubber-duck debugging tool.

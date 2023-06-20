@@ -1,0 +1,8 @@
+I've found that if I tell it it's role. Like..
+You are now chatAuth internationally best selling sci-fi thriller writer...
+And then give it rules to follow 
+Rule R1: No exposition, No foreshadowing, No moralising, etc...
+I have a few other rules
+Then whenever I am after a particular style of response I ask it to "remember rule R#"
+If one uses a rule regularly chatgpt4 remembers it quite well but if you don't use it you will find that your rule has morphed into something it makes up for itself.
+Also if you have characters, give them explicit character profiles otherwise chatGPT has a tendency to make everyone friends with each other which doesn't always make for good drama.

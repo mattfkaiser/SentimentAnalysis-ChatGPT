@@ -1,0 +1,9 @@
+ChatGPT makes a remarkable amount of mistakes. You tell it one thing and it starts mixing things up, forgetting parts, and even just auto-completing it's own made up version.
+
+In dealing with something as serious as cancer diagnostics, you cannot afford to have the AI mess up like that. 
+
+Instead of trying to use a general purpose language model to do tasks for you, you'd need an AI specially designed for what you're trying to do if you want it to be reliable. For example, if you want to speed up filling in databases, rather than using the AI designed to hold a conversation, you'd be better off with a simple tool for sorting the data entered into it.
+
+Furthermore, as other people mentioned there's some large patient confidentiality and data protection act risks in using it, as well as the possible legal issues of implementing it without thoroughly going through the right people and all the paperwork involved in incorporating a new tool in any kind of healthcare or businesses in general.
+
+I think you're jumping the gun on this and need to reevaluate your stance and look into other solutions before just going for the first seemingly convenient option.

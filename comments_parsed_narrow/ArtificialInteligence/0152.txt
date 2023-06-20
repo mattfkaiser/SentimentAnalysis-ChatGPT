@@ -1,0 +1,7 @@
+Heres the prompt i used (generally). You have to keep in mind that it won't always do things perfectly the first time. I had to ask several times to get what i wanted. 
+
+&#x200B;
+
+Prompt: Hi ChatGPT, create a browser based 2d game. Any game is fine. I want to be able to embed it into my Google Sites website. Wrap all required source code in an html tag. keep it under 4000 characters. 
+
+prompt writing is probably going to be a very highly valued skill. Let us all improve!

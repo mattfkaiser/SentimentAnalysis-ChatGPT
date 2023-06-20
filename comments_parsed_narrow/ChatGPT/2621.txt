@@ -1,0 +1,6 @@
+> https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html
+
+A lawyer used an artificial intelligence program called ChatGPT to help prepare a court filing for a lawsuit against an airline.
+The program generated bogus judicial decisions, with bogus quotes and citations, that the lawyer submitted to the court without verifying their authenticity.
+The judge ordered a hearing to discuss potential sanctions for the lawyer, who said he had no intent to deceive the court or the airline and regretted relying on ChatGPT.
+The case raises ethical and practical questions about the use and dangers of A.I. software in the legal profession.

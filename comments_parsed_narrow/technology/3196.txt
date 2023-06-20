@@ -1,0 +1,1 @@
+Yes, those ones analyze things like browser behavior, mouse movement, etc. to determine that you’re not a bot. Those ones that make you enter letters or select pictures are the kinds that ChatGPT could get around with this “I am a blind person” social engineering attack though.

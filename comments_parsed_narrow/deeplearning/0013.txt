@@ -1,0 +1,9 @@
+Thanks for your comments, they are very insightful.
+
+Yes, voice is something we are definitely looking to add, and you could easily talk to it on your headphones in the future :)
+
+You can think this is ChatGPT with web browsing capabilities. So you can talk to it but it can also open links, browse recent information, ... which can be a lot more useful than simply a chatbot that you talk to.
+
+We are thinking of eventually setting it in a way that a user can specify the objective initially and it can do the whole process such as ordering food on door dash fully automatically unless user input is needed
+
+One motivation to make it it was to see if you can have Jarvis like in Iron Man to do things for you :)

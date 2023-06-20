@@ -1,0 +1,12 @@
+A slight tangent. IBM is laying off thousands of employees as of a report from yesterday due to enhancement in their own proprietary AI. 
+
+EDIT - my bad. No IBM layoffs but slowing down hiring in the next few years. 
+
+
+Anyway - So AI is disrupting. 
+
+Also I'm a Network Automation Engineer. My manager told me we won't be needing another for the time being because I got it covered ( I'm using ChatGPT4 to write me netmiko scripts and Ansible playbooks). It gets the job done and I do all the security vulnerability patches myself since they need to be tailored to my workflow. 
+
+So yeah. It's taking jobs. Slowly. 
+
+Those who don't adapt, adjust, accommodate will feel AI's wrath in a few years. That includes me as well but I'd wager my team wouldn't buckle if they had just one automation engineer and since I'm already around, my job won't be affected in the near to moderately far future.

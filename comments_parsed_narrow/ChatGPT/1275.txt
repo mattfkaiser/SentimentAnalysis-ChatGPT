@@ -1,0 +1,4 @@
+I've used it to write Powershell scripts; when I need to look up a command or something, I don't bother with Google searches any more. I've used it to examine blocks of code to tell me what they do; ditto with security policies written in JSON, and clean up code that I've written.
+
+With the the Linkreader plugin on ChatGPT4, I can enter the URL of a video, web page, PDF, what have you, and the AI will summarize the contents for me. It's a great way to get the summarized version of a story behind a paywall.  
+For fun, I've created D&D characters, magic items, fantasy languages, a mashup of Tolkien and a computer repair manual, blues songs about quantum physics...

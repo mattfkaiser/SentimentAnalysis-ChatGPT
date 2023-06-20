@@ -1,0 +1,5 @@
+It depends what you want to do. I gave some examples here: https://www.reddit.com/r/technology/comments/10ro9gi/chatgpt_may_be_the_fastestgrowing_consumer_app_in/j6xu0t8/?context=3
+
+Generally, just imagine you're talking to an engineering junior (who is omniscient but will also bullshit you at times). Give it tasks, ask for changes, ask for output based on other output, paste in information, ask for output based on that information etc.
+
+What is it that you are trying to do?

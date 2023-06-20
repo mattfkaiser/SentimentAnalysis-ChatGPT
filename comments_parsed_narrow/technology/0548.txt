@@ -1,0 +1,5 @@
+This is hard to answer, but as it is LLMs is a tool that can do a lot of different things good, but being factually correct is something that can vary greatly and should therefore not be treated as factually true source. This is why you for example chat gpt user agreement states this.
+
+But there might be LLM from a company that specialises in a certain task, for example summary which sells the LLM as a product to other companies and could be held accountable by the consumer. (Also very big companies would probably make their own LLMs for different tasks.)
+
+So to use today's chatbots as something it is not is hard to hold liable for something.

@@ -1,0 +1,4 @@
+This has actually already existed for a while. My comment will probably be lost in the sea of comments, but this is worth mentioning. Open AI made an output detector for GPT-2, by training a model against the output. Funny thing is, that model still works today with ChatGPT. You can try it out on hugging face's site (or run it from their github too):
+
+  
+https://huggingface.co/openai-detector/

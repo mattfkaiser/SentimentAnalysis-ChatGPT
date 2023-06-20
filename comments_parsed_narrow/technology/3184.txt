@@ -1,0 +1,1 @@
+I asked ChatGpt if it was going to develop its own client facing applications and it said something to the effect that it expects third party developers to do that and went on to explain how to use its API and at the moment there are no plans to expand outside of that.

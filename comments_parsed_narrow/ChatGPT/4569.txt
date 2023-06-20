@@ -1,0 +1,17 @@
+You’re not going to get chatgpt to write you a major application in its entirety at this point no matter how well you engineer those prompts. 
+
+But an application is nothing more than an assembly of thousands of smaller tasks put together into bigger tasks, built together into even bigger things.  As it turns out, the lower level the task, the more important it is to understand the nuances and libraries of a programming language. 
+
+CGPT can crank out all kinds of low level code all day long. For the higher level implementation of actual value, you are better off with an adequate understanding of code to just do it. 
+
+In my corporate coding days we would write these massive design specifications to document and describe major projects. In MOST cases, these specifications FAR exceeded the amount of high level code written to implement it. 
+
+But that massive specification is what you would have to provide to CGPT for it to write the code. Otherwise it’d just be guessing at what you want and you would just be constantly asking it to revise things. 
+
+Coding is a HUGE area. You can write code to decode a Huffman compression or write code to display a cat when the user presses a particular button. 
+
+For a human the first one is difficult because it requires understanding a detailed specification and precise binary manipulation.  CHPT can write this code in seconds. 
+
+The latter is easy for a human because it assumes a user interface of some sort already exists and some way to display images already exists and you’re just writing onbuttonpress display cat.gif. But for CGPT to write that simple code, you have to provide it with the entire background of the app, the details of any higher level functionality already written (like displagif or whatever),etc. it’s not really designed to do that. 
+
+A more programming specific AI model could be developed for this purpose. But CGPTis not that.

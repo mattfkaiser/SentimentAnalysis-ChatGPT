@@ -1,0 +1,3 @@
+> Right now users don't send or receive requests in ChatML but it is being used under the hood
+
+Correct. If you use the API, it's "meant" (in quotes because it's in preview) to be used with the Completions endpoint. ChatGPT uses the Chat endpoint, which sort of automatically adds things like `<|im_start|>assistant` to differentiate between user and gpt output. Manually inputting it into the Completions endpoint allows you to use it like the Chat endpoint.

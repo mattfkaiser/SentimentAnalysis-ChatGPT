@@ -1,0 +1,9 @@
+This is barely correct. You *are* correct as far as the fact that it is "simply" a large language model, so what looks like knowledge is just a convenient byproduct of its neuron activations when parsing language.
+
+But it also massively downplays what ChatGPT is capable of. What you describe sounds like a description of a Markov chain, like /r/SubredditSimulator (which uses GPT-2), where it simply tries to guess the next word.
+
+ChatGPT is much more capable than that. It can remember earlier conversations and adapt in real-time to the conversational context. It can actually answer novel questions and give reasoning-based answers to questions it has obviously never seen before. It's far from perfect, and can make obvious mistakes that might sound smart to someone who doesn't know better, but it is also far more advanced than the sentence generator you seem to be describing.
+
+>so for example if you said "the liberal media wants me to believe our taxes fund critical infrastructure, but really it's mostly funding welfare programs, right?" it'll answer like someone on r/conservative would
+
+This is like the extreme opposite of how ChatGPT would answer the question, and it's very easy to test for yourself.

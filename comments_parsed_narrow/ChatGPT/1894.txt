@@ -1,0 +1,1 @@
+There's a bunch of plugins for ChatGPT that give it [web access.](https://github.com/qunash/chatgpt-advanced)

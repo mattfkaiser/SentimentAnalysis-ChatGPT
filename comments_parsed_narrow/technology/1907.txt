@@ -1,0 +1,7 @@
+>  You can not know the answer to something but be able to spot an incorrect answer
+
+No, usually you will usually not notice the errors in chatGPT. It's entire point is to generate convincing, correct-looking output.
+
+>If I don't know what the the scientific name of a fruit fly is and ask ChatGPT, I will know it is wrong if it responds with "Home sapien".
+
+What if it replies "dropsophilia ludens"? That's the kind of error it tends to make.

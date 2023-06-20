@@ -1,0 +1,3 @@
+>It can generate things that are somewhat novel, but cannot generate concepts that are absolutely novel from scratch.
+
+True but, just to spitball, is there anything really novel from scratch? i.e. isn't everything connected in some way to ideas from the past and developed at least partly, if not predominantly, by trial and error? Remember Edison's line about ingenuity being 99% perspiration and 1% inspiration. Perhaps that inspiration is connected to something Edison saw, and which ChatGPT would also see and be inspired by.

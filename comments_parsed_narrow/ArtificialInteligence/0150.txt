@@ -1,0 +1,5 @@
+1. Love to see simple games being done with ChatGPT. This is a very simple game and I did something similar in Scratch years ago with simple textures, but that took hours.
+2. Highly recommend putting the instructions of the game on the website you are playing it on.
+3. Arrow keys and A/D should both be options to move the character in a 2D game. Just for the future OP.
+4. If you really care about the game, then some balancing needs to happen. Right now it is not fun to play for more than 3 seconds. Character moves too fast, objects drop down too fast, things speed up way too much in a matter of seconds, etc.
+5. Godspeed OP :)

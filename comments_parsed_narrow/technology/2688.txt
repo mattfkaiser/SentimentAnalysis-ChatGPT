@@ -1,0 +1,7 @@
+There actually is a working prototype (probably multiple but I only know of one) built by a dude at IBM that uses ChatGPT as an input/output for prompts and then can determine if it needs to reference additional AI/online tools (Wolfram Alpha included), pull in that data, then provide it. All while being read back to you using AI text-to-speech with a digital avatar.
+
+I forget the name but saw it on Youtube the other day. Essentially a context-based Swiss army knife of AI/SE tools. Shit is gonna be wild in 5-10 years.
+
+Edit: [https://www.youtube.com/watch?v=wYGbY811oMo](https://www.youtube.com/watch?v=wYGbY811oMo)
+
+YT link for the video, as requested.

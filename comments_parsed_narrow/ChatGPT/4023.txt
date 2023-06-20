@@ -1,0 +1,11 @@
+You clearly haven’t spent any time with it if you’re calling it “not AI”. Most humans wouldn’t get anywhere near 60% percent on a math test without a calculator. 
+
+And not only can GPT-4 use a calculator, it can build them. I have no coding experience, but added several calculators to one of my financial projects, all of them built using GPT-4. I tell it what I want the calculator to do, it understands exactly what I’m asking, it writes the code, I copy and paste. 
+
+It’s capabilities are beyond profound. 
+
+And whether GPT-4 (which wasn’t out in January, we were still on 3.5 at the time) is good at math or not, is completely irrelevant with respect to jobs. We use tools and software to do our jobs. GPT-4 will (and can) use those same tools and software to do the same job. 
+
+Having said that, it is good at math too, https://youtu.be/hJP5GqnTrNo
+
+It’s incredibly naive to think of a guard-railed ChatGPT’s limitations and draw conclusions from that. Wait until the enterprise versions trained on specific datasets and to use specific programs become available.

@@ -1,0 +1,7 @@
+Many thanks. I did a test. I got Chatgpt to write an introduction to a fictional murder story. I pasted that into the AI checker at [writer.com](https://writer.com). It came up as 100% human wtitten (only accepts 1500 characters at a time). I then pasted it into Copyleaks.com and it came up as 100% AI written.
+
+WHAT THE ...?
+
+Anyway, I followed your guide and it worked, showing "this is human written"!
+
+Thank you

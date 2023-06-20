@@ -1,0 +1,13 @@
+I've used it extensively, but until they find a way to stop it hallucinating, it's a very dangerous tool for education.
+
+I've been working on upgrading a client-server to use OpenSSL, and it's been extremely useful for me.  But there was one time where I was asking about diagnostics, and it hallucinated a completely fictitious diagnostic facility in OpenSSL.   My reaction was, "How in the world did I not know about this?!", only to discover it didn't actually exist.  
+
+
+I've also talked to it a lot about math as well, and it hallucinated a completely non-existent theorem (that would be cool if it were real), and even gave me links to it.  One of the links was a Wikipedia page that didn't exist and the other link went to something about psychology that was wholly unrelated. 
+
+ChatGPT is a very useful educational tool, but only for people who are savvy enough, and careful enough, to realize that sometimes it lies egregiously.   That does not describe children... you know, the same people who use Wikipedia as a source for papers, etc.
+
+I've also learned not to ask it leading questions, but word them in a more neutral manner, because it tends to confirm things that aren't entirely true.    
+
+
+I have to wonder how much \_you\_ have used it.

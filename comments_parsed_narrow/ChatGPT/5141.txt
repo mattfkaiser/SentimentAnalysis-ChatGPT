@@ -1,0 +1,1 @@
+True, so any pronoun is valid. You can ask ChatGPT themselves for a preference. Ask enough times, get every possible answer. I just use "they" since one model generates many unique agents.

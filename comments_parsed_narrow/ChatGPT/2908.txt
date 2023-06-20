@@ -1,0 +1,3 @@
+A frontend server is not _the frontend_, I agree, but it can have a distinct IP address from the actual backend where the interesting stuff is running. 
+
+[In the context of this discussion](https://www.reddit.com/r/ChatGPT/comments/13o6gtv/chatgpt_doxes_itself/jl4n3m1/), you may know the IP address of OpenAI's frontend servers (or even just cloudflare), which send you the HTML/etc and manage your login session, but not the IP address of the servers that are actually running the model and plugins, so this post isn't pointless.

@@ -1,0 +1,3 @@
+I said the input to ChaGPT is not encrypted, because the AI model needs plain text to understand your words. So i did not lie. You are the liar .
+
+Now the problem is what is their encryption politics in their databases etc. And who exactly is allowed to review conversations, how many people,  are they selling infos, datas, etc.. (cf. article). Yet people continue using Chat GPT as if it was a private communications tool, not even knowing what is the level of security of their datas inside Open AI systems. They tell their lives (Snapshat shit) their company code, etc...This is a big problem and it is only the beginning I think.

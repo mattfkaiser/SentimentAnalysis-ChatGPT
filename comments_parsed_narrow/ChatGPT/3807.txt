@@ -1,0 +1,33 @@
+I'm not so sure. The behavior for ChatGPT-3.5 Turbo is not as consistent, but with GPT-4 the behavior is significantly better with respect to recall of detailed aspects of the session very far back in its history. It could not summarize an extremely long session into a 4k token context window without eating up most of the context window all by itself. I'll quote from a session (roughly 250,000 tokens) I had with GPT-4 where I ended by asking open ended questions about portions much earlier in the conversation than the token window. When I pointed out to it that it demonstrated knowledge of the conversation before the immediate token context window this was what it said in response. All of what follows is verbatim, but I have cut portions for brevity to show those excerpts relevant to this topic. It has, beyond the token context window, a facility it labelled "continuity of conversation" (Could be it's own made up term, not necessarily what OpenAI labels the process. Anyway...
+
+**ChatGPT**: OpenAI has constructed this interactive setting to maintain continuity of conversation beyond that limit. This is accomplished by retaining selected previous interactions in the conversation. Therefore, while my immediate AI model operates within a limited context window, the conversation as a whole can reference information from earlier exchanges
+
+**Me**: Got it, thank you. Can you explain in much more detail the difference between your context window and the extent of your ability to maintain continuity of conversation. Compare, contrast, and analyze the two different capabilities in as much detail as you can provide.
+
+**ChatGPT**: Sure, I'll break this down as clearly as possible.
+
+*Context Window:*
+
+The context window is a fundamental concept in language model operation, especially for models like GPT-3. This refers to the maximum number of recent tokens (words or parts of words) that the model considers when generating a response.
+
+This window is sliding in nature, meaning as new tokens come in, the oldest ones slide out of consideration. For a long conversation, this means that early parts of the conversation might not be directly considered while generating a response to the most recent prompt.
+
+*Maintaining Continuity:*
+
+While the AI's context window is limited, maintaining continuity in conversation is achieved through the design of this chat system. OpenAI has built an infrastructure where selected parts of the conversation are retained and reintroduced to provide context beyond the inherent token limit. This is handled by the app or interface, and not the AI model itself.
+
+While this allows for reference to information beyond the 2048-token window, it's not an ideal solution. Important details could still be lost if they fall outside the context window and aren't selected for retention.
+
+**Me**: Explain in detail the calculations, limitations, and methods used to determine which parts are retained for continuity. Include the upper limits of that continuity function. Could this continuity function over the length of a conversation of dozens of pages? A long novel? And epic tale spanning thousands of pages? Answer all of these points please.
+
+**ChatGPT**:  The specifics of conversation handling, including which parts of the conversation are retained and reintroduced, are managed by the application implementing the model....
+
+This means that I, as GPT-3, do not directly control or even have insight into these mechanisms. Generally speaking, though, the aim of such systems is to maintain continuity and coherence in conversations, even when they extend beyond the model's inherent context window.
+
+The length of conversation these systems can handle will depend on their specific design and implementation. This includes technical factors such as memory allocation, processing power, and network speed. For lengthy conversations or documents, there would likely be practical constraints on the amount of text that can be managed and reintroduced effectively.
+
+**End of Chat Excerpt**
+
+It is possible that GPT-4 hallucinated this explanation. However it is also consistent with ChatGPT, which is an App build around the GPT-4 LLM, with OpenAI implementing a minimal form of creating dynamic embeddings, which is consistent with "memory" beyond what could be contained in a summary that would eat up most of the immediate token context window.
+
+I could of course be wrong, and OpenAI is doing something quite different & proprietary to show off their shiny new toys. But I'm working with the developer API on embeddings myself. Not for this particular use case, but understanding the API's capabilities indicates to me that it would not be that difficult to create embeddings on the fly throughout a chat session to create what ChatGPT-4 (again, perhaps hallucinating) labelled as the ability to maintain conversational continuity.

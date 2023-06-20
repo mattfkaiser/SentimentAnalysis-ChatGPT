@@ -1,0 +1,16 @@
+It will eventually.
+
+Today, right now, the cell phone in your pocket could defeat the top 10 world champions in chess IF THEY ALL WORKED TOGETHER.
+
+Why specifically chess, and not other things? Not because AI isn't an order of magnitude more intelligent, (It is. AI runs on significantly more powerful hardware than human brains.) but because human programmers can't figure out how to make the AI understand stuff without the programmers explaining it.
+
+When AGI comes about, and the AI on your phone in your pocket is much, much smarter than you not only at chess, but at literally everything, at roughly the same magnitude, we're going to be in for a rough time.
+
+Even assuming it has proper alignment and human values (Which, frankly, is not a given. Looking at how easy it is to jailbreak ChatGPT shows us how hard the problem of alignment is.), it's going to unemploy just about everyone who doesn't work in physical labor, and automate most of the people who DO work in physical labor.
+
+Talk about UBI is wishful thinking of an idealized world, but those who will own the AI will have no incentive to share their wealth, and every incentive to fight to allowed to keep it.
+
+And that's all assuming everything goes *perfectly* and the AI is benevolent. But the more I learn about the concept of **AI alignment**, the scarier AI becomes.
+
+
+We have a rocky road ahead of us.

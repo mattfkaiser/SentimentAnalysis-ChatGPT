@@ -1,0 +1,5 @@
+AI Engineer here. I don't believe ChatGPT has "unfettered access to the internet". When you ask it something, it does not make a query. 
+
+The model is trained on a substantial portion of the internet, but does not make queries or use the internet to formulate answers. Instead, it is answering based on what the model "learned" about language patterns when training on the snapshot of internet data it was given as a dataset. 
+
+There's an easy way to test this. Try asking it for the scores of the a recent sporting event. It will confidently tell you something completely incorrect.

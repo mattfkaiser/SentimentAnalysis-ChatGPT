@@ -1,0 +1,17 @@
+>	These LLMs have fallen into the hands of the masses and any reasonably competent company can either ‘raise’ their own, or cheaply buy the weights data from anywhere to run an LLM for their own services. That openness and wide access is the difference.
+
+I’d like to point out that the open access of LLM is due almost entirely to leaks. At least for the capabilities people are talking about. OpenAI is no longer open despite popular myth people believe about them due to the name. 
+
+
+Open source is expected by Google to outcompete both their own offerings and OpenAI. Just like happened with image generation, which is probably why these companies closed source. Google is even stopping its publishing of white papers until they have monetized the topic of the paper. 
+
+
+Watson simply required compute power that normal people and companies didn’t have at the time. And it was sold as a service to begin with, just like ChatGPT and clones. 
+
+Data was also nowhere near as available as it is now. The entire GPT concept wasn’t even invented until 2018. That’s 8 years after Watson. Totally different models and approaches. 
+
+
+Open access is definitely what’s going to determine whether this lives or dies. But OpenAI, Microsoft, Google, and the rest are determined to close source everything now. The open experiment has proven to be a liability insomuch as profit is concerned.
+
+
+Why else does anyone think these giant companies are suing for regulation on these models? It is to stop you, I, or other capable people from creating or running our own. These enterprises can afford to operate within regulation they assist in crafting. These companies are hyping up the product’s fear factor (which is why it’s being sold as this dystopian sci-fi event to the press almost) to get the government to do something about it and cut off open source competitors.

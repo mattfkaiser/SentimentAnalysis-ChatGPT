@@ -1,0 +1,1 @@
+These plugins are not browser plugins, they’re “addons” to chatGPT itself, integrated into the model now. Plug-in as a terminology these days conveys the wrong idea, not your fault!

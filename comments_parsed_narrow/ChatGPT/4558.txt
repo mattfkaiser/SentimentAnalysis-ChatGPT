@@ -1,0 +1,13 @@
+I am a software developer. 
+
+I have it respond to stuff I want to bring up with my team, to be better prepared for meetings. ("respond three times, once as project lead, once as an educated user, once as a malicious user"). I also like to give it proposed ideas and find pros/cons. It is also very useful in the initial phases of development, to more easily find where to focus attention. To be clear, I am not presenting as if these were my ideas, I am just the "AI-whisperer" in the group. There is an internal policy of not giving it actual code or detailed product descriptions.
+
+It has also replaced most information-gathering web searches in my personal life, and this is where I have been playing around more.
+
+Unsure what to make for dinner? Just ask for recepies including "these things", or "what is left after I made the dinners this week" when it starts having that granular information. Ask for new staple ingredients that I might like based on earlier feedback, generally it works great as a kitchen buddy. I even ask it if I have enough of some ingredient while at the store. "Have to save money this week" vs. "This is an important dinner date". ChatGPT knows what shelves different foods are stored on, and the best before dates on the dry goods. This is my "complete information" test, and it is working very well. It has made me eat better.
+
+Other non-professional areas I have discussed are; leather shoe maintenance, fashion tips, beard grooming, house maintenance, renovation queries and organisation. These kinds of queries were iffy back in December, I expect the dataset had a lot of sponsored content, but it has gotten better since.
+
+As for education, I have been trying to wrap my head around the magnetism/electrics end of physics, getting feedback on written texts and done lots of ethics discussion, to freshen up my Ex.Phil. and ethical computing courses. In an education/professional capacity I have also had it do two-paragraph summaries of algorithms and concepts that I have forgotten or never encountered before, this has saved me at least a week of work-related research this year.
+
+The truly trivial stuff is novel jokes of the absurdist variety and job applications for non-existent fields.

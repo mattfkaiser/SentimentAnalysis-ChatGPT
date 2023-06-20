@@ -1,0 +1,1 @@
+ChatGPT should be looked at like *Wolfram Alpha* in math class: You can plug just the problem statement itself in, and get a solution. With a calculator, you need to understand the intermediate steps well enough to operate the device, it only saves you the mechanical effort of running the numbers.

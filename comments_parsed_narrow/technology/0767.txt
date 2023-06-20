@@ -1,0 +1,5 @@
+you're right. for example i asked chatGPT a simple question to create a regex to split up ID, name, code and quantity of a product from a string and it took it tinkering the question more than 20 times. 
+
+Sometimes it was not splitting up name and code from each other. or when it was telling me that this code gives this output, real output was just an error.
+
+it could be the case that i was wrong, but i doubt.

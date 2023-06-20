@@ -1,0 +1,9 @@
+What is it that you're concerned about, specifically? This seems like a tool that does the following:
+
+* Takes in a general description of a vacation
+* Produces an itinerary (so far all doable with ChatGPT circa months ago)
+* Then takes that itinerary and looks up each stop in Google Maps to provide specific photos, details and booking info.
+
+Am I missing something? It's not like the AI is being given control over Google Maps, here. There's just a dumb (no offense to OP) little script of the sort people were writing in 2000 to feed form data into a webpage.
+
+The fact that that form data is coming from an AI is kind of irrelevant.

@@ -1,0 +1,3 @@
+It's important to note here that llms are NOT very good at reasoning but they are perhaps the best when you consider a "generic" algorithm i.e. without a lot of domain specific work. 
+
+For logical reasoning, you'll usually need to resort to symbolic representations underneath and apply the rules of logic. ChatGPT may appear to do that well especially with 1st and even 2nd order but longer chains will make it stumble.

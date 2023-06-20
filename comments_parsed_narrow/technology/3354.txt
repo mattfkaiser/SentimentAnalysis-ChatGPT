@@ -1,0 +1,1 @@
+Not sure if you've ever used chatGPT, but you would need to be a heck of a lot more specific in order to get a useful product. Other commenters are correct in claiming its use as an autocomplete tool, but in order to build anything useful from the output, the input must be carefully crafted. The example input you provided would not provide anywhere near the output in reference.

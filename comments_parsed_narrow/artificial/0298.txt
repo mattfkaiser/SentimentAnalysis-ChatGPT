@@ -1,0 +1,3 @@
+It's not "programmed to please you". It's trained to give answers according to a model of human approval, which does not simply mean "please the user" but rather "give answers that humans judge as high quality".
+
+And in fact, ChatGPT _usually_ answers these questions by explaining that it's a language model and can't remember past interactions.

@@ -1,0 +1,11 @@
+Hey! 
+
+We recently released the first version of our web search feature for HuggingChat. It's our free and 100% open source alternative to ChatGPT, powered by community models hosted on Hugging Face. 
+
+The websearch feature is free to use, and still in early beta but it's already been helpful for reducing hallucinations and getting up-to-date knowledge on current events past the training window. Of course there's still lots to do but it's fully open source so feel free to contribute on GitHub with your ideas and feedback as well. 
+
+Let me know what you think, we're always looking for more feedback!
+
+Link: [https://huggingface.co/chat/](https://huggingface.co/chat/)
+
+GitHub Repo: [https://github.com/huggingface/chat-ui/](https://github.com/huggingface/chat-ui/)

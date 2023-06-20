@@ -1,0 +1,10 @@
+
+
+Repeat after me: ChatGPT isn’t trained on truth.
+
+https://openai.com/blog/chatgpt
+
+> Limitations
+>ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers. Fixing this issue is challenging, as: (1) during RL training, there’s currently no source of truth
+
+There’s no source of truth, there’s no source of truth, there’s no source of truth, there’s no source of truth…

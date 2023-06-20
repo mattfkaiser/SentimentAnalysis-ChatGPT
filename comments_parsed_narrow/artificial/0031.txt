@@ -1,0 +1,5 @@
+Of course the inputs are encrypted. The site uses TLS, like virtually every other site these days, which means that literally all communication between your browser and ChatGPT is encrypted after the initial handshake.
+
+Now, once it reaches their server, it’s decrypted. Of course it is; you can’t run inference on encrypted text. To an AI model, encrypted text looks like random noise.
+
+By the same token, almost no data you work with online is what they call “encrypted at rest”, meaning stored in an encrypted form. Encryption at rest is extremely expensive to engineer around, and virtually always limits functionality that you want as a user.

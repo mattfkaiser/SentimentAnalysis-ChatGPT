@@ -1,0 +1,3 @@
+It's also low-key better than Stack overflow. I used chatGPT to help me debug and point out my logical mistakes and it's very helpful regarding that.
+
+I highly discourage using it for direct answers, because that's not learning how to program at this point.

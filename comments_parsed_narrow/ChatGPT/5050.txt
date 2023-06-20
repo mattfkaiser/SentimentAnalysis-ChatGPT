@@ -1,0 +1,1 @@
+Yeah like enable all plugins by default and bake it into the browsing functions. Anyways all these plugins are verified by ChatGPT so should be fine to enable all because sifting through 15 pages of plugins is kind of a lot.

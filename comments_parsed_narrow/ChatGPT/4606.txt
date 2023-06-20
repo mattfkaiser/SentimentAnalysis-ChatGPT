@@ -1,0 +1,16 @@
+I'm regularly looking into health and fitness information, often trying to get specific answers that are based on scientific studies. Both ChatGPT and Bard are great for this, they can traverse hundreds of studies and I can get rather picky about what information I want, continually building on the context.
+
+Brief example of questions from ChatGPT: (omitting answers for brevity)  
+\- What are the benefits and side effects of taking L-arginine?  
+\- Does citrulline have similar effects?   
+\- What risks are there in taking citrulline?   
+\- Those sound like mostly short term risks. Are there any long term risks?   
+\- Are there any studies related to the first two risks?   
+\- Can a person get the benefits of citrulline with less than 8g per day?
+
+Brief example from Bard (hope that's OK here):  
+\- Do deadlifts release growth hormone in the body?  
+\- Did any studies use only one set?  
+\- Did any of the one set studies take the set to failure?
+
+I could have gotten all this information myself, but it probably would have taken hours of parsing large studies and looking for specific dosages and subject parameters. The new AI systems make this a breeze.

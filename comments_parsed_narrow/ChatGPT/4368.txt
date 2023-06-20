@@ -1,0 +1,21 @@
+Feel free to use it to translate something into your own language if you just want to get a quick gist. But don't expect ChatGPT to translate anything important into other languages with any sense of idiomaticity or competence.
+
+>Me: Translate to Esperanto: “As they were driving back from a weekend getaway, John felt a strange pain in his chest.”  
+>  
+>ChatGPT: Dum ili revenis hejmen el weekenda eskapado, John sentis strangan doloron en sia brusto.  
+>  
+>Me: Is “weekenda” really an Esperanto word?  
+>  
+>ChatGPT: “Weekenda” is not a common Esperanto word, as it is a loanword from English. The more common Esperanto word for “weekend” is “fino de semajno” or “semajnfino”. However, since Esperanto is an international language and has a flexible structure, it is acceptable to use loanwords in certain contexts where the meaning may not be immediately clear or where the use of the Esperanto equivalent may be impractical.
+
+"Weekenda" is completely made up - there is no W in the Esperanto alphabet. Ah the joys of hallucination! And semajnfino is sufficiently common that it doesn't need to use a loanword.
+
+And when it does at least use correct vocabulary, the sentence structure is very much "Englishy"
+
+A satisfactory translation would have been: "Revenante hejmen post semajnfina ferio".  
+
+So what? Esperanto is a minority language. But my point still stands. If you're not a competent French speaker, how would you know if ChatGPT is or isn't doing the same things in your French translations?
+
+Use it as a helper, never as a language tutor or translator replacement.
+
+Bonus fact: In Esperanto culture, the expression "it's all Greek to me" is "Ĝi estas por mi volapukaĵo". Greek is replaced with Volapük, an older failed constructed language. :)

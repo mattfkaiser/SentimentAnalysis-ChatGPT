@@ -1,0 +1,1 @@
+Basically yes. You can create a very good probabilistic model of Chatgpt output. Think of it as a program that tells you which word is likely to come next. Then you can compare the text at hand to your prior. However you might have to know the original question asked to chatgpt as it can produce texts in lots of styles and lots of probabilistic models will be needed.

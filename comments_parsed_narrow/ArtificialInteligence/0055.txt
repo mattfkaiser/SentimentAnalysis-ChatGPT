@@ -1,0 +1,1 @@
+People are stupid. ChatGpt's brain works similar to human brain. Only problem it have, is it cannot continously update its parameters. It is same as human potential if it can dynamicly update its weights.

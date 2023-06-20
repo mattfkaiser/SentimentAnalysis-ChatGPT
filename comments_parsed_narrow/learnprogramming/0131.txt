@@ -1,0 +1,13 @@
+It looks like there's an API for it- https://openai.com/api/. So it's probable that this task can be entirely automated. There's plenty of languages that are fine for this.  I lean towards recommending Python, mostly because there's probably plenty of instructions on the internet for doing this stuff in Python. You could have a program that followed these steps-
+
+1. You put all 300 prompts you want into separate lines in a text fine.
+
+2. The program reads the lines of the file, and for each line-
+
+   2.1 it gets the information from chat GPT via the API call using the prompt from the line it read in
+
+   2.2 it appends the response to a text file
+
+   2.3 it appends the hyperlink (constructed in step 2.1) to a CSV file
+
+The speed at which this happens will be limited only by the speed at which chat GPT lets you make requests. I don't have more info because I'm not signing up for an account with them to look at their info. But you can! There might be sample code in there, too.

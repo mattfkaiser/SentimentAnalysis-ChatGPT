@@ -1,0 +1,9 @@
+Why did this take so long to show up? Has no one here actually use GPT in the workplace and looked up the licensing and privacy guidelines?
+
+For fuck's sake people you can even copy + paste them into GPT and ask it to explain them for you if you wanted.
+
+I BELIEVE OpenAI was "opt-out" rather than "opt-in" until recently. You had to send them an email asking to opt-out.
+
+We did that and we also built a custom ChatGPT app on top of OpenAI's APIs so that we could use it for client work without violating any contract agreements.
+
+It wasn't that hard.

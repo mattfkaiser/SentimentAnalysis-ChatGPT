@@ -1,0 +1,1 @@
+Ssh wound be considered remote access software. If they are blocking ChatGPT they are probably blocking outbound ssh connections too.

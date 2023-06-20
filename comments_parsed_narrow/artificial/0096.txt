@@ -1,0 +1,3 @@
+1) ChatGPT gives wrong answers with confidence, which is true of any LLM. It’s word prediction software, not an oracle source of truth. ChatGPT isn’t going to replace textbooks, nor will it replace teachers.
+
+2) ChatGPT isn’t going to do shit for managing a classroom. There’s a lot more to teaching than just spitting out facts or reading from a textbook.

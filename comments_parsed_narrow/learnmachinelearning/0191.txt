@@ -1,0 +1,3 @@
+Thanks very much for your response. I'm not quite sure I undersand your example use-case with the country, state, city stuff. Are you saying that a pointwise additive approach is good because it accommodates data where you might be missing certain input fields sometimes? And you can just not add the embedding for that field, and still have a valid input to feed through your net (which wouldn't be possible if you were concatenating them)?
+
+Secondly, was my question about the potentially "loose/fuzzy" nature of positional encodings a meaningful one, and did ChatGPT provide an adequate response?

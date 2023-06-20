@@ -1,0 +1,7 @@
+I just wonder when ChatGPT is going to actually ask us questions, determine who are trustworthy specialists, and update its information accordingly.
+
+Imagine asking it something, it not knowing the answer, then it asks many specialists around the world that question in a proper format, and pings the original asker with the answer using a push message.
+
+Imagine ChatGPT actively gathering and refining its knowledge. No more lies, just "I dunno, let me ask, give me 10 minutes."
+
+This kind of tech can be the biggest thing mankind has ever seen. Fact-checking anyone (politicians and CEOs alike) on the spot, whistleblowers (safely) sharing their information with ChatGPT, reporters asking it questions and being able to figure out exactly how many whistleblowers delivered evidence for the claims.

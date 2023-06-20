@@ -1,0 +1,3 @@
+I have been working on the second edition of my book, Learn FPGA Programming, Packt 2021.
+
+One of the requests was to add VHDL to the book. I haven't written VHDL code in 30 years, so I asked a question about how I could do something and it provided code and a testbench for it. In one glance, I knew that the timing was off in the testbench, so I told it the code looked good, but the timing was wrong. ChatGPT wrote back that it was sorry and I was correct. It then gave me code with correct timing. I'm still not sure the code would work. I got what I needed, so I didn't push it further, but I was really impressed at what it was able to produce.

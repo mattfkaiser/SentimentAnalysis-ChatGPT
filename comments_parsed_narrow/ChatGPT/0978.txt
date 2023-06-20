@@ -1,0 +1,13 @@
+So what would that be? If you just want to have fun go right ahead 👍 it’s just silly to think you can “just” use ChatGPT to write useable software for yourself or, more importantly, for users or customers.
+
+But if you need to build something for users then you still need to probably use a SaaS or code it yourself.
+
+A blog? There’s plenty of blog platforms/social media. Only make your own blog site if you want to have fun/learn.
+
+A game? You’ll still need to learn some sort of game engine and then figure out what platforms you want your game on. 
+
+Want to automate stuff? For yourself sure, could work. Still need to know how to use the terminal and/or how to create a mobile app or desktop app.
+
+Plus with all of these you have to decide the language you want it implemented in. Each programming language has it’s pros and cons and are useful in different circumstances.
+
+ChatGPT is like having a very intelligent intern. Super smart, but will still confidently make shit up and shoot you in the ass.

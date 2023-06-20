@@ -1,0 +1,3 @@
+I think the only way in which this will make money for anyone (and not retail other than id’ing new consumer trends) is through OpenAI selling the API/Code? To HFT’s. ChatGPT might be more accurate in sentiment analysis but is far too slow to compete with current algos and as everyone adopts the same smarter LLM’s will compete the profit away. 
+
+There is (as they disclosed) the issues of transaction costs, slippage and since I suspect a big part of returns are being made by smaller cap volatile stocks- not being able to get a borrow.

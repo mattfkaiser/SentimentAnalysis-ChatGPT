@@ -1,0 +1,5 @@
+The trick - you feed it some of your own writing and ask it to write it in *your* voice.  You then read through it and remove any redundant, weird phrasing.
+
+I would highly recommend against using this for a subject you're not already pretty well versed on, as it can be *very confidently* wrong, and just straight up making shit up will probably trigger professor bullshit detectors.
+
+The best use for ChatGPT in my mind is asking it to write out an outline for you, and just writing based on that outline.  You still have to spend some time working on the thing, sure... but it's doing a lot of the work for you and you don't have to worry about it not being entirely in your voice - as long as it doesn't entirely make shit up, you're golden.

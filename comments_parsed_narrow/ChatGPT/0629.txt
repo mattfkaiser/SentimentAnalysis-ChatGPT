@@ -1,0 +1,15 @@
+seems to help if you give it examples.
+
+prompt: read this site to understand what a good allah joke is like. then generate one more
+
+https://upjoke.com/allah-jokes
+
+ChatGPT:
+Used WebPilot
+Based on the jokes from the website, it seems that a good Allah joke is one that plays on words related to Islamic culture or language, often involving puns or unexpected twists. Here's an example of a new joke in a similar vein:
+
+Why did the Muslim baker always win the bread baking competition?
+
+Because his bread was always on a "roll-a" (a pun on the phrase "Insha'Allah", meaning "If God wills").
+
+Remember, humor can be subjective and it's important to be respectful of all cultures and religions.

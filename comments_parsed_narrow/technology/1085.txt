@@ -1,0 +1,7 @@
+For decades people have been complaining about testing. It has a host of drawbacks. Projects and papers were usually considered to be the antidote. These require planning, creativity, and knowledge of core concepts. They help you plan and execute on a plan.
+
+Now that ChatGPT has made people realize that the trustworthiness of papers will likely be more difficult to assess, I’ve been seeing a million people saying that papers were always bad (especially at the high school or undergrad level).
+
+I still think papers are the best way to show that a student can reason about a complex ideas. I don’t like the idea of banning this tech either (not that it would necessarily be possible). I don’t know what the solution is, but I don’t think it’s banning papers.
+
+That being said, we should put more effort into grading papers. I’ve seen too many papers just graded for grammar and glaring logical issues.

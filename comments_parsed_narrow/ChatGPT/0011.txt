@@ -1,0 +1,5 @@
+This is what I tell my clients whose paper’s I write. Obviously I used ChatGPT for all of it as a foundation… and then I run one of their own papers to get ChatGPT to rewrite using the sample style. 
+
+Then I run it through OpenAI’s own detector where I make sure my client’s paper gets a “very unlikely AI” review.
+
+Then I do a mini tutoring of the paper to my client so at least they “know it”…. And then submit. Tada

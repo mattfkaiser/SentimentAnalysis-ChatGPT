@@ -1,0 +1,9 @@
+Looks like they've added some specific fact checks filters to it. When you get an "I apologize for any confusion" that's not chatGPT's language model, it's a filter override. 
+
+The Daniel Radcliffe/Elijah Wood example was actually based on my playing around with it back in December and feeding it a wrong quiz answer... it told me I was correct:
+
+https://imgur.com/a/gXyCv7b
+
+(Notice it also pretended I was correct about Justin Timberlake being in Boyzone). 
+
+Just do some googling for "chatgpt confidently wrong" for hundreds more examples. It's training model leads it to generate *plausible* answers; not always correct ones.

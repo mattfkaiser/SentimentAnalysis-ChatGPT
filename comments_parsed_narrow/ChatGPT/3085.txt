@@ -1,0 +1,46 @@
+Almost true. Here's what happened when I put your claim to the test:
+
+sheesh(man);
+
+A user submitted the C+++++ program above. If it's incomplete, generate an example program so readers understand what it does. Then, compile it to WebAssembly.
+
+ChatGPT4 Response:
+
+The line of code sheesh(man); appears to be calling a function named sheesh and passing man as an argument. However, without context, it's hard to tell what this function does or what the man variable represents. Let's assume sheesh is a simple function that prints a string and man is a string variable.
+
+Here's a sample of what the C+++++ (C++) code could look like:
+
+#include <iostream>
+#include <string>
+
+// Function declaration
+void sheesh(std::string man);
+
+int main() {
+    std::string man = "John Doe";
+    sheesh(man);
+    return 0;
+}
+
+// Function definition
+void sheesh(std::string man) {
+    std::cout << "Sheesh, " << man << "!" << std::endl;
+}
+
+This program would print "Sheesh, John Doe!" to the console.
+
+As for compiling this to WebAssembly (WASM), it's a bit complex to show here, as it would involve using Emscripten, a toolchain for compiling to WASM in a full-blown development environment, which cannot be reproduced in text here.
+
+However, here's a brief outline of the steps you'd take:
+
+    Install Emscripten. You can follow the instructions at https://emscripten.org/docs/getting_started/downloads.html
+
+    Once you have installed Emscripten, save your C++ code in a file. We will assume the file is named main.cpp.
+
+    Compile the C++ code to WebAssembly using the emcc command:
+
+	emcc main.cpp -o main.html
+
+The -o main.html argument will generate main.html, main.js, and main.wasm. The main.wasm is the WebAssembly module, the main.js is the JavaScript that loads the WebAssembly module, and main.html is a sample HTML file that runs the JavaScript.
+
+This is a highly simplified version of what you might do and omits a lot of the complexity around compiling C++ to WebAssembly, including handling C++ features that don't have direct equivalents in WebAssembly. For more detailed instructions, check out the Emscripten documentation.

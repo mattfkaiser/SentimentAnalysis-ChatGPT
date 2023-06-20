@@ -1,0 +1,3 @@
+>I've played with chatGPT and I can tell you right now that there is no possible way I'd ever mistake its output for something a real student wrote.
+
+It is important to note that every other sentence out of ChatGPT begins with "it is important to note that." Its default output is very distinctive with practice. But people can feed it their essays and the ask it to imitate their style. They can feed its output through a different AI to restyle it, or they can just edit the output themselves. Even now, and certainly in the near future, it's going to be very difficult to reliably detect AI cheating.

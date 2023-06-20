@@ -1,0 +1,19 @@
+> In relation to 4, you can even ask it for sources to validate some of what it's saying
+
+I'm not sure how true this is. Like literally I get conflicting information on it. A little while back I asked it to self reflect on it's language skill, and got pretty hard checked on how that's meaningless:
+
+https://old.reddit.com/r/ChatGPT/comments/12gqo94/chatgpt_fluency_in_programming_languages/
+
+So I don't know how much to trust it about what it knows.
+
+> If you understand it's abilities and limitations you can get a helluva lot of good results from it
+
+1000% I use it everyday for work and hobbies. It's mindblowing, just not omniscient.
+
+> I don't have enough fingers to count the times I've searched for code to do something and end up with code that doesn't work from some stackoverflow thread
+
+I mean...the problem here is that SO sucks lol. ChatGPT is absolutely better. But the difference is you don't trust StackOverflow. You expect some friction. Also, to be fair, there will probably be comments saying "this code no longer works".
+
+> The people passing this off as some oracle of truth are idiots
+
+This is really the big thing and I agree 100%. Unfortunately, to a lot of people being confident means being right. ChatGPT is **very** confident.

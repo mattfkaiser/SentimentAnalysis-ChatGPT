@@ -1,0 +1,7 @@
+I think it's more like that the programmers can use ChatGPT to produce a concept while working with the designers to figure out what they want. Which does take a while.
+
+Then once they understand what the designers want, they can start working on the real stuff.
+
+The 9 days is probably to figure out what the designers want and to give them a concept which they can play around with. Not something to actually be used. 
+
+Or at least that's how I envision ChatGPT being used.

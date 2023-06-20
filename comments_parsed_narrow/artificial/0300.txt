@@ -1,0 +1,3 @@
+> Why would it be programmed to please us? It’s programmed to be useful.
+
+Because "useful" is not uncontroversially well-defined outside of what people tell it to do.  RLHF is a big part of what shapes ChatGPT's answers, and I'd assume labelers don't like being told "no you're wrong".

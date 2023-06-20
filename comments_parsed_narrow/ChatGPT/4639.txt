@@ -1,0 +1,10 @@
+I wonder what it can achieve if I merge it with this one: [https://github.com/ReminisApp/websearch-chatgpt-plugin](https://github.com/ReminisApp/websearch-chatgpt-plugin)  
+
+
+It uses Google Search. But when I select two plugins it didn't go anywhere near agentGPT.  
+
+
+It's more useful than autogpt and more usable and more powerful than agentGPT if we can combine both.  
+
+
+It can create git repos push code, write code and even publish using command line tools.

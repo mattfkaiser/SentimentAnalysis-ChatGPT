@@ -1,0 +1,1 @@
+The quality of the output is dependant on the quality of the prompt you started with, also there is different models, there is a big difference between chatgpt 1, 2, 3, 3,5 and 4.

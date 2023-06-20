@@ -1,0 +1,5 @@
+Yeah, that's not how that works. It writes with very specific grammar and words that it can't omit because it's how it writes at a basic level.
+
+Each new GPT changes it's grammar, so new detectors are needed for each individual AI. 
+
+The ones I used were for Bard, ChatGPT, GPT-3.5, and GPT-4.

@@ -1,0 +1,1 @@
+I just told you they are not using the API because you can decide to not feed the AI with your data on chatgpt. You don't have to use API to not use your data to improve the AI.

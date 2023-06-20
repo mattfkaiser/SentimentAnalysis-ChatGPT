@@ -1,0 +1,3 @@
+I had a very similar experience. I had a simple 2-column csv file: name,value. I needed descriptive stats for the value and asked chatGPT to make a program in python that would do that. It did so, but a few minor details didn't match exactly what I wanted. I fixed those details, using the result as a template.
+
+Overall, its a very nice programming tool that I will definitely use in the future to produce the initial draft of basic functions. Skills to take away - how to design what you want, how to combine the basics into that design, and how to phrase things so that chatGPT understands them.

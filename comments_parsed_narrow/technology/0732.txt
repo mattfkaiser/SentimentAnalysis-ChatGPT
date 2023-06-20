@@ -1,0 +1,9 @@
+> Guthub
+
+Better check the belly of the beast... /s
+
+Github has code access but isn't connecting that to all sorts of other telemetry data about the company, it doesn't have data on users beyond code or like personal data, location, etc etc. It just has code in there and some metadata about languages/platforms/common patterns etc. 
+
+ChatGPT is trying to connect far beyond any other targeted AI dataset, It think targeted sets are better for privacy and keeping too much telemetry from leaking.
+
+AI companies are also excessively pumping in data because regulation is coming and they want to have the largest datasets before that happens to block out other players that may be more ethical.

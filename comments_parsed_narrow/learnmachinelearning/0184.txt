@@ -1,0 +1,6 @@
+I work as an SEO at a digital agency. We've been using ChatGPT to enhance existing content with good results so far. So much less legwork involved. In a nutshell, we look at a current article and identify what's missing. We ask ChatGPT to write that section. Then run it through Grammarly. We've had great results for our clients because we can update at scale and much faster.   
+We're now testing 100% ChatGPT-generated content. This is being tested on our agency blog. Here it is if anyone is interested - [https://www.mo.agency/blog/salesforce-pardot](https://www.mo.agency/blog/salesforce-pardot)
+
+We did all the usual Ahref checks (Keyword Difficulty Score, content gap analysis, etc. ) 
+
+It will be interesting to see if it ranks. I think it will. Who knows if Google will introduce an update soon to identify and demerit 100% AI written content? Somehow I don't think so - as long as the AI has been utilized well and the content is unique and valuable.

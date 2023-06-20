@@ -1,0 +1,1 @@
+Could be much more useful and reliable if it checked fact-checking sites like Snopes. Otherwise, it picks up much of the online content that was used to train both ChatGPT and Google.

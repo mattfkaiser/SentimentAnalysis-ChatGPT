@@ -1,0 +1,19 @@
+What are your prompts?
+
+Assuming you aren't doing this already, I can think of some ways that may solve your problem.
+
+1. "You're too flat. Sound more like a human."
+
+2. "Be vibrant/funny/enthusiastic/grim/edgy/[insert style or tone adjective here]."
+
+3. "Write this story in the style of Dr. Seuss/ Lemony Snicket/a mysterious bard/[insert any author or type of personality here]."
+
+Be explicit about changing elements such as tone, style, theme, etc.
+
+Or, 4: "ChatGPT, you sound too flat. What are some ways that I can prompt you to sound more human/interesting/colorful/fun/exciting/etc.?"
+
+These are the kinds of gears you need to consider and account for if you want results which are (consistently) relevant to the quality of your goal.
+
+This is off the top of my head. I don't actually research prompt engineering, so I'm certain there are more elements to consider. But, stuff like this can be as easy to fix as simply addressing one simple element and having it revise in that direction. If you know what to prompt, you can achieve desired results without much effort. And if you're really good, you can fit all relevant criteria in your initial prompt and have it output exactly what you want without further revision.
+
+In this sense, this technology can actually encourage critical thinking because you necessarily have to deconstruct information into its elements in order to get substantial output. You have to think about the individual parts of information and how that changes the information. Generic input will get generic output. This won't be useful to people if they aren't thinking critically about how to guide it, which requires analyzing what they're looking for, using appropriate vocabulary, and having the communication skills to sufficiently articulate the specific qualities of their goal.

@@ -1,0 +1,5 @@
+4000 tokens is probably not the underlying *output* limit (as listed for output token length by the API)
+
+For example, previous models had a limit of 2048 tokens in length, which sounds like the actual length limit for those models' setups. But, the new codex model (davinci-code-2) is allowed to generate 8000 tokens output in the API. Not sure what that would be for ChatGPT, but they might not release that. It does seem to have a per-response output limit at least, but it may have some sort of stored state, e.g. memory or the session, like the API has per user, instead of having to parse the whole conversation for each request.
+
+Of course asking GPT-3, or ChatGPT for that matter, about itself, is probably fruitless unless they specifically told it so, but it doesn't seem like it. It definitely has knowledge about some GPT parameters from the crawls, but they wouldn't be giving it a private fact database about OpenAI (like they told it to say).

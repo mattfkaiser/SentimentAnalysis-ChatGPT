@@ -1,0 +1,11 @@
+I'm going through this process right now, although just a website for myself rather than an app for mobile.
+
+My experience is that it will get you 80% of the way there really easily. That last 20% is painful; you will spend *hours* on the very last 5%. 
+
+Every thing it develops or fixes will break something else and if you don't really know what you're looking at then it can become quite unfathomable.
+
+However, the solution is obvious, and reassuringly hard. You use ChatGPT to explain everything and start the learning process in an interactive way with your own project as the basis. You ask it to explain what you're looking at. You teach yourself what you need as you go, and inch your project forward into reality. 
+
+I had hoped myself that I could skip the learning part because I'm not interested in coding per se, I just want my little project up and running. But GPT can't code it for me like that, so I'm having to learn more than I expected. But it's satisfying to have my creature emerge bit by bit rather than do dozens of hours learning stuff in advance before I get a Hello World.
+
+Good luck.

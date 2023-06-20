@@ -1,0 +1,5 @@
+That’s one thing I dislike about OpenAIs communication - it’s pretty easy to tell it has much more access than it lets on. 
+
+It might not have completely open access, but can definitely see some basic info live. I’ve also seen it access information it could only possibly know if it could actively index my prompt history with it.
+
+Also, they’ve continuously trained the model for the past few months so it has access to sporadic mentions of current events past sep 2021. It’s just the core library used to generate the first versions of the model are from back then. Someone must have given them feedback involving King Charles being the new king, which ChatGPT learned from

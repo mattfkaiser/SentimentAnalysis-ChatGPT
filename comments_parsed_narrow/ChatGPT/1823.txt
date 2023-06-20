@@ -1,0 +1,13 @@
+My take with regards to ChatGPT usage is this:
+
+The ethics of using ChatGPT has nothing to do with task itself, but with your intentions in using it.
+
+First ask, what’s the point of a eulogy? I would argue that it’s a moment to memorialize, with your words, the spirit and existence of the person that you’re eulogizing.
+
+With that in mind I think we can probably agree on where the line is:
+
+Unethical use case: asking “write a eulogy for my dad who just passed away” and reading exactly what it wrote for you.
+
+Ethical use case: asking ChatGPT to create a boilerplate speech that you can insert your own memories and feelings about your dad in to.
+
+The difference: one is asking ChatGPT to write a eulogy for your father, meaning that ChatGPT is ultimately the one eulogizing him. The other is asking ChatGPT to help you write a eulogy. It would be the same as asking a friend or family member to help you write it.

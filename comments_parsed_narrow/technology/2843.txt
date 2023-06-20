@@ -1,0 +1,3 @@
+Yep. I can generate paragraphs of text from ChatGPT and just pass over it in 5 minutes to change the structure to mine, add a sentence or two.
+
+GPTZero can't tell the difference.

@@ -1,0 +1,15 @@
+If you ask it for an idiomatic translation, or translate a passage that uses the idiom in context, it will give much more accurate responses.
+
+*Please translate "It's all Greek to me", retaining the idiomatic meaning, into the following languages. : Spanish, French, German, Russian, Arabic, Mandarin, Hindi, Japanese, GreekChatGPT*
+
+*Here are the idiomatic translations for "It's all Greek to me" in the requested languages:*
+
+1. *Spanish: "Es chino para mí" (Literal translation: "It's Chinese for me")*
+2. *French: "C'est du chinois pour moi" (Literal translation: "It's Chinese for me")*
+3. *German: "Das ist mir Spanisch" (Literal translation: "That's Spanish to me")*
+4. *Russian: "Это для меня китайская грамота" (Literal translation: "This is a Chinese letter for me")*
+5. *Arabic: "هذا كالصينية بالنسبة لي" (Literal translation: "This is like Chinese for me")*
+6. *Mandarin: "对我来说这就像火星文" (Literal translation: "To me, this is like Martian script")*
+7. *Hindi: "यह मेरे लिए ग्रीक है" (Literal translation: "This is Greek for me")*
+8. *Japanese: "私にとってこれは梵語です" (Literal translation: "To me, this is Sanskrit")*
+9. *Greek: "Είναι όλα Κινέζικα για μένα" (Literal translation: "It's all Chinese to me")*

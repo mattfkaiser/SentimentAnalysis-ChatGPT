@@ -1,0 +1,3 @@
+On a high-level we pass the html DOM of the current page to ChatGPT and let it choose to interact with any elements on the web page. 
+
+Surprisingly, this works really well on new tasks it doesn't know anything about, such as making twitter posts, etc. We will be releasing the tool in the next weeks for free & providing more details :)

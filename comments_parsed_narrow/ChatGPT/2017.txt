@@ -1,0 +1,5 @@
+I wouldn't be surprised if plugins and web browsing have something to do with perception.  They use more tokens which can make chatgpt seem dumber.
+
+Also, OpenAI has made it clear that this is still not a final product.  They likely do a lot of A/B testing, which may increase or decrease ability.
+
+Or, their servers are melting and they had to reduce capability to keep up with load.  I wouldn't be surprised if GPT is smarter during lower use hours.

@@ -1,0 +1,3 @@
+It takes months to train a model with the complexity of ChatGPT, add to that training data cleanup, alignment training, and safety evaluations and you will be lucky to have a model that’s only a year out of date. 
+
+The best you can possibly hope for, until a technological leap happens, are models that are capable enough to do their own web searches such a Bing and Bard.

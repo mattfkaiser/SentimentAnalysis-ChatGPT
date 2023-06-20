@@ -1,0 +1,3 @@
+They're not being whiny, it's realistic.
+
+Not saying they should ban ChatGPT, but you 100% should not be copy/pasting proprietary code into a chatbot. OpenAI has confirmed that it uses user prompts in it's training. There is no guarantee that it won't use the code it outputs to you to someone else in a slightly modified way.

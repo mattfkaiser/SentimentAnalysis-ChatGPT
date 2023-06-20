@@ -1,0 +1,1 @@
+Professor needs to learn unit tests. I'd encourage him to take his own writings and ask ChatGPT if it wrote them

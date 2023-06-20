@@ -1,0 +1,11 @@
+> 90% accurate generative text is a novelty, not a game changer.
+
+Depends on the game. If a human can take the programming output and be 60% towards the solution, that's a tremendous lift in productivity.
+
+If you can ground GPT with some facts and documents, and it can write you 80% of a brief, that's a 5x increase in output. 
+
+If the AI can recognize benign radiology scans with 99.99% accuracy, that cuts a doctor's workload by a huge amount.
+
+These are knowledge and information worker tasks, which traditionally do not scale in efficiency nearly this well, and providing what is easily a transformational level of change. 
+
+If all you're trying to do is get ChatGPT to be a bad version of a search engine that lies, then you're playing the wrong game.

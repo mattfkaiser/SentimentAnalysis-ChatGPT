@@ -1,0 +1,3 @@
+The problem with Wikipedia was and always has been using the text body itself. It’s just plagiarism to use it directly, and you also run the risk of falling for false information. The real usefulness of Wikipedia is the references section.
+
+ChatGPT is basically writing Wikipedia pages without including the references. Using it directly is plagiarism and you don’t learn anything, and there’s no references section to get you started.

@@ -1,0 +1,7 @@
+For my line of work, it's touch and go. ChatGPT favours answers and explanations that are pretty out of step with the paradigm shift that's been happening in my field for the past 15-20 years - it invariably favours older approaches. It also doesn't have the capability of mimicking the newer approach well (GPT4 does better, still not adequate).
+
+Since trying it out from launch, it has cut a bunch of labour for me, but it doesn't replace me or even come close. It's sort of like having a very clueless but faithful intern: if you're willing to correct it, you can get some of what you want, and that turns out to be a bit less effort than doing it myself.
+
+There was exactly one time that it clutched a problem for me that I would've taken much longer to solve on my own (it conjectured the correct answer immediately, and it wasn't an easy problem). I could've cried for joy that day for how much time it saved me.
+
+So yeah, definitely "very" useful, but not "extremely."

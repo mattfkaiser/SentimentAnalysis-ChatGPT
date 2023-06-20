@@ -1,0 +1,9 @@
+The easiest to grasp option on what does it offer is automating all their customer service.
+
+Particularly technical support is well represented on the internet. If they can turn people’s helpful comments on forums or subreddits in to troubleshooting steps a bot gives to customers, they can cut a big sized chunk of staff. 
+
+The same logic happens to apply to adding new software for a set of users at a company. If someone has documented that deployment in one of the forums in OpenAI’s dataset then their bot may be able to reproduce the steps needed to do the deployment (and there are absolutely people working on improving that capability and specifically the odds of not hallucinating steps). 
+
+Essentially, any task that involves communicating between humans in text, chatgpt is relatively well positioned to do. With not much additional work you can add communicating between humans and computers as well. Similar models are working on communication with images or sound. 
+
+So, at its highest capacity, chatgpt and similar models are able (or at least are making good progress on being able) to replace any job, or any part of a job, that involves communicating  between people or between people and computers. It’s not great (and doesn’t show any particular promise) at truly novel creation, but most work is not novel and is not creation.

@@ -1,0 +1,1 @@
+Sometimes chatgpt uses 2021 instead of 2023 even tho it knows current date and it can use two different dates at the same time

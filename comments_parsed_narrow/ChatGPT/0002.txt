@@ -1,0 +1,23 @@
+i copied your comment and the one above into chatgpt, including all residual reddit stuff....
+
+In Microsoft Word, you can access version history if you have been working on the document in OneDrive or SharePoint. Here's how to do it:
+
+Open your Word document.  
+Go to the "File" menu.  
+Click on "Info."  
+Under "Manage Document," click on "Version History" or "Manage Versions."
+
+You will see a list of autosaved versions of your document. You can open any of these versions to see the changes made at that point.
+If you haven't been using OneDrive or SharePoint, Word does not automatically save previous versions of your document. However, it does automatically save a copy of your document every few minutes in case of a crash. This is called an AutoRecover file.
+
+Here's how to access AutoRecover files:
+
+Go to the "File" menu.  
+Click on "Options."  
+Go to the "Save" tab.
+
+Look at the "AutoRecover file location" field. This is where your AutoRecover files are saved.
+Open a new File Explorer window, navigate to this location, and see if there's a copy of your document there.
+Keep in mind that AutoRecover is not meant to be a way to access old versions of a file, but rather a way to recover work in case of a crash. It's not guaranteed to have a copy of your document from a specific point in time.
+
+For future, if you want to have access to version history, consider using a service like OneDrive, Google Docs, or Dropbox, which automatically save versions of your files as you work on them.

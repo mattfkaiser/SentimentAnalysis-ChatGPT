@@ -1,0 +1,3 @@
+Nah, it's literally autocomplete. Whether it's Copilot or ChatGPT, it's simply regurgitating code that people have already written and uses algorithms to determine how relevant those code snippets are. By definition, it doesn't think for itself.
+
+Having used Copilot, it was more of a distraction than anything, but that's because I know what I want. If that's more effective than any pair programming you've done in the past, you've worked with some pretty ineffective programmers.

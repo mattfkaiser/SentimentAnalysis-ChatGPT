@@ -1,0 +1,1 @@
+I am not a programmer but I write code mostly to analyze data and using chatgpt has made my life easier. Instead of going to Stackoverflow I usually paste my errors to chatgpt and most of the time get a pretty good description of what I was doing wrong and possible ways how to solve it. I feel like I'm learning quite a lot and much faster than before.

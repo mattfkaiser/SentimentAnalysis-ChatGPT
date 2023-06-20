@@ -1,0 +1,1 @@
+My experience is different. I'm 15 years into my career and I'm using ChatGPT everywhere I can. Write up the skeleton for an app in WPF? Nah just tell ChatGPT what I want. I'll fix some things and implement what it can't but it saved me the most time doing the basic structure for me.

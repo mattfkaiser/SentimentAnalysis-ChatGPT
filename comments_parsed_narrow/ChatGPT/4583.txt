@@ -1,0 +1,17 @@
+I use it personally and at work. No concerns about attribution because I change the names of many tables and functions. I figure if any code is going to get me in trouble it's going to be an identifiable structure, not "for i = 1 to 50". Obfuscation is definitely a huge pain as you can imagine, but it's easily a net productivity gain.
+
+Once ChatGPT has an idea of what you want to build, user stories are as easy as:
+
+In: give me 24 user stories for a pomodoro app
+
+Out: 
+
+* As a user, I want to create an account so that I can save my preferences and track my progress.
+* As a user, I want to customize the duration of my short breaks to help me recharge effectively between work intervals.
+* As a user, I want to customize the duration of my long breaks, which I can take after a certain number of completed Pomodoros.
+* As a user, I want to set a specific number of Pomodoros to complete before taking a long break.
+* As a user, I want to start, pause, and resume a Pomodoro timer with ease.
+* As a user, I want to receive notifications when a work interval or break is over, so I can stay on track.
+* As a user, I want to create custom tasks or projects and associate them with specific Pomodoros.
+
+The tough part is telling Chat *what* you want to write, but if you're using it for code generation you've done that.

@@ -1,0 +1,3 @@
+IT-Department here. I use it daily to expedite my troubleshooting process. We encourage our users to do the same, but with only one catch: Do not enter any sensitive data (Names, Adresses, Intellectual Property) into your prompts. You are only allowed to use publicly known information in your ChatGPT prompts/CompletionAPI requests.
+
+If your place has a policy that prohibits the use own ChatGPT et al. do not use it.

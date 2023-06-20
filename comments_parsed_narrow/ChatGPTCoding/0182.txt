@@ -1,0 +1,3 @@
+If it’s Gmail then this would be pretty easy with Google Apps Script.  Script to watch mail, trigger on label or sender or whatever, use URLfetch to talk to GPT API, send replies, log the whole thing to Sheets.  
+
+No code experience?  Use ChatGPT to help write it!

@@ -1,0 +1,1 @@
+To be honest (as a sysadmin that deals a lot with the security department), a remote access from inside the company, assuming it’s not blocked, would likely raise eyebrows a lot more than accessing chatGPT.

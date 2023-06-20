@@ -1,0 +1,5 @@
+Yes, about three of the links on this giant list are ChatGPT alternatives. Like Bard.
+
+I appreciate you doing this free work, but honestly, this was a very misleading post that wasted a lot of my time. I had to click through almost every link to figure out they were all basically just ChatGPT via an API. But you called your post ‘chatgpt alternatives’, which is what I was actually looking for.
+
+It would be great if you separate the list into those that do vs. don’t use the ChatGPT API in the future.

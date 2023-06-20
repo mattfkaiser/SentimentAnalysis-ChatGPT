@@ -1,0 +1,7 @@
+> you need something more than the: train on dataset -> input prompt into model -> receive output.
+
+That's no longer the approach being discussed. 
+
+ChatGPT is an example of a quite basic experiment that goes beyond that, but there are dozens of similar and complementary approaches leveraging LLMs. 
+
+I wouldn't write off the possibility of what could happen with GPT4 + the learnings of ChatGPT + WebGPT + some of the new memory integration approaches.

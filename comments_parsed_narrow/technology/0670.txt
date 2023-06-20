@@ -1,0 +1,1 @@
+I did work last week that I thought would take a month but ChatGPT did most of the boilerplate work and helped me figure out specifics of using WPF

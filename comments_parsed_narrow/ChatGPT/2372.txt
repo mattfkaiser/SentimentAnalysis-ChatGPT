@@ -1,0 +1,2 @@
+Kinda underwhelming tbh. Was this built in ChatGPT? It doesn’t handle iPadOS (seriously guys, it’s been years, it’s easy, what the actual?), it has some really flaky auth session forgetfulness.
+2/10, from a company at the vanguard of technology, this is seriously below par.

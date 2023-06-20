@@ -1,0 +1,1 @@
+It’s just a post mocking people who are new to machine learning who found out about it because of ChatGPT. I don’t think anyone realistically thinks that they’re a machine learning engineer because they have a few conversations with a LLM. But then again, some people do believe they’re artists because they can create convincing prompts for an A.I art generator.

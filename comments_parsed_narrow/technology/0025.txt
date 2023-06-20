@@ -1,0 +1,7 @@
+This is like trying to hammer a nail in with a screwdriver and being surprised when it doesn't work. 
+
+The problem with chatgpt is that most people don't really understand what it is. Most people see the replies it gives and think it's a general AI or even worse an expert system, but it's not. It's a large language model, it's only purpose is to generate text that seems like it would be a reasonable response to the prompt. It doesn't know "facts" or have a world model, it's just a fancy auto complete. It also has some significant limitations. The free version only has about 1500 words of context memory, anything before that is forgotten. This is a big limitation because without that context its replies to broad prompts end up being generic and most likely incorrect. 
+
+To really use chatgpt effectively you need to keep that in mind when writing prompts and managing the context. To get the best results you prompts should be clear, concise, and specific about the type of response you want to get back. Providing it with examples helps a ton. And make sure any relevant factual information is within the context window, never assume it knows any facts.
+
+Chatgpt 4 is significantly better than 3.5, not just because of the refined training but because OpenAI provides you with nearly four times the amount of context.

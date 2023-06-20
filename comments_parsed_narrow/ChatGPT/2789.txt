@@ -1,0 +1,5 @@
+AI is trained on weights and probabilities that the next word would most likely follow the words before it given the context of the prompt.  
+
+So it makes sense that random number generation doesn't work in this application since it's completely trained to pick the most probable outcome.
+
+In the OpenAI playground you can play around with the seeding so that it can give more creative or more rigidly defined responses, but I bet ChatGPT is fixed.

@@ -1,0 +1,3 @@
+For anyone who has done the Google technical interviews knows that this is not surprising at all. The majority of the questions asked are straight forward problems that require no creativity to solve. They are textbook problems that don’t require any depth but a wide breadth of knowledge.
+
+If you take out the human element of an interviewer interviewing a candidate for simple problem correctness then chatGPT will pass almost all levels of the interviews.

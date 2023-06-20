@@ -1,0 +1,7 @@
+> Hey kids this is a useful tool that can help us be more intelligent and efficient, let's NOT use it.
+
+It doesn't make you more intelligent, no more than a calculator makes someone smarter. It can be an efficiency tool, but the main difference is that a calculator is accurate every time you use it, and that's why it's a useful tool. A calculator that is 90% accurate is a lot less useful, because you'd always be weary to trust it.
+
+ChatGPT is often inaccurate, but people assume it's like a calculator and giving you an accurate answer because you can't tell it is being inaccurate from the output. If I ask it to translate some text to Chinese, I have no way to know if that's accurate or not. Just like folks assume their calculator spit out the accurate answer, they'll assume ChatGPT spit out an accurate answer, when it might not have.
+
+It's the Wikipedia problem on steroids. With Wikipedia you might get something inaccurate, but we're relying on collective knowledge and the fact that there's humans constantly improving and fixing inaccuracies. With ChatGPT you get whatever it spit out and even if someone knowledgable on the subject sees it is inaccurate, there's no way for them to fix it.

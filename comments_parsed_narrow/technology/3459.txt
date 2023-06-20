@@ -1,0 +1,5 @@
+It's still not perfect in math classes. The TI-89 came out in 1998 and has the capacity to solve almost any problem you'd encounter in calc 1 or 2, we just weren't allowed to bring a calculator with symbolic logic to those exams. Wolfram Alpha can even give you step by step directions that are indistinguishable from showing your work.
+
+In any field you have to start with the foundations, even if the foundations are something computers can do. Math classes would have have a hell of a time teaching students who didn't learn arithmetic because their phone can handle that. Likewise, reading comprehension and analysis are critical skills for language arts that you can't just skip, as is the ability to convey your thoughts to others and put together a coherent argument via text/words.
+
+Ultimately curriculums need to be adjusted to account for these tools, but I imagine a lot of the education world was caught by surprise. There are ways to mitigate cheating via ChatGPT, but it's going to take time to adjust curriculums and figure out what actually works well.

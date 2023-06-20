@@ -1,0 +1,17 @@
+I say something along these lines:
+
+"I am applying for a job for [position]. Can you draft me a tailored CV for the role?
+
+Here is the CV I currently use, listing all my experiences:
+
+[Copy-paste CV unformatted]
+
+And here is the listing for the job:
+
+[Copy paste entire text]"
+
+Even though it's completely unformatted, ChatGPT is able to parse it out and understand what you have given it.
+
+My last application, it only made two errors - the first was to assume I had some experience that I didn't, and the second was to write "I manage [task]", which I reworded because I was concerned that use of the word "manage" would hint at the role of being a manager.
+
+I find ChatGPT works better the more information you give it, so if it still isn't suitable, you can just add something like "Repeat task again, but don't do [issues]. I want to highlight that I have the following relevant experience: [List]".

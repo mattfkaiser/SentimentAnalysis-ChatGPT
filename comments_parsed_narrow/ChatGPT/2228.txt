@@ -1,0 +1,12 @@
+"reading scientific papers, and a bunch of writing reports and documentation" and "doubled my efficiency at work" are not two things that should not be taken lightly. This is clearly a huge breakthrough. Your pursuit is noble, but the consequences of this for patient privacy **if any** **patient data is exposed to OpenAI, it could be catastrophic**. You may already know this, but **less technically adept among you might see ChatGPT and not understand the importance of this, and violate privacy laws**. You will be the one who introduces them to this, so in a way, **you might find yourself blamed for this** potential transgression **even if you give adequate warning**.   
+
+
+Furthermore, **others might not understand that chatGPT frequently lies, even if you warn them about this.** This could lead to misunderstandings and incorrect information passed around. 
+
+My response might be seen as pessimistic, but the generally agreed upon rule in the IT realm is to automate your own tasks, but never the tasks of others. You are smart enough to understand that chatGPT has its limitations and know how to work around them, but you cannot expect others to. **Just recently, we saw a lawyer cite  nonexistent cases in a legal case because it asked the chatbot if the cases were real and it said yes. We also saw a teacher ask chatGPT if students papers were written by it, and used this to fail an entire class when it said that all the papers were its own work.**   
+
+
+**ChatGPT is so intuitive that people assume it is capable of things it is not, and it does not help that chatGPT will gladly lie and say it is capable of things it isnt. If you wish to introduce it, you need to cover all the bases and work 1:1 with people to prevent misuse. Also consider looking for formal organizational approval and consider use of the API for access to the more accurate GPT4 8k model and better privacy terms**  
+
+
+Best of luck to you

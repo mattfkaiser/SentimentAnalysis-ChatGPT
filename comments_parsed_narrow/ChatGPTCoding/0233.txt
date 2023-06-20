@@ -1,0 +1,5 @@
+1. ChatGPT doesn't have an API.
+2. Depending on content, probably yes.
+3. There's more than enough very accessible human writers who will be more than happy to come up with all kinds of stories for a handful of dollars.
+
+You see, at this stage nobody is using AI to generate everything, but it is very good in taking a short text and turning it into a much larger one, with all kinds of unimportant yet needed details.

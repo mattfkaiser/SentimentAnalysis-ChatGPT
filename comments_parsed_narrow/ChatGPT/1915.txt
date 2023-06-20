@@ -1,0 +1,3 @@
+ChatGPT is particularly bad at sports specifics for some reason.  If you have access to historical data that you regularly want to reference, you can use embeddings so that ChatGPT can basically access that info and give you the stats you want without error.
+
+Or you can use the bing AI for those queries, which is easier, but you don't learn langchain that way.

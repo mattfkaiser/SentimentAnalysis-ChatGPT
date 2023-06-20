@@ -1,0 +1,1 @@
+I see this talk also, and spread into some fronts: GH copilot for engineering, chatGPt for almost everything that needs models and our own LLM model for sensitive data (e.g. insights into our revenue). Fewer teams will be needed and they will be thin.

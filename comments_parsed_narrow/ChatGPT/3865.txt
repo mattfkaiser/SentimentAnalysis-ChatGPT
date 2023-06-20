@@ -1,0 +1,3 @@
+>ChatGPT doesn’t feel discomfort
+
+Couldn't you very easily code it to feel discomfort? I mean, why does it give appropriate responses rather than gibberish ones right now? Whatever "motivation" was coded to make it do that could be coded to make it do other things.

@@ -1,0 +1,7 @@
+Check out Pi AI that just launched. It’s dumb and smart at the same time.
+
+It can’t search the web, interact with other apps or websites or even write out a table, but it’s amazing at scenarios like this (better than ChatGPT). As someone who sees a psychologist regularly, I was quite surprised with the conversations.
+
+It’s *supposedly* built on top of GPT-3 but even if that’s true there’s clearly been a lot of fine tuning that has gone into it to get it to interact more like a human on topics around well-being. Here’s part of a conversation.
+
+https://preview.redd.it/tokt41a6stxa1.jpeg?width=1284&format=pjpg&auto=webp&v=enabled&s=3ab60413600f28507e4f141e974a7263f673bfc6

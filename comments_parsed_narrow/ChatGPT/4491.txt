@@ -1,0 +1,1 @@
+Someone shared a couple weeks ago how they set up an email server so they could email prompts to ChatGPT and get the responses emailed back.  Worth considering!

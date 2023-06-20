@@ -1,0 +1,3 @@
+ChatGPT is not connected to the internet, does not give references for it's statements and is getting more limited by the day.
+
+I use Perplexity as a search engine, phind for coding and ChatGPT for text generation/modification. ChatGPT needs 100 prompts to give a clean answer like Phind, or cannot at all provide references for its statement like Perplexity does.

@@ -1,0 +1,7 @@
+Isn't the point currently that they aren't allowing access to the training data but do give access to the models themselves? 
+
+It's that vast amount of training data that makes the closed source LLMs so useful, but it still possible to feed that much information in to an equally impressive open source version if you can get the hardware.
+
+Is a general idea though I don't actually see why these companies should be making their proprietary technology public, other than in the case of OpenAI with their odd half non-profit status.They're spending vast amounts of resources to develop these tools and deserve to be able to charge for the product of their expenditure.
+
+If the open source method of development really is superior then why have they not yet developed a tool as good as ChatGPT?

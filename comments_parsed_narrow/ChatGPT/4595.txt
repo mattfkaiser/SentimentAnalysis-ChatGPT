@@ -1,0 +1,7 @@
+There was a particular cookie my grandmother used to give me and I really liked the taste and texture, and I had looked at the grocery to no avail until one evening (at the store) I decided that it might be fruitful to ask ChatGPT for help.  By patiently interrogating ChatGPT and iteratively closing in on it through various descriptions, I discovered that it was SnackWell's.
+
+I recently asked it a softball question about a certain UPDATE command in SQL.  Not super hard but I decided to use ChatGPT rather than sifting through search results (which also would have worked).  It did very well.
+
+I've asked it legal questions about taxes and property rights and it seems pretty good at that.  Legal language, in an attempt to be reliable, has had to contort into some forms which can feel unnatural to those of us unaccustomed to it, but it can be fairly logical and consistent, and ChatGPT can parse that well and then translate it into forms which we can understand more easily.  It can also tirelessly rephrase and digest things for you, even providing examples for a concept.  I find this really useful.
+
+In every interaction, watch out for occasional false positives.  If you're asking anything important, try to fact-check ChatGPT's answers.  Sometimes if you give it the Third Degree it will apologize and correct itself and provide additional useful information.

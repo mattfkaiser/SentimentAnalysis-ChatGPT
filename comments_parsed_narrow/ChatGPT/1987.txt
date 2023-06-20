@@ -1,0 +1,1 @@
+ChatGPT is now my go-to for code questions like shell scripting. There are very rare instances where it hallucinates certain details, but for the most part it tells me everything I need to know.

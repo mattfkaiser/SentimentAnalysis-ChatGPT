@@ -1,0 +1,1 @@
+Do you have past experience with web scraping? In my experience, chatgpt was not great for helping with web scraping, but I had enough background to make it sorta work. It was almost easier to just do it myself and Chatgpt was of little help

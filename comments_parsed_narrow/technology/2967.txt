@@ -1,0 +1,13 @@
+> Most of my time isnt spent on the first draft. Its spent thinking how can I structure this sentence to emote a certain thought or feeling in the reader with these set of facts.
+
+That's exactly what ChatGPT is *good* at.
+
+After priming it with your paragraph there starting at "Say someone". I queried it with
+
+> rewrite "he didn't do the thing" in a way so the judge will be more likely to say something like, “aww, poor guy. He really got a raw deal. I guess an equity doctrine could apply in this because of xyz” instead of “fuck that guy. Next case.”
+
+And ChatGPT spat out
+
+> "Despite his best efforts, my client faced unforeseen circumstances that impacted his ability to fulfill his contractual obligations. However, he has taken steps to address the situation and mitigate any harm caused by the breach. Given these circumstances, it may be appropriate to consider the application of an equity doctrine in this case."
+
+Clearly I know nothing about lawyering, and neither does ChatGPT, but it sure sounds lawyerey. Bet Hollywood is gonna love it for their movie court scenes.

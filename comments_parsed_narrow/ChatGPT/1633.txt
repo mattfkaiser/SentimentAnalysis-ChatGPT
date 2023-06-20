@@ -1,0 +1,1 @@
+Well in the title you asked how ChatGPT knows about the current date, which I assume is only unexpected if it's not connected to the internet. Otherwise knowing the current date would be trivial?

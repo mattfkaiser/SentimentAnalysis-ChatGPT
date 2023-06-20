@@ -1,0 +1,17 @@
+This is a free tool that we built to have a bit of fun with GPT-4 (and because if AI is threatening to replace artists and content writers, we thought it should have a good go at dethroning Gordon Ramsay too).
+
+You can try it yourself at [heyhoku.com/roast-my-meal](https://heyhoku.com/roast-my-meal).
+
+If you do manage to impress GPT, please share your glorious meal. And then probably go apply to Le Cordon Bleu or something.
+
+Happy to answer any questions about how we built/prompted it, the tech stack, limitations etc.
+
+P.S. Not for the faint hearted. Use with caution and a thick skin.
+
+**Edit:** We've been overwhelmed by the positive response here, thank you. To all those feeding in some 18+ rated images, I believe you have been appropriately sassed by GPT.
+
+Roast My Meal is actually just one (quite silly) feature of a larger project we are working on, [Hoku](https://heyhoku.com), a free AI-powered personal health coach. Think ChatGPT but synced with all your wearable health data, that learns from your health profile & preferences and gives you expert support & tools. There's a [waiting list](https://heyhoku.com) on the site if you're interested. Hope to see you there!
+
+**Edit 2:** Ah you lovely bunch of masochists! We blew past our budget limit, currently working on 'deprecating' it from using GPT4 to GPT3.5 so that we can resume services.
+
+**Edit 3:** OK, we are back in action. The tool is now using GPT3.5 so you might notice a slight decrease in the quality of sass. Your egos might be spared now, you're welcome.

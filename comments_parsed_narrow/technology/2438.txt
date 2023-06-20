@@ -1,0 +1,1 @@
+I'm not sure Teams is an advantage. In the tech industry at least, companies I've worked for use Microsoft products for a lot of stuff but they avoid teams like the plague. Slack and Google Hangouts seem like more popular choices by far. (And incidentally someone at my company wrote an internal chatgpt extension for slack in like a week, fun to play around with)

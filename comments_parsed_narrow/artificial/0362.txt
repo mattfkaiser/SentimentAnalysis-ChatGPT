@@ -1,0 +1,13 @@
+I find the ChatGPT response very good:
+
+"""
+Gender identity is a person's internal sense of their own gender. It is their personal experience of being a man, a woman, or something else. People may identify as a man, a woman, nonbinary, genderqueer, or any other number of gender identities.
+
+There is no one way to determine your gender identity. Some people may have a strong sense of their gender identity from a young age, while others may take longer to figure out how they feel. Some people may feel that their gender identity is different from the sex they were assigned at birth, while others may feel that their gender identity aligns with the sex they were assigned at birth.
+
+It is important to recognize that everyone's experience of gender is unique and valid. There is no right or wrong way to be a man or a woman, or to identify with any other gender identity. It is also important to respect people's gender identities and to use the pronouns and names that they prefer.
+"""
+
+I think the extra value that understanding, cognition and agi would bring are honestly really tiny. I would not spend time in thinking those questions. 
+
+Listing documents and searching through them is one of the "tooling" questions and is a simple engineering problem. That is something that is easy to solve by writing a tool that the chatbot uses internally.

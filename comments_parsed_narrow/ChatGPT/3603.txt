@@ -1,0 +1,5 @@
+I think they just had ChatGPT provide the prompts required to achieve the result they wanted.
+
+Something like : *"Give me a set of midjourney prompts that I can use to create a video of a perpetually transforming lion"*
+
+Right?

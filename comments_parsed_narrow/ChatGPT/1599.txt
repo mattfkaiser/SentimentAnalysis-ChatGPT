@@ -1,0 +1,7 @@
+lol perfect timing to announce the Android app I'm leveraging Chat GPT to work on.
+
+[https://www.reddit.com/r/sandboxtest/comments/13v39t2/android\_8\_bit\_gif\_creator\_im\_working\_on/](https://www.reddit.com/r/sandboxtest/comments/13v39t2/android_8_bit_gif_creator_im_working_on/)
+
+This only displays on a PC afaik (it doesn't display well on my phone screen). 50% of the code was generated with ChatGPT. It's still not MVP but my idea is to create an x by x grid (it's currently 16x16) and then swap between screens making animation possible.
+
+Maybe Chat GPT won't create the sprites but hopefully my app will make it easier!

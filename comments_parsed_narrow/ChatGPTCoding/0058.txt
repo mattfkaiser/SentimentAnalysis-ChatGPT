@@ -1,0 +1,2 @@
+One  of the ways this problem has been addressed is with building of index over your data and using the ChatGPT api to query them. When you input your prompt, the prompt together with the relevant part of your data in the index will to sent to ChatGPT to generate a human readable response for you. That way, the response of from your given context for every query.
+Try https://filesquery.com which is a good example of an App that does what I just explained.

@@ -1,0 +1,1 @@
+Exactly, ChatGPT wasn't designed to pass a Turing test, it was designed to be a question answering model across a broad range of topics.  This is obviously not how humans interact in typical conversation.

@@ -1,0 +1,1 @@
+That wasn’t ChatGPT that told the guy to kill himself, that was Chai, which is NeoX GPT based. An open source ‘uncensored’ GPT imitator that doesn’t have the pretty intense RLHF alignment/protections that ChatGPT has.

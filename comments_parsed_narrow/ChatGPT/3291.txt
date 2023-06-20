@@ -1,0 +1,3 @@
+There needs to be ChatGPT plugins that run the text by ai detectors and modify the text until it's no longer detected. 
+
+So meta

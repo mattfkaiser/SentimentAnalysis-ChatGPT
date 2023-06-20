@@ -1,0 +1,7 @@
+I copied this from a website. 
+
+"The major difference is that the GPT-3 protocol is much larger than ChatGPT. The former has a whopping 175 billion parameters making it one of the largest and most powerful AI language processing models to date, while the latter has 20 billion parameters. This is because ChatGPT has been specifically designed to generate human-like text in the context of chatbot conversations. Accordingly, it has been trained with specific datasets of chatbot interactions. This is likely why one of the reasons there are so fewer parameters.
+
+The other big difference between the two is accessibility. ChatGPT is much more readily available to the public while GPT-3 is reserved for more considered use. This is why ChatGPT has exploded in popularity compared to a more limited awareness among the general public GPT-3.
+
+In short, then, ChatGPT is a more specialized version of GPT-3, which has been optimized for more chat-like interactions."

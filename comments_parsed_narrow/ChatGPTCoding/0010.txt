@@ -1,0 +1,11 @@
+I used ChatGPT to write a personal IDE in Python and tkinter with a treeview for the conversation history that lets me check/uncheck boxes to determine what to include/exclude parts of the previous conversation in each new request.
+
+Also, if I use `#include ../../iac_terraform/modules/app_pod/*.tf` ... then it includes all the .tf files in the given directory into the request via a json dict (I asked it how it would prefer me to send multiple files - key is the filename and value is the file with \\n new line characters).
+
+These were the "key functions" that drove me to write the IDE but perhaps there is something out there similar already.
+
+Works well but one thing to note is the 8k limit includes the prompt and the response. If you use 7k in the prompt you can only give it 1k for the response (via the API). Still no access to 32k but am also wary of the cost per question if you are hitting the 32k mark!
+
+Now the code for the IDE is another project inside the IDE so I'm... then it includes all the .tf files in the given directory into the request via a json dict (I asked it how it would prefer me to send multiple files - key is the filename and value is the file with \\n newline characters).
+
+On backlog is to allow me to export the conversation history from ChatGPT web so I can use it in the IDE - and also do some kind of search because it's hard to find conversations from weeks ago.

@@ -1,0 +1,3 @@
+They didn't actually use chatGPT, they used and tuned the actual GPT4 model on additional information.
+
+Almost all cutting edge research done on NLP models involved heavy tinkering with the underlying model, and often additional layers and stuff.

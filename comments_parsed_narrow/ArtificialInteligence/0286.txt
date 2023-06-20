@@ -1,0 +1,11 @@
+It makes sense when you consider it training data and the prompt.
+
+ChatGPT's training data was casual conversation, and it was mostly designed to chat entertainingly.
+
+If you went to 10 random facebook friends and ask them OP's original prompt,  more than half of those friends would get bored before giving you the complete list.
+
+But if you went to them and gave them the parent comment's nagging serious prompt, more than half would probably do it right.
+
+I'd say ChatGPT did perfectly in this case.
+
+(remember - it's not trying to be a mindless slave.  It's trying to provide entertaining conversation)

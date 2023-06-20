@@ -1,0 +1,1 @@
+Is all of this necessary? I saw an example of someone who used ChatGPT as a dungeon master and all they needed as a prompt was basically “We’re gonna play a game of D&D, you’ll be the dungeon master.” ChatGPT was able to do all the rest without it needing to be explained via prompt.

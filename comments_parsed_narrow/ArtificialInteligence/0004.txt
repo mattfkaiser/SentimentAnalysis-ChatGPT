@@ -1,0 +1,1 @@
+That’s incorrect. ChatGPT is a multi-layer transformer, not a RNN. There is a significant difference.

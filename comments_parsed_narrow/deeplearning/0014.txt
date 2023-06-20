@@ -1,0 +1,1 @@
+What you say ChatGPT, do you mean GPT3 (api) or are you scraping ChatGPT? If it's the API, was any fine tuning required or is it all prompts and examples?

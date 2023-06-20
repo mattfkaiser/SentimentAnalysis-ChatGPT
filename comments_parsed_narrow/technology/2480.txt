@@ -1,0 +1,1 @@
+Likely intentional as the assistant's direct answers prevents Google the opportunity to serve you ads (i.e. get paid). It's in Google's best interest (without any AI competition, so pre-chatgpt) to not make their AI too helpful.

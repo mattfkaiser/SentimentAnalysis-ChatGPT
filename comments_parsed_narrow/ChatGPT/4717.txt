@@ -1,0 +1,1 @@
+This is the opposite of their current strategy with plugins, where ChatGPT functions as the generally intelligent brain and the plug-ins give it limbs. Why would they release a product that can do all these things so well, only to chop it up? Why wouldn’t they have started with one specific domain, then released additional products?

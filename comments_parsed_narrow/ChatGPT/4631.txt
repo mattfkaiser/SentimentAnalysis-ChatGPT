@@ -1,0 +1,4 @@
+Coding, and designing code. I actually use Copilot more, but have ChatGPT Plus for more complex problems.  
+
+
+Used it last week to build a GitHub Action for the first time, it's excellent for learning in that way.

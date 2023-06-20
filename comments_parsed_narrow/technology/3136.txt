@@ -1,0 +1,3 @@
+Even aside from the potential to leak your information, ChatGPT is horrible as an advisor for building code. It regularly recommends entirely fictitious APIs, and when I point that out to it, it recommends other nonexistent APIs instead. Figuring out what is BS and what is good advice takes longer than just using a regular search engine.
+
+Edit: This applies to both the free OpenAI one (running off v3.5) and Bing Chat (running off v4).

@@ -1,0 +1,7 @@
+> I'd throw out the caveat that to be able to do this properly often requires as much as, if not more of an understanding of the topic than writing a basic non-plagiarised version.
+> 
+> Now the preference should always be to have some kind of oral test to verify the understanding, but being able to parse the results of ChatGPT, fix errors and proof read it requires an understanding of its own.
+
+ChatGPT, rewrite the above in a more eloquent manner.
+
+>  I would suggest that an oral test is the preferable way to verify a student's understanding of a subject. However, even when using automated tools such as ChatGPT to generate content, it is important to remember that the ability to correct errors, proofread and make sense of the results requires a certain level of knowledge in its own right.

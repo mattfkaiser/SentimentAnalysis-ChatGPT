@@ -1,0 +1,17 @@
+For those of us outside of the US, you can change your country in settings to be able to download, install and use apps not available in your country. I’m in Canada and I was able to download ChatGPT. I even asked it how to do it, so here are the instructions: 
+
+To change your country in the Apple App Store to download apps only available in the US, you can try the following steps:
+
+1. On your iPhone, open the "Settings" app.
+2. Scroll down and tap on your name or Apple ID at the top.
+3. Tap on "Media & Purchases."
+4. Tap on "View Account" and enter your Apple ID password if prompted.
+5. Tap on "Country/Region" and select "Change Country or Region."
+6. Choose "United States" from the list of countries.
+7. Review the Terms and Conditions, and then tap "Agree" to proceed.
+8. Fill in the required information including billing address. You may need to provide a valid US address, which can be a hotel or any other legitimate address.
+9. Complete the process by following the on-screen instructions.
+
+Please note that changing your App Store country may affect your ability to access content or use certain services tied to your previous country, such as subscriptions or app availability.
+
+EDIT: the address you provide does not have to be valid. The only thing that it has to do is match the ZIP code to the State. I always pick California and 90210…because I’m an ‘80’s kid.

@@ -1,0 +1,9 @@
+Whenever there is a new fun tech, people try to find problems for the solution. 
+
+First question I’d ask is, can you do this with something that already exists?  If it’s just compiling/manipulating data, Excel already had a ton of functionality built into it to handle many of the things you probably do. 
+
+If you are pulling from pdfs…there are about a dozen free pdf to excel converters, and if your work has Adobe, it likely already has this ability.  I use this to extract tables from PDFs that can go right into Excel without much tweaking.  
+
+As commenters have stated Chat GPT, even GPT4 may give you bad information.  There are models available that can likely handle the requests you need, but my bet is you are looking for something very specific, which may take a special model built specifically for that task.  
+
+Just tread lightly.

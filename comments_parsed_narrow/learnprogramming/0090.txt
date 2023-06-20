@@ -1,0 +1,5 @@
+I think people are imagining that the AIs like ChatGPT are like HAL rather than a great chess program.  
+
+At least, in chess, they don't call it an AI.  They call it a chess engine, which is more accurate.
+
+ChatGPT, to me, is basically Google plus the ability to stitch together the various results into a coherent explanation.  This means, like Google, it needs to know what sources of information are reliable.  But people are so amazed by it, that they are attributing intelligence to it and feeling we're only a few short years from there.

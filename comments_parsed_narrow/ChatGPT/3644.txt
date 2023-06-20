@@ -1,0 +1,7 @@
+I am not sure if you really want this, better be carefull what you ask for.
+
+Top Microsoft AI developer Sebastian Bubek held a lecture about ChatGPT4 at MIT.  https://youtu.be/qbIk7-JPB2c
+
+Basicly the untuned raw version is already mindblowing. You can give it access to search engines and coding software and it does a decent job.
+
+In other words, it is very likely that software developers will lose their jobs.

@@ -1,0 +1,5 @@
+What happens if you just don’t do that? What if you just ask it questions?
+
+People seem to think they get different answers when they first construct a persona for ChatGPT. 
+
+I have yet to find a situation in which asking “what’s the difference between X and y for carpentry” is unsatisfactory, but first telling ChstGPT to pretend it’s a veteran carpenter gives a better answer.

@@ -1,0 +1,1 @@
+Github Copilot is based on some of the same models but is entirely focused on code. I find it way more useful for this specific task and it can be integrated into your IDE. ChatGPT is good for other code related tasks like explaining a piece of code and such, though.

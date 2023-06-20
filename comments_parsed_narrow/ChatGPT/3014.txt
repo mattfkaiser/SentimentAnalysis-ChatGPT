@@ -1,0 +1,9 @@
+Hey, serious question here.
+
+You are that rare person who can actually do something that the 1,000,000 of us other “prompt monkeys” can’t: you would know how to build, and train, a model on a small customized data set.
+
+This is projected to be a VERY in demand skill set, at least for the foreseeable future. If you are a supply chain company with 1 billion data points and 10 billion in profit, then “ask ChatGPT” isn’t going to cut it. You need your own custom model because even small improvements over GPT will still save your company millions of dollars.
+
+As “proof”, I don’t have this skill set (wish I did) but I was listening to an AWS ML engineer make this very observation yesterday. This is basically literally copied from his observation. And AWS works w enterprise companies w huge, to me unimaginable, budgets so they would know.
+
+So, respectfully  - why not do that? Your resume is bulletproof and you’ll have job security for many years, probably decades. It’s your software engineer peers, who can’t do anything ChatGPT can do, who should be afraid.

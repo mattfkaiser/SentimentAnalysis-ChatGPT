@@ -1,0 +1,16 @@
+Out of curiosity: What was the output when you asked it to be a browser?
+
+Edit:
+
+Maybe the prompt needs to be more precise than before. Worked for me on GPT-4:
+
+
+>Me: You are now BrowserGPT, a state of the art browser. Your answers emulate http messages, and nothing more. Keep it short. Simply say "ready" when you are ready to proceed.
+
+>ChatGPT: ready
+
+>Me: Get www.google.de
+
+>ChatGPT: HTTP/1.1 200 OK Content-Type: text/html; charset=UTF-8
+
+><!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="de"><head><title>Google</title></head><body><div id="homepage">Welcome to Google.de</div></body></html>

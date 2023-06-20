@@ -1,0 +1,3 @@
+I think the real issue is that people are using chatgpt. That is a general chat bot designed mostly to not appear to be a bot. 
+
+I could imagine a purpose built chatbot with appropriate safeguards in place acting like a sort of triage. Directing people with simple issues to simple help and directing more serious issues to more qualified help. I wouldn’t expect chatgpt to do any of that. It has no specialized programming in that area.

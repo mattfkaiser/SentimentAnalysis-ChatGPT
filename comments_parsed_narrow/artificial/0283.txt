@@ -1,0 +1,3 @@
+The (un-)funny thing about ChatGPT's commentary on AI safety is it always seems so insincere and like corporate speak to soothe critics.
+
+LLMs are a quantity over quality of discourse model, so all you need to do to capture the first layer of responses for those who use simple prompts is just output enough volume of content.

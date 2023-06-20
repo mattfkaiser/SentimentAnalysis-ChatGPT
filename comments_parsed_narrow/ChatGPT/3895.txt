@@ -1,0 +1,5 @@
+LLMs seem to excel at creatively recombining *what it already knows,* so I'm kind of sitting between basic and trivial inventions here.
+
+I would rule out anything major though, as currently, Chat GPT seems to be missing a mechanism that would allow it to explore and make sense out of what it *doesn't* yet know.
+
+I am highly sceptical of the practicality of this experiment, though, as our modern understanding of life in 1000 AD is obviously limited.

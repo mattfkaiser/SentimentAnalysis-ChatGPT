@@ -1,0 +1,1 @@
+My guess is that the app uses a different set of API, and API models are sometimes pretty different from current ChatGPT models. A website for testing these interesting tokens out: tiktokenizer.vercel.app

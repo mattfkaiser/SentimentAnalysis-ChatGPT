@@ -1,0 +1,3 @@
+By using the dB schemas in the prompt. Chatgpt does not have to know about the entire data.
+
+ It can work almost accurately  with just the schema. You will need to create the right prompt thou.

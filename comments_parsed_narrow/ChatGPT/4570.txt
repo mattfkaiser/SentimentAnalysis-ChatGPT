@@ -1,0 +1,9 @@
+It’s actually pretty valuable skill with ChatGPT. If you ask AI stupid questions you will get stupid answers. Prompt engineering is simply understanding what the AI can do and leveraging it to get the answer you’re looking for.
+
+One simple example:
+A lot of people in my company are asking generic questions like “how do I be a better manager” and getting really generic answers, then they stop using the AI because they assume all it does is spit out generic answers.
+
+
+Instead, we’re teaching them to ask the AI to provide an answer that challenges the common narrative. Getting unusual answers that allow more creativity with the response.
+
+Just one silly example, but prompt engineering is just a dumb way of saying “ask dumb questions get dumb answers” and providing tips to avoid that trap.

@@ -1,0 +1,5 @@
+The problem is this:
+
+An engineer is applying this information to solve NEW problems that an LLM WON'T have an answer for. That means they need to actually KNOW AND UNDERSTAND the old information to look for novel solutions.
+
+If you don't know what surface area is, you don't belong in a college classroom let alone an R&D department. A calculator, google, or chatGPT won't help you.

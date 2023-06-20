@@ -1,0 +1,1 @@
+It sounds like you misunderstood what the workers referenced in the headline were doing. They’re not live moderating the output from ChatGPT on an ongoing basis. They were labeling data to train a moderation model.

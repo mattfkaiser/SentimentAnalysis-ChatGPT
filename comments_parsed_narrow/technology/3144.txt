@@ -1,0 +1,21 @@
+Anyone proclaiming "X isn't AI" at this point is just showing his own ignorance.
+
+There are obvious limitations with ChatGPT but comments like yours are just a shifting of goal posts.
+
+ChatGPT is an AI by any reasonable definition. That isn't even a debate at this point. What you probably mean is to question whether or not it is an AGI, ie the "SciFi" version the public mostly associates with "AI".
+
+Here it is a lot harder to find an answer, especially because the definition for AGI is even harder to pin down than for AI.
+
+But still, you can find plenty of arguments that put ChatGPT in the AGI territory, it certainly manages to handle tasks across a huge field and that has always been the key criteria for AGI.
+
+So in the end what is really curious is how the goalpost keep shifting in regards to AI. Just 10 years ago many of the things AI can do was still in the realm of SciFi and many were doubting it could even get to this stage.
+
+At that time an AI being able to tell something was a cat on a photo was already a success and now we are debating whether or not AI is convincing/accurate enough in legal arguments if you prompt it for that topic.
+
+To me it feels many are trying to downplay the advancements in AI with arguments that boil down to requiring increasingly tough goals to be met.
+
+It's like people get lost in talking about the details of a single tree while they are already standing in a huge AI created forest.
+
+And don't get me wrong, I don't write it to "hype" AI even more, but there is a certain reactionary take on reddit towards "real" AI which constantly ignores the bigger picture.
+
+Currently people like to point out that AI often gets facts wrong but that alone shows how lazy a lot of the criticism is because of all the limitations, "fact checking" will be the easiest one to fix in the near future, especially considering that it's already (mostly) possible if you give ChatGPT the tools for that.

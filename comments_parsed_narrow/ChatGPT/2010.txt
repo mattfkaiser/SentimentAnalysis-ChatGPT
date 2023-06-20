@@ -1,0 +1,5 @@
+You can tell 100% of the people complaining about ChatGPT getting worse wouldn’t have the smarts to simply assemble an app running the OpenAI api on gpt-3.5-turbo-0314 and/or gpt-4-0314, aka the models that haven’t been changed since March 14th. 
+
+People working with the API don’t have these problems and don’t make these complaints. 
+
+Question: what’s your thoughts on the new functions features in the api? No thoughts? Exactly.

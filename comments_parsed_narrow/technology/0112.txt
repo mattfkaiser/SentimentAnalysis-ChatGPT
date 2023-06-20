@@ -1,0 +1,3 @@
+Usually the first result for a long winded request from chatgpt will flag the detectors with decent confidence.
+
+But the second I ask it to expand, correct, or focus on something, it drops way down.

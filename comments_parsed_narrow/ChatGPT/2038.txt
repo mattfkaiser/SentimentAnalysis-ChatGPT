@@ -1,0 +1,1 @@
+open-assistant and it's oa_SFT_llama_30b_6 model is open and pretty impressive.   close to chatgpt 3.5.   because they've made it open and are encouraging people to add expert knowledge training to it I'm hoping it advances pretty quickly

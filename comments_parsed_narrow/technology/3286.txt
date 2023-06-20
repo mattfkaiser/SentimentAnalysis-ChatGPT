@@ -1,0 +1,13 @@
+I highly recommend watching this video. It has not proven chatGPT capable enough, but I can start to see where/how this will be used by creative people 😂.
+
+https://youtu.be/g5_Ts9SWbYs
+
+It's 30ish minutes long but worth it if you have the code/ee background to see how useful a tool it can be. It's not that far off from being able to replace a lot of boilerplate code (along with those specialized in pumping that out sprint after sprint).
+
+It won't replace software developers but it looks like it might have enough influence to optimize and change how a lot of stuff is organized. I'd love to be able to communicate in human readable words to technical infrastructure, like pipelines or dependency version updates, automatic CVE patchess, generating awesome metrics/dashboards, etc. 
+
+"Give me a dashboard that has metrics on all hosts. Set a monitor when there's a spike in any CPU utilization metric on the new dashboard"
+
+That would be nice 🤣🤣
+
+(Edit: some autocorrect nonsense)

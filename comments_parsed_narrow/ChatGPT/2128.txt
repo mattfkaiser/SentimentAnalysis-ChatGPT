@@ -1,0 +1,3 @@
+This is the answer.  I have a team of software engineers and a team of data scientists.  They started using ChatGPT to make themselves more efficient and it was / is incredible.  However (and this is a big however), it needs to be run through both legal and infosec.  There are intellectual property concerns, privacy concerns for the company and its clients, trademark infringement concerns, and compliance concerns.  You may also be required to publicly acknowledge us of the tool.  It gets hairy fast.  It CAN be done but it needs to be used in a particular way.
+
+EDIT: Some misspelling.

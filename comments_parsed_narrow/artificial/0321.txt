@@ -1,0 +1,3 @@
+The sentence may be grammatically ambiguous, but that doesn't change the fact that many sentences are structured this way in English.
+
+Also, I question the validity of your statement that ChatGPT is not trained on "that stuff", since you can simply ask ChatGPT if it has been trained on winograd schemas, and it will say that it definitely has been trained on several winograd schemas.

@@ -1,0 +1,3 @@
+Frankly, it is probably impossible for you to make something like ChatGPT. It costs millions of dollars to train a model like that. Even just once.
+
+But a way to do something almost like that would probably be to use an open source version of GPT (like https://huggingface.co/EleutherAI/gpt-neo-2.7B), and then fine-tune the last layer or maybe just continue training with a high learning rate while feeding your dataset.

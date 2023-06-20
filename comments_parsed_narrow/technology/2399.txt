@@ -1,0 +1,5 @@
+> So when I would code, I tended to have to spend a lot of time digging through documentation first. Now I can just ask ChatGPT. 
+
+Yeah, for things like that it can be pretty amazing. But you have to know your stuff, you can't really expect someone who is not a programmer to use it like that yet.
+
+But if you're working with a (well known) tool or library, it can be a real time saver. Otherwise it tends to make stuff up, and just gives you some kind of useless pseudocode.

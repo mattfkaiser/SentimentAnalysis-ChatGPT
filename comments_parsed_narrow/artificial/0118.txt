@@ -1,0 +1,1 @@
+GPT-4 is likely around 1 trillion parameters (No one really knows, but that's what most people in ML circles tend to believe), while GPT-3 is "only" 175 Billion, meaning it's almost 6x as expensive to run the paid ChatGPT than the free one

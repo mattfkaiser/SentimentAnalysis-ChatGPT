@@ -1,0 +1,3 @@
+If you ask it for a similar idiomatic expression it will offer exactly that expression.  OP asked for a translation. 
+
+ChatGPT - 1  ----- You - 0

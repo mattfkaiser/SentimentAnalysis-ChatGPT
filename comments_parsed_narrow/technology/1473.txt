@@ -1,0 +1,27 @@
+The "privacy issues" are likely not perfectly solvable without throwing the baby out with the bathwater. 
+
+If you train an AI on the contents of a public library then there's a good chance that someone will have written information about individuals who live in the EU in at least some of those books.
+
+Technically the GDPR applies to information on paper exactly the same as it does to info on computer systems but enforcement against libraries is apparently rare. 
+
+So an author, John Smith includes a sentence in a book. "During my trip I met my friend from Naples, Bob Esposito who is a wonderful gay man and he likes sardines!" 
+
+Right there we've got "sensitive" personal information of Bob Esposito.
+
+technically that would make the library a "data controller" and by extension so is anyone who trains an AI on the contents of that library.
+
+The library likely didn't get consent from Bob Esposito... but public *libraries tend to not have deep pockets.*
+
+But lets imagine that Bob then goes to chatGPT and asks "what do you know about Bob Esposito from Naples?" and it comes back "He's a gay man who's friends with John Smith and he likes sardines" or perhaps it hallucinates and it comes back "He's a gay man from Florence who's friends with John Smith and he likes sardines and cheese"
+
+Bob Esposito then goes "I did not give consent to them storing my information! Also I HATE sardines and I hate John Smith ever since he slept with my husband! They're holding inaccurate information about me!"
+
+Under the GDPR both the library and openai could be forced to delete his information and/or amend "inaccurate" information about him.... but big neural networks don't store information like a classical database. You can't just run "delete * from persons where name=='Bob Esposito' ". The information is stored in a fuzzy network. 
+
+In practice you can't perfectly filter all personal information about real people that anyone ever might have included in a book or song or poem or novel.
+
+This would also apply to everyone. not just big companies. 
+
+So it would amount to a total ban on a lot of types of AI research in the EU.
+
+My bet is that enforcement is 100% political. microsoft will be strongarmed into opening some call centers in german and Italian towns with high unemployment, they'll add a click-box to their website and then the governments will magically declare that microsoft/openai are trying hard enough to comply with the GDPR. if that's what happens then it will turn into a giant pile of regulatory capture.

@@ -1,0 +1,9 @@
+>How is this different from calling an api on a different codebase? 
+
+It's not. That's my point. API calls [ are a way for one program to interact with another. API calls are the medium by which they interact. ...
+
+If Jan is hosting a lot of guests for dinner, she might call a catering company and ask that they prepare food for the party. **This saves her a great deal of time and effort preparing food herself**. Similarly, one application can "call" another for needed data or functionality. **This ensures developers do not have to spend time and effort building application capabilities that can be integrated via API.** ](https://www.cloudflare.com/learning/security/api/what-is-api-call/)
+
+The entire point is that you delegate the task to someone/something else so that you don't have to do it. You don't even have to know how to do it. E.g. calling a catering company doesn't make Jan a chef. It just means she has a phone. 
+
+We can argue semantics all day, but my point is, the underlying chatgpt model didn't get better at mathematics, they outsourced the problem. That's a perfectly fine thing to do, but it's not really an 'AI' development. No progress was made on making LLMs better at math.

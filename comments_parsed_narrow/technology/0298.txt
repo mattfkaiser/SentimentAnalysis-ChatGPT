@@ -1,0 +1,13 @@
+>It wouldn't "be long until large numbers of consumers try to use [ChatGPT] for financial gain"
+
+Especially after a news article suggests it might work.
+
+EDIT: Just went and gave it a try to see what it would do.  This is what it said:
+
+>As an AI language model, I cannot provide personalized investment advice or predict future market performance.
+
+and it went on to provide generic advice.
+
+However, I would not be surprised if there were a model developed for those with the means that would do just that.
+
+Another AI chat I tried for a list of 10 stocks expected to outperform the average spat out basically the industry leaders like Apple, Google, Facebook, etc.

@@ -1,0 +1,3 @@
+This is all ChatGPT-- both the API and the web interface... not sure what you mean.
+
+Edit: If you mean turning off the settings in the web interface, you aren't able to save chats for future reference. There's a cost to disabling that setting.

@@ -1,0 +1,3 @@
+It's crazy how many people seem to think "I asked ChatGPT if it could do X, and it said it can do X, so therefore it can do X" is a valid line of reasoning.
+
+It's especially crazy when people still insist that is some sort of evidence even after being told that ChatGPT literally is a text generator.

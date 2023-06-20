@@ -1,0 +1,1 @@
+More important is to follow the progression, alpaca13B is dramatically better than the raw llama model, the lack of a commercial licence will not affect people at home, it isn’t chat gpt but it’s only about 10% worse than gpt3.5. With people working on solutions constantly, I’d watch that space!

@@ -1,0 +1,3 @@
+If he really thought it was bad, why hasn’t he shut it down?
+
+There isn’t a single other LLM as powerful as GPT-4 that can handle the user load OpenAI is currently handling. Someone would be able to eventually, but shutting down ChatGPT would give regulators time to catch up.

@@ -1,0 +1,7 @@
+People are often self-deluding or maybe deliberately cherry picking.
+
+The cut-off date is the end date of the training data they've curated. It's an arbitrary end-point the settled on so that they're not constantly playing catch-up with training ChatGPT on all the latest news.
+
+They don't give it data from after that date but say "BTW don't use this data - it's SECRET!"
+
+So you're not accessing secret data by tricking ChatGPT that the cut-off date for the training data is more current. That's just like crossing out the use-by date on some cereal and drawing the current date on in crayon, and saying the cereal is "fresher" now.

@@ -1,0 +1,7 @@
+# DO THIS - It’s all I use and there’s no download required.
+
+Open whatever internet browser you have, go to https://freechatgpt.chat/
+
+It gives you simple instructions, and right click the link in the instructions to open a new tab, and follow the instructions to type in the manual API key it gives you (copy and paste).
+
+Boom now you have ChatGPT for free in a browser. No download or payments required.

@@ -1,0 +1,7 @@
+You wholly misunderstand how ChatGPT works. What you are interacting with is ALREADY trained. You don't train it anymore, you give it inputs, and with the training it already has done, it can now create outputs.  
+
+
+People already suggested it, but you can start off the convo with a prompt that sets guidelines, mostly people give it a persona. It DOES NOT have to follow this persona, but it generally will. Then you can give it prompts and it will attempt to follow the persona as it generates new outputs.  
+
+
+You telling everybody it doesn't work is just you running into the tediousness that is modern AI. It's not actually smart, even if it can do awesome stuff. At the current stage, AI needs a lot of handholding and sometimes that means you just need to edit the copy yourself for that fine tuning.

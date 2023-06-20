@@ -1,0 +1,1 @@
+Pretty low token usage. A typical request sends the system prompt which is around 50 words, a list of history summaries that ChatGPT created and the text strings from the game. Usually less than 1000 words.

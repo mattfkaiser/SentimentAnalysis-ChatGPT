@@ -1,0 +1,6 @@
+What aspects would you like to know more about? 
+
+- How AI/ML works in general?
+- How LLMs (large language models, stuff like chat gpt/lambda) work specifically?
+- Generative AI?
+- Legal/ethical aspects?

@@ -1,0 +1,11 @@
+Isn't it proof enough that so many people who have been using GPT4 since its release have noticed a quality difference, particularly those who use it daily?
+
+Since GPT4's public release, I've been using it, and I've noticed that the text-writing quality has decreased.
+
+My GPT4 has become significantly faster but also dumber. It's like I am using a GPT4-turbo version or something. It took a long time to get responses back then, but the quality was much higher.
+
+I've written old articles entirely with GPT4 and very specific prompts. I see a significant difference when I compare the output from back then with the output from today. No, I am using the exact same prompts.
+
+GPT4 was initially exceptionally good at understanding the instructions and guidelines I provided in order to achieve a particular writing style. Currently, it can only roughly understand my writing prompts, and it seems more like GPT4 is switching between writing style templates like Quillbot.
+
+You might not notice the difference if you only use ChatGPT to make memes...

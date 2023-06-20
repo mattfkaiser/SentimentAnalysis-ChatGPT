@@ -1,0 +1,5 @@
+Your prompt history is displayed on the left hand side of the web interface. That might be locally stored but it would be pretty minimal effort it save that on their end and would be a feature for the people looking to use chatgpt professionally. 
+
+Given the focus that is currently on chatgpt it would be good pr for them to have a program that verified educators could join and use to check on either appropriate emails or prompts. 
+
+I don't think an academic integrity program is out of the picture for chatgpt.

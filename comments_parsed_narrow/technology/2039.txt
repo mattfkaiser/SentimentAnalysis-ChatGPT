@@ -1,0 +1,1 @@
+I'm working with some obscure programming language at work and finding code examples on Google is a nightmare. Even though the code written by ChatGPT is often incorrect, it does give me a starting point to help me understand it more.

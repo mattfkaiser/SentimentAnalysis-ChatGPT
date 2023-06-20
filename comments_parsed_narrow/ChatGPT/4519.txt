@@ -1,0 +1,1 @@
+Share your private Google calendar with your work account. Then you can paste anything you want (e.g ChatGPT outputs) into the calendar notes section of an event and delete it afterwards. This should work both ways.

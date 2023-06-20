@@ -1,0 +1,5 @@
+You can use the ChatGPT 3/4 models via the API and doesn't require the tuning. The davinci models required tuning
+
+The ChatGPT models in the api: [https://platform.openai.com/docs/models/gpt-4](https://platform.openai.com/docs/models/gpt-4)
+
+Tuning's not available for 3.5-turbo and 4: https://platform.openai.com/docs/guides/chat/is-fine-tuning-available-for-gpt-3-5-turbo

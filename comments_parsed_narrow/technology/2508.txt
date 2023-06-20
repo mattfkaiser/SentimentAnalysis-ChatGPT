@@ -1,0 +1,11 @@
+>"It actually agreed fairly quickly"
+
+I see comments like this absolutely everywhere so I don't mean to call you out specifically,  but this is *not* what the bot is doing. You're not convincing it of anything, and it's not telling you it's opinions. It's not agreeing with you at all.
+
+The bot is doing nothing but imagining a creative writing exercise. When you type something to it, the actual command going to the AI is essentially "predict what the next potential response to this statement would have been if this was a conversation". Using it's terabytes of example conversational data, it then has a guess.
+
+If you have a conversation talking about socialism, after a couple of responses, the bot will be well into the realm of "hmm, a conversation going on about socialism is likely  going to include some positives about socialism - I'll chuck some in". If your conversation started with some negatives, then over time it would have gotten more negative, because that's more likely how a real conversation starting negatively would have gone.
+
+You can start a conversation about what a great performance Daniel Radcliffe had as Frodo and chatgpt will happily agree that he was amazing; just because that's how a conversation between two people that thought it was Daniel Radcliffe would likely have gone.
+
+Think of it as a master of improv who can take the other side of any conversation at any point. It doesn't remember anything or have any opinions.

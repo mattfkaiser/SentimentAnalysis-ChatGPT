@@ -1,0 +1,71 @@
+##### Skip the click! Read the plaintext instead!
+
+https://www.computerworld.com/article/3695734/dont-replace-your-people-with-chatgpt-or-other-a-i-services.html
+
+>By Steven J. Vaughan-Nichols, Computerworld | MAY 9, 2023 4:30 AM PDT
+
+>Weekly insights and advice on using technology to achieve small business success
+
+>Goldman Sachs predicts generative A.I. will replace 300 million full-time jobs because it can "generate content that is indistinguishable from human-created output." Meanwhile, IBM CEO Arvind Krishna has paused hiring because A.I. chatbots could replace 7,800 workers.
+
+>Some companies aren't waiting at all to jump on the AI bandwagon; ResumeBuilder.com found 25% of business leaders were already using ChatGPT to replace workers at their companies…in February.
+
+>Calm down, people! Even OpenAI CEO Sam Altman has said ChatGPT shouldn't be relied on for "anything important."
+
+>Yes, ChatGPT is impressive at first glance, but the closer you look, the more you'll find it's not all that.
+
+>First, it makes stuff up. For example, did you know James Joyce and Vladimir Lenin met in Zurich, Switzerland, in 1916? No? Well, that's what ChatGPT said,
+
+>But it never happened.
+
+>Say you try the AI-powered Bing search, it will point to The New York Times story explaining that this meeting never happened, and it will "state" only the claim without noting that it's a lie, or as A.I. people like to say, an A.I. hallucination.
+
+>On other bogus answers, Bing will sometimes cite made-up sources for its answers. When you try to click through to them, you'll get a 404 error message. One time in four, according to a new Stanford University study, the citations it gives you for its answers don't actually support its conclusions. 
+
+>You may have noticed I put a lot of links into my stories. That's because I want you to know where I get the information I use.
+
+>I make it easy to fact-check my stories. A.I. will lie to you all night and day, and unless you're a subject matter expert or want to fact-check every last lousy answer, you'd never know.
+
+>You can't even trust these A.I. engines when you feed them the correct information. My favorite example: during a demo, Bing AI was fed a Q3 2022 financial Gap Clothing financial report and got much of it dead wrong.
+
+>The Gap report stated that the company's gross margin was 37.4%, with an adjusted gross margin of 38.7%, excluding an impairment charge. Therefore, Bing was wrong when it stated the gross margin as 37.4%, including the adjustment and impairment charges.
+
+>If it can't correctly summarize a financial report, something I could almost do in my sleep, how can you trust it to do anything important?
+
+>I've been using ChatGPT a lot recently to summarize reports and Otter.AI transcripts. Unfortunately, I see it make that kind of mistake every day. Even when I give it the answers, it gets them wrong. It's still useful— but remember, I spot mistakes for a living.
+
+>That's not what other people are doing. Instead, they're blindly trusting that the documents, memos, and code — whatever the A.I. chatbot comes up with — is right. At this stage of the A.I. game, that belief is idiotic.  
+
+>ChatGPT and the like talk a good game. They sound convincing. But, they're only convincing in the same way that someone with Dunning–Kruger — the cognitive bias that stupid people have when they overestimate their ability or knowledge — is convincing.
+
+>They sure sound like they know what they're talking about, but they're often just pulling answers out of … thin air.
+
+>Why? They do it because way too many people labor under the delusion that they "know" what they're talking about and can fact-check their answers.
+
+>Nope, ChatGPT and its ilk are nothing like that. A.I. engines are just very advanced, auto-complete, fill-in-the-blank machines. Their answers come from what words will most likely be the next in response to any given query. Note, I didn't say it's the accurate or right word — just the one that's most likely, statistically speaking, to pop out of their large language model (LLM).
+
+>That also means they're not truly creative. Sure, it can come up with a decent limerick.
+
+>There once was an A.I. so bright,
+
+>It could chat and create with delight,
+
+>From poems to prose,
+
+>Its knowledge it'd show,
+
+>Bringing wisdom and laughter each night.
+
+>Not bad. But novels, short stories, real prose? Nope.
+
+>As Nick Kolakowski, novelist, and Dice senior editor, tweeted, "People who argue in favor of AI-generated covers, short stories, novels, screenplays, etc. are uniformly incapable of doing the actual work required to make those things on their own; they're losers who want the playing field leveled so they have a shot."
+
+>CEOs and business leaders who think A.I. will solve anything by eliminating workers are losers, too. Sure, A.I., when used carefully, can help your people be a lot more productive whether it's at a help desk, accounting, or programming — but replace them?
+
+>We're a long way from that day.
+
+>And the longer I work with A.I. chatbots, the more I realize they won't be ready to replace staff for years to come, if then.
+
+>Copyright © 2023 IDG Communications, Inc.
+
+>Copyright © 2023 IDG Communications, Inc.

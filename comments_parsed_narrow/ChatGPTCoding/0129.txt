@@ -1,0 +1,5 @@
+I'm a big fan of [TurboGPT](https://github.com/mikebpech/turbogpt.ai). You can try it out [here](https://turbogpt.ai/).
+
+Custom prompts and "personalities". 
+
+Looks like they added docker support. Prior to that, I simply asked ChatGPT to create a dockerfile for it and called it done.

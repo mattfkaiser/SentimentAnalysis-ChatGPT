@@ -1,0 +1,7 @@
+I've been a developer for 12 years. Taught courses from game development to web development, to architecture, patterns and language fundamentals. Before that my background was in Philosophy and music composition. In all cases I've managed to go far simply due to my ability to break down problems into simple and clearly stated logical blocks. I consider each statement carefully. Honestly, I grant that as minimum to an experienced developer and have no reason to assume otherwise.
+
+If you look at my conversation history with ChatGPT, you'd see a wide range of topics across many different domains, from highly specialized and esoteric to banal and straight forward. The results are a mix, but most glaringly problematic in the arena of math and programming, which many have gone on to highlight to the point of being meme-worthy comedy.
+
+I don't think I'm the problem in this case, given how severely maladept and frankly laughable the results often are from a wide array of sources.
+
+For me, it is every day, multiple times a day that I have to face this. I do understand that initiatives like Wolfram is attempting to train it on proper mathematical inferencing, and I am aware that, as this post states, I am tacitly training this particular LLM on how to program better. As are many of us. I know the technology will improve. I'm not commenting on that status.

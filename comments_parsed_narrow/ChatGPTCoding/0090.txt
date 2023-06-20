@@ -1,0 +1,3 @@
+Wait, what?!
+
+ChatGPT can look up urls that are placed in the system prompt and use the data found there?

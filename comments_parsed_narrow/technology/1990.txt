@@ -1,0 +1,1 @@
+ChatGPTs Achilles Heel is exactly this. Citing sources, it pulls from material it's been trained on but it doesn't know if the source is reliable or truthful. Only that it's "a" source. That and it gets caught in recursive loops.

@@ -1,0 +1,1 @@
+If you ask it for a detailed summary of the conversation it will tell you the prompts asked. Maybe it's a hallucination maybe it's repeating back user convos, who knows. But I've have hundreds of conversations with chatGPT and this is the first time I've ever hit an hourly limit

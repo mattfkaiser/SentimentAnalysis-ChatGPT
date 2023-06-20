@@ -1,0 +1,15 @@
+Option 1: setup your own  proxy, and connect there instead of chatgpt.
+
+Option 2:
+
+1. Bring your laptop/tablet  and a usb camera to work and connect either as a guest (if provided) or through your phone (hotspot).
+
+2. ask chatgpt to write two programs.
+a. copy clipboard to qr code in chucks (1500 chars?)
+b. read above qrcode and paste it to clipboard.
+
+3. run your work on chatgpt, copy  results, run program 2a   on your own laptop to create a qrcode
+
+4. run program 2b on the work computer, use usb camera to qrcode,  paste results to your work.
+
+5. repeat 3 and 4 if there are more chunks.

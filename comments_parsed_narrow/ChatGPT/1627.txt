@@ -1,0 +1,3 @@
+If you ask it how to get to change your phone’s settings, the iOS app should assume that you’re on an iPhone and not ask that as a follow up question. Same for the Android app. If you’re on the internet, it would have to ask you the follow-up question.
+
+There might also be certain limitations like a more expansive filter on certain platforms to maintain App Store listing.  Apple’s App Store is way more restrictive than Google’s in terms of what kinds of content can be made available and in what ways. Apps with adult content are much more tightly controlled, and while they try to lock down ChatGPT a lot already the company really doesn’t want to accidentally lose their Apple dev status and have their app pulled.

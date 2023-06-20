@@ -1,0 +1,19 @@
+The 20$ paid version allows you to switch to the GPT 4 model when staring a new convo.
+
+It comes with a dropdown that links you to the plugin store.
+
+I'd recommend installing VoxScript (Google/YouTube transcript search), Link Reader (web/doc crawler), and Wolfram (math) or Noteable (data analysis) for a start, since there's a 3 plugin limit.
+
+Also keep in mind, GPT 4 is limited to 25 messages every 3 hours.
+Also, if you switch back to 3.5 after hitting the limit, there's no built-in way that I know of to switch back to 4 for the same convo, unless you do this (not my code, courtesy of u/sergiocabral):
+```
+const originalFetch = window.fetch;
+window.fetch = function() {
+    if (typeof arguments[1]?.body === 'string') {
+        arguments[1].body = arguments[1].body.replace(/(?<="model":")[^" ]+/, 'gpt-4');
+    }
+    return originalFetch.apply(this, arguments);
+}
+```
+**Paste that** into your JS console after using F12 or Ctrl+Shift+I on Chrome for example, **then ask any question** in text chat, **then reload the page**.
+You'll see it's working when it mentions a model switch and the ChatGPT icon changes back to purple from green.

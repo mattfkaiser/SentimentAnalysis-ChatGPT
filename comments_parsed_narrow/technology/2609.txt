@@ -1,0 +1,3 @@
+It wrote me a complicated sql query today that would have taken me an hour or two to puzzle out myself. It took 5 minutes.  Original prompt, then I asked it to rewrite it a couple times with added requirements to fine tune it.  
+
+ChatGPT boosts my productivity two to three times a week.  Tools like this are only going to get better and better and better.

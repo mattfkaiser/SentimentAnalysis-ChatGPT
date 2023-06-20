@@ -1,0 +1,5 @@
+Keep in mind current version of ChatGPT confabulates and makes stuff up. 
+You would something that is strict with its facts.
+
+Also 4096 character is maximum query input. 
+Dont you have more data than that?

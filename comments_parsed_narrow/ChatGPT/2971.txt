@@ -1,0 +1,1 @@
+They did. Its the plugins implemented into chatgpt plus. They allow it to interact with external tools to compensate its weaknesses and limitations. Wolframe for example is for calculations of any kind.

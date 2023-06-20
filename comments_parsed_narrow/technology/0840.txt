@@ -1,0 +1,5 @@
+Okay? This is so different.
+
+One is you actively modifying licensed source code where you have the context to know.
+
+The other is me asking you "where did you learn breadth first search?" and asking you to cite the source. This is what ChatGPT is doing.

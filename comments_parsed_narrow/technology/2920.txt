@@ -1,0 +1,7 @@
+I think, to teachers, spell checkers and sentence restructurers (not sure that's a real word but it suffices here) such as MS Word and Grammarly are fine-tuning tools and not necessarily generative tools. You've put the idea down and you simply need to be clearer. 
+
+ChatGPT however, can be used to generate high-quality work (in some cases) by someone who doesn't have the most fundamental knowledge about a field and that's where most of the conversation is centered, I think.
+
+Does the usage of Word and Grammarly constitute cheating? Only if the educational system wants to churn out students that are **TOTALLY** independent of these tools. 
+
+Like you said, the main aim should be about teaching how to write better and this can be achieved with ChatGPT but there should be a system to somehow differentiate when it is being used as an aid from when it is being used as an assignment churner.

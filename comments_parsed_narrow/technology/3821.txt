@@ -1,0 +1,1 @@
+And even if it's wrong assuming to not a moron it gives you a staring point. I had a data lakehouse logging solution. We had three high level requirements. ChatGpt gave me two other use cases. It just helps you look at all the options.

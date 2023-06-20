@@ -1,0 +1,1 @@
+“Hey ChatGPT, can you write an app that will detect if an essay is written by ChatGPT?”

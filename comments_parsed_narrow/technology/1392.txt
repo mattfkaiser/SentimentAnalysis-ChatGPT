@@ -1,0 +1,1 @@
+Dall-E does Watermarkt its results. ChatGPT produces text. How are you supposed to watermark text.

@@ -1,0 +1,5 @@
+My goal is not to make islam jokes, but I just think the handcuffing kind of disables chatgpt.  
+
+
+It doesn't have to do with training data, jailbreaks circumvent the guidelines that chatgpt puts in and give access to more controversial data and opinions.  
+it's the guidelines that openai keeps adding that Imo resulting in the decreasing usefulness of cgpt

@@ -1,0 +1,43 @@
+I've found it not very useful for obscure subjects because it just makes stuff up. For example I'm looking up an obscure long demolished courtyard in London at the moment and it suggested: 
+
+> The Gentleman's Magazine, a monthly magazine published in London from 1731 to 1922, mentioned Round Court in its May 1813 issue, describing it as "a curious circular building, consisting of several tenements, and a spacious area in the centre". 
+
+[No such mention exists in the May 1813 issue of The Gentleman's Magazine. The word "curious" appears 14 times but never in reference to a building](https://dr.library.brocku.ca/handle/10464/3678) 
+
+> A book titled "The Strand District, its historical and topographical development" by E. Beresford Chancellor, published in 1902, also mentions Round Court. The author describes it as "a small, circular court surrounded by houses, which are let out in tenements". 
+
+E Beresford Chancellor did indeed publish a book about The Strand, although that was in 19**12** and was called "The Annals Of The Strand: Topographical And Historical". It mentions Round Court but doesn't contain that wording. 
+
+> A digital reconstruction of Round Court is available on the Museum of London Archaeology website. The reconstruction is based on archaeological evidence and historical records, and it provides a glimpse into what the courtyard might have looked like in the past. 
+
+I was very surprised - this wasn't a particularly notable courtyard. I went over to the MOLA website and couldn't find it. I asked the bot about it and it said
+
+> Go to the Museum of London Archaeology website (https://www.mola.org.uk/). Click on the "Our work" tab on the top menu. Scroll down to the "Archaeological Research" section and click on "Case Studies". Scroll down to the "Digital Reconstruction: Round Court" case study and click on it. The page will display information on the project and a link to access the digital reconstruction
+
+You can give that a go and let me know if you're able to find it, given that doesn't reflect the site topology at all (and no inner London project along those lines is mentioned).
+
+> A book titled "Old and New London: A Narrative of Its History, Its People, and Its Places" by Walter Thornbury, published in 1897, describes Round Court as "a small but neat-looking circular court, which is a type of a little oasis of quiet in the midst of the noise and bustle of the great thoroughfare".
+
+That book does exist, but it's by Edward Walford, who died in 1876, with later editions by Walter Thornbury - but still only up to 1879. No reference to Round Court there, because it was published in the 1870s and Round Court was demolished in 1829 due to the Strand Improvement Act, so it wouldn't have been getting a present tense description.
+
+> The Survey of London, Volume 18, St Martin-in-the-Fields II: the Strand (1937), pp. 17-18 - This book provides a detailed description and history of Round Court, including information on its construction, layout, and residents
+
+This is at last a real book published in that year that does mention Round Court. Unfortunately not on pages 17 and 18, which is about Northumberland House. [The only reference to Round Court is in the final chapter on the North side of The Strand](https://www.british-history.ac.uk/survey-london/vol18/pt2/pp124-129) and that is rather fleeting - "Extensive alterations were carried out to this property circa 1700 when New Round Court, Southouse Court, etc., were formed. The lay-out of the ground had been so much altered during the period of Huyck's lease that the boundaries became a subject of dispute, and several plans, now among the Abbey muniments, were drawn to clear up the matter."
+
+The most telling part of all of this? Despite multiple descriptions, Round Court *wasn't round*. It was a square courtyard and several alleys (God knows why it was called Round Court). ChatGPT spat out a bunch of believable sounding nonsense and that's the issue - if it's largely able to get things right on more common topics, people might trust it even when it's making stuff up.
+
+Edit: I tried giving it something less obscure.
+
+> The Vere Street Coterie was a group of homosexual men who met in London during the late 18th century. The group was named after the street where they first began to meet in 1810, which was located in the heart of London's West End.
+
+> The Vere Street Coterie was composed of men who were primarily from the upper classes of British society, and many of them held influential positions in the arts, politics, and the military. The group was known for its lively social gatherings, which included discussions of literature, music, art, and politics, as well as more scandalous activities such as cross-dressing and homosexual liaisons.
+
+> However, in 1810, the Vere Street Coterie was infiltrated by a government spy, who gathered evidence of the group's homosexual activities. The spy turned this information over to the authorities, and in 1811, several members of the group were arrested and put on trial for sodomy.
+
+> The trials caused a sensation in London, and the men involved were subjected to public ridicule and scorn. Several of them were convicted and sentenced to hard labor, while others fled the country to escape prosecution.
+
+> Despite the scandal, the Vere Street Coterie is remembered today as a significant moment in the history of gay rights in England. The trials brought attention to the harsh and often arbitrary nature of the country's sodomy laws, and they helped to fuel the growing movement for legal reform and greater tolerance towards homosexuality
+
+Wrong, wrong, wrong. They first started meeting in 1810 - but were busted within six months. They were not infiltrated by a government spy, they got raided by (the precursor to) the police. They were not a group of intelligentsia - it was a pub/brothel and the "coterie" were the men arrested, who were all working class (although there were rumours of upper class men slumming it there, but never substantiated). None of them fled the country - they were either released due to lack of evidence or were pilloried and imprisoned, and two were hanged. They weren't all homosexuals; the proprietor was a heterosexual married man and insisted he was just running the place as a money making racket. The trials also did *not* motivate a move towards reform, which would not come for decades.
+
+It's not a valid research tool. It just spits out believable sounding falsehoods.

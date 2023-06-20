@@ -1,0 +1,5 @@
+Instead of trying to prove a negative, which is silly, ask yourself what evidence there is that any LLM model is sentient, or has consciousness.
+
+But, before you do that, define what you mean by sentient or conscious. 
+
+LLM's like ChatGPT use feed-forward neural networks, where information flows in one direction, without any explicit loops. It's difficult to argue that this kind of architecture could result in self-awareness. However, the self-attention mechanism does allow for connections between nodes within a layer, so maybe there's some magic happening there.

@@ -1,0 +1,7 @@
+> I guess, or we just shouldn’t use AI to solve policy questions.
+
+> ChatGPT does not engage in critical thinking.
+
+The problem is that abuse of this AI doesn't *require* it to engage in critical thinking or come up with any kind of legitimate policy solution. Abuse of this AI happens when you can create a firehose of conspiracy theory nonsense and flood public forums with whatever opinion you're trying to promote. A worker at a troll farm subsidized by a nation-state could probably make 2-5 comments per minute if they're really buckling down hard. A chat AI could make 2-5 per second, easily.
+
+The arguments made by those comments don't need to hold up to scrutiny, they just need to make people sitting on the fence think "Hey, I'm not the only person who's had that thought".

@@ -1,0 +1,7 @@
+ChatGPT is mostly useful for creating a kickstart for individual functions. If you’re deploying ChatGPT code to production without significant tweaking/test coverage you deserve what you get.
+
+It flat out refused (wisely) to create a complete application (despite it being the simplest minimally useful application I could think of).
+
+These are early days, however. Even with the current limitations, I can envision a tool appearing in a couple years that will generate full unit test coverage automatically (one can dream).
+
+I also expect that AI will greatly simplify debugging and detecting security holes (rather than introducing them) but this functionality may be further out.

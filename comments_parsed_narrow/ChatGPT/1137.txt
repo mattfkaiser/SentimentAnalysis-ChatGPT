@@ -1,0 +1,5 @@
+Have any of the AI detectors been validated in peer-reviewed journals? or did someone just release a coupe apps that said "look what I can do?"
+
+&#x200B;
+
+A very basic test would do a prompted response by the teacher in real time and then have it evaluated by the detector. Since ChatGPT was trainined on real-world data, there is going to be overlap in human and automated writing.

@@ -1,0 +1,3 @@
+Great video! Did not know about the reward function specifically was developed, that was some great insight and in incredibly clever way of doing it. I wonder how many options were ranked. 
+
+Also what does chatgpt do that goes beyond instructgpt? You used figures from the instructgpt paper, but there must have been some additional work done on it to turn it into this?

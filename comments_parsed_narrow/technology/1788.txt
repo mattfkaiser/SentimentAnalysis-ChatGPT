@@ -1,0 +1,1 @@
+just ask chatgpt to have an output to circumvent detection that it was written by chatgpt, it can write as a person of 50 iq or 150, probably will be a lot better at it when the datasets are updated on what text is more likely to be seen as openai

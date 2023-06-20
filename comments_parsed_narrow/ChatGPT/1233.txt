@@ -1,0 +1,17 @@
+I think that a large part of the figure that we have, for 1 in 20 has to do with a few factors - 
+
+Factor 1 - Distribution of Information across the continental US. 
+
+It’s no secret that there are places in the US, that receive or rather use new information at slower rates than others. These are often more rural environments and therefore I believe we can attribute a fair amount of people not finding it useful because of that. 
+
+&#x200B;
+
+Factor 2 - The nature of applying AI to your workflow is still not clear to many.
+
+I have experience with this one. It took me a long time, to be able to fully and more importantly - in an optimized fashion, use AI for my work. Often most people don’t even realize that they can relegate a lot of tasks to AI, and therefore miss out on the optimizations. For me at this point, ChatGPT acts like a second brain and greatly expedites all my workflows, but for your average person, the time investment to find these optimizations are perhaps too burdensome to achieve.
+
+&#x200B;
+
+Factor 3 - Some jobs just don’t need it!
+
+Understand that many people are not going to see chatGPT, as a tool that can greatly optimize even the home life and therefore are mostly going to look at it, from the perspective of work. A person who works a mostly manual labor job will likely have less need for AI at the workplace than say - a data analyst or engineer.

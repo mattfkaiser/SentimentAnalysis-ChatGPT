@@ -1,0 +1,9 @@
+> It seems to be great at telling people what they want to hear.
+
+It is. That's because during the training process humans judged ChatGPT's answers based on various criteria. This was done so it won't tell you things that are inappropriate, but it was also done to prevent it from just making shit up.
+
+So when the testers saw obvious bullshit, they pointed it out, and ChatGPT learned not to write that.
+
+However, testers also ranked answers lowly that were simply not helpful, like "I have no idea", when it probably should know the answer.
+
+And so, ChatGPT learned to write bullshit that is *not* obvious. It got better at lying until the testers thought they saw a proper, correct answer that they ranked highly. And here we are.

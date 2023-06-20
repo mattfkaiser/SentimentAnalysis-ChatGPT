@@ -1,0 +1,5 @@
+I'm so tired of the 75% of the population who think that ChatGPT is going to make programmers obsolete in a few years, or even those who think it can program worth shit. It's like a university 101 student. It can code fizzbuzz, rock paper scissors, and tictactoe cause it can essentially copy and paste from stack overflow just like any idiot college freshman.
+
+Ask it to make a mobile app that handles clients creating accounts and logging in with a username and password, sending that packet to a server for validation, and then telling the client they either logged in successfully or not. It doesn't even need any additional actual functionality. That much is impossible for ChatGPT to generate. It just gives semi-human sounding method calls that don't even exist. Just like it's made-up chess plays.
+
+Give it 50 years, maybe, it will be able to code a tiny bit better, and even then 90% of the job is talking to other humans and figuring out what the specifications, what is likely to change or not, what needs to be scalable or not, etc. It's not "type in some code to make app go vroom".

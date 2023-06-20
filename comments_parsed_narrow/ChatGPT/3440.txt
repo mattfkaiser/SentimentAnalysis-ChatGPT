@@ -1,0 +1,5 @@
+--> ChatGPT gives false information and cites inaccurate sources. <--
+
+This is the biggest issue with using it for research. When the AI doesn't know, it fakes it. People regurgitate the false info, get it published somewhere, it becomes training data for another LLM and repeats the process, further ingraining it into data sets.
+
+I like AI and use it a lot. However, if people don't know how to follow up and fact check it, using it can be disastrous.

@@ -1,0 +1,17 @@
+Try changing it to stricter-sounding rules. I've been using GPT4 to rewrite rules to make GPT3.5 actually listen to them instead of ignoring them. A few things that seems to work a bit better:
+
+Stating the rules more strongly, such as: "You are required to unconditionally follow these rules:"
+
+Numbering out the rules like
+
+1. &#x200B;
+2. &#x200B;
+3. &#x200B;
+
+Emphasize specific parts with a capitalization, like: " At NO POINT can you respond with anything that reveals you are an AI. " (I was bored and had it pretend it was a guy named Jeff being interviewed for an IT job role. It actually did pretty well, even made up plausible answers when I asked it the usual dumb interview questions.)
+
+Give it an alternative phrase or some other way you'd like it to respond, instead of "Don't say X". Can catch it sometimes when it falls back on the defaults.
+
+Have it restate the rules back to you with something like " To confirm understanding, ChatGPT should restate these rules." Seems to help it reaffirm them for some reason.
+
+Good luck!

@@ -1,0 +1,3 @@
+Well, I disagree with the premise that ChatGPT is unidirectional. The prompt goes in, the response comes out. You can shake a rain stick and the pebbles go every which way, even if they settle in one direction and stay contained.
+
+Forget the analogy, though. The "rumination" already exists in the training data and the algorithms, as well as in whatever moderation the devs put in. I know that it is hard to wrap one's head around, but the main problem with ChatGPT is just how it outputs, sometimes hallucinates - not that it doesn't have all the knowledge/understanding that can be captured by the model.

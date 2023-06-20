@@ -1,0 +1,3 @@
+There’s a danger to OpenAI’s reputation, but yeah, there’s no information ChatGPT is going to tell you that you couldn’t find online anyway, and it’s not going to write anything that you couldn’t write yourself.
+
+On the other hand, demonstrating how easy it is to get around these safeguards is a good thing, because it’s important for people to understand that even as these models become more sophisticated, we can’t blindly put them in control of important systems.

@@ -1,0 +1,5 @@
+EDIT: the following info was taking OP at their word and a click glance of the article, plus making assumptions after seeing their Chief technical officer get hacked yesterday. ChatGPT prompts are encrypted and OP lied, ignore my comment.
+
+Original (incorrect) comment here
+
+If your chatGPT conversations are not being encrypted. If the database ever leaked (which is has already once before) then any personal information you put in there could be used against you. Developers are feeding it API keys (which could rack up $20k in AWS charges overnight, if in malicious hands). Others are putting their companies proprietary code and design secrets in it, which could lead to huge lawsuits. Others are disclosing their finances and asking for tax advice, etc. All this is being stored in plain text, any employee with proper access could look for any one persons data and abuse it, blackmail you, etc and hackers could do the same at a massive scale

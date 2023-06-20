@@ -1,0 +1,1 @@
+You can fine tune GPT3, which is essentially the same size as chatGPT's model. I don't believe they've released anything public facing that would allow you to fine-tune chatGPT, but it's not because it's impossible/hard to do.

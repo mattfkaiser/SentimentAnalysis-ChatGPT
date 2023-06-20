@@ -1,0 +1,5 @@
+It’s funny, your post here is way more easily searchable and readable than the one on the actual ChatGPT platform! 
+
+One issue I found was, the Zillow plug-in is lame, doesn’t let you specify lot size or garage size or all kinds of other things you can specify on the Zillow app. 
+
+Also Wolfram is pretty counterproductive sometimes, you really have to babysit GPT on that, or it tends to make a bunch of incorrect calls to wolfram and get little out of it. “Climate of” worked well for suggesting local garden crops tho

@@ -1,0 +1,5 @@
+In a lot of cases, if the program requirement is pretty complex, it can give you false result too. 
+
+This is similar when 1+1=2 or in few digit cases, ChatGPT can solve those no problem because there are a lot of data are available yet for a more novel cases it will have a hard time to solve those correctly, e.g. Differential Equation.
+
+Good thing is, it probably can construct a pretty good input to let 3rd party services such as Wolfram Alpha to solve that specific problem.

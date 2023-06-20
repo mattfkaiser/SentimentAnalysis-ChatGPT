@@ -1,0 +1,9 @@
+"ChatGPT is unable to do something it wasn't trained to do and which could easily be coded with the simplest algorithm ever"
+
+Why are there thousands of posts like that on here?
+
+You want an "AI" to reverse words?
+
+In Python:
+
+print(input()[::-1])

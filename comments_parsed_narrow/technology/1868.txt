@@ -1,0 +1,15 @@
+The first wave of academic research applying ChatGPT to the world of finance is arriving — and judging by early results, the hype of the past few months is justified.  
+  
+Two new papers have been published this month that deployed the artificial intelligence chatbot in market-relevant tasks — one in deciphering whether Federal Reserve statements were hawkish or dovish, and one in determining whether headlines were good or bad for a stock.  
+  
+ChatGPT aced both tests, suggesting a potentially major step forward in the use of technology to turn reams of text from news articles to tweets and speeches into trading signals.   
+  
+That process is nothing new on Wall Street, of course, where quants have long used the kind of language models underpinning the chatbot to inform many strategies. But the findings point to the technology developed by OpenAI reaching a new level in terms of parsing nuance and context.
+
+“It’s one of the rare cases where the hype is real,” said Slavi Marinov, head of machine learning at Man AHL, which has been using the technology known as natural language processing to read texts like earnings transcripts and Reddit posts for years. 
+
+In the first paper, titled Can ChatGPT Decipher Fedspeak?, two researchers from the Fed itself found that ChatGPT came closest to humans in figuring out if the central bank’s statements were dovish or hawkish. Anne Lundgaard Hansen and Sophia Kazinnik at the Richmond Fed showed that it beat a commonly used model from Google called BERT and also classifications based on dictionaries.    
+  
+ChatGPT was even able to explain its classifications of Fed policy statements in a way that resembled the central bank’s own analyst, who also interpreted the language to act as a human benchmark for the study.   
+  
+[Read the rest of the article (and more) here.](https://www.bloomberg.com/news/articles/2023-04-17/chatgpt-can-decode-fed-speak-predict-stock-moves-from-headlines)

@@ -1,0 +1,5 @@
+>  tell me when ChatGPT can e.g. construct things in CAD that work flawlessly
+
+RemindMe! 2 years
+
+Honestly probably much sooner, but I'll give it a bit extra time just in case.  Multiple sources are already working on CADGPT in some shape or form.

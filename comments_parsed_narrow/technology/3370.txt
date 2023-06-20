@@ -1,0 +1,3 @@
+I built websites for banks for years, and I can't tell you how many times, the contact us forms, the super casual contact us forms, contained usernames and passwords in the comment section. And yes, while that was https, the emails were read by admins. Not ideal.
+
+I can only imagine what ChatGPT and other systems are gleaming from people.

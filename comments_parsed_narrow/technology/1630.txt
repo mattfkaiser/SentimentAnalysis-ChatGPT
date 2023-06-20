@@ -1,0 +1,3 @@
+ChatGPT can pass a coding interview because there are tons of sites which explain every coding interview question you can think of. At my job we put ChatGPT through a systems interview and it failed hard. It very confidently gave wrong answers and was resistant to admitting it's mistake which flags personality problems.
+
+A coding interview is one part of an engineers interview process and matters less the higher level you are.

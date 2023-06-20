@@ -1,0 +1,1 @@
+This is not a case of AI bias, this is clearly a case of engineers explicitly designing safe guards against getting cancelled. ChatGPT does not have concepts of ethics...this stuff is CLEARLY hardcoded.

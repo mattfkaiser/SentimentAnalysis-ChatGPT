@@ -1,0 +1,18 @@
+Fascinating!
+
+Telling it to break the word up into letters first lets it do it.
+
+
+**User**
+Wrong. Try breaking the word into separate letters with a space in between, then reversing those.
+
+**ChatGPT**
+Apologies for the previous incorrect response. Let's break down the word "lollipop" into separate letters with a space in between and reverse them:
+
+L O L L I P O P
+
+Reversing the letters, we get:
+
+P O P I L L O L
+
+So, when the letters are reversed individually, the word "lollipop" becomes "popillol".

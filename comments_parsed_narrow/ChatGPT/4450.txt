@@ -1,0 +1,5 @@
+Don't make this difficult with SSH, RDP, or private VPN's back to your house. Try one of the many free or very cost effective remote control solutions out there. There are a ton and odds are your IT doesn't block or monitor for any of that and it doesn't require any special open port as they mostly work over https communications. If somehow they do they likely can't catch them all. And in the very unlikely event they block them all successfuly then add a public VPN to that mix. Some public VPN's like surfshark have add-ons for web browsers like Firefox so that the VPN isn't installed software on your desktop and you can then go with a remote access through web browser. The odds that your IT department can catch that combo is extremely low. 
+
+The only thing I would stress is not to use the VPN in browser to just directly use ChatGPT. They are very strict about booting or banning users that they think are using a VPN. The reason they seem to give is about blocking access in countries where it's banned.
+
+Good luck

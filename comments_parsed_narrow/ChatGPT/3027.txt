@@ -1,0 +1,9 @@
+There will be less engineers working on chat models of AI. 
+
+&#x200B;
+
+My car still doesn't drive itself, I my house doesn't know to turn the lights off when I am asleep. I can't ask any of my voice assistants what is the history of an a Affogato, without hearing too much about an avocado. ChatGPT response sensibly for how many tokens before it goes of the rails?
+
+&#x200B;
+
+There are lots of problems that ML can still solve, just not the OP's companies original job.

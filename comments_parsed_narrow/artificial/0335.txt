@@ -1,0 +1,5 @@
+ChatGPT and pretty much every modern LLM doesn't process alphabetical characters directly. Instead, the text is run through a tokenizer, which replaces the text with tokens. The tokens are like a very large set of characters that represent common words and word parts. Most short words are one token, long words may be 2 or 3. The situation is similar to how Chinese has a different symbol for pretty much every word afaik. Basically, LLMs already work like that.
+
+Notably, the context size is measured in tokens, not words. 4096 tokens. The context likely stores a similar amount of text regardless of language once tokenized.
+
+Tokenization is why models are typically bad at reasoning about word spelling and character count. They simply don't process words that way, so it's a difficult problem for them.

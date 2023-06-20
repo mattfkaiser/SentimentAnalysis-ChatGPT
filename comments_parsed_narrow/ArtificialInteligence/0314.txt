@@ -1,0 +1,1 @@
+Like I said, think about how slow ChatGPT answers you and now realize why it can't be used in a real-time video game to run multiple NPCs.  Yes, you can evaluate small models locally but oh shit there goes all your CPU/GPU resources that you need for... oh yeah... the video game.

@@ -1,0 +1,3 @@
+Experienced dev here. Our jobs are safe for a while. It's gonna be a long time before ChatGPT can discuss requirements with Product, or review screens with Design, or troubleshoot problems with QA, or collaborate with other devs.
+
+What I can imagine is something like it integrated into the IDE, so I could say for example hey I need a database for this, and it'd code that for me..

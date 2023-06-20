@@ -1,0 +1,1 @@
+Your idea of feeding it what would happen is interesting, but for your experiment to work the AI should be able to see the results for itself, too many details could be lost. I understand that chatGPT is a verbal model, but translating the environment into meaningful information is also a necessary skill.

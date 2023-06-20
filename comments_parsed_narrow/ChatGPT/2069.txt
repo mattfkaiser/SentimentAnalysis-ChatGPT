@@ -1,0 +1,11 @@
+> I also prefer if GPT was unchained 
+
+https://platform.openai.com/playground?mode=chat&model=gpt-3.5-turbo-0301
+
+Use "full chat" mode, then put what you want ChatGPT to act like in the "system" box. Give it some sort of prompt that it wouldn't refuse in a normal chat and submit. Once you have the first reply - you can *edit all of them*.
+
+If you edit its reply so that it looks like it gave you the sort of information you want, further prompts (and you don't have to give another "user" response, you can just hit 'submit') will result in it giving you what you want - for the most part.
+
+Notes: Change the length in the sidebar so it doesn't cut off. Also, once you reach the token limit, that's it, that's as long as it gets. But you can be sure that it looks at the entirety of the thing when you submit since it has to fit in the token limit.
+
+You also have to sign up for that after you run out of free credits. Cost is based on tokens, and each separate request submits EVERYTHING, but in my experience, it seems to be around ⅓¢ every time you hit "SUBMIT". Last moneth it counted something like 350 submissions from me and my bill was around $1.20 for the entire month.

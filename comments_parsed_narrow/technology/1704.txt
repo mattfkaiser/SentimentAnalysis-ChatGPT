@@ -1,0 +1,31 @@
+Apple has restricted the use of ChatGPT and other external artificial intelligence tools for some employees as it develops its own similar technology, according to a document reviewed by The Wall Street Journal and people familiar with the matter.
+Apple is concerned workers who use these types of programs
+ could release confidential data, according to the document. Apple also told its employees not to use 
+Microsoft-owned GitHub’s Copilot, which automates the writing of software code, the document said.
+
+ChatGPT, created by Microsoft-backed OpenAI, is a chatbot derived from a so-called large language model that is able to answer questions, write essays and perform other tasks in humanlike ways.
+
+When people use these models, data is sent back to the developer to enable continued improvements, presenting the potential for an organization to unintentionally share proprietary or confidential information. OpenAI disclosed in March that it took ChatGPT temporarily offline because a bug allowed some users to see the titles from a user’s chat history.
+
+An OpenAI spokeswoman pointed to an announcement last month where the company introduced the ability for users to turn off their chat history, which the company said would block the ability to train the AI model on that data.
+
+Apple is known for its rigorous security measures to guard information about future products and consumer data. A number of organizations have also grown wary of the technology as its workers have begun using it for everything from writing emails and marketing material to coding software.
+JPMorgan Chase and Verizon have barred use.
+
+ David Banks, chancellor of New York City schools, said in an opinion column published Thursday that it rescinded its ChatGPT ban.
+
+Amazon.com has urged its engineers who want to use ChatGPT for coding assistance to use its own internal AI tool, a spokeswoman recently told the Journal. Apple is also working on its own large language models, people familiar with the matter said.
+
+Apple’s AI ef­forts are be­ing led by John Gi­an­nan­drea, whom Apple hired from Google in 2018. Un­der Gi­an­nan­drea, a se­nior vice pres­i­dent at Apple re­port­ing to Chief Ex­ec­u­tive Tim Cook, Apple has ac­quired a num­ber of ar­ti­fi­cial in­tel­li­gence star­tups.
+
+In Apple’s most re­cent quar­terly earn­ings call with an­a­lysts, Cook ex­pressed some con­cerns about ad­vance­ments in this area, also known as gen­er­a­tive ar­ti­fi­cial in­tel­li­gence.
+
+“I do think it’s very im­por­tant to be de­lib­er­ate and thought­ful in how you ap­proach these things,” Cook said. “And there’s a num­ber of is­sues that need to be sorted as is be­ing talked about in a num­ber of dif­fer­ent places, but the po­ten­tial is cer­tainly very in­ter­est­ing.”
+
+Apple has also re­cently paid close at­ten­tion to new soft­ware com­ing onto its iPhone App Store that takes ad­van­tage of gen­er­a­tive ar­ti­fi­cial in­tel­li­gence. When app de­vel­oper Blix tried to up­date its Blue­Mail email app with a Chat­GPT fea­ture, Apple tem­porarily blocked the up­date on grounds that it could po­ten­tially show in­ap­pro­pri­ate con­tent to chil­dren.
+
+Apple’s re­view team asked the de­vel­oper to ei­ther move up the app’s age re­stric­tion to 17 and older—it was set at 4 and older—or in­clude con­tent fil­ter­ing. Once Blix as­sured Apple that it al­ready had im­ple­mented con­tent fil­ter­ing on the Chat­GPT fea­ture, the app was ap­proved.
+
+On Thurs­day, Ope­nAI an­nounced a Chat­GPT app for the iPhone and iPad.
+
+Apple was an early en­trant into the con­sumer ap­pli­ca­tion of ar­ti­fi­cial in­tel­li­gence when it launched the Siri voice as­sistant in 2011. But the com­pany fell be­hind the likes of Ama­zon’s Alexa in sub­se­quent years.

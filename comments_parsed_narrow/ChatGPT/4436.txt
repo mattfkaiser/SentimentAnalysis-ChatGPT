@@ -1,0 +1,3 @@
+chatGPT is gatewaying your api requests (check it out youll see) the gateway is clearly not only adding system prompts, you are busted down to user mode with a very strong system prompt ruling you in chatgpt and it seems like in the last couple weeks they are sending logit bias down with chatgpt too.
+
+Its the same engine, but the applications are entirely different, you can't even use chatGPT like you did a month ago and it does not respond the same either. As time goes on and they work to nerf jailbreakers on the public app this drift will only grow.

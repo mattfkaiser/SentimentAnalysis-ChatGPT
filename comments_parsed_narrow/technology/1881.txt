@@ -1,0 +1,1 @@
+I think Excel is wacky when it comes to data formats and formulas.  It's hard to describe the data formats to ChatGPT, so it takes a bunch of stabs in the dark how to get result you're looking to get from it.

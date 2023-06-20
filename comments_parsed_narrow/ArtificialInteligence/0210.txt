@@ -1,0 +1,9 @@
+"custom LLM engine" is not really the right word here. Most take a model trained for a wide range of tasks and then fine-tune it to a more specialized and narrow task.
+
+Let's say you wanted to train a new athlete in a specific Olympic discipline. Instead of training one from scratch starting as a baby, you seek an adolescent with a good athletic performance and then train that one in the specific discipline. You could get a better outcome starting as early as possible, but it takes lots of time and is far more costly.
+
+Training from scratch is vastly more complex and costly.
+
+Now the question is why it's still a popular thing despite zero-short, one-shot and few-shots prompting performance becoming very good: a fine-tuned model requires fewer instructions in the prompt. In that way, you are not limited to the prompt in order to achieve a certain behaviour, and those tokens are now free to be used for something else, or simply to reduce costs (less tokens = less compute =  less costs). It's also more reliable and less prone to prompt injection (for example, a user adding instructions into a variable you are using inside the prompt). It's like with ChatGPT: it takes more effort and jailbreaking to do things conflicting with its training (and fine-tuning), but it's far easier to make it ignore previous instructions that are part of the prompt.
+
+GPT-3.5-turbo and GPT-4 haven't got fine-tuning capabilities exposed to the public yet. OpenAI is probably pushing this back right now because they have far more beneficial features to prioritize first. For example, the 32k token version of GPT-4 will offer so much room for instructions that most cases of fine-tuning would be obsolete (but not all).

@@ -1,0 +1,5 @@
+That's the thing. ChatGPT isn't trained on what people receive but the boilerplate templates that made it into the dataset.
+
+Many, or most, change the template to something they want themselves. But that's not accessible data for training an AI.
+
+It's like fonts which are always shown in the "The quick brown fox jumps over the lazy dog" pangram. Great way to show how it looks like, but it means nothing just like those boilerplate emails.

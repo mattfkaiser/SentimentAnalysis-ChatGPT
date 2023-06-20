@@ -1,0 +1,1 @@
+What's their job? How do you automate the chatGPT4 implementation? Nothing company sensitive being sent in prompts?

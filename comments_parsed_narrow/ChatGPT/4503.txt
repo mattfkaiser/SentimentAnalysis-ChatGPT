@@ -1,0 +1,1 @@
+Create a simple website which uses the ChatGpt api. Ask ChatGpt to set you up.

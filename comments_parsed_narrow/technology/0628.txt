@@ -1,0 +1,7 @@
+> ChatGPT Data Miners
+
+Wat? Are you suggesting that chatGPT is saving instances? I was under the impression that GPT instance starts at the same default state and training data, every single time you launch a new instance.
+
+You can’t have an in-depth discussion about one specific topic, and then ask it to recall statements or inputs made from that instance in another one.
+
+Or do you mean to imply OpenAI is using instances as training data, and that data is being stored unsecured? In which case, why are you using sensitive data? You can run your own Learning Models, you don’t need to use chatGPT

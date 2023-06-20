@@ -1,0 +1,3 @@
+ChatGPT4 is much better in that regard than 3.5. Its better at detecting nonsensical questions. It hallucinates less. But maybe most important: It seems to be able to self-evaluate its own answers. 
+
+Second opinions also become cheap and fast...

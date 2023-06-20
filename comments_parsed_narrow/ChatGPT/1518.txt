@@ -1,0 +1,9 @@
+I prompted generate a personal branding strategy plan using 48 Laws Of Power and The Art Of Seduction. Then I gave it details about me:
+
+\- Biography (detailed)  
+\- Core values (What causes I would publicly fight for)  
+\- Potential PR damaging things about me (What could get me "cancelled")  
+\- Public figures whose public image I admire (so ChatGPT has a reference)   
+
+
+Please be careful feeding it names, phone numbers, personal details and other sensitive information. If need be, you can pretend that you're a brand strategist and the person whose information you're sharing is your client)

@@ -1,0 +1,3 @@
+The model is able to reference up to approximately 3000 words (or 4000 tokens) from the current conversation.
+
+[Source](https://help.openai.com/en/articles/6787051-does-chatgpt-remember-what-happened-earlier-in-the-conversation) ChatGPT's FAQ ofc.

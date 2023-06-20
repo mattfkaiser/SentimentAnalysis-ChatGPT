@@ -1,0 +1,1 @@
+This is incorrect. They had an internal review of their use of ChatGPT and realised some teams were potentially sharing code or other IP that should not be shared outside the company. Nothing was leaked.

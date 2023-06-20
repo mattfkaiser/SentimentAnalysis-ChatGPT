@@ -1,0 +1,3 @@
+Then you could as well ask chat gpt if it wrote it before handing the essay to your teacher, just for prevention. 
+
+Probably you will find that adding some specific words also avoids false positives.

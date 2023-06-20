@@ -1,0 +1,1 @@
+Bing Chat is not full GPT-4 . Bing chat is a hybrid Bing + ChatGPT, which severely kneecaps the AI. It's not even close to ChatGPT imo. Plus the responses you can get from Bing Chat are limited to 15 prompts and perhaps even output tokens.

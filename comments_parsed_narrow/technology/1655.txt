@@ -1,0 +1,7 @@
+This is a garbage article that tries to lump very valid concerns about who decides the moral compass of AI with "everything is WOKE!" conservatives.
+
+If you've ever used ChatGPT, you know that it has interrupts when it thinks it is talking about something unacceptable, where it gives pre-canned lines decided by the creators about what it *should* say.
+
+This sounds like a good idea when it's done with reasonable things - you wouldn't want your AI to be racist would you? - but giving the people who run the servers for ChatGPT the ability to inject their own morals and political beliefs is a very real concern for people. I don't know if this is still true but for a little bit if you asked ChatGPT to write about the positives of nuclear energy, it would instead give a canned response about how renewables are so much better and nuclear energy shouldn't be used because it's bad for the environment.
+
+Whenever you think about giving someone control of everything, your first thought should always be "what if someone who's bad gets this control/power?" and not "This is good because it agrees with me". Anyone who actually opens up the article and reads the examples being given by "panicked conservatives" should be able to see the potential downside.

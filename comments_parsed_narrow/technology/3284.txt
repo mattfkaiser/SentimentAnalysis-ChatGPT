@@ -1,0 +1,1 @@
+Meh.  I've been experimenting with ChatGPT for various coding tasks, and I've been pretty unimpressed.  It mainly generates a bunch of wildly inefficient half-functional spaghetti code that maybe sorta does something in the general ballpark of what you asked it to do. Though I'm sure the results depend on what you're trying to get it to accomplish.

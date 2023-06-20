@@ -1,0 +1,13 @@
+In two words: GPT-4 and plugins.
+
+GPT-4 is SO much better for how I'm using ChatGPT compared to the free version. 
+
+And it was the availability of plugins (they've only been out for about a month as of this writing, maybe six weeks) that has been awesome.
+
+Yesterday I discovered VoxScript, a plugin that allows you to add a YouTube link and it magically applies the query you supply to the transcript of a YT video. Get a summary, ask a video you haven't seen for specific information, remarkable.
+
+The day before it was Metaphor, a plugin that combines what GPT-4 is looking at with internet-upvoted and highly regarded content. Think GPT-4 along with upvoted posts.
+
+But early on, it was the availability of ScholarAI. I read primary scientific literature for a living. (Scientist by training.) It connects GPT-4 to PubMed, some 40+M research papers.
+
+On top of all this, access to the playground, as well as the ability to run AutoGPT with access to an API.

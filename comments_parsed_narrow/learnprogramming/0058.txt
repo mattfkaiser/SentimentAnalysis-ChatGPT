@@ -1,0 +1,17 @@
+It's OK as a toy, but you can't trust the output to be reliable.
+
+As an experiment, I just asked it "What makes Python 3 backwards incompatible with Python 2?" and got the following response:
+
+> 1. Print statement is replaced by print() function: In Python 2, the print statement is used to print to the standard output, while in Python 3, the print() function is used.
+
+> 2. Division operator: In Python 2, the division operator (/) behaves differently depending on the type of the operands. If the operands are both integers, it performs floor division, while if either operand is a float, it performs true division. In Python 3, the division operator always performs true division, regardless of the type of the operands.
+
+> 3. Exception handling: In Python 2, the syntax for handling exceptions is different from Python 3. In Python 2, the except clause must specify the exception class, while in Python 3, it can specify the exception class or exception instance.
+
+> 4. Unicode support: Python 3 has improved support for Unicode, with all strings being Unicode by default. In Python 2, Unicode support is optional and must be explicitly enabled.
+
+Of those four bullet points, #1 is basically correct. #2 is *sort of* correct, but worded much too strongly -- in *both* Python 2 and 3, the result of the `/` and `//` operators depends (in general) on the types of the operands, and the only thing that was changed in Python 3 was the behavior for `int`s. #3 is totally wrong. And #4 is half-correct, but saying Unicode support is "optional" in Python 2 is very poor phrasing. You don't "enable" it; it's always enabled, and you *use* it by constructing `unicode` objects.
+
+----
+
+You should treat ChatGPT like an *overconfident* dev who makes a lot of mistakes, rather than a knowledgeable one.

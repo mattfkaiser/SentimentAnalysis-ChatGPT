@@ -1,0 +1,9 @@
+Sure. B is just billion (parameters).
+
+That's just the number of learnable parameters. I'm no expert, mind you, but well from what I've read and learned, it's related to the possible connections it can do between "words" (tokens). It's related to how the neural network does mathematics stuff to transform your input into a prediction of what the most likely word to follow is (basically it calculates probabilities, so that you can have some variance in the replies by choosing one of the most possible tokens. If it was fully deterministic you'd always get the same answer to the same input).
+
+So basically it helps the model determine, given an input (question) what word would follow to that that makes sense. So in theory, the more parameters it learns, the more connections it can make. This is why chatgpt can give such good answers, because it's able to connect your input very well with an appropriate answer. So to speak, it's able to understand better the context, the implications, the nuances, etc. (Strictly speaking, the model has no idea what it's doing, it's just predicting text!!).
+
+The fewer parameters it has, the poorer the text prediction is in theory. I suppose many other factors affect here. For example, The vicuna 13B model seems to perform better than other 13B models I've used, even if both have the same number of parameters.
+
+And sadly, this relates to the size of the model, and thus is limited by the VRAM you have. There's other models that run on CPU, and you can also split it, but in general personally I'm limited at present to 13B.

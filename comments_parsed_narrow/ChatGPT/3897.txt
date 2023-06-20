@@ -1,0 +1,3 @@
+It doesn't have the facilities necessary to self reflect,make use of tools, create experiments, review experimental results, and generate conclusions by itself. 
+
+Chatgpt and LLMs is only one piece of the AGI puzzle, the rest would be complementary neural networks and software that could give long term and short term memory, logic and mathematical capabilities, and much more.

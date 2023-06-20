@@ -1,0 +1,1 @@
+What you're describing is a Generative Discriminative network. Here the AI is the generator, detection software the discriminator. But AI can do both, and get much much better really quick. I'm sure they've used some of this in chatGPT training. I'll need to verify though.

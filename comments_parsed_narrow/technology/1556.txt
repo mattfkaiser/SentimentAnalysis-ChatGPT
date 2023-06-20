@@ -1,0 +1,5 @@
+Let them cheat. You still have to edit the chatGPT output to make sure it answers the assignment, and students who don't do this will do worse. Also, non-cheaters will still do better on in-person assignments, so the curve should remain intact. 
+
+Alternatively, basic level long form expository composition is the only thing being made obsolete by chatGPT. This skill is basically irrelevant for most people in a vacuum, and is valuable as a proxy for learning critical reading and thinking as well as organizing an argument. It's not prohibitively hard to design other proxies for learning these deeper soft skills. 
+
+Analogy from math pedagogy: Wolfram Alpha makes crunching 40 calculus problems obsolete, but it doesn't obsolete critical thinking to turn a word problem into a system of ODEs. A good student recognizes that practice problems are a tool for success, not the end goal. A good student only uses Wolfram as a learning aid. A good student will still do better on a hard exam involving more abstract problems with concrete solutions.

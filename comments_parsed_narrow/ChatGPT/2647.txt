@@ -1,0 +1,7 @@
+>Remember, it is trying to give you what you want to hear.
+
+Eh, if it's "trying" to do anything, it's trying to produce text whose probability of following the prompted text is maximized. In the same sense that the equation for motion of an object through space is "trying" to predict the motion of that object. An equations doesn't try, an equation just takes input and produces output. The designers of the equation are trying to do something - to make an equation that's useful for the real world. Basically ChatGPT is just a big piece of algebra, with like 1 trillion parameters (where a\*x + b\*y has 4 parameters). There's no "try" in that. The values of those parameters are trained by feedback from running the equation over huge amounts of text and updating them to get closer and closer to the observed results in the training set.
+
+That's different in important ways from "what you want to hear." It's not optimizing for a positive response from the end user, it's optimizing for a good score on the training feedback it got when being trained over huge amounts of text.
+
+Of course, I'm over-simplifying and it's not totally unreasonable to talk about "trying" in the context of more detailed behaviors inside the model. It is certainly "trying" to identify the key bits of info in the prompt and to create something that plausibly follows from them, so that the response can maximally satisfy the prediction probability. Still, that's far from "trying to give you what you want to hear" :)

@@ -1,0 +1,15 @@
+>	Example it would cost 100,000 to do yearly payroll for a task with humans, ibm’s Watson would price their product to 90,000.
+
+I’d need a source to believe that (and I couldn’t find one personally). 
+
+
+People also don’t understand how expensive things like ChatGPT are. It’s only free (and “cheap” for $20/mo) because venture capital is keeping the company afloat while they amass market share. They don’t have to be, and aren’t, profitable. Sam Altman has said the compute costs alone are “eye watering” and that they will have to further monetize in the future. 
+
+
+Plus, this doesn’t consider their hardware costs. They have a purchase order for at least 30,000 GPUs this year. Microsoft is develop a new chip specifically for OpenAI. That’s a lot of money sunk into it. 
+
+
+Watson was never marketed to consumers. Not really. It was always enterprise of some sort. They did some obvious PR stuff, but it winning Jeopardy and not having consumer products isn’t really a consumer marketing push. It was to build buzz for companies ready to deploy it. 
+
+
+OpenAI is going for the Amazon and Microsoft approach apparently: operate at losses to starve out all competition then jack up prices when few are left.

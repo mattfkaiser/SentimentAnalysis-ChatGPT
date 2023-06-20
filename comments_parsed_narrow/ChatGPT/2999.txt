@@ -1,0 +1,5 @@
+API specialist is a different team, which will be optimizing the API. Basically the service or backend team, along with the server time.
+
+And ChatGPT API hasn't got much to do except for playing with prompts and 3-4 parameters. Model development from scratch is a thing at whole another level. You learn a lot during that phase.
+
+Imagine people solely relied on ChatGPT. They will stop learning and even simple tasks will feel complex without it. Maybe in a 100 years, no one except a handful knows how to actually develop an ML model. Then who will be looking after and controlling ChatGPT like AI?

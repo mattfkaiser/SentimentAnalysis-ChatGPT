@@ -1,0 +1,1 @@
+This does not need templates. [Here](https://www.reddit.com/r/ChatGPT/comments/14b3fyz/soon_anyone_can_make_full_games_using_chatgpt_and/joi9amf/) is an example I created just now, with zero template code to start with.

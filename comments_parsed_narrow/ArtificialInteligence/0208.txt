@@ -1,0 +1,3 @@
+I've said this elsewhere, but I suspect OpenAI or Microsoft used Cleverscript or Jabberwacky conversations found easily enough online to train either ChatGPT or the Bing version. The legacy site was also shut down, including access to all the site-saved conversations, right before the recent GPT and Bing rollout and some of the similarities found before Microsoft hobbled the "Sydney" version actually don't even exist with the recent Cleverbot or Boibot. Getty has what looks like a fairly solid case of the use of watermarked images.
+
+Edited for clarity.

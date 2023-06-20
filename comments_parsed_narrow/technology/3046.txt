@@ -1,0 +1,5 @@
+>You are a college english professor.  How would you change your teaching style to prevent students from using ai chat bots to cheat and write their essays?
+
+The issue with this, that ChatGPT doesn't currently seem to understand, is that the question itself is flawed. If the problem is that students are finding ways to cheat on an assignment, then the solution isn't how to prevent the cheating, but with the assumption that this specific assignment type must hold some specific educational value in its current form. 
+
+One of the elements of teaching that keeps people engaged in the profession is this kind of constant evaluation. How do you design assignments that are so engaging that they disincentivize the desire to cheat, but still help students practice the core skill you need them to learn? Great teachers spend their lives creating a repertoire of ideas that they constantly modify, upgrade, and shelve (often depending on the needs and interests of their specific students) so that their students never feel the need to cheat in the first place.

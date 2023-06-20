@@ -1,0 +1,5 @@
+You’ve got to also look at the pace of progress and assume it will continue to get better, and then extrapolate what that would mean. Maybe it will hit a wall and the hype cycle will go bust!
+
+But I already find it useful. And as one anecdote: I’ve talked to two different people (non-tech-industry folks) who tried the free ChatGPT, said “impressive but it can’t do XYZ”, and then I’ve used GPT4 on my paid account, and showed them that GPT4 can actually do XYZ whereas 3.5 screwed up. This is one reason why I take surveys like this with a grain of salt.
+
+I think paywalling the stronger engine completely was a mistake (could at least offer free users a few free GPT4 queries a month, maybe when they thumbs-down a GPT3.5 response), and already comparing 3.5 to 4, it’s getting much better at practical tasks, so it’s highly likely 5 will be even more capable. Maybe it won’t be-maybe they’ve run out of training data and it just gets exponentially too expensive to get further advances, but my money is on progress continuing for at least a few more versions, and that will be enough to do a bunch of real-world human jobs.

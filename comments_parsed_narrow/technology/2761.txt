@@ -1,0 +1,3 @@
+GPT 3.5 / InstructGPT was a significant breakthrough on aligning LLMs with human intent. ChatGPT is once again a significant step forward in that area. It tackles a huge number of different kinds of requests and instructions very reasonably and provides a high level of safety from undesirable output.
+
+GPT 3 was a significant step forward from GPT 2 in terms of performance, even if the underlying model architecture wasn't all that different. Same with GPT 2 to 1.

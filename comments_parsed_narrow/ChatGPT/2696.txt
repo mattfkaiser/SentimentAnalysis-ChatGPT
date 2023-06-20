@@ -1,0 +1,15 @@
+I mean whatever lol but thats basically what it is.
+
+Heres an article describing it. [ChatGPT vs GPT](https://zapier.com/blog/chatgpt-vs-gpt/)
+
+ChatGPT is an app built on top of GPT3 (or GPT4). 
+
+GPT is the engine that provides ChatGPT the LLM to converse with.
+
+ChatGPT has all of the content filters.
+
+GPT3/4 *can* access the internet (but is restricted using ChatGPT) in the same way that it *can* access the time. 
+
+GPT3/4 is a LLM but it also describes the other systems associated. Like the ability to search things on the internet has nothing to do with a LLM but we still say its a feature of GPT3/4.
+
+Where am i wrong?

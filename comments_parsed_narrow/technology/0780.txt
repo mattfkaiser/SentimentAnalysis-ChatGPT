@@ -1,0 +1,3 @@
+Don't worry, SO will soon be filled with "why doesn't this code from ChatGPT work". Circle of life.
+
+I'm about 50/50 on ChatGPT code actually working because it made up non existent functions.

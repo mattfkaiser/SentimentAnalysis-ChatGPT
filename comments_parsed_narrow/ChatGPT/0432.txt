@@ -1,0 +1,2 @@
+I haven't verified how accurate this is, but you can try it in BARD. 
+Summarize and give the sentiment of the comments:"reddit.com/r/ChatGPT/comments/13cklzh/what_are_some_of_your_favorite_chatgpt_prompts/"

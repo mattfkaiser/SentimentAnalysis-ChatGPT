@@ -1,0 +1,7 @@
+You only need to fool your teacher and not an algorithm. I don't know how google docs works as I've never really used it but so long as there was a history full of periodical updates showing periodical progress it would probably work.
+
+It would be trivial to ask chatgpt to add more features to this, I could have done it initially but it's a demonstration, not a fucking tech demo lmao 
+
+As i said in my edit, this took no time at all and was a proof of concept. It's actually a bit cringe at how critical people are about some random AI generated code, never mind the fact it actually worked first time 🤷‍♀️
+
+Genuinely, why don't you add the randomness yourself and post it back here for everyone like I did?

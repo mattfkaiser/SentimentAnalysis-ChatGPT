@@ -1,0 +1,3 @@
+By comparison with a bunch of vertical bars, bing (which is based on chatgpt 4, if I'm not mistaken?) quickly responds with "I don't understand".
+
+With a bunch of letter I's bing takes a really long time (about a minute) then says "That’s a lot of I’s. Are you trying to say something?"

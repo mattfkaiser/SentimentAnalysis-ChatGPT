@@ -1,0 +1,5 @@
+But chatgpt really sucks with notes. It understand language, it understands language wise a song very well, but once you try to make it understand notes, it sucks butt. 
+
+Musiclm works on snippets from what i see. It also seems to do the whole magical. Lets recreate a whole wav file as it sounds with artefacts included. What I am saying, I wish there was a AI that simply understands music as it is. Different styles, instruments, music theory, and that info was fed to it from multiple different sources. It could read midi files by zillion. It could read audio files too, but it would not depend on them. It could spit out notes, or audio, step in for a guitar part, piano part, drum part. 
+
+It would need to be thinking in audio, not in language. Now, the interface would be nice to have as llm but the engine itself. Just notes and music. Something that works in different daws, perhaps it could be developed by multiple different audio companies together. There was / is openai musenet which has api. I wonder if it could be turned into something like this.

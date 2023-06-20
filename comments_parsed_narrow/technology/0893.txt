@@ -1,0 +1,1 @@
+ChatGPT is a *translator*. If it doesn’t have the best word, it will pick the second or third best word. It will eventually make things up to make a convincing translation - especially if the prompt is skimpy.

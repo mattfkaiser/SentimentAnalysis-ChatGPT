@@ -1,0 +1,5 @@
+I suspect it isn't actually performing the calculation but rather using it's database of information to try to guess the best answer based on what information does exist. It may be using a number that's relatively close if it can't find the exact multiplication problem that you're posing.
+
+I'm sure a statement of 2*3=6 has come up thousands if not millions of times in its knowledge base. Significantly large multipliers? Not so much. 
+
+I think attaching ChatGPT to Wolfram alpha would be the best option for these sorts of computational questions.

@@ -1,0 +1,14 @@
+I work in software and I have more or less the same issue. Gpt4 has enabled me to very easily jump into tech that I have no experience in, and when a problem needs solving I immediately start prompting in the background while I work. It saves me hours every single day, and I've been able to implement some truly insane things very quickly, often without googling ANYTHING about the libraries I'm using. 
+
+And yet when I explain it to colleagues they sound interested but don't really change their behavior. I'd love if the whole team could get on my level, it'd save everyone time and take weight off my shoulders.
+
+I'm only in this position though because I have been working this way in my free time for months building a gpt bot. Most people aren't this insane, so I've found I really need to be patient.
+
+The primary issues for most people are
+
+1. They literally don't know where it is, the url is bad
+2. They've seen unimpressive chatbots before and literally do not understand that a chatbot this advanced is possible
+3. They think "it lies" and so it's not even worth trying for productivity
+4. They don't know how to use it effectively
+
+You really need them to SEE what you're doing with it and then try it themselves. Even if they see it on your screen all day every day, they probably don't understand the insanity that's happening in the chat. Send links. Send screenshots. Use it to solve *their* problems and walk them through how you did it. Explain the limitations and how you work around them. As their resident r/Chatgpt user, you need to lead here.

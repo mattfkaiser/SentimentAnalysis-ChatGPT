@@ -1,0 +1,9 @@
+Yes, that is an accurate and very common concern. It's called "misalignment" in AI terms - relating to the difference between what we *want* an AI to learn how to do, and what it *actually* learns how to do from the way its trained. 
+
+Chatgpt is a great example of misalignment: its trained by humans providing positive or negative feedback on it's answers, so over time, it learns how to give answers that are more likely to get positive feedback. 
+
+Saying "I don't know" or "it's unclear" will get very negative scores; compared to just making shit up and sounding confident enough about it - the latter will always get *some* thumbs up from anyone who didn't know better.
+
+It becomes a recursive issue as well, because AI developers might think they have solved an alignment problem, when really they may have trained an AI that is just good at *pretending it's aligned* to what the devs want. 
+
+Solving this is the largest ongoing challenge in AI, not least because it can be really really hard to detect if it's solved.

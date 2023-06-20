@@ -1,0 +1,56 @@
+
+User Reports Less Help.
+
+Model: GPT-4
+
+￼￼
+
+Hi ChatGPT. I'm receiving reports that you're becoming less helpful for some users and tasks. What's happening?
+
+ChatGPT
+
+I'm sorry to hear that. As an AI, my efficacy is highly dependent on the way the queries are formulated and the context provided, as well as on the tasks assigned. I don't have the capability to change or adapt beyond the parameters of my programming and the data I was trained on.
+
+There could be several reasons why some users may be finding me less helpful:
+
+Complex or specialized tasks: While I'm trained on a diverse range of topics, there may be subjects or specific tasks that are outside my training data or too complex for me to handle accurately.
+
+Expectation vs. reality: AI, while advanced, still has limitations. Some users might have very high expectations of my capabilities that may not align with current AI technology.
+
+Miscommunication or lack of context: Sometimes, if the user's questions are not clear or if they lack necessary context, I might provide answers that are not as helpful as they could be.
+
+Changes in user needs: Over time, users' requirements might evolve to include needs that I may not be optimally designed to fulfill.
+
+Updates or technical issues: If there have been recent updates to my programming or technical issues, that could also potentially affect my performance.
+
+It would be helpful if you could provide more specific examples of where I'm falling short. This would allow us to understand better how to improve my utility for those tasks.
+
+￼￼
+
+Here's a copy of a report on reddit: Chat GPT 4 turned dumber today? Since 2 months ago i've been using chatgtp (4) to help me develop Figma plugins. Loved how precise and consistent it was with the answers. But today for somereason it feels strange... I used to paste the block of code i wanted to work with and add a question on the same promtp. It had no trouble distinguishing the code from my comments... Today, this is no longer happening. When i paste it a block of code with a question, it doesnt process the question and starts "botslpaining" me the code. Then if i make the question separately feels like he forgot what we were talking about. Also, instead of giving code as responses, it started to explain what i should do (the logic) And the last thing is that when i convinced it to give me code, it started referencing the code i pasted early but all wrong.. Changing all sorts of thing (much like chatgtp 3) Anyone experienced some dumbnes recently on gpt?
+
+ChatGPT
+
+Thank you for sharing that feedback. The changes reported might have been caused by an update to the model, a change in how the model is being used by the platform, or possibly even a bug. I'm sorry for any confusion or inconvenience this has caused.
+
+However, as an AI, I don't have direct access to any changes, updates, or modifications that may have been made after my last training cut-off in September 2021.
+
+Here are a few possible explanations:
+
+Input processing change: It's possible that there's been a change in how input is processed. If the user was pasting a block of code along with a question in a single prompt before, it may be that the model is now interpreting the input differently, causing it to focus more on the code than the question.
+
+Memory constraints: The model has certain memory limitations, and if the code block is too large, it might struggle to maintain context for subsequent interactions.
+
+Changes to model behavior: There may have been changes to how the model is set up to respond, potentially emphasizing explaining logic over generating code.
+
+The most effective way to address these issues would be to provide this feedback directly to the developers maintaining the system or the platform that's hosting the model. They would be in the best position to investigate and make adjustments to the system. They might also have additional guidelines or best practices for interaction to optimize results.
+
+Despite these limitations, there are potential workarounds that may help:
+
+Break it up: If possible, break the question and code into separate prompts. Give the model some context, then ask the question.
+
+Specify desired format: If the user wants code, they should specify that in the question. For example, "Can you provide a code example for...?"
+
+Remind the model of the context: If the conversation goes on for several turns and the model seems to lose track of the context, it may be helpful to remind the model of what was discussed earlier.
+
+Again, I apologize for any inconvenience this issue may have caused.

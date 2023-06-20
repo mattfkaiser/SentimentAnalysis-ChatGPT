@@ -1,0 +1,5 @@
+As someone who makes AI, first reassure them that ChatGPT will not be replacing their work.  ChatGPT is brilliant at summarizing things, and menial text generation, but will not be curing cancer any time soon.
+
+I think a demonstration is a great idea.  Showing your colleagues how to summarize papers, generating excel functions, etc., is a great way to show the value of this tool.
+
+Also be very careful that you don't place too much weight on tools like ChatGPT.  They are prone to error, and even fact hallucinations.

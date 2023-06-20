@@ -1,0 +1,5 @@
+It's an impressive engineering, business, and cultural achievement. From a conceptual standpoint it's incredibly simple, which is kind of impressive in its own way.
+
+LLMs are not the end of the story. Still a long way till we reach human-like intelligence. For instance, people learn from "raw video". LLMs do not. They learn from discrete tokens that were curated and distilled by people. I want to see AI that learns from raw experience instead of human knowledge. I want to see AI that learns in real time. I want to see AI that can navigate and adapt to changing environments. I want to see AI that I can teach to set up a tent, or play hide and seek, or make a bed, or wash the dishes, the same way I would teach a child.
+
+ChatGPT solves none of the most interesting problems in AI. I want C-3PO, and ChatGPT is not C-3PO. The methods that gave us ChatGPT will never give us C-3PO.

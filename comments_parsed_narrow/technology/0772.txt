@@ -1,0 +1,3 @@
+The plus is like $20/mo so that’s 100 employees. ChatGPT has helped me a lot by converting code I understand to languages I don’t. For example, I know how to do some things in Bash, but I needed to do an analogous function in python (which I’m not yet very fluent in) for a program I’m using. ChatGPT gave me a functional code which likely did save me hours of my time. If ChatGPT saves each worker just 1hr/mo it’s definitely worth it.
+
+Edited for incorrect scalar.

@@ -1,0 +1,11 @@
+I want to second the "sounding like it understands" point.  Earlier today I was playing around with it and as a first test I asked the questions. 
+
+"Write a function in python that takes another function as an input, and evaluates the input at 5". 
+
+It gave some code and explanation, and it did it well, just like most humans who program would do.  
+
+Then I gave it the real test: 
+
+"Write a function in python that takes another function as an input, and tells me if the input halts".
+
+ Any person knowledgeable about the field would of course recognizes that this is impossible, and tells you as such.  ChatGPT on the other hand just processes until it times out and returns an error.

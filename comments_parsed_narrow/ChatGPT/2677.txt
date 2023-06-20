@@ -1,0 +1,13 @@
+You can ask ChatGPT how an LLM can know such things and it answers pretty reasonably tbh:
+
+There could be several possible explanations for the language model providing accurate information about events in 2023 despite having a knowledge cutoff in 2022. Here are a few possible reasons:
+
+Pre-training on vast amounts of internet data: The language model, such as GPT-3.5, is trained on a massive corpus of text from the internet, including news articles, blogs, forums, and more. Even though the cutoff for explicit training data is in 2022, it's possible that the model was exposed to some information about events in 2023 indirectly through the vast amount of pre-training data it was trained on.
+
+Post-training fine-tuning: The language model may have undergone a process called fine-tuning, where it was trained on a more specific dataset or with more recent information after the initial pre-training phase. This fine-tuning process could have involved data that includes events from 2023, allowing the model to learn about those events.
+
+Indirect information inference: Although the model doesn't have direct knowledge of events in 2023, it may still possess the ability to make educated guesses or infer information based on contextual cues and patterns from the data it was trained on. By analyzing the available information and drawing logical conclusions, the model could provide accurate responses to questions about events in 2023.
+
+External updates: It's also possible that the language model received updates or additional training data after its initial release, which included information about events in 2023. Updates like these can help improve the model's performance and extend its knowledge beyond the original training data.
+
+While these are potential explanations, it's important to note that the language model's responses about specific events in 2023 may not always be accurate or reliable. The model's knowledge cutoff still remains in 2022, and it's always prudent to verify information from authoritative and up-to-date sources for the most accurate and reliable information about recent events.

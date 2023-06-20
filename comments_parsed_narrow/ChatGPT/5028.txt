@@ -1,0 +1,35 @@
+I really think this is based on a bit of a wonky premise. Will OpenAI release more fundamental technologies like GPT or Dall-E? Maybe, maybe not. Will they continue to improve the performance of what they already have? Hell yes.
+
+Saying they have run out of ideas is kinda like saying Intel ran out of ideas when they released the x86 architecture. The fundamental architecture of their microprocessors was not changed from any generation to the next.  But over decades many many refinements allowed processors to do more stuff. Not because Intel necessarily created that software or ancillary hardware. They just kept improving their platform and let others build on that. Yet still the underlying foundational instruction set is still there under it all.
+
+LLMs like ChatGPT won’t be any different. They are now in their x86 era. But they still have plenty of room to grow. The next big leap in my opinion will be context size. New approaches like Meta’s Megabyte are a great example of this. Integration is also an area where much work is being done. OpenAI’s new plugin architecture opens many many more doors to extend their core functionality beyond purely the written word.
+
+As for your original question - I actually think the fundamental thing we are going to see is the devaluation of the written word. Not all of it, of course, but a sizable chunk.
+
+Historically writing of any kind had value because it was hard. Good quality writing required skill and great writing required talent. Both required time - and these are all things that as a society we value.
+
+Now we have machines that can churn out “good” writing. Not great (at least yet) but for the most part, good.
+
+Now anyone who previously would have lacked the skill to write well, can get by with a little AI help. More emails will be better written, more content will be better summarized. Writing that would have taken a human hours can now be achieved in seconds. By way of example, people who were making a living out of writing show notes for podcasts are virtually all out of work already. AI does this competently and almost for free.
+
+Is it page-turning material? No. Not yet. Maybe one day, but not today. But it is now accessible to the masses.
+
+It is said that “talk is cheap” - well, now so are words. Especially as Microsoft introduce copilot-like features into their Office suite, well-written emails will become the norm. We will simply accept (and soon thereafter, expect) that everyone will be articulate in the written word when they produce content.
+
+Furthermore, AI’s ability to summarize content will make this situation worse. Increasingly, rather than reading chunks of text, AI is being used to generate “Cliffs Notes” - to create digests of information and reduce complex concepts into bite-sized chunks.
+
+So in a world where one person generates a lengthy email by feeding AI some bullet points, and the other uses AI to turn that very same email back into a series of bullet points for easier comprehension, what will the written word be worth?
+
+Sounds a little glum, but I don’t actually see it as all-bad. What all of this will do in my opinion, is refocus us to even more highly value language that TOUCHES us; that CONNECTS with us. Language that MOVES us and AFFECTS us.
+
+And if you doubt, remember that all of this has happened before (kind of). The development of the printing press heralded the devaluation of the book. Formerly hand-bound, manually transcribed manuscripts were treasured possessions because they were expensive to produce owing to the time required to transcribe them.
+
+Fast forward and mass-produced books are far more accessible and less costly to boot.
+
+While this sure wasn’t a good day for scribes and those not-so-savvy few heavily invested in books, in todays’ world arguably the content of the book is what gives it value rather than the manner in which it is manufactured.
+
+Are there far more average books than before? Sure. But anyone with a full bookshelf has that one spot on the shelf where they store the tomes that touch them most.
+
+And so shall it be with language in general. Words will become cheap, but authentic writings that inspire us, will still be treasured nevertheless. And brevity and conciseness will become the bastions of good communication.
+
+All hail our new master: the bullet point.

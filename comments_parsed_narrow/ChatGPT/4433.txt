@@ -1,0 +1,1 @@
+There was another post about how ChatGPT could easily be persuaded the answer is not 1.9. It depends on which model you choose when you start a new chat, 3.4 or 4. The screenshot I posted shows 4 stuck to it's guns. That's why including the model version number is important when discussing these topics.

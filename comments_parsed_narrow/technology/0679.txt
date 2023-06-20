@@ -1,0 +1,1 @@
+I have been asking Bard and ChatGPT… both of their pros and cons but a lot of mundane stuff can be sped up. A simple example is string manipulation , sorting , loops etc. Just ask and it’s there for you to copy into your code. Definitely going to inc dev productivity.

@@ -1,0 +1,3 @@
+For me it's not yet that good. I have used it to solve a few bugs - which has saved me a lot of time, but I have not yet successfully given it a method and said - write this for me successfully. It could be because what I do is pretty abstract. I'm writing game engine code, and it's really hard to explain to ChatGPT how paint layers in an editor should be combined to maximise efficiency and work well with the GPU. It's years away from getting that.
+
+There just isn't enough training data available for it to be good at that kind of work. The only available code I'm aware of it could use would be Unreal - but that's not publicly available. So yeah - it has limitations.

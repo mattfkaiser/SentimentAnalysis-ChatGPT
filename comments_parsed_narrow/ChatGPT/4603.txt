@@ -1,0 +1,3 @@
+Hi, I made a service to practice speaking skills with chatgpt in eight languages, including English, Korean, Chinese, Japanese, Spanish, Portuguese, German, and French.    
+ Could you please check if my service works well in Spanish? I need a user to confirm its functionality.   
+this is my service : [https://www.smalltalk.fyi/](https://www.smalltalk.fyi/)

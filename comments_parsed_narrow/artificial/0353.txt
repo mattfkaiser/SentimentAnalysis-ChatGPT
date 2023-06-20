@@ -1,0 +1,8 @@
+Thanks for elaborating that was very interesting! 
+My critique for the Turing test comes mainly from the fact that most conversations are set in roles.
+
+Basically every conversation that follows a certain play (and actually all do) can be automated in a way it passes the Turing test.
+
+I like the spirit of the test but I can already break it with ChatGPT in many many situations.
+
+So it doesn‘t really measure intelligence but our expectations on a conversation.

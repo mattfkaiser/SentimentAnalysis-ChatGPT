@@ -1,0 +1,10 @@
+No.
+
+
+Think of stack overflow, just because all the code you need can be copied and pasted doesn't mean they can replace you with a copy paste monkey.
+
+
+Think of chatgpt as a much more efficient stackoverflow searcher. In a lot of ways it kinda is. It might automate code, but it needs an intelligent person to know what to automate. 
+
+
+Furthermore, this incident already happened, but there are certain things you can't auto generate without exposing your private NDA binded data. Samsung engineers straight up exposed their non open source code to openAI's api and just gave Microsoft their code for free in order to automate code. Even if Microsoft had some privacy policy that didn't allow them to look at their code, the fact that they voluntarily surrendered it to a different APi under different contracts gives them a legal loophole to look at the code. For very context specific things like that, they're gonna need somebody like you who can still do things the old fashioned way.

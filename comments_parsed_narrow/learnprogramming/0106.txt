@@ -1,0 +1,11 @@
+I totally understand this question - just this Friday I attended a college graduation-ceremony for a lot of webdevelopers, and they also asked the same: "Is there going to be work for us, now that AI can do so much?"
+
+The answer is "**Yes, but a different kind of work - a better kind**".
+
+What ChatGPT (and other AIs) can do, is to create all the standard, basic "pizza"-code that you build your application on. If you are creating a web-application, chances are that you are going to need a backend, store some data in a database, convert data-tables into objects, transfer those to the frontend through some REST-API, create a frontend to receive data, display data in lists, and create forms to edit those data. And that's before adding any business-logic to the application!
+
+This is boring work, really repetitive, but not so repetitive that you can re-use code from earlier projects. Of course you have to learn how to do it, in order to ask ChatGPT to do it for you, and fix all the mistakes it makes - and that part of learning might seem a bit annoying, like learning multiplication-tables when you have a calculator. But once you get to use it actively, and can work on more interesting code, it will be amazing!
+
+Some "code-monkey"-jobs, where you only ever create this basic code, they are going to disappear, and the bootcamps that only teach to that level, they are going to close, or level up.
+
+So things are changing, but it is an excellent time to learn, since you have the best possible tool to give you suggestions on how to quickly build something - something that won't work perfectly, but that you can then modify to be really awesome!

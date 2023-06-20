@@ -1,0 +1,19 @@
+>Use case studies and require students to analyze what is actually going on (think law school exams). Or for homework just have students get the results but also have them explain how they derived those results or only rely on work done at home for learning
+
+Squarely in the reach of chat GPT.
+
+>  and the grade comes from an in class test where computers aren't available. 
+
+of questionable relevance
+
+we also don't judge truck drivers by how well they are able to do their work if you take the truck away from them
+
+>so delve into details for the test that meant that they actually had to read it.
+
+This is possible and would achieve the purpose of forcing them to read the book and of having clearcut grading criteria. But it completely defeats the purpose of having them actually learn anything. You will find yourself grading on irrelevant trivia and idiosyncrasies of a specific author rather than on understanding of the subject matter, because you are definitionally excluding the most important aspects to understand from the questions are going to ask.
+
+&#x200B;
+
+What isn't close to being in reach of LLMs is proof type questions in maths (if we're talking about a proof that isn't to be found in literature) or with respect to for example law drawing comparisons across multiple fields that use different vocabulary to say the same or sometimes the same vocabulary to say incompatible things (again, only if these comparisons are not to be found already in the literature, otherwise chat gpt can just take them from  there).
+
+Those are exactly the questions that most students fail.

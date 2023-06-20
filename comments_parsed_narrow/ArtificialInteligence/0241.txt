@@ -1,0 +1,1 @@
+One example is that Google’s Lamda was available internally for quite a while before ChatGPT became viral. In fact in 2022 a “whistleblower” at Google was all over the news for being fired after claiming Lamda was sentient. BARD isn’t as good as GPT4 but I’m sure there are internal LLMs that are on par, but not yet fully fine tuned

@@ -1,0 +1,5 @@
+A calculator is self contained and does minute arithmetic.
+
+ChatGPT doesn't provide cited sources, it's closed source, and it clearly has human defined limits as to what it appears to deem "morally unethical" to certain prompts. It's full of ambiguity and it's designed to be so. The person(s) defending it also stands to profit heavily from its normalization, as does it's corporate backers. 
+
+The two aren't even remotely similar.

@@ -1,0 +1,13 @@
+Relevant text of the order
+
+>All attorneys appearing before the Court must file on the docket a certificate attesting either that no portion of the filing was drafted by generative artificial intelligence (such as ChatGPT, Harvey.AI, or Google Bard) or that any language drafted by generative artificial intelligence was checked for accuracy, using print reporters or traditional legal databases, by a human being.  
+  
+These platforms are incredibly powerful and have many uses in the law: form divorces, discovery requests, suggested errors in documents, anticipated questions at oral argument. But legal briefing is not one of them. Here's why. These platforms in their current states are prone to hallucinations and bias. On hallucinations, they make stuff up—even quotes and citations.  
+  
+Another issue is reliability or bias. While attorneys swear an oath to set aside their personal prejudices, biases, and beliefs to faithfully uphold the law and represent their clients, generative artificial intelligence is the product of programming devised by humans who did not have to swear such an oath. As such, these systems hold no allegiance to any client, the rule of law, or the laws and Constitution of the United States (or, as addressed above, the truth). Unbound by any sense of duty, honor, or justice, such programs act according to computer code rather than conviction, based on programming rather than principle. Any party believing a platform has the requisite accuracy and reliability for legal briefing may move for leave and explain why.  
+  
+Accordingly, the Court will strike any filing from an attorney who fails to file a certificate on the docket attesting that the attorney has read the Court's judge-specific requirements and understands that he or she will be held responsible under Rule 11 for the contents of any filing that he or she signs and submits to the Court, regardless of whether generative artificial intelligence drafted any portion of that filing.
+
+Glad to see that the judge pointed out both the well-known issue (Generative AI just makes crap up) and a lesser-known issue (Generative AI can be biased.)
+
+On the second part, we should recognize that the companies running these models have programmed them not to say things that run afoul of political sensitivities.  But, sometimes, a lawyer has to make an argument that runs afoul of political sensitivities (and sometimes even the lawyer's own sensitivities) when representing their clients.

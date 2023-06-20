@@ -1,0 +1,10 @@
+ChatGPT might actually be able to do this already, with the right prompts. 
+
+It has a 4k word limit for its context, so you should be able to give it sufficient context to get it to respond with the perspective you want, I think.
+
+For example, I would be tempted to feed in something like:
+
+> My main character is (details about character) and his world view is as follows: (world view, beliefs etc).  Please extrapolate, using any supporting information you wish, what this character's response would be to the following argument: "we should not paint the town in purple!"
+
+
+In the character details section, I would be inclined to include words or descriptors that would ground your prompt quite well, so it can easily link it to rich veins of knowledge to pick supporting information.

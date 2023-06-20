@@ -1,0 +1,1 @@
+pre-prompt it - [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)

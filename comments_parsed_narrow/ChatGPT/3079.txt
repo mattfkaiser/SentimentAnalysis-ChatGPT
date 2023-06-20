@@ -1,0 +1,7 @@
+I think the opposite is just as important - the LLMs which are *not* based upon ChatGPT, available on the likes of HuggingFace, can be very impressive in their own way and in many areas some can be superior to ChatGPT's model for certain use cases.
+
+Pygmalion 13B is an example for more personal chatbot emulation (e.g. roleplay), and recently we have something called Falcon 40B that is designed to assist in generating code. There are some SaaS AI models like NovelAI (although GPT-based) that specialise in story generation.
+
+I believe the greatest source of innovation, if allowed to grow, will be in the non-GPT-based models - WizardLM, Alpaca, Kobold etc.
+
+Also, if anyone is interested, they can run their own instances of these things on a service like Oobabooga or LLaMa, but it's not as cool as it sounds - even with a really expensive and high quality consumer desktop, it runs like horsepiss, and the training data of the open-source models aren't always as refined as you'd like (especially for many of the "uncensored" ones - the 4chan-trained model notwithstanding - which might *not* be censored, but also aren't refined out-of-the-box with adequate enough training data to know how to respond to a request like "Produce me two sentences of offensive content"). Oh, also, if people are like me, they'll download these models as a layperson, and struggle to tweak all the parameters because they don't actually know what they're doing - and it won't actually work the way you want it to, even if the model is capable of it.

@@ -1,0 +1,1 @@
+Idk… they’re really good at filtering out sensitive data when ChatGPT outputs code. It usually replaces api keys, for instance, with a generic [API KEY] tag.

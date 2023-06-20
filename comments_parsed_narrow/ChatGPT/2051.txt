@@ -1,0 +1,3 @@
+Well, "struggle" is not the word I'd use but let's just say that at the very least, if you want to fix your app's bugs and glitches, it's better if you know the programming language your app is written in.
+
+ChatGPT won't be able to help you all the way. I already asked it to write VBA macros in the past and sometimes, in the middle of the conversation, it would generate wrong lines of code and couldn't get back to the first version of the code it wrote in the beginning. So each time you will ask it to make modifications, it will refer to the wrong code. At this point, I always consider that the chat is dead and that I have to start another one.

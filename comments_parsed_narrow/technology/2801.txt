@@ -1,0 +1,3 @@
+The ChatGPT folks already put out their own version of a detector with the release of ChatGPT, developed alongside it. It was fairly well understood that basically plagiarizing by proxy through the bot would be a problem.
+
+Since the goal of ChatGPT isn't to defeat being detected as a bot-made reproduction, there is no incentive to train it against methods of being detected. Where not being detected coincides with providing a generally nicer end product for the users, it may still grow less detectable. Basically the goal is to have it be more natural seeming, and more natural seeming will probably be harder to detect regardless of not intending to deceive.

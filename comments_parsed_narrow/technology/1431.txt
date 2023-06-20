@@ -1,0 +1,31 @@
+You are off base on quite a few things... AI is amazing but not that amazing, it is built on lots of specific tech parts that are beneficial.
+
+> Midjourney starting from you untagged image recognizing it as a face
+
+You are confusing face detection with reference images, those are separate. Face detection runs as well as other processing to find objects in scaled down comparisons. When it has it then it can extract parts of the face to use.
+
+Face detection is already solved well before before using computer vision / OpenCV originally and is used in augmented reality real time. This is already extremely fast.
+
+Once it knows the positions of the face it can attach on reference images with their generative art system.
+
+> As to hoping it will be garbage, that's wishful thinking. 
+
+Hoping? When you have more data it is always harder/more intensive to find the best of the set.
+
+There is a limit to data humans have created, so adding more variations of it or wrong answers can easily pollute a dataset.
+
+> Google algorithm is not a DNN and did not scale. 
+
+It scaled, the goal was to pick the best. It really does search billions but map/reduce/filter narrows it down to best of each set, then next round, and repeat until you have the best of all data. More data just means more filtering and more intensive but not always better results.
+
+> A lot of your hopes seem to stem from 3D, yet AI text to video already generates dynamic 3D motion.
+
+You aren't getting it. It is built from 2D representations, existing images/video. It is why algorithms have trouble with items behind other ones and until it can see, hear, smell, touch and collect this data itself, it will always be using 2D versions of it... Yes it is used to make video that is a series of 2D and appears 3D, that has been true in motion graphics forever. AI can also generate 3d objects. But it is still basing everything on 2D and that is the problem with all computer vision really, it needs additional inputs for real time like LiDAR, sensors, many cams and why things like Tesla FSD will never be 100%. It doesn't really even have memory of the previous frame. LiDAR can give a physical pointcloud and has dimention as it improves as it moves. Computer vision only and RADAR do not improve as they move and takes more processing to figure out dimension.
+
+> There is nothing special about us. We're not the dominant intelligence on the planet anymore.
+
+As will any product of ours, it will just be us, data on us. We aren't building something beneficial to others. You are buying into the salacious side a bit too much but if you are having fun with it rock on. AI is not the dominant intelligence nor will it. Encyclopedias and Wikipedias know more than every single one of us, it is just data it will interpret and in that area it will be able to access more just as a computer/internet does. Doesn't mean we aren't still in control of what we create.
+
+> ChatGPT argues too.
+
+By nature it is built on a limited set that it wants to fit everything into though. It can't expand unless it gains input much like a human but humans can do that themselves. As I mentioned, until it can walk around, smell, taste, touch, listen, walk, run and live a lifetime, AI won't be in control.

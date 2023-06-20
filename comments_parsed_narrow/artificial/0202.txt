@@ -1,0 +1,8 @@
+> I googled "lies about Mark Walters" and found misinformation.  
+
+Ah. That's the source of our problem - misinformation. Maybe we need a section on misinformation on StackOverflow.  But.. 
+
+[Temporary policy: ChatGPT is banned](
+https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned)
+
+>**Locked.** Comments on this question have been disabled, but it is still accepting new answers and other interactions.

@@ -1,0 +1,5 @@
+A lot of people circulate that gpt4 has about 1 trillion parameters, but OpenAI hasn’t said. 
+
+I’ve been learning about neural networks from a variety of sources, including chat gpt4, and it says that parameters are essentially equivalent to the weights and biases. That’s in line with the below article on parameters. Please correct me if I’m wrong. 
+
+https://learn.flucoma.org/learn/mlp-parameters/

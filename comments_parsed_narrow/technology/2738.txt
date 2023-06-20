@@ -1,0 +1,1 @@
+A better analogy would be to say that GPT-3 (and ChatGPT) work off of a lossy compressed version of the internet while Google uses an exact copy.

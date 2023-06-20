@@ -1,0 +1,3 @@
+Yeah, it sounds they just don't understand how LLMs work.
+
+Also, citing the issue with ChatGPT UI being broken (users seeing other users chat history) is mixing unrelated stuff up. I'm pretty sure that the website itself is not the greatest engineering marvel but it's a separate product from the APIs and LLMs themselves.

@@ -1,0 +1,1 @@
+Gpt 3 is just as good in most instances (except code) and is sometimes better since it won't refuse instructions. It also picks up on text patterns better but it's unfortunate how you can't exactly use like a trillion tokens per prompt like chat gpt

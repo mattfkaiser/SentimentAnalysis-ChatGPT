@@ -1,0 +1,1 @@
+For a real Stack Overflow experience, ChatGPT should answer 99% of the questions with "This question was already asked before, I'm locking this chat".

@@ -1,0 +1,11 @@
+There is NOT expert consensus about your statement that "Its just not emergent general intelligence.". 
+
+That assertion is going to age like stale milk. 
+
+When you realize intelligence is not solely defined as human-style intelligence, and start thinking of it as a spectrum going multiple directions and branching off into a wide variety of spectrums within spectrums, you realize it's not as simple as being a binary choice of, "truly intelligent or not intelligent". 
+
+And, biological intelligence of our level may be new, but that doesn't make it special or undefinable. Neural network models, including Transformers of increasingly sophisticated design and other types, are becoming increasingly sophisticated as well as increasingly capable of mimicking the functions of real biological systems (in real time on some neuromorphic hardware!) as well as more compute-efficient.
+
+If intelligence is a spectrum, which is how I think of it, then it is silly to say today's system isn't "real" intelligence because it lacks a thing or two you expect it to have, especially when the next system might progress further and fill those gaps quite quickly. It's like saying chimps don't have "real emergent general intelligence" because they are incapable of human-level problem solving (which, I might add, GPT-4 is better at problem solving than 90% of people I've ever known! LOL! Even if it can make mistakes I can catch.). 
+
+I would speculate that you only have personal experience with the free version of ChatGPT (this the inferior GPT 3.5 turbo model), and no experience working with novel transformer designs or interacting with experimental research AI models.

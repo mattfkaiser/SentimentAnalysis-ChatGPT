@@ -1,0 +1,9 @@
+> Wrong, chatGPT does have the ability to handle novel information. It does have the ability to make connections or identify relationships, even non-simple ones across disparate topics. 
+
+You say that, except it really doesn't.
+
+>  It does have a fairly high success rate in understanding what the user is asking it, and using what it has learned through training to analyze the information given and come up with an appropriate response.
+
+Again, entirely incorrect. In many cases i've tried, it completely failed to recognize that its answers were completely incorrect and incoherent. And in other cases, it failed to recognize it's inability to answer a question; instead repeating itself endlessly.
+
+You're falling for an illusion. It's good at text extension using an existing database/model, but that's it. Anything outside of that domain it fails miserably.

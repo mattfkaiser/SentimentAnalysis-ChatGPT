@@ -1,0 +1,5 @@
+Lots of students turned in chatGPT generated code last semester. The trouble, aside from the fact that they were told not to use chatGPT, was  they turned in code that they could not reasonably explain or defend. On top of that, chatGPT would hallucinate and sometimes generate a mixture of languages.
+
+They were also asked to turn in code that used specific functions along with a required pseudocode flow. This is where chatGPT would go off the rails with convoluted code that was not efficient or understandable by the student.
+
+I see junior devs taking the same shortcuts - they are supposed to be using a certain set of classes in thei work but they chatGPT around the requirements and say "but it works". They see their job as complete even if they could not explain why the code uses the functions or classes that it does.  Their mantra is "anything is fine as long as I got the right output"/

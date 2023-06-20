@@ -1,0 +1,5 @@
+I feel that your idea is totally possible and realistic with chatgpt. 
+Obviously chatgpt wouldn’t do all the work. 
+You would need a script made with python, or whatever programming language (I would use python for my knowledge of it and because it’s the best for automations like this), for logging in your email browser and get to all emails. Then with the chatgpt api you could get the text from each email, summaries it and delivery it wherever you need. 
+
+Chatgpt has a lot of potential but it’s not much of a use alone. You’d still need some programming skills for part of the work, so it would be more for tech companies to use and present it to the average user.

@@ -1,0 +1,7 @@
+There is 3rd party clients that use the chatGPT / OpenAI API, you could use one of these alternative site clients or you could install one of the self hosted ones on your own webserver / VPS and use it via that.
+
+Here's a link with more information -
+
+[https://github.com/billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui)
+
+Better to discuss with your employer though if you think they have full monitoring, you may be fired.

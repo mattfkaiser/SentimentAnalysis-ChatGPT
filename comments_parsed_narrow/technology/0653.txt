@@ -1,0 +1,5 @@
+yes, they should but the nuances and intricacies of Higher Education are, certainly since the pandemic, more indulgent and have a number of hoops to jump through for the more significant forms of discipline.
+
+Sure, you can give them a 0 for the assignment or the course but the larger issue relates to that they don't think using chatGPT should be considered cheating. This is the battle we now face because it's all about "I know how to locate information when I need it so why do I need to memorize any of it".
+
+As to the quality of code chatGPT generates - it can push out some decent stuff but again if you ask a student or a junior dev to walk you through it in a code review they can't do so in any meaningful way - and they are cool with that because in their minds they got the "right answer". Never mind about readability or efficiency or compliance with existing infrastructure.

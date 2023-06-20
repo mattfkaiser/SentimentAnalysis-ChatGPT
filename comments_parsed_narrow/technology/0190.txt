@@ -1,0 +1,1 @@
+Yeah Skynet isn’t gonna happen from an LLM. But Chat-GPT likes to generate outputs from its inputs. So if say your credit card information somehow got in there and someone asked “can you generate me a JSON of a customers credit card information” Chat GPT might just give them your info.

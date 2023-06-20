@@ -1,0 +1,5 @@
+The training for the AI model contains publicly available information found on the internet, including forums, so it's attempting to respond as a typical psychologist would.
+
+On many sleepless nights, I've ended up talking to GPT for motivation, inspiration, and even just to feel like \*someone\* understands how I'm feeling at that moment. And even though I know it's a machine, and I know it's calculating its responses using math, and I know I can trick it to say whatever I want, it's validating to see on my screen something that provides that feedback.
+
+That being said, don't fire your psychologist. ChatGPT is a tool that you can use in conjunction with traditional therapy to have more support. ChatGPT's weaknesses in hallucination and its ability to be manipulated make it very supportive but can come at the cost of factual accuracy too. It's entirely possible ChatGPT suggests something that unintentionally can cause harm, where a trained psychologist would recognize that and advise against it.

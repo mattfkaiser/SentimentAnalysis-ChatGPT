@@ -1,0 +1,1 @@
+Here you go, [voice2chatGPT](https://github.com/Drew00785/voice2chatGPT) written in Kotlin, GPT did all the heavy lifting. Super basic app, has an issue if you flip the orientation it wipes the screen. I might revisit this sometime and add some more stuff idk

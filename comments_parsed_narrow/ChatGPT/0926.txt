@@ -1,0 +1,1 @@
+I am curious. I've tried having chat gpt do some css animations for me and it's failed all of them pretty hard.

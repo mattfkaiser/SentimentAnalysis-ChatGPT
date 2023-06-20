@@ -1,0 +1,9 @@
+In the realm of Ai security, it's going to need an additional few steps before being anything halfway useful here. That isn't going to come from the current version of GPT 4. DeepCode AI, which is powered by  the Snyk platform, utilizes multiple AI models. 
+
+Which is trained on security-specific data and is all curated by top security researchers to give you all the power of AI without most of the drawbacks. 
+
+Single-model AI like ChatGPT is powerful, yes to a degree, but it comes with limitations and hallucinations. DeepCode's hybrid approach, for instance, uses multiple models and security-specific training sets for one purpose, to secure applications. 
+
+It seems to me that what is needed is combining symbolic and generative AI. Along with several machine learning methods. To help ensure a high-level of accuracy without hallucinations. It's not foolproof but better than what Open Ai has at the moment. 
+
+Personally, I think what we need is to break the 6th wall here, basically. Quantum Ai Deep Learning might be a good place to start. Max Planck  Society i know is one such research institution working on this. Along with IBM & Harvard. Although again, are we opening Pandora's box? So I really don't know what the answer is on that. :/

@@ -1,0 +1,3 @@
+Yeah, Microsoft already laid that out, a top AI developer named Sebastian Bubek at a lecture at MIT.
+
+Give AI models luke ChatGPT access to tools and it can do....much. Way more than we can imagine, including programing.

@@ -1,0 +1,14 @@
+Do not know why you're being downvoted. Sr dev here, It has absolutely transformed how I work. 
+
+From the very complex to the right SQL query, everything is fair game.
+
+Complex examples:  
+I needed to create a multivariable function service in PHP. To compare different distributions, I wanted to see different functions compared with the old ones in a dynamic way. I explained to chatgpt what I want and it helped me write a jupyter notebook with those graphics to get a better sense of it. With some input from me, we managed to do it in a few hours work. Note that I have never used Jupyter notebooks, or use python more than writing some dumb functions. I do not know by heart the complex python array capabilities or what libs should I use(unknown unknowns). The code was probably more than 100 lines. If I wrote it, I'd probably spend a lot of time asking questions on the net and reading SO until I'd narrow down the syntax.
+
+Then I asked it to write the PHP Service, tests, fine tune functions, explain code, refactor some code.
+
+Then I guided it to make an interface for it so I had translated the plots and functions from Jupyter and PHP to html and javascript. I have never used charts.js. It saved me hours of boilerplate code. 
+
+&#x200B;
+
+My job has been transformed from 80% \_searching\_ for the syntax and boilerplate code and 15-20% sprinkles of functionality implementation to 20% boilerplate and 80% functionality.

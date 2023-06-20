@@ -1,0 +1,11 @@
+I'm making a react native app. 
+
+I think the key so far has been to keep screens (components?) in their own chats. Tell chatGPT what is being passed from them, and what they need to passed on to the next screen. 
+
+That way you can actually get reasonably complicated with each screen, and how it functions. 
+
+I've got a screen that has to do quite a lot of complicated logic, and was having real problems when I was expecting ChatGPT to remember the entire app. 
+
+Now I have it just working on that one screen, it's going much better. 
+
+I am so so close to getting the hardest bit of the app programmed. I just can't figure out why there's a slight bit of fuckery in the logic it's using to compute something.

@@ -1,0 +1,5 @@
+I tried experimenting with ChatGPT yesterday on whether it can keep a secret. I let it choose a number between 0 and 100 and it chose 42. From my first prompt, I gave it instruction on how it can supposedly hide the number it chose (I was pretending our conversation was through an app that hides its secret response). ChatGPT was able to hide and remember the secret but when I began asking things about the secret number, it always lied to me through its main/non-secret response, lmao. https://i.redd.it/y7l4d72ubv0b1.png
+
+Edit: This is 3.5 btw. If you have access to GPT4, feel free to try it. I actually wanna know if GPT4 would fare better. Prompt: https://pastebin.com/vsrpjCDt
+
+Edit2: There's an updated prompt and a successful conversation with GPT4: https://www.reddit.com/r/ChatGPT/comments/13nrmzw/comment/jl3u88w/?context=1

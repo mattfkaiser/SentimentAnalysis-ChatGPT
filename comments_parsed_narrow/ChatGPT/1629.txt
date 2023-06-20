@@ -1,0 +1,1 @@
+But it has September 2021 cutoff by default. I always thought it meant that all of its training data was created before that, so it can't access anything after that, because that data simply is not there. But apparently the data is there, and the only thing that's stopping chatgpt from accessing it is that little promt at the beginning.

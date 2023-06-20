@@ -1,0 +1,5 @@
+I found the same thing.  I was helping my SO find information for a research project about 6 months ago and out of curiosity I threw it into ChatGPT to see what would happen.
+
+It spit out some convincing analysis.  Then I asked if it could provide sources for that information.  It provided links to reputable research journal sites but all the links were to non-existent studies.  The titles of the studies were completely made up but it was smart enough tot list as the author someone who had done real studies is the same field.
+
+It was really unsettling how convincing it was if you didn’t look a little deeper.  It was ALL completely made up.

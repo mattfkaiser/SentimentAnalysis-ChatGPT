@@ -1,0 +1,9 @@
+I think GitHub Copilot is really more of a glimpse into how LLMs can be a game-changing tool than the genetic ChatGPT app.
+
+But that's just it: it's a tool. It doesn't get you the whole way to a finished product and it definitely doesn't get you the expertise needed to adapt and support it for customers and integration into an ecosystem. It can get you 80% of the way there a lot of the time, but the remaining 20% requires a refreshed skill set to identify and effectively execute on.
+
+"80% done" is often enough for good PR and demos, so it doesn't surprise me that non-technical roles are exaggerating like this. Get the shocked Pikachu faces ready for the wave of "unforeseeable technical challenges delaying product rollout" announcements in the next couple of years.
+
+Limitations aside, though, it *is* a game-changer. Just like using a power drill and nail gun can give you faster, more consistent results when you're building something with screws and nails, LLMs are going to dramatically accelerate velocity when used correctly — and that multiplier is only going to get bigger, fast. It's all contingent on us adapting and learning to use the tools, though.
+
+As for implications, massively increased productivity implies either faster innovation and development or fewer people needed. Probably a decent chunk of each. We should be very worried about *that* across the entire archetype of knowledge work, but that's its own ball of wax.

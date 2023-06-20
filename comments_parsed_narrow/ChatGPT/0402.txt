@@ -1,0 +1,35 @@
+I mainly use it for help when coding my Shopify store. I'm a Business Analyst and work with developers on the daily, so I talk to ChatGPT the same way:
+
+As a  
+I want  
+So that
+
+**For example:**
+
+As a Shopify store owner who is new to Shopify and just starting to learn Liquid programming  
+I want to be able to show an estimated shipping date on my product page using a custom liquid block that adds two days to today's date  
+So that my customers have a good idea for when they can expect me to ship the item to them
+
+**The result:**
+
+Sure, I can help you with that. Here's an example of how you can create a custom Liquid block that adds two days to today's date to show an estimated shipping date on your product page:
+
+1. In your Shopify admin panel, go to "Online Store" and click on "Themes".
+2. Find the theme that you're using and click on "Actions" > "Edit code".
+3. In the "Templates" folder, find the file for your product page (usually called "product.liquid") and open it.
+4. Find the section of the code where you want to display the estimated shipping date. This could be in the product description, in a custom section, or in a separate block altogether.
+5. Add the following Liquid code to create a custom block that adds two days to today's date:
+
+&#8203;
+
+    {% assign shipping_date = "now" | date: "%s" | plus: 172800 | date: "%m/%d/%Y" %} {% comment %} "now" is today's date, expressed as a Unix timestamp. "plus: 172800" adds 2 days (in seconds) to the timestamp. "%m/%d/%Y" formats the timestamp as a date string. {% endcomment %} 
+
+1. Now you can use the shipping\_date variable to display the estimated shipping date in your chosen section of the product page. For example:
+
+&#8203;
+
+    <p>Estimated shipping date: {{ shipping_date }}</p> 
+
+1. Save your changes and preview your product page to see the estimated shipping date in action.
+
+I hope this helps! Let me know if you have any other questions.

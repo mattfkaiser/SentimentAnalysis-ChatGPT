@@ -1,0 +1,9 @@
+Money, time, ownership.
+
+Money: ChatGPt takes up resources (hard drives, processors, electricity). It cost money. A human needs first needs to find and implement a way to profit from AI despite the costs. 
+
+Time: Humans need to implement different ways for AI to take over jobs. ChatGPT is at a point where it cannot do that by itself. You won’t see AI powered vacuums until someone implements it first. People are finding more and more ways to do it everyday with plugins and other usages.
+
+Ownership: ChatGPT is owned by OpenAI. Any 3rd party company that uses ChatGPT is at the mercy of OpenAI. If a human sells a vacuum with AI that uses ChatGPT, they would be screwed if OpenAI decided to limit users or shut down altogether. Most companies will likely want their own AI implementation to reduce costs and control the AI bot before using it in production. Although, I’m pretty certain that a bunch of companies are already in the process of doing this right now.
+
+Just wait. Things are progressing very rapidly. I’m sure the AI landscape will be very different in a year or two.

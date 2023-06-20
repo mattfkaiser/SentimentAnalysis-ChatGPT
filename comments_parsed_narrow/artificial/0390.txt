@@ -1,0 +1,5 @@
+I've used it to create a python script that allows me to pull data from my cars OBD connector by voice command and then it sends the data to gpt-3.5-turbo, then my pc reads the chat gpt response out loud.
+
+I can even say "vehicle identification number" and not only does it pull the hexadecimal data... It parses the data and sends it to a VIN decoder API and chatgpt responds with the actual vehicle details like Year, make, model, trim and engine size.
+
+So I guess like any tool... it's only as smart as it's user.

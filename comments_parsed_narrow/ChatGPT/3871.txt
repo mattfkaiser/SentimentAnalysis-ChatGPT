@@ -1,0 +1,17 @@
+This is a fascinating and complex question! While it's impossible to predict with certainty how ChatGPT would perform in this experiment, we can make some educated speculations based on its architecture and training methodology.
+
+At its core, GPT (Generative Pretrained Transformer) models are statistical machines. They generate text by predicting the probability of the next word based on the context of the words that came before it. The model doesn't understand concepts or ideas in the way that humans do. Instead, it learns patterns in the text data it was trained on.
+
+In your proposed experiment, GPT would not have the capacity to physically conduct an experiment, but you suggested a workaround by proposing hypothetical experiments and having a human respond with the outcome. However, it's important to consider that GPT, at least in its current form up to GPT-4 (as of my knowledge cutoff in September 2021), does not have a persistent memory. Therefore, it would not be able to remember past "experiments" or outcomes, limiting its ability to learn from these interactions and build up complex chains of reasoning over time.
+
+To your voting options:
+
+1. It's highly unlikely that GPT would invent everything humans did, including advanced concepts like calculus, rockets, or advanced physics. Inventing requires not just knowledge, but also the ability to creatively solve problems and apply insights in new ways. Without some form of persistent memory and complex reasoning, GPT would be hard-pressed to make such leaps.
+
+2. As for more basic inventions like movable type, it's more plausible but still challenging for the same reasons mentioned above. Additionally, GPT doesn't have an understanding of the physical world or human needs in the way a human inventor would, which could limit its ability to invent.
+
+3. Trivial inventions like new recipes are more within GPT's grasp. Given that it has been trained on large amounts of diverse data, including cooking recipes, it could likely generate new recipes based on patterns it has seen.
+
+4. Lastly, the statement "it's just a glorified parrot" is a bit of an oversimplification, but it gets at a kernel of truth. GPT is very good at mimicking human-like text based on patterns it has seen in its training data. However, its ability to invent or create new concepts is limited.
+
+It's important to note that these predictions are based on the current state of GPT, as of my knowledge cutoff in September 2021. Future versions of AI models might have capabilities beyond those I've described, which could change the outcomes of this hypothetical experiment. Also, remember that actual outcomes could vary greatly depending on the specific details of the experiment, including the questions asked and the ways the human interacted with the AI.

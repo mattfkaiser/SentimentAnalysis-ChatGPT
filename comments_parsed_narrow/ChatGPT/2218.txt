@@ -1,0 +1,7 @@
+I build a chrome extension to export all your ChatGPT conversation to Clipboard/Images/PDF/Notion.
+
+Here is it: [Save ChatGPT Conversation](https://chrome.google.com/webstore/detail/save-chatgpt-conversation/bpmjglijpclggdnlpdbpglnadibmlaek) .
+
+We are committed to ensuring user privacy and security, so all conversation records are saved on the user's local device and not uploaded to any servers.
+
+Hope you like it.

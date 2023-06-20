@@ -1,0 +1,3 @@
+I don't think that will look like a convincing work in progress. A work in progress will have some parts completely unchanged, some parts missing altogether, the odd sentence rewritten - it's not going to just be a completely rewritten summary of the final thing. Could you convincingly fake that with ChatGPT? Probably... But it's going to take a bit more work than a one-sentence prompt.
+
+Not to mention the fact that the most obvious hallmark of a first draft is awkward sentence structure, which ChatGPT really doesn't like.

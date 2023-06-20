@@ -1,0 +1,1 @@
+No shit, tried it just now, chatgpt “Improve this code<your code>” . This tested for html though. I tried with java inheritance, its just go offline.

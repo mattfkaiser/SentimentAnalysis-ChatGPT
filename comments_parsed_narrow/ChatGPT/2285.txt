@@ -1,0 +1,5 @@
+ The way ChatGPT works, it won't "learn" in the traditional sense. You can't discipline it like a naughty dog or reprogram it like misbehaving software.
+
+What you're dealing with is machine learning, which is pretty complex. All the phrases it throws at you, those 'garbage' salutations, they're based on patterns in the massive amounts of text it's trained on. It doesn't really understand social nuances, it just mimics patterns.
+
+In truth, it's like trying to turn back the tide with a teaspoon. But if you're determined to fight the good fight, continue being assertive in your directions and try more specific commands, like "Start the email with 'Dear X'" or "Begin without a greeting".

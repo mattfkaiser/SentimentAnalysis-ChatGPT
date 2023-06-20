@@ -1,0 +1,16 @@
+I think you have some good points here, but you're missing what I consider a key issue.
+
+ChatGPT was "great" before the more recent Microsoft partnership, when it was still truly nonprofit.  As soon as it became popular it got revised into a new version (GPT4) which is locked behind a subscription service and also more heavily censored due to liability concerns from corporate partners who want to integrate it with their own services.
+
+
+'OpenAI transformed from a non-profit to a “capped” for-profit in 2019 such that profits were limited to 100x on any investment.
+
+Equity was then distributed to employees, with a $1 billion investment from Microsoft soon after to become OpenAI’s exclusive cloud provider.
+
+In January 2023, Forbes reported that Microsoft invested a  further $10 billion in OpenAI to have it valued at $29 billion.
+
+The deal has a unique structure, where Microsoft would get a 75% share of profits that OpenAI will generate, in the future, until it recoups the $10 billion investments. "
+
+So while you're right that people are misusing and misunderstanding the technology, it's also true that it can no longer be considered a nonprofit and independent technology.  As soon as it got popularized they restructured from a nonprofit to a profit, and sold out to the highest bidder.  
+
+So no, it's not human ignorance that neutered ChatGPT.  It was openAI actively restructuring and updating it's source to take advantage of monetizing a product.

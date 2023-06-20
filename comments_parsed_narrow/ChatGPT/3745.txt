@@ -1,0 +1,1 @@
+The amount of text you need to feed it in practice to convincingly imitate a random person's writing style is far larger than ChatGPT's token text window. In theory, what you say is true. If you trained the AI on enough of your style, it could imitate your style convincingly, but the ChatGPT interface does not provide access to the actual training portion of the language model

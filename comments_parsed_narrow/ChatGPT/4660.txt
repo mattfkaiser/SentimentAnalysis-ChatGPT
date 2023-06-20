@@ -1,0 +1,1 @@
+Is there a good reason not to? At this point, the code only needs to be readable to chatGPT, not a human, so the language used is relatively moot.

@@ -1,0 +1,1 @@
+When I use ChatGPT for programming, it already knows the answer. It doesn't search the Web.

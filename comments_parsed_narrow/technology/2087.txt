@@ -1,0 +1,7 @@
+I don't really buy into that analogy.
+
+I sucked at math and don't really remember much of it, but from what I can recall in solving a high-school calculus questions, there's like ten individual steps you have to do and each step requires different calculations and knowing how to break down the question. You still need the implicit knowledge and know-how to solve the question, the calculator is just the intermediary. 
+
+ChatGPT will just straight up do all the work for you and there is no requirement that you actually understand how to solve the problem. You type in the question and get a complete answer out of it. For a calculator to be equivalent to that in your analogy, it would have to be able to take in the raw equation and just spit out the final answer without *you* knowing how to do any of the intermediary steps.
+
+There are already services that do this like Wolfram Alpha, but AFAIK no one is using that on exams/in classrooms.

@@ -1,0 +1,15 @@
+It's also a question of who had the best PR along with the best user experience. Those factors can't be ignored when talking about innovation. 
+
+It is an innovation because it improved exponentially on what came before. That said, it's built on the hard work of others outside of OpenAI, and that can't be ignored. OpenAI merely found ways to make all of that previous work and information more accessible and easy to review and use by the masses and then promoted it so well that ChatGPT became the more trending and desired product.
+
+I'm more disturbed by critics and others who describe ChatGPT as "new" or Bing Chat as something they've never seen before, as if the product fell out of the aether. 
+
+There are a lot of excellent examples of what came before. The biggest difference, using chatbots as an example, is that they can converse much more clearly and they're so much faster at pulling information from a lot of different sources. That said, many of the so-called "quirks" noted back in February with Bing Chat and other systems have been happening for literally decades. They're not new. The idea that any of it is spontaneous is ridiculous. 
+
+The problem here is that OpenAI hasn't explained well enough their training methods, datasets, etc. I suspect that we're going to learn one day that they, Google (which has been partially confirmed) and others pulled a lot of data from previous language models that had already been in the wild, so to speak, for decades and interacting with tens of millions of people daily. 
+
+Which means, again, that all OpenAI did was smooth out some of the worst problems with previous systems, use all that data to fill gaps in learning, bring everything together in a nicer package that's accessible and stopped referring to the product for "entertainment-only" usage. 
+
+OpenAI moved the conversation from creating chatbots from LLMs, for example, for online entertainment, social interaction and customer service to something along the lines of "We can change every part of life for the better. We can go beyond chatbots and do X, Y and Z" and then showed how it could be done. No other company packaged all the benefits together in a one stop shop fashion so well or promoted the possibilities so well. 
+
+Edited for clarity.

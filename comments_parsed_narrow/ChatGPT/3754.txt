@@ -1,0 +1,1 @@
+These detectors don’t even work basically. Sam Altman talked about experimenting with features for detection in the future like a watermark of ChatGPT’s outputs, but he said something to the effect of there possibly always being a way for people to evade detection with the right prompting. Imo he seemed very unsure if there would really be an effective solution or not.

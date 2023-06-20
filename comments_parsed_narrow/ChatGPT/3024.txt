@@ -1,0 +1,3 @@
+I’d be doing this right away. Drop all other work. Get the best HF model this week and fine tune with LOrA on your existing content base and prove an in house solution can do the job. You’ll keep your job if you want it or have new experience to use elsewhere for more. 
+
+You may fear for the outcome, but the execs are just as scared the whole company will be replaced. Even if its not, having your company be just a chatgpt bridge is not a great (stable) business model. Show them a viable alternative quickly and you’ll be in a way better position.

@@ -1,0 +1,21 @@
+I should probably start by stating I'm far from my student days. I'm an autodidact with ADHD who generally found I could only keep my grades up by teaching myself. That's no slight on the teacher, my brain just wasn't wired to take on information in the form of lectures etc. I really struggled until I started digging for better examples and descriptions. 
+
+I am a software developer with about 30 years of experience. I've never seen a technology move so fast. During my time on the bench at the consulting firm I worked for from January to April, I devoted the vast majority of my time delving into the topic of AI, LLMs, and ChatGPT in particular. I'm preparing myself for the new role that's about to emerge. AI Integrator. Someone with a background in systems development who understands the basic workings of AI and the tools coming onto the market well enough to help clients integrate it into existing and new offerings. If you thought the changes wrought by the internet were huge, you ain't seen nothing yet.
+
+When I say "doing research," I mean things like trying to understand how LLMs work. I don't rely on ChatGPT for facts at all, in the technical sense. And when I come across something that is of that nature, I use other sources to confirm.
+
+I believe it's important to acknowledge that the way we access knowledge is going to change, often radically, especially for students who aren't pursuing a Ph.D. or those in a career in research.
+
+While I loathe hype, it's a virtual certainty that in almost every area that we touch information, we're going to see a complete transformation, and even within two years might well be unrecognizable. Part of the reason for this is the state at which the technology is, but more importantly, it's awoken the investors of the world who will be creating a deluge of money to make the technology more practical and woven into every aspect of our lives. In other words, the thing that will drive this revolution in many ways will be companies seeking to profit on it. While I do expect to see resistance in most professions, the people with the money aren't going to be swayed. 
+
+I would also like to I say that I believe that describing ChatGPT as a "cheating-enabled platform" is a mischaracterization. In the same way saying that the internet is a "cheating-enabled platform." It can be used for that, but honestly, that's really not what it's about. And the other ways of using it far outstrip that use case.
+
+I'll give you an example. Let's say you run a medium size chain store company that does automotive maintenance and repair. You have to maintain massive libraries of technical manuals for your employee's to lookup the specifics of fixing a particular model of car for a particular kind of problem. This is not only costly but error prone. 
+
+It's possible to create more fine tuned versions of models, while at the moment that's not available for the underlying chatgpt 4 model (note that's not the same as gpt 4), they can be used to contain the information that's in all of the documents your employees need. 
+
+Now imagine a technician in a car bay turning to a mic and asking about the model they're working on. Then it either speaks, shows the technician the relevant information on a large display, or both. These models are the ultimate needle-in-a-haystack finders. They are purpose built to surface information relevant to your input.
+
+And that is a quick use case, without a tremendous amount of thought put into it. In terms of medical information, purpose built extensions of models like chatgpt have a reasonable chance of becoming the primary way we diagnose problems within the next three to five years (this is my personal opinion). The benchmarks already show that AI's of this nature can already outperform seasoned physicians in diagnosing diseases. Don't get me wrong, we absolutely need those professional doctors to interpret, consider, and apply what the actual medical course should be. 
+
+But how we've operated in most professions is going to radically change and at a pace we've never experienced before. There are insights I gained between January and April that are already outdated.

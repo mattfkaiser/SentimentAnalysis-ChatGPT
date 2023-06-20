@@ -1,0 +1,5 @@
+Can’t agree with you here. As described, this really isn’t an encryption issue. If an article exists that dissects the system architecture of ChatGPT in more detail with specific criticism on their encryption strategy, I’d be happy to discuss it.   
+  
+It’s a combination of an access control problem, data privacy and the ethics behind reselling user data (which is legal under specific circumstances). An access control problem is addressed by securing the authorization scopes of an application, which has nothing to do with encryption. There’s absolutely nothing in this article that describes a scenario in which user data is being stored in plain text.   
+  
+I’m not saying ChatGPT/OpenAI is an angel, I think any business that collects and sells user data is absolute scum. I just don’t like that the headline of this post claims that they are storing data unencrypted, while the article mentions nothing of the sort. It’s an alarmist take and it’s misinformation.

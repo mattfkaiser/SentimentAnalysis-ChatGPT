@@ -1,0 +1,7 @@
+There are some YouTubers whose videos I like to take notes on.
+
+So to make it easier for myself, one thing I've been doing regularly is taking the auto-generated transcripts of their videos and using ChatGPT to fix the punctuation, etc.
+
+I created a couple of JavaScript pages (also with the help of ChatGPT, though I had to manually fix & tweak them) to help speed up my workflow (such as auto prepend my prompt to the copied text).
+
+I also used it for some creative endeavors and I have to say that the results were surprisingly good. It helps if you say "write me a (something) in the style of (whoever), and it has to include some lines about (this and that)". For this one, I believe I used Bing's GPT-4.

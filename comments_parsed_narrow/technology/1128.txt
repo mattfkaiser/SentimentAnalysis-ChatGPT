@@ -1,0 +1,9 @@
+>Finally, while the singularity is the most concerning of the existential threats presented by machine learning / AI, there is also the potential unraveling of society brought on by the fallout of the utility of humanity. There is going to be wave after wave of innovation that will lay waste to large swathes of the population's usefulness.
+
+I honestly think this is the far bigger, or at least most realistic and immediate, problem a lot of people seem intent on dismissing.  The Singularity is a big deal, and I think there’s a lot to discuss around how we’ll even really know when it is crossed, but it’s also pretty far away imo.
+
+What isn’t so far away is that Singularity or not, programs like ChatGPT are rapidly gaining the capability to accomplish tasks people perform daily to make a living.  Demand for middle-class jobs that employ thousands *will* be literally decimated in the next decade or two, and survival in our society is built almost entirely around the ability to provide a service.  That’s a serious problem.
+
+Similarly, these programs are beginning to pass the Turing test and variations upon it.  We’re having to literally implement systems to ensure students don’t just get ChatGPT to write their essay for them.  The reality is that it’s not going to be very long before we really can’t trust that the people we talk to online aren’t bots.
+
+I think focusing on the singularity is kind of missing the forest for the trees.  AI doesn’t have to be self-aware to seriously cause problems, and I think a lot of Reddit’s usual cynicism is downplaying how advanced things like ChatGPT are in this regard.

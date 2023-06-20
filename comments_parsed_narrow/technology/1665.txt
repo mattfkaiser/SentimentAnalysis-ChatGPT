@@ -1,0 +1,1 @@
+This however seems like a reasonable requirement more than a filter. Chat GPT can’t know the intent you have if you don’t tell it. Some people want an honest opinion, a term paper, a resume, a history. And so, default mode of “reality “ makes sense. “What if” seems like an explicit prompt to NOT be accurate.

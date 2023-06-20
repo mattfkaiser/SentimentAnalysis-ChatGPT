@@ -1,0 +1,1 @@
+Oooh so I could basically send my prompt to both the fine-tuned version and ChatGPT which would provide a more robust answer. Did I get that right?

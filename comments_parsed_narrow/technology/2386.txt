@@ -1,0 +1,1 @@
+I've been encouraging everyone on my team to get familiar with it. We're in project management, so it threatens a lot of their roles, to be honest. E.g. why have a business analyst for meeting recaps and writing up technical/process documentation when you can just ask ChatGPT, "write a testing plan for our sales software, specifically testing feature X".

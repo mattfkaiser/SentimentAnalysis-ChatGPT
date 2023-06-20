@@ -1,0 +1,1 @@
+ChatGPT does use reinforcement learning with a dynamically updated reward model as part of the process of fine tuning the unsupervised language model. It may not technically be a GAN depending on the precise definition, but it's definitely similar (excluding the other training steps).

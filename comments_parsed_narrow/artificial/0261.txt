@@ -1,0 +1,3 @@
+>Is there anything on the horizon that pairs something like ChatGPT with something like a Mathematica system that will not produce errors in arithmetic?
+
+Yes: [https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)

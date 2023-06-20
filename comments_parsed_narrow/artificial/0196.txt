@@ -1,0 +1,1 @@
+Individual chats can access the Internet if you allow it to and ask it to. ChatGPT the pre-trained entity does not search the Web while it waits for connections.

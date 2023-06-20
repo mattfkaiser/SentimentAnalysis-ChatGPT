@@ -1,0 +1,19 @@
+Here is the curriculum map we are using to create a bleeding edge course for our students. This is a code red we are trying to harness, not stifle. There is no putting this genie back in the web-bottle.
+
+Course Title: "Ethics of Artificial Intelligence and ChatGPT"
+Course Description:
+This course will explore the ethical considerations surrounding the use of artificial intelligence, with a focus on the use of ChatGPT. Students will learn about the potential benefits and drawbacks of using this technology in various settings, including education, business, and other industries. They will also learn about the ethical considerations surrounding the development, deployment, and use of AI, including issues related to privacy, bias, and accountability.
+Course Outline:
+1. Introduction to artificial intelligence and ChatGPT
+2. The benefits and drawbacks of using ChatGPT in education
+3. The ethics of using ChatGPT in business and industry
+4. The impact of ChatGPT on privacy and data security
+5. Identifying and mitigating bias in ChatGPT
+6. The responsibility and accountability of ChatGPT creators, developers and users
+7. Case studies of ethical dilemmas related to ChatGPT
+8. Potential future uses of ChatGPT and its impact on society
+9. Current AI businesses and their implications on the future economy
+10. Student projects to apply the ethical considerations and develop their own ChatGPT uses.
+This course would be designed to be interdisciplinary, drawing on concepts from computer science, philosophy, sociology, and other fields to provide students with a well-rounded understanding of the ethical considerations surrounding the use of ChatGPT.
+
+It is important to note that this is just an early draft, and the specific content and format of the course will depend on our schools instructor's expertise(using chatgpt to supercharge them;).

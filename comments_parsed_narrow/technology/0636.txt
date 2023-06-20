@@ -1,0 +1,1 @@
+95% of my chatGPT usage is generating (and sometimes explaining) regex. It’s amazing for that.

@@ -1,0 +1,17 @@
+Hi. 
+
+I am coding since 35 years. 
+
+If he is talking about tools like copilot and copilot chat then the CEO is completely right.
+
+If he’s only taking about chatGPT then maybe not so much.
+
+If you are a skilled developer these tools, copilot+copilot chat+chatgpt+playground+custom tools build on gpt4, speed you up so incredibly.
+
+And not only do they speed you up but they make things possible for a single developer that he couldn’t possibly do alone before.
+
+I trained gpt to almost code alone for me. Basically i‘m in the position to only describe him what i want, make a few adjustments but gpt writes most of the code itself. It has knowledge of my project, my code and everything related to it and i can have a chat with it about security issues, better implementation, refactoring, and so on. It knows my coding style and how i like to approach problems. It also knows my preferred library’s and library’s i don’t like for reasons.
+
+It even creates my commit descriptions based on the diff.
+
+And don’t get me started on what copilot chat can do …

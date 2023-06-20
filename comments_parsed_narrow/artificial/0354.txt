@@ -1,0 +1,5 @@
+Right, that's another obvious "limit" of the turing test, is that a lot of our interactions are just predetermined. And is, ironically, the exact approach that a lot of early chatbots took: trying to mimic popular conversation structures to make it look intelligent and human.
+
+And yeah, it's immediately obvious there's not a "real person" behind chatgpt when you talk to it long enough. Not because it constantly declares it's an ai, but simply because it's obviously not thinking like how a human would, and "breaks" if you fall outside of it's capabilities.
+
+The turing test isn't really a measure of intelligence, but more of "can a computer ever be like a human?" It's an interesting metric, but definitely outdated and no longer the gold standard. And indeed, our expectations on a conversation play a huge part with the turing test. An intelligent machine does not need to act like a human or pretend to be one, or really interact like one. Hence why the turing test is a bit outdated. Turing test hasn't been completed, but it's a bit outdated now.

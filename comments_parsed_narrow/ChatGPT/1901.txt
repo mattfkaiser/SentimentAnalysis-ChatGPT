@@ -1,0 +1,7 @@
+A simple fix for this is 3 AIs all on separate models. 
+
+Say ChatGPT, Bard and whatever Elon is coming up with.
+
+Then whenever you ask a question, one of them reads the responses of the other two along with its own response and picks the one that 2 of 3 agree on.
+
+What are the chances both of them 'make up' the exact same answer?

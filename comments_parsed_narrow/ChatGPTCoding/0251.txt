@@ -1,0 +1,1 @@
+no, chat gpt only gives you a small amount of code at a time. It can’t remember all of the code that’s been done so far. And if it can’t remember then it can’t build a large project

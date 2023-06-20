@@ -1,0 +1,1 @@
+Chat gpt and all these checkers literally just check if the text has used a "smart or professional" language, a prompt I use a lot is "in simple words" with that it always writes things that are flagged as "written by a human", if professors trust those checks they need Training ASAP, I would run one of his own texts in a checker and show him the results

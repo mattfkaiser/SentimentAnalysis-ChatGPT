@@ -1,0 +1,5 @@
+I've made this comment before, but I asked ChatGPT about a subject in which I could be considered an expert (I'm writing my dissertation on it). It gave me some solid answers, B+ to A- worthy on an undergrad paper. I asked it to cite them. It did, and even mentioned all the authors that I would expect to see given the particular subject... Except, I hadn't heard of the specific papers before. And I hadn't heard of two of the prominent authors ever collaborating on a paper before, which was listed as a source. So I looked them up... And the papers it gave me didn't exist. They were completely plausible titles. The authors were real people. But they had never published papers under those titles.
+
+I told ChatGPT that I checked its sources, and how they were inaccurate, and it then gave me several papers that the authors had in fact published.
+
+It was a little eerie.

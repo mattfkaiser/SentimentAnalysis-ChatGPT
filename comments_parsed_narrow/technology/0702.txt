@@ -1,0 +1,7 @@
+there is no serious push to slow down the development of AI. there was one circulated a while back, but it was very divisive at best, and poorly reasoned (naively idealized without roots in reality - you'd never get "bad actors" like china, russia, iran etc - even US - to stop).
+
+the AIs we have now such as chatGPT and the like are socalled narrow LLMs that excel at one task, and one task only - outputing text given an input of text. they dont think or understand anything, they simply process an input text against their 50+ terabytes of curated training data. they're basically a hugely expensive and sophisticated auto-complete. the clippy of machine learning if you will. this makes them good at mimicing text, and returning a response that is statistically probably coherent. but it doesn't know the difference. just that "with input like this, in X% of cases an answer should  look like this", which means it'll produce answers that often are wrong with 100% confidence.
+
+what people are afraid of is what's called AGI, or Artificial General Intelligence, an AI thats not narrow in scope like LLMs are, but one that has a wide scope. one that allows it to do many tasks and train on many types of data and accumulate new data and adapt.
+
+don't get me wrong, im very excited too. but currently its not really useable for things that require an understanding. its good at superficial things like formatting, condensing or extracting text. no need to be worried just yet.

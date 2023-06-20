@@ -1,0 +1,15 @@
+To add to this, that's actually how Google works too.  It doesn't scrape the internet in order to find the results to your search, it essentially has a copy of the internet cached, and it searches that cache.
+
+Querying ChatGPT is very similar in principle to googling something, they are both going to run your query against their internal graph of data scraped from the internet and give you the answer it thinks you are looking for.  They mostly differ in:
+
+1. how that data is stored / searched
+
+2. the frequency they update that internal data
+
+3. the manner in which they present their results. (this is by far the biggest thing, as ChatGPT is willing to stitch many different sources of information together into one singular response, whereas Google keeps them all seperated and asks you to stitch them together yourself)
+
+BUt outside of that, at a high level, they are pretty similar.
+
+(note that this isn't contradicting what you said, just expounding on it)
+
+Thinking that ChatGPT uses google to answer questions is a bit like thinking that Bing uses Google to answer questions (which, to wit, *has* been a topic of discussion and controversy throughout the years as people have presented evidence about whether that is actually the case or not.)

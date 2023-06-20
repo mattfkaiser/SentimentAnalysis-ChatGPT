@@ -1,0 +1,15 @@
+Bro. It’s genuinely very easy, use zapier that gets triggered by something, be it SMS prompt, email, trello card, anything.  
+
+Step 1. Sign up to Trello for task management purposes(aka Assana)
+
+Step 2. Sign up for zapier
+
+step 3. Get your API key from openAI
+
+Step 4. Integrate zapier and trello, and zapier and ChatGPT
+
+Step 5. Whenever a task is added to specific card, comment ChatGPT output on that card.
+
+Step 6.???
+
+Step 7. Profit

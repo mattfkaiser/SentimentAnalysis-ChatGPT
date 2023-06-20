@@ -1,0 +1,5 @@
+Not sure how chatGPT is coded but in a lot of programming languages returns the same value if you're using math.random (or whatever is the equivalent in said programming language) without setting a proper seed. 
+
+It's a rookie mistake and you'd think the people behind chatGPT would catch that but maybe they were just too caught up in other stuff to think about it.. ?
+
+I don't know, I'm not even sure how AI is coded tbh

@@ -1,0 +1,1 @@
+Everyone will be able to include it anywhere, as long as you get a large enough sample of good enough examples (say a teacher feedback on student writing), you will be able to train custom chatgpt for that specific purpose, or you will be able to stick with general version of chatgpt.

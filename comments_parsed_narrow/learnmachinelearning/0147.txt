@@ -1,0 +1,7 @@
+Per ChatGPT:
+
+ChatGPT is based on the GPT-3 language model, which was developed by OpenAI. GPT-3 stands for "Generative Pre-training Transformer 3" and is a state-of-the-art natural language processing (NLP) model that uses machine learning techniques to generate human-like text.
+
+GPT-3 is available in a number of different sizes, with the largest version having 175 billion parameters. The size of the GPT-3 model that is used as the basis for ChatGPT is not specified, so it is not possible to determine whether it is based on GPT-3 or GPT-3.5.
+
+It's worth noting that GPT-3 and ChatGPT are both language models developed by OpenAI, and both are designed to generate human-like text. However, ChatGPT is specifically designed to generate text in the form of a conversation, while GPT-3 is a more general-purpose language model that can be used for a wide range of NLP tasks

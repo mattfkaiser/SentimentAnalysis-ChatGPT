@@ -1,0 +1,1 @@
+Bard is great if all you are doing is "Hello world" kind of stuff; anything more complex than that and it gets ugly fast.  I have not tried HuggingChat yet, but will soon.  I constantly bounce between ChatGPT 3.5 and 4 depending on what I am doing, also use CoPilot as well for development.

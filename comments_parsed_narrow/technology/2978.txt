@@ -1,0 +1,7 @@
+Depends on whether or not you asked ChatGPT for citations, now, doesn’t it?
+
+If you did, and followed up just to make sure they were correct, then it’s literally no different than westlaw for the most part. It also depends on what the AI was trained on, and I for one have seem some very surprising things out of it.
+
+Keep in mind that too the vast majority of legal statues in the US are freely accessible online, as is a significant chunk of case precedent. Plus PACER is a thing, and while it has periodic data usage limits, you can pay $$ to bypass them easily enough.
+
+If it’s *specifically* ChatGPT then sure, you’ll likely run into errors with outliers… but then again you probably won’t be using it for that in the first place and even then as long as you actually check citations you’ll know pretty fast if something in its interpretations was off.

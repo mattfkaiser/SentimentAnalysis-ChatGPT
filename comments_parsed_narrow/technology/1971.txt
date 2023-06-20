@@ -1,0 +1,1 @@
+ChatGPT isn’t able to win chess funny enough, someone tried and it did a bunch of illegal moves and creating/deleting pieces. It just repeats chess notation from its training data randomly.

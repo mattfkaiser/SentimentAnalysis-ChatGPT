@@ -1,0 +1,3 @@
+I just learned how to use it to assign images from a 2dimentional array to an array that has 25 lists and each of those lists have 9 elements that are numbers 0-3. I have an array that has 25 lists inside of it with 9 elements each. each of the numbers within the lists inside of the array corresponds to the row and column inside the 2dimenonal array
+
+Nobody else could have taught me that as efficiently and quick as the chatGPT.

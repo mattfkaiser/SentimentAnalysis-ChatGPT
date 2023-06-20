@@ -1,0 +1,3 @@
+ChatGPT told me today that these kinds of errors are from it forgetting context in a conversation that is more than a few comments long or getting confused between different conflicting cues in a multi-cue request. 
+
+I feel like they are reducing cache or cache memory is constrained/overwritten  based on total number of users at the time.

@@ -1,0 +1,22 @@
+>I would actually trust it more if it says my idea is groundbreaking then male or female colleagues.  
+>  
+>Why? It’s unbiased, it doesn’t care, you can ask it to conflict you or criticize you and it will.  
+>  
+>It’s just speaking the truth. 😇
+
+&#x200B;
+
+What? How could you say it is unbiased? Current LLMs will ALWAYS be inherently biased because it's trained on human data, and as unbiased as you want to be, you will always suffer from having biases, even when you truly think you don't. It's insane to say it's unbiased as it's near, if not fully impossible, to create an unbiased LLM.
+
+GPT4 is incredibly good at hiding hallucinations in its responses. It's insanely irresponsible to directly take what chatGPT4 spits out at face value. I've used it a lot for complex simulation tasks, but it's easy to pick out when it hallucinates because I can double-check it, but it is incredibly good at fooling you, and has most likely fooled me (and you) with hallucinations you thought were true or real. They can be insanely subtle.
+
+&#x200B;
+
+You're saying "scientists are egoistic people". That just shows that you should be extra wary. Do you really think that the biases of these scientists will not be intertwined with the dataset used to train the LLM?
+
+&#x200B;
+
+For example, an LLM trained largely on texts that present a particular perspective, it will be way more likely to generate outputs that align with that perspective, even if it's not universally accepted or accurate. GPT4 might not have any personal motivations or feelings, but it WILL still reflect the biases in its training data, which could not be based in reality.  
+
+
+With GPT4 this is easily visible with politics, as OpenAI is more liberal/left-leaning, and from what I've seen from others, it absolutely reflects that in its responses. On top of that, confirmation bias is a hell of a drug.

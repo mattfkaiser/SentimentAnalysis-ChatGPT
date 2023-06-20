@@ -1,0 +1,1 @@
+The more notable correction is that ChatGPT is a specific service with specific limitations. GPT itself is just the core transform functionality and data set. They're talking about GPT-4, *not* ChatGPT.

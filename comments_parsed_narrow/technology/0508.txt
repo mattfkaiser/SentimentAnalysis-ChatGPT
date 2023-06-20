@@ -1,0 +1,1 @@
+ChatGPT right now currently has hardcoded blocks on certain topics and will almost always recommend going to other sources. We do not have access to the unrestricted AI algorithm

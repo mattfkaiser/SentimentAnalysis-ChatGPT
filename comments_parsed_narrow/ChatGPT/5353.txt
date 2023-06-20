@@ -1,0 +1,1 @@
+It's not a bug, ChatGPT has no memory between conversations it has no idea whether it wrote an essay or not.

@@ -1,0 +1,1 @@
+ChatGPT is confidently incorrect about a lot, frankly I'd trust a series of if loops to give me advice on something safety critical over something that can tell me the wrong info as if it were factual.

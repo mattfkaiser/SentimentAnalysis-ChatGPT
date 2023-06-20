@@ -1,0 +1,5 @@
+So when you can reverse the word yourself then you can prompt even an idiot to do it.
+
+But what is the point of getting AI to do things that you can do or that there already exist highly efficient and significantly more reliable algorithms for? The problem is when you ask it something you don't know the answer to. Especially if you come from the premise that you believe it to be intelligent and more capable than yourself. At that point you can't say "Oh it's wrong...let me prompt again"
+
+At which point lots of idiots decide the key is the prompting - now they're a prompt engineer capable of getting the right answers from chatgpt compared with the people who say "Intelligence? It's a fucking idiot"

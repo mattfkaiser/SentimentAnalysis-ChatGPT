@@ -1,0 +1,9 @@
+[research paper](https://arxiv.org/abs/2304.03442) 
+
+[the demo](https://reverie.herokuapp.com/arXiv_Demo/#) (quite slow to load) 
+
+[a nice writeup](https://arstechnica.com/information-technology/2023/04/surprising-things-happen-when-you-put-25-ai-agents-together-in-an-rpg-town/) 
+
+[youtube mirror](https://www.reddit.com/user/orangpelupa/comments/12kgitt/chatgpt_powers_25_npcs_to_have_a_life_and/)
+
+This research is not mine. i got nothing to do with the research and the researchers.

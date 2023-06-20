@@ -1,0 +1,1 @@
+My friend is my partner in our game design lab, and he just fed chatgpt a prompt when I asked him to write a block of code. It worked immediately and without any issues.

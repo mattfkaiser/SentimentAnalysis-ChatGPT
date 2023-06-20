@@ -1,0 +1,1 @@
+I know, the limitation to 3 is what really kills me though. I can hardly remember all the ones I picked to install, so a lot are never gonna get used. ChatGPT does a good enough job at picking the appropriate plug-in from the 3, so hopefully they can get it to choose from all the ones you have enabled and make targeting specific plug-ins something you have to intentionally do.

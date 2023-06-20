@@ -1,0 +1,7 @@
+The amount of false positive and false negatives are staggerring, though. Just today, I fed a chatpgt 4 text with the prompt "write with the style and tone of Edgar Allan poe" into a few AI checkers, and they were all convinced it was human. The few that were on the fence were convinced once I told chatgpt to throw in a few misplaced commas and slight misspellings of some multisyllabic words.
+
+Basically, having a style and being vague is human, and making mistakes is human  while being on topic and concise is AI, and not making grammar or spelling mistakes is AI.
+
+Really, there's no way to separate cleverly made AI texts. Only the stale standard robotic presentation stands out. And academir writers who review their texts and follow grammar rules risk being flagged as AI since academic writing leans towards the formal style of the standard AI answer.
+
+At least, this is my experience and view on it based on current info.

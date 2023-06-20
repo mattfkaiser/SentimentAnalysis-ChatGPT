@@ -1,0 +1,3 @@
+I actually read quite a lot of it, and I have to say it is super cool to see how you interact with ChatGPT. I think part of your success was due to you giving ChatGPT very incremental improvements to fix, as well as giving it detailed feedback on how the game behaves.  
+I am a programmer that uses ChatGPT, but compared to you I often overcomplicate tasks for ChatGPT or do not give good enough feedback on what the current iteration is doing wrong.  
+Well done!

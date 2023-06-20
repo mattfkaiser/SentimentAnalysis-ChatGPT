@@ -1,0 +1,5 @@
+> lawyers quickly writing boilerplate legal documents 
+
+Lawyers can just do this already with existing templates. I used to work in legal tech and I don't think chatGPT and its ilk will actually be all that useful since data security and data privacy are ENORMOUS concerns, especially for corporate or federal cases. The DOJ would absolutely skullfuck us if we told them we were training a public model with their data or sending it outside our servers to OpenAI which has already had security incidents. You'd have to train the model only on a particular firm's data, which is exactly what we were doing 5 years ago.
+
+More useful to lawyers is AI that helps you interpret a large corpus of documents. I suppose you could use LLMs for that but it would probably be a lot more expensive than other techniques.

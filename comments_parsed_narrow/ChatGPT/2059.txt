@@ -1,0 +1,5 @@
+This isn't me saying that OpenAI should be liable but...
+
+Google isn't exactly generating the content they provide. If an author gets sued for defamation, its not like the library is also responsible for that.
+
+However, in chatGPTs case, they are not the library, they are the author. Not only that, but chatGPT won't outright tell you if its lying or wrong even if it 'knows'.

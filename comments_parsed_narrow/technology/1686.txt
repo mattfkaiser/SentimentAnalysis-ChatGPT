@@ -1,0 +1,1 @@
+ChatGPT doesn't automatically learn from all interactions like those previous AIs, but only from interactions selected by OpenAI.

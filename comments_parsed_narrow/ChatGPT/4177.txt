@@ -1,0 +1,1 @@
+Whenever ChatGPT hallucinates a function that doesn't exist in my codebase, I take it as a passive aggressive "you really should have this function." Often it's a good idea, too.

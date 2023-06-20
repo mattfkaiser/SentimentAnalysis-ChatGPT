@@ -1,0 +1,3 @@
+ChatGPT's code interpreter does spit out pre-formed code snippets. I've even recognized some of them from tutorial sites like GeeksForGeeks. Generally there is an optimal solution to a given coding problem. If chatGPT gave a different answer every time you asked it to code a specific algorithm, it would be kinda useless. Most of the code comes from open source projects posted on github.
+
+If OpenAI wanted to respect the GPL, they would maintain an attribution database where they could tell you the conditions for the license of code snippets.

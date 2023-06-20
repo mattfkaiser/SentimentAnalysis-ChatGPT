@@ -1,0 +1,7 @@
+I spend most of my energy at work helping out development teams keep their code secure. The subsidiary who does the majority of our development time has shifted a shit load of their traffic from GitHub and Stackoverflow to ChatGPT. 
+
+I’m in the camp that we’re still relying on copied code regardless of where it’s coming from. 
+
+Still a risk, but the same risk IMO. A good DevOps process manages this risk. 
+
+This mostly impacts folks learning new things.

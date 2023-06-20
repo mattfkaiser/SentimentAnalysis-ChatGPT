@@ -1,0 +1,3 @@
+Like I said, anything that requires just looking up documentation and doing a few API calls to a library is going to be trivial even if you don't have ChatGPT.
+
+Edit: For the downvoters, it was as trivial as googling for a js synthesizer (tone.js), then googling tone.js+a440, then finally googling tone.js+random music generator. This took me 2 minutes to look up and find examples for.

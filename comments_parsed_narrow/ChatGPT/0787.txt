@@ -1,0 +1,5 @@
+Every new technology has is 15 minutes of hype ( to quote Wharrol ) . But once the hype evaporate what you have left are facts.
+
+For example GPT was trained based on discussion on the net. So the quality of the answer depends on the data used to educate him on a subject.  
+
+Add to that te fact than now you can correct the answer of chat gpt  , so you can teach it wrong things.

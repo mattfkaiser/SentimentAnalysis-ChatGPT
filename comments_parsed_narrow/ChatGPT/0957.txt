@@ -1,0 +1,5 @@
+I understand why people would be critical of this claim, but as someone who’s a novice at programming and used to get feel so stuck implementing new things into my website, ChatGPT has allowed me to program significantly better than I ever have.
+
+With skilful prompting, and heavily utilising editing a prompt when it’s reply is insufficient, it can help implement complex code with little to know knowledge of what you’re doing. It’s not necessarily easy or fast to wrangle with it at times, but it’s possible.
+
+It would be cool if OP made a new post with screenshots of all the prompts used. Seeing how many edits each of their prompts has would be interesting too.

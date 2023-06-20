@@ -1,0 +1,15 @@
+You can definitely make that happen without the API right now.
+
+It will take a ton of time, a lot of hands on work, but I could see this.
+
+1. Use ChatGPT to write a script
+2. It creates an outline of the scenes in text, a text-based storyboard.
+3. Take that text explaining the scene and feed it back to ChatGPT and tell it to give you an SD prompt. 
+4. Copy paste that into any Stable Diffusion program (locally or online)
+5. Use the "animate" extension in Auto1111 or Vlad's version and animated the prompt.
+
+Will it be good? Maybe?
+
+Might be okay with some compositing, special effects, music, sound, editing and voice over afterwards.
+
+Could be a fun challenge making your own Hollywood trailer with just AI.

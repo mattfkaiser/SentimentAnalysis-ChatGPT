@@ -1,0 +1,4 @@
+Did you see the [Alpaca](https://github.com/tatsu-lab/stanford_alpaca#recovering-alpaca-weights) model developed by Stanford? They used less than $500 (!) to compile the dataset they used to train it and it is also very impressive in performance while being way smaller. Do a simple calculation comparing the costs your company needs for using ChatGPT API and compare with the costs developing and self-hosting an alternative solution. Then add all the benefits of having a self-hosted solution (scalable, can be further tuned using company data, no privacy issues because of data going to the cloud etc.)  
+
+
+With this, you go to your supervisor and suggest to take the leading role in the development of it.

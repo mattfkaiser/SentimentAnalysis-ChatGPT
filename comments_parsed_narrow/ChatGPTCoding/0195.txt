@@ -1,0 +1,1 @@
+i let chatgpt make a python script to connecto to chatgpt which then creates stable diffusion prompts from single words or descriptions and did it with the api key in the script itself, but i also made one, which you can open and then it asks for the api key first, to let you use it(will be stored over instances), so its a bring your own api key tool

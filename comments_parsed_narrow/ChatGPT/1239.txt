@@ -1,0 +1,2 @@
+I’ve been testing chat gpt for use in a news content role and yeah, there’s very little actual value it brings to the table. Even with real time data feeds, you still need to spoon feed it all the information you actually want it to mention, because otherwise it’s only able to generate vague, barely relevant information. 
+There is no way on earth it actually makes my job easier in its current state.

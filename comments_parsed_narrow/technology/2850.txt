@@ -1,0 +1,8 @@
+Sometimes I feel like I’m taking looney pills when devs screams ChatGPT is gonna take our jerrbbssss.
+
+Just as you said if you ask ChatGPT for an implementation it tends to give you the most barebones answer until you contextualize your prompt more and more.
+
+For instance it’ll give you an algorithm for a HashMap that can take a LOT insertions and removals it’ll give you one that you can copy, paste and use immediately with very minimal code changes. Maybe a line or two.
+But that implementation can have race conditions giving you incorrect answers from time to time because ChatGPT didn’t give you an implementation that was thread-safe. Unless you ask ChatGPT to give you a concurrent version: which it does successfully.
+
+I concur with you, it’s a tool but if you don’t have a decent understanding on what you’re asking it and take the answer as gospel you might come up short at the end or spin your gears trying to make that answer work.

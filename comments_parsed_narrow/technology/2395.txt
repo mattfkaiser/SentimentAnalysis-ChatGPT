@@ -1,0 +1,1 @@
+The website hosts an interface to ChatGPT, making it a web based application. It is not a mobile only app, though the web app scales well to mobile devices.

@@ -1,0 +1,7 @@
+As with other things, ChatGPT and other generative machine learning models are tools. Tools with specified purposes given what they were trained for. 
+
+You wouldn’t use a shovel to drive a nail into drywall, and you wouldn’t use ChatGPT to predict the stock market. 
+
+ChatGPT, because of how realistic it’s outputs seem, is just the latest fad. But it’s not a one stop solution to every business problem. 
+
+My biggest gripe right now is not with ChatGPT or OpenAI - its with the charlatans on LinkedIn and the like who are scamming people with schemes related to using it

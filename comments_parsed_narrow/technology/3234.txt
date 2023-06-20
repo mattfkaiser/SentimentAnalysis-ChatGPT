@@ -1,0 +1,1 @@
+I also had a similar experience. I asked for MSSQL Server code, and it returned it in MySQL form. When I asked which format it was in, ChatGPT answered it incorrectly.

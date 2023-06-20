@@ -1,0 +1,5 @@
+> Which is heavier, a kilogram of bricks, or two kilograms of feathers?
+
+Using ChatGPT (GPT v4):
+
+Two kilograms of feathers are heavier than one kilogram of bricks. The weight of an object is determined by its mass, and 2 kilograms is greater than 1 kilogram, regardless of the material. The misconception often comes from the perception that bricks are denser and therefore "heavier," but when measuring weight, it is the total mass that counts, not the density of the material.

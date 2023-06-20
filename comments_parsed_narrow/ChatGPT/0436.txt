@@ -1,0 +1,1 @@
+Not a prompt, but when you need to specify how long of a response you want, don't tell it how long in terms of sentences or words, instead use tokens. Chatgpt is built on token counts so it's very good at following these instructions.for example, "explain string theory in 400 tokens" will give you 200-400 words

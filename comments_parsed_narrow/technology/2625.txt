@@ -1,0 +1,5 @@
+I thought about this as well. It is going to be a problem for sure but maybe not as big as we think. It will result in worse quality AI's over time so you can bet that the developers will have to find a fix if they ever want to beat the last generation AI.
+
+ChatGPT is more about dealing with language and less about giving you actual information it learned anyway. There is still a lot of work required in the future to actually make it understand what it is saying and ideally being able to reference its sources.
+
+In the end the issue is also not really unique to AI. The internet in general lead to humans falling into the same trap and just repeating the same bullshit others have said. (and the average reddit discussion is probably the best example for that)

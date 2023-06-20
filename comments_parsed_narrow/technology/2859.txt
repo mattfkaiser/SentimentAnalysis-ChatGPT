@@ -1,0 +1,5 @@
+I had a student in one of my Computer Science class (high school) ask if I was afraid of ChatGPT, because students would just get it to write the code. 
+
+I told him I didn't care if the students fake the code: the only one they're cheating is themselves. Plus, all I have to do is add a short verbal discussion of the code's function, and make that worth most of the mark. 
+
+It's similar to how us teachers adapt to things like PhotoMath...just bump up a level in Bloom's taxonomy.

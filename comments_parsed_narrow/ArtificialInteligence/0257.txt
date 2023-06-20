@@ -1,0 +1,3 @@
+I'm a little confused. Firstly, don't we already have access to ChatGPT for free, from OpenAI?
+
+Secondly, how does this work unless you're sending the data to OpenAI/Microsoft for inference? Utopia might not have a central server, but it's not like your questions to the assistant can be encrypted.

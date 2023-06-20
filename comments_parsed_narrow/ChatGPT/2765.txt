@@ -1,0 +1,11 @@
+It's not actually using any randomization function.
+
+It's predicting the best response to the query based on its training data.
+
+When someone asks for a number between 1-30, 17 is the most learned response in its training data.
+
+It may give another answer which suggests some randomization, but that's due to the 'temperature' setting on the model.   A temperature of 0 means it will always give the most probable answer (17).   For precise answers temperature is a lower number.  For more 'creative' answers (using data that isn't necessarily the most probable/likely related to the query) the temperature setting is higher.
+
+It's not operating at temperature 0, most likely, but it's probably something like 0.3 to have some variation in how it answers.
+
+If you really need ChatGPT to produce 'random' numbers, you'll want to use the Code Interpreter model, which enables it to use Python and actually work with numbers instead of predicting them--- by making use of math/randomizer modules.

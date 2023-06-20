@@ -1,0 +1,5 @@
+Sounds like you lack creativity in the way you present the issue you have.
+
+I once had to, for work, find the most logical path to dispatch workers to 10 different locations across a state. I put in the addresses and asked chatgpt to do it. It came up with a really odd path.. but upon further inspection….. it was the most logical by distance, not by actual people actually driving.
+
+I next asked it to organize the locations by zip codes and plan a seemless relaxed path between them staying on main roads and it was great

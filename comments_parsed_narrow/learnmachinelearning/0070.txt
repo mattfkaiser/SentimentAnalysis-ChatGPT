@@ -1,0 +1,1 @@
+Those fine tuned models are trained in the cloud. Microsoft owns the cloud (azure) chatgpt lives on, and their heavily investing in it. Chatgpt is too large to fit on any one device.

@@ -1,0 +1,1 @@
+I'm pretty ignorant and new to IDEs, coding, and github copilot - currently working on my first coding project using only chatGPT and having to re-supply the context repeatedly for it to understand my request (as I am a complete beginner to coding). Can I utilize autopilot? Would it help in my case or does it need some fundamental understanding?

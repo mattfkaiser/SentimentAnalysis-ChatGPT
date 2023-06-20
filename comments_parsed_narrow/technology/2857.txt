@@ -1,0 +1,15 @@
+Chat gpt uses an artificial neural network under the hood.
+
+That is made up of artificial neurons. These bear some resemblance to neurons in your brain but they're still significantly different and less powerful. And we're not even sure how they are different to be honest.
+
+Neurons are connected to other neurons (or connected to the input stimulus)
+
+Each connection from 1 neuron to another neuron is called a weight. That's a parameter.
+
+Usually these connections have a "bias" parameter as well.
+
+So usually 2 parameters per connection between two artificial "neurons." At the end of the day, a parameter is just a numeric value, usually between -1 and +1. But it will take on a very very specific value after training.
+
+These parameters are precisely what is tuned during the training phase. The more parameters, the more data and computation is required.
+
+These language models are trained on massive distributed systems with (i think) several dozen gpus, and special communication protocols for efficiency and coordination.

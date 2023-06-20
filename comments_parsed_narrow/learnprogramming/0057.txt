@@ -1,0 +1,1 @@
+One of the biggest problems beginners have is that they're stuck but don't even know how to ask a good question. ChatGPT can actually help there. If you paste a bit of code and ask ChatGPT your question, it might give you the right keywords to help you know what you're looking for. Then you can search for higher-quality tutorials to explain that concept correctly and completely.

@@ -1,0 +1,5 @@
+Yeah, they are not AI.  They're closer to "AI" than traditional machine learning, but still very much machine learning.  GPT and most notably ChatGPT does seek to establish relationships with question and response, ChatGPT being one of the best iterations thus far.  
+
+I wouldn't downplay them to that extent though.  While imperfect, and requiring stupid amounts of data to determine action-reaction, it is capable of forming a legible response to organic human interaction.  It's not always entirely factually correct because it doesn't have an ability to fact-check or anything like that, but it is able to. 
+
+It would be hard to argue that it is "simply" responding with content others have already created too, because that's literally what all of humanity does.  You read things, make a self-determination based on what you understand, and that becomes "truth" to you.  ChatGPT is not that, but it does implement a sophisticated enough decision tree based on preexisting content that it can form answers/conclusions in a format that makes sense to a human, which is pretty major.

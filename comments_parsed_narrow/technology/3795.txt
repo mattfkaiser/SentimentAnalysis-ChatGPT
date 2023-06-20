@@ -1,0 +1,3 @@
+My vote is on extremely unreliable... I pasted in my resume (which was written by ChatGPT with some prompting) and it classified it as "Not AI Generated"
+
+The trick is to ask ChatGPT to write out something based on bulletpoints (or in this case, I fed in what I currently have and asked it to rewrite it in a more concise, professional format making me look smarter, lol) and directed ChatGPT to make changes in certain spots to reflect my experiences and background.

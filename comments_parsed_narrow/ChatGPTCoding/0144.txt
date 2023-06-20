@@ -1,0 +1,7 @@
+It's fairly unexciting really.. ChatGPT extracts values for the relevant api endpoint, performs the query, and the api returns a json object (generally speaking).
+
+ChatGPT then evaluates the object and responds using natural language.
+
+I've found it's best to create new endpoints for exactly the reason you say - the smaller, more concise your response can be, the better the results.
+
+Tip: click the down arrow next to the inline plugin details and you can see all of this.

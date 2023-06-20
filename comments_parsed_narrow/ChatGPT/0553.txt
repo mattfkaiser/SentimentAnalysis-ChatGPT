@@ -1,0 +1,1 @@
+I use chatgpt and bing AI together. Ask them to debug and improve code written by the other. That helps, though it’s not perfect.

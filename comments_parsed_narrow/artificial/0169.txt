@@ -1,0 +1,18 @@
+I feel like AI will ultimately replace many functions of doctors, however ChatGPT is an extremely dubious platform to be using, as it mostly performs well in "spaces of ignorance/superficiality". 
+
+> Reading through the data from the JAMA study, the results seem clear even to a layperson. For example, one man said he gets arm pain when he sneezes, and asked if that’s cause for alarm. The doctor answered “Basically, no.” ChatGPT gave a detailed, five paragraph response with possible causes for the pain and several recommendations, including:
+
+>>“It is not uncommon for people to experience muscle aches or pains in various parts of their body after sneezing. Sneezing is a sudden, forceful reflex that can cause muscle contractions throughout the body. In most cases, muscle pain or discomfort after sneezing is temporary and not a cause for concern. However, if the pain is severe or persists for a long time, it is a good idea to consult a healthcare professional for further evaluation.”
+
+> Unsurprisingly, all of the panelists in the study preferred ChatGPT’s answer. (Gizmodo lightly edited the details in the doctor’s example above to protect privacy.)
+ 
+
+Superficially that's a "better" answer, but the way humans work with their meta-knowledge and management of their understanding of the world is more complex and not entirely well understood.
+
+For example, we extract meta-information about the complexity and importance of an issue based on the type, length and tone of information we receive.
+
+We also use this sort of thing to process our emotional response (which is, to a large degree, how humans do their own Weight Assignment to Node equivalent) for a situation.
+
+Additionally, we input abstractions about this sort of thing into our understanding of the world aka "common sense".  To get a feeling for what I'm talking about here, imagine how someone receiving that information would then go on to advise someone *else* with the same problem. Being relatively dismissive about a problem is useful information.
+
+In other words, "basically, no" conveys a lot more information about the situation that people who only approach it from a superficial understanding/heuristic give it credit for.

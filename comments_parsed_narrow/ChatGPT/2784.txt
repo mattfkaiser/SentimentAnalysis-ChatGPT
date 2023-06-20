@@ -1,0 +1,3 @@
+Is it possible to prompt chatGPT on various definitions so that it actually does try to pick randomly?
+
+Also it's interesting to think of what the human mind does when asked to pick a random number. I bet anything it's similar - lots of numbers would be commonly picked by people, and we don't actually have a RNG in our brains.

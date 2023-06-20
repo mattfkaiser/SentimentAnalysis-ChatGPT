@@ -1,0 +1,3 @@
+Two things: Bing Chat and ChatGPT Plus GPT-4 with internet-capable plugins.
+
+Chances are, you're basing your opinion on a freely available demo model.

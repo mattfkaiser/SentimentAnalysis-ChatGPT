@@ -1,0 +1,1 @@
+I think this is the biggest frustration with ChatGPT right now... it's wildly inconsistent for people. For you it seems to work, with others, you have to try to reprompt it and ask the same question in 5 different ways to try to get an answer. OG ChatGPT none of that was necessary. Now many things you basically have to trick it by changing the context to actually get an answer.

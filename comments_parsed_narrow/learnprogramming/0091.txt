@@ -1,0 +1,10 @@
+You're right in that's what people think ChatGPT is doing.  And hell, you're even ascribing more care and intentionality to it than exists. 
+ for starters, Google doesn't care what sources are reliable, it cares about what sources are popular.
+
+Which is why it's *wrong* on many occasions.  You can find lots of results right now for proof of how the world is flat.  These things are wrong, laughably "Dude in 700BCE figured out the diameter of the Earth and was only off by like 3% using a stick and a well" wrong, and they're on Google.
+
+ChatGPT is looking at all the information and just aggregating the most likely word to follow the next.  It's autocorrect on steroids, if autocorrect had access to every written bit of text in existence.  ChatGPT is that person who sounds like they know what they're saying and will go unchallenged until someone who actually knows the subject steps in to correct things, assuming it hasn't been GishGalloped so much that it's impossible to correct without taking 5 minutes and a college level intro class on the subject.
+
+Which is why it just makes shit up - because it doesn't understand anything it's saying.
+
+I'm not saying ChatGPT can't be useful, but I wouldn't trust it to tell me anything I didn't already know and just forgot - like how to build a particular function that I've built before

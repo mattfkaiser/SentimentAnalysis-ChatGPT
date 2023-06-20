@@ -1,0 +1,3 @@
+Adding to this, 
+
+Start by describing your app to chatgpt, then ask for "boilerplate code". Ask what functions you think you'll need, ask if you've missed anything. Ask for clarification on things you don't understand.

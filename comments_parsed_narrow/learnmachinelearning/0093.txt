@@ -1,0 +1,1 @@
+OpenAI recently released their official ChatGPT API and I've integrated into the extension. You can now select ChatGPT as your model from the extension settings! Go check it out now!

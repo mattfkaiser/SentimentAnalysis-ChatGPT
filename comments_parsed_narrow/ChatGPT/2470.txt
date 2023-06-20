@@ -1,0 +1,5 @@
+It’s in a silo right now.  We can’t think of Chat as what’s really happening right now, what’s happening is on GitHub and it’s astonishing.   Right now GPT-4 is being Langchained to other models, and legal MLs are being trained on every transcript people can get their hands on.  And some firm is going let them at their databases for the right price and it will be vectorized so an llm can have at it.  And if a powerful firm understands they can do this now, for basically free, their competitors will do the same. And they will self govern for profit.
+
+Every profession must not let fear make them believe they are immune.  We need informed public discord and to be able to vote rationally for regulation but not stagnation.
+
+PS. ChatGPT is a research preview (literally stated in the UI) and a first generation baby AI.  We didn’t have AI to help develop better AI’s before.  Only algorithms and MLs advertised to law firms as AI.  I think that’s what you’re extrapolating from, and that’s a false premise.

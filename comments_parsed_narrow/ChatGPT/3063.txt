@@ -1,0 +1,7 @@
+It's pretty common for humans to massively not understand what they're talking about but still be 100% confident, it's called the Dunning Krueger effect. The biggest thing with ChatGPT is that it talks more like you would expect for someone who is familiar with the topic to speak, so when it tells you BS information it's harder to tell that it's made up.
+
+People who really don't know anything about something will talk like it. For instance when people where arguing about masks making it difficult to breath, but being ineffective against a virus.
+
+Even if you only have cursory knowledge of both Viruses and molecules, you will at least know that molecules are smaller than a virus by massive amounts somewhat on the same level of how large we are to our blood cells.
+
+With people who know very little but are very confident it makes their errors really obvious, but ChatGPT's are harder to spot.

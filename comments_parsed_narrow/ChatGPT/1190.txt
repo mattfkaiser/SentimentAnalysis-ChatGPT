@@ -1,0 +1,5 @@
+For the PDF side of it, we're talking relatively small documents. Profiles in the form of a resume or possibly some JSON extraction from a database. There's not a lot of room to hallucinate and I've found that if you give it a small playpen, it tends to stay in the small playpen. I've never seen it hallucinate in this kind of use case.
+
+In the "convert large document to JSON" case, yes, many documents are too large. In this case, I'm splitting the document into chunks and asking for a JSON sumary of the chunk. Then I give the chunks to ChatGPT and ask it to merge the JSON in "smart way" and boom, it just does it and it does it well.
+
+It does this so well that it even identifies and automatically corrects error. For example, we have a PDF where the user hand wrote "USD" in the amount field and "$1,000" in the currency field. GPT found the fields and auto-corrected to boot. I do worry about that auto correct a little. It happened to work in this case, but will it alwasy?

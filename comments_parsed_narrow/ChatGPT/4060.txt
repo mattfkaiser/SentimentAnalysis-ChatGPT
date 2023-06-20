@@ -1,0 +1,3 @@
+Check out Casetext. Search DLA Piper and Casetext for one large firm that’s gone public, but others surely have as well.
+
+It’s essentially ChatGPT 4 with guardrails to prevent it from hallucinating, plus some other obvious features like being trained on caselaw and statutes as they are created, and so on.

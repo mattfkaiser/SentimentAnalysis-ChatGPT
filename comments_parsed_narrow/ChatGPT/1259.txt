@@ -1,0 +1,3 @@
+It's undeniable that chatbots have a big problem with hallucinations -- this means their ability to help with education is simply limited right now and, in fact, it means they could potentially do damage instead by miseducating.
+
+If ChatGPT 5 or 6 can correct this to a greater extent, then awesome, I would be very happy to see it. Until then, though, books, search engines, and credible sources are probably better to use if one wants information.

@@ -1,0 +1,5 @@
+exactly this. i’m in a programming course and i know not to use GPT to write literal code and finish labs for me, be it understand syntax, and what things *do*. so i ask it things like ‘what’s the difference between a package and a class in java?’ and it gives a clear description of the differences, and even examples of the differences. 
+
+my course didn’t go over what the ‘public static void main’ meant, just that it is at the beginning. i asked chatgpt what it means and it explained every part in detail with examples.
+
+the ability to use chatgpt as a learning tool is insane. don’t use it to *do* your work, use it to *help you* do the work.

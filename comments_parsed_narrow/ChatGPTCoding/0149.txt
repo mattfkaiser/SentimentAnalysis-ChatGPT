@@ -1,0 +1,8 @@
+Yep - this is generally how I've seen this implemented in e.g. langchain.
+
+You make a call to chatgpt that says something like:  
+\`\`\`  
+<user question>  
+Tools: If you'd like to calculate a value as part of your response, return {calculator: ...} followed by the calculation you want to provide. This will then be calculated for you before your response is presented to the user  
+\`\`\`  
+For a simple tool this seems straightforward, but wondering whether for larger APIs chatgpt plugins are using a semantic search approach or something else to make sure the chatgpt has enough context to be able to know to return data that can be turned into an external API call.

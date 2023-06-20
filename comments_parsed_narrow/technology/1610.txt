@@ -1,0 +1,5 @@
+Yep. It would be like saying ChatGPT is good at Crossword puzzles and so there will be no more authors. 
+
+Probably most good writers have the vocab to do well as crosswords. Some companies might use a crossword to test if they should hire someone to write novels - because nobody has time to test you on novel writing. 
+
+These algos are basically the same thing. Outside of the most basic data manipulation, they have very little in common with most software engineering.

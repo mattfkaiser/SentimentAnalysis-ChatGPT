@@ -1,0 +1,19 @@
+You are wrong. You can’t compare infrastructure (the internet) to a service on that infrastructure (ChatGPT). It’s like comparing roads to cars.
+
+When apps first arrived, no one really was expecting that it would change society. It made it so that my Grandmother could even understand how to pay her bills digitally instead of going to the bank or post office. Today, I use apps to pay my bills, unlock my car, my home and monitor my health.
+
+Apps changed everything. But not the very first apps that came along around 2009.
+
+What ChatGPT will do is change society again. Not this version, but 3-4 years from now.
+
+Once LLMs are efficient and reliable enough, and once phones are strong enough to run them locally, we will see the emergence of the very first virtual private assistants, sort of like in the movie “Her”. What they will do is basically everything we need done in our everyday life, that we do manually still, and via apps. But they will do it via conversation:
+
+“Hey Amanda can you pay this months bills?”
+“Amanda, how much milk do I have left?”
+“Can you check if Ben and Patrick are free this weekend and book as a table at Restaurant X?”
+“My insurance company annoyed my, find me a new insurance and move all my assets there”
+“Hmmm, I don’t get this data, is there a correlation somewhere that I am missing?
+
+And so on. This means that the assistant also can connect to services and perform the task needed. It can already be done today using ChatGPT plugins but eventually it can create code and execute it on it self and Plugins won’t be needed, sort of like AgentGTP can do.
+
+By 2030, the only reason you would need to use an App or visit a homepage is to watch porn……

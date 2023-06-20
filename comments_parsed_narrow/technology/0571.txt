@@ -1,0 +1,7 @@
+You probably mean “autocomplete”, and no, it really isn’t. It’s frustrating that people who really have the background to know better keep telling people this, because it’s extremely misleading.
+
+The statement is accurate only insofar as ChatGPT generates text by “predicting” the next token, but even the word “predicting” is essentially wrong, because the scores it generates for each token during generation _do not represent probabilities_. That description _does_ apply to some LLMs, including GPT-3, but the extensive reinforcement learning stage that ChatGPT has been through breaks it.
+
+ChatGPT does not pick the _most likely_ token, but rather the “best” token, where “best” is defined by a reward model trained according to human preferences, where the humans are optimizing for instruction following, natural conversation flow, and values alignment.
+
+But the main problem with the “fancy autocomplete” trope is that it will cause you to significantly underestimate the models’ capabilities. For example, GPT-4 can solve arbitrary calculus problems fairly reliably using chain-of-thought. If that’s something you would expect from the phrase “fancy autocomplete” then the word “fancy” is carrying so much weight that I’m not sure it matters what follows it.

@@ -1,0 +1,13 @@
+The issue is humans have a strong bias towards humans. 
+
+We see faces in mountains. We think birds are laughing.    We think optical illusions might be intelligent life. 
+
+Because LLMs sound intelligent, we are biased to think they are. They sound identical to an intelligent human so what's the difference? 
+
+But that's because we can't see it thinking. ChatGPT has no awareness, it has no cognition. It doesn't "know" the facts it tells you. All it knows is that the outcome is encouraged by the algorithm and the training data. 
+
+The human brains cognitive abilities are very strong. If I tell you something is a table, my brain will have checked it. Does it have four legs? Whats it made of? Can you sit on it? Is it _alive_?!  
+
+ChatGPT doesn't check anything cognitively, it just predicts conversations based on previous conversations it has read. 
+
+Which isn't to say its not great tech. Its just not emergent general intelligence.

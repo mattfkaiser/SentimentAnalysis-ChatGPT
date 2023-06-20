@@ -1,0 +1,9 @@
+That is true - ChatGPT can hallucinate some math answers, and can get worse with correction.  It is great at some detailed analysis, but simple questions like the following often trip it up:  
+
+Q: Use the numbers 1, 2, 3, 4 and basic math operators to create the number 11.  
+
+GPT:  4*2-1+3=11  
+
+Q: That is incorrect.  4*2-1+3 is 10.  Please try again.   
+
+GPT: 1+2*(3-4)+11 = 11.

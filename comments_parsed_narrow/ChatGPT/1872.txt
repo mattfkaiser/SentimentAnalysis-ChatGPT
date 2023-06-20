@@ -1,0 +1,17 @@
+You can disagree all you want, but I won't be using [Phind.com](https://Phind.com) over google/bing/chatgpt if your ai generated response is wrong.
+
+Because the ai response is wrong - the sources it gives are also irrelevant. If you dont know these things it can be VERY misleading to people that dont know the facts.
+
+Example - In my profession (architecture/construction) there's specific things which require certain licenses. It gets very confusing/blurry very quickly if you don't know what they are. For a lay person to google (even myself) it is near impossible - shit is buried under 1000's pages of legislation, which is why people enlist our help.
+
+In Phind - the answers SEEM to be right, which is the scary misleading thing, and the links in articles support the seemingly right thing. This is not a good thing as it will lead people down the wrong track. If you used PhinD, you will be mislead in thinking you NEED a licensed architect (which I am) to do certain things, but in reality, any "building designer" can do it for a half the price. (anyone can be called a building designer, it is not regulated). It does not help you to make an informed decision as an average joe.
+
+In ChatGPT - the answers are much more accurate, and it even suggests to check with professionals etc,
+
+&#x200B;
+
+EDIT:An exact example - "Do I need a registered architect to design a small commerical property in NSW?"
+
+Phind:  In New South Wales (NSW), a registered architect is required to design a small commercial property. According to the Architects Regulation 2019 (NSW), only registered architects are allowed to use the title "architect" and provide architectural services, which include designing buildings [\[0\]](https://www.architects.nsw.gov.au/architects-register).   (THIS IS VERY VERY MISLEADING)
+
+ChatGPT:  In New South Wales (NSW), the requirements for engaging a registered architect to design a small commercial property depend on the specific circumstances and the nature of the project. The following information is based on general guidelines, but it's always recommended to consult with local authorities or a legal professional for accurate and up-to-date advice.  (THIS IS 100X BETTER)

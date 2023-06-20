@@ -1,0 +1,9 @@
+References:  
+►Read the full article: https://www.louisbouchard.ai/gpt-4/  
+►Try GPT-4 now: https://chat.openai.com/  
+►API waitlist: https://openai.com/waitlist/gpt-4  
+►OpenAI blog post: https://openai.com/product/gpt-4  
+►GPT-4 research: https://openai.com/research/gpt-4  
+►ChatGPT video: https://youtu.be/AsFgn8vU-tQ  
+►What is prompting: https://youtu.be/pZsJbYIFCCw  
+►Learn Prompting: https://learnprompting.org/

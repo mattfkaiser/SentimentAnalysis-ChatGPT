@@ -1,0 +1,1 @@
+Aquire fitness data from a sensor, format as a table, send to ChatGPT, ask it for recommendations.

@@ -1,0 +1,1 @@
+So i can have extra options that OpenAI doesnt provide with chatgpt. I also wont have a 25 message limit for GPT4 (i have the api) and i can use it on any device

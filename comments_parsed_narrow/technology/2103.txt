@@ -1,0 +1,7 @@
+I think ChatGPT-enabled essays should be allowed as long as you add the whole chat transcript as your essay's appendix, like any other source. That way, you can show how you ended up with that essay. If you had a very long chat, mix and matched different parts of its answers, used chatGPT to increase readability, proofreading, etc... then it's great.
+
+If you're adding your name to the output of "write me a 5 page essay on subject X" then yeah it's worthless and you learned nothing, and should get a grade that reflects that.
+
+Let's not forget we're talking about the most complex piece of software on earth; 400 billion parameters and custom logic to make it all work. It would be a shame if we can't (or aren't allowed to) learn from it.
+
+(This message was written by me)

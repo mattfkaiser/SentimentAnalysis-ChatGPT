@@ -1,0 +1,5 @@
+It can generate things that are somewhat novel, but cannot generate concepts that are absolutely novel from scratch. After all, these things are trained to learn patterns, not create new patterns, so the best you can do right now is blending/mixing patterns to come up with mildly novel things.
+
+In your scenario, it would work poorly. ChatGPT would never be able to come up with major advancements like electricity, for example. Also don't underestimate the amount of science that has never been articulated and proven, but are rather the results of practical experiments and observations. A lot of our tech builds up on stuff we don't understand 100%. ChatGPT can't do practical experiments.
+
+When you start mixing things, however, things can get interesting. For example, combine the concept of **Dynamics** in Game Design patterns in order to describe Dynamics in other completely unrelated domains (e.g. Marketing or Finance), and the output will be an interesting blend of both worlds that occasionally promotes small insights (and lots of craziness) never uttered by any human so far.

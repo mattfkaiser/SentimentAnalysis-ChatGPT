@@ -1,0 +1,5 @@
+> Quick research as well. Say I know nothing about digital transportation. Instead of reading 10 blog articles where someone is trying to sell me on something or it’s from their specific viewpoint, ChatGPT presents a general consensus on all of the knowledge out there on the subject. I can ask follow up questions and it seems to understand how to present additional details on a subtopic. 
+
+Be careful with the 'facts' it gives you on topics if you're not already familiar.  While it's broadly accurate there are some things I've caught it on in topics where I'm a subject matter expert.  When I question it about those elements of its response, it comes back with an apology and corrects them or explains the limits of its knowledge.
+
+At its core it's a language model regurgitating word soup related to our input.  It's going to be based on % relationship to the input and not fact checked sources (or at least reviewed) like a wikipedia article.

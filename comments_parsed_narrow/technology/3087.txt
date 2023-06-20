@@ -1,0 +1,7 @@
+Once you have spent a fortune training a huge model, it can be used as the basis for many future models via very lost cost fine-tuning and embeddings.
+
+Society can afford those upfront costs.
+
+The revised models can run on relatively modest hardware ... including home PCs.
+
+The revised models do not always need to be as capable as *ChatGPT4* ... thye can be configured for niche/dedicated tasks where they will be able to be very useful.

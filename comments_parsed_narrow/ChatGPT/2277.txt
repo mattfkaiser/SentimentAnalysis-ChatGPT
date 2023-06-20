@@ -1,0 +1,3 @@
+Ask chatgpt what it considers those types of lines to be. Possibly considers them an intro. Then explictly tell it to stop using “intros”.
+
+Maybe that’ll work idk

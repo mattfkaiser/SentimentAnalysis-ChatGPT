@@ -1,0 +1,3 @@
+People enjoy juniper notebooks as a progressive experimentation environment and take things out of langchain docs and play around with the examples that's a superset functionality on top of AI models including openAIs gpt models
+
+Again IMHO the current GitHub autopilot is more useful long term for people with experience rather than being good for newcomers. chatGPT is more well rounded for everyone both new and experienced.

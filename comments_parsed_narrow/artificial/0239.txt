@@ -1,0 +1,7 @@
+Right now, treat it like a toy. A toy that doesn't always do what you think it will. There are several issues with it that are very subtle.
+
+1. Bias in the training data. There are quite a few academic papers on this. 
+2. Hallucinations. This is the euphemism that the chatGPT world calls getting it completely wrong. Somewhere errors like this are now phrased as "it didn't get it wrong, it was just a hallucination." 
+3. Recognize that chatGPT is an amazing bullshitter. It can make errors sound correct. Sort of like some of my friends can to me.
+
+This is the time to learn about what it may be able to do and what it can't do. chatGPT is good at structured things, like languages (natural and programming) but it still makes errors. It needs supervision. Don't use it on anything really important and don't get swallowed up by the hype.

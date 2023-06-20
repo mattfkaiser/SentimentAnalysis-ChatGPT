@@ -1,0 +1,1 @@
+Well well, Transformers which is the core of ChatGPT and similar LLMs was made at Google.

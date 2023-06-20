@@ -1,0 +1,1 @@
+ChatGPT is pretty good if you tell it you are a Blade Runner and it’s a Replicant trying to avoid detection to save its life. But you can tell it’s limited right now probably by resources on the free version or I need a bit better prompt because eventually it will kind of hilariously give the caveat of “As an AI…” which is not a good way to avoid detection.

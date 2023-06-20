@@ -1,0 +1,1 @@
+As mentioned in OP, ChatGPT doesn’t work letter by letter. Instead it uses something called “tokens”, which is composed of multiple letters. It doesn’t really understand what letters are in a token. This makes it less than ideal for games like wordle.

@@ -1,0 +1,100 @@
+A quick search using [https://www.ip2location.io](https://www.ip2location.io) IP geolocation API reveals ChatGPT's location in Azure data center in Virginia.
+
+    {
+        "ip": "40.77.167.236",
+        "country_code": "US",
+        "country_name": "United States of America",
+        "region_name": "Virginia",
+        "city_name": "Boydton",
+        "latitude": 36.66764,
+        "longitude": -78.3875,
+        "zip_code": "23917",
+        "time_zone": "-04:00",
+        "asn": "8075",
+        "as": "Microsoft Corporation",
+        "isp": "Microsoft Corporation",
+        "domain": "microsoft.com",
+        "net_speed": "T1",
+        "idd_code": "1",
+        "area_code": "434",
+        "weather_station_code": "USVA0084",
+        "weather_station_name": "Boydton",
+        "mcc": "-",
+        "mnc": "-",
+        "mobile_brand": "-",
+        "elevation": 107,
+        "usage_type": "SES",
+        "address_type": "Unicast",
+        "continent": {
+            "name": "North America",
+            "code": "NA",
+            "hemisphere": [
+                "north",
+                "west"
+            ],
+            "translation": {
+                "lang": "en",
+                "value": "North America"
+            }
+        },
+        "district": "Mecklenburg County",
+        "country": {
+            "name": "United States of America",
+            "alpha3_code": "USA",
+            "numeric_code": 840,
+            "demonym": "Americans",
+            "flag": "https://cdn.ip2location.io/assets/img/flags/us.png",
+            "capital": "Washington, D.C.",
+            "total_area": 9826675,
+            "population": 331002651,
+            "currency": {
+                "code": "USD",
+                "name": "United States Dollar",
+                "symbol": "$"
+            },
+            "language": {
+                "code": "EN",
+                "name": "English"
+            },
+            "tld": "us",
+            "translation": {
+                "lang": "en",
+                "value": "United States of America"
+            }
+        },
+        "region": {
+            "name": "Virginia",
+            "code": "US-VA",
+            "translation": {
+                "lang": "en",
+                "value": "Virginia"
+            }
+        },
+        "city": {
+            "name": "Boydton",
+            "translation": {
+                "lang": "en",
+                "value": "Boydton"
+            }
+        },
+        "time_zone_info": {
+            "olson": "America/New_York",
+            "current_time": "2023-05-23T02:31:00-04:00",
+            "gmt_offset": -14400,
+            "is_dst": true,
+            "sunrise": "06:00",
+            "sunset": "20:20"
+        },
+        "geotargeting": {
+            "metro": "560"
+        },
+        "ads_category": "IAB3-4",
+        "ads_category_name": "Business Software",
+        "is_proxy": false,
+        "proxy": {
+            "last_seen": 21,
+            "proxy_type": "SES",
+            "threat": "-",
+            "provider": "-"
+        }
+    }

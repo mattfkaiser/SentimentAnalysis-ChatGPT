@@ -1,0 +1,5 @@
+> Where does it say it only provides facts on the site?
+
+I did not say it _ONLY_ provides facts. And I supplied evidence for OpenAI's marketing of the tool as providing facts _if prompted to do so_.
+
+Hell, even in the section you quoted: OpenAI creates the impression that ChatGPT _can admit it's mistakes_ in the top of the page, only mentioning that it can't do this reliably in the limitations section further below.

@@ -1,0 +1,5 @@
+The fact that ChatGPT can do all the boilerplate and at runtime no less is mind-boggling. I've spent most of my development career creating various APIs, and for a non-trivial production API, there is a lot of behavior that needs to be anticipated, coded and tested.
+
+When developing CLI utilities with OpenAI API endpoints, it dawned on me that one of the most complicated things in software development; domain modelling and business logic, has now been relegated to smart prompts. So if ChatGPT can now also deal with the boilerplate and mundane but important implementation details in security, performance, integration, testing etc.... well the implications are profound.
+
+Advice for engineers starting in the field; time to check out the plugin development process, learn good prompting techniques and be kind to ChatGPT...just in case.

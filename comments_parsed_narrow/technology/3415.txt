@@ -1,0 +1,5 @@
+I keep seeing engineers/programmers, same people building AI, on all these lists.  There are many activities that engineers/programmers do both before and after actually "writing" code.  I assume it's the same for a lot of the other jobs in the article.  
+
+People are trying to make it seem like a Project Sponsor is just gonna tell ChatGPT what they want and boom it's live in production.  We are no more at that level of AI than we are at fully autonomous driving cars.  These things will happen, but they are decades out.  Most of all, they all require a certain level of infrastructure to be in place.
+
+ChatGPT may lower the skill cap for these jobs and therefore make their pay lower and/or reduce the needed staff count.  However, the overall activities of the job description will not go away.

@@ -1,0 +1,7 @@
+Chat GPT doesn't remember what you said to it in a different chat tab.
+
+Chat GPT doesn't remember previous instructions given to it in the same conversation if you've extended your token limit.
+
+There is no way on earth Chat GPT will be able to remember what is has written to someone else.
+
+*However,* Chat GPT is very good at telling you exactly what you want to hear. So if you go at it with an attitude of "I suspect this was written by you, these are my reasons to think this, can you please confirm?", then it would likely claim to have written whatever piece of text you gave it.

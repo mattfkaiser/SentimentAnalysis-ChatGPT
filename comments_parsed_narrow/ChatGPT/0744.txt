@@ -1,0 +1,5 @@
+Huh interesting, this makes a lot more sense! It’s definitely one of the better metrics out there but like any internet survey it’s main weaknesses would probably boil down to bot farming and bias from users
+
+The bias from users is especially interesting to consider. I would expect results to be slightly skewed against ChatGPT because it’s older (and therefore it’s “tone” is more boring since people are used to it) and also because of openAI’s views on alignment safety. In this kind of test it’s better to give the people exactly what they want instead of giving them something that’s safe
+
+I’ll definitely have to check this website out though it seems very handy

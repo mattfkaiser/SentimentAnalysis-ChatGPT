@@ -1,0 +1,9 @@
+Not op but I've been using chatgpt at work for a few weeks now with a coworker. I've been using it as a glorified translator. Want to convert security policies into a different format? Done, and we'll 90% of the time. The other 10% is trivial to debug and fix. 
+
+Got some error with terrible formatting? If it doesn't help, which it usually does, it'll atleast make it more readable. 
+
+Want some quick, condensed info on a new topic as a starting point? It's got your back. 
+
+I've essentially stopped using Google at this point. The only time I use it is when I know what I'm searching for already. I spend much more time thinking about the problem instead of wasting time going through every document for new software. My coworker has it writing unit codes and documentation, I haven't developed that trust yet. 
+
+It's been awesome. I already said to my sister I'd be willing to pay $100/m for it in the future once it becomes really good.

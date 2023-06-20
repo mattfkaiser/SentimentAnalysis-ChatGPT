@@ -1,0 +1,3 @@
+One way colleges can detect ChatGPT essays is by using plagiarism detection software that is designed to identify machine-generated text. These tools can analyze the structure, syntax, and language patterns of an essay to determine if it was likely produced by a machine rather than a human. 
+
+Additionally, the writing style of ChatGPT is distinctive and different from that of a human writer, making it easy to spot machine-generated content.

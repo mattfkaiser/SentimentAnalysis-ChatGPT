@@ -1,0 +1,1 @@
+Very likely it’s not in the foundational model and is done in the pre and post processor layer. There’s a lot of “AI magic” in the chatgpt pre and post processors that’s miles ahead of where other products are, doesn’t mean the GPT model is better, they are just better at productizing it

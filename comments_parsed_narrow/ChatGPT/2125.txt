@@ -1,0 +1,9 @@
+No its really not. This is wikipedia level generic stuff that even students would know. Its useless and trivial. 
+
+Just to compare I put in "ecm remodelling in colon cancer" to google and clicked on the first search result: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430714/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430714/)
+
+In this peer reviewed paper in under 60 seconds I could find a citation for a paper that is actually useful, this one: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8423173/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8423173/)
+
+This paper details how CXCL5, CCL2, and IL18 will act to remodel the ECM (in the pancreatic duct). It has peer reviewed data, actual experimental results, links to other resources and even figures to sum up the results. This is useful. This took me under 2 minutes to find, whereas chatGPT was only able to regurgitate some bachelor-level generic summary in the same amount of time. Generative models need to be trained on specialist data to be able to provide useful information, chatGPT cannot do that yet. 
+
+Thank you for posting this though, this is an excellent example why AI is not there yet.

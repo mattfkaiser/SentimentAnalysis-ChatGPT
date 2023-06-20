@@ -1,0 +1,25 @@
+Funny.  I haven't tried asking ChatGPT to do a search yet; I kind of use ChatGPT as my search engine now. lol
+
+I'm curious how this is different than just tracing the connection?
+(Window 10 Power Shell)
+
+PS C:\> Test-NetConnection -TraceRoute chat.openai.com
+
+ComputerName           : chat.openai.com
+RemoteAddress          : 104.18.2.161
+InterfaceAlias         : Ethernet
+SourceAddress          : 192.168.1.6
+PingSucceeded          : True
+PingReplyDetails (RTT) : 21 ms
+TraceRoute             : 192.168.1.1
+10.0.0.1
+100.92.102.2
+<snip>
+24.124.129.30
+24.124.129.169
+24.124.129.165
+68.86.93.49
+96.110.34.130
+50.208.235.222
+172.71.140.3
+104.18.2.161

@@ -1,0 +1,3 @@
+ChatGPT is just a chat bot with a lot of information. It doesn't form its own conclusions, so I don't think it is good as AGI. It will give neutral answers despite the definition to some conditions. For example, it will say that it's unfair to call Palestine under apartheid rule, despite the facts it is acknowledged as one by UN reports and experts who studied apartheid. It also will give about the same answer and do a "both sides" thing. It shows bias on many topics and will put the blame on not being in the data it was trained on.
+
+ It also is overhyped for its programming ability, as it can give you functional code, but it would not be the output you want or it will fail most test cases as you can try with coding challenges for sites like Hackerrank or leetcode.

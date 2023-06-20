@@ -1,0 +1,5 @@
+I don't see this being any faster than just typing and clicking oneself. Perhaps if you were specifically only using voice input, but even then I struggle to see how this is anything more than a front-end for ChatGPT's capabilities.
+
+Seeing as you mentioned you are giving it the HTML DOM to allow it "see" and interact with what you're seeing, it's not too different than using something like vimium's f-key action, which allows you to navigate to any link/clickable element.
+
+I would try to market the potential voice interaction aspect more perhaps, my two cents

@@ -1,0 +1,1 @@
+I don't know about the tons of local LLMs being pumped out everyday but for web services I do know some free ones that can be considered truly ChatGPT alternatives: Claude (on [poe.com](https://poe.com) ), Pi (on [heypi.com](https://heypi.com) ) and Bard (on [bard.google.com](https://bard.google.com) )

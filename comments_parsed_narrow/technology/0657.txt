@@ -1,0 +1,5 @@
+Most of the time spent spinning wheels in my experience has nothing to do with the coding though, and everything to do with complications in requirements, technical limitations of platform/technology, a lack of test data that's fully integrated with other systems so the code can be tested properly, among other things.
+
+The coding part isn't often the part that holds you up.
+
+Although I'm sure using ChatGPT can help, there's no way it's saving that much time in the overall development cycle.

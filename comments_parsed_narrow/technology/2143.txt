@@ -1,0 +1,12 @@
+It is a machine learning neural network system designed to produce convincingly human writing and conversation (among many other potential things). You can ask it to write a story about anything and it will write a story about that subject. You can even give it specific instructions about what style you want and it will incorporate them. It can be used for all sorts of things and the underlying technology is hugely flexible in its applications.
+
+One of the problems with ChatGPT is that it isn't designed to be an alternative for google yet idiots are using it like it is because they don't understand what they are interacting with. 
+
+Let's say you ask it to describe the purpose of an ejector seat, ChatGPT may or may not give you an accurate description or reason for an ejector seat and when it does offer an incorrect explanation of something - it will do so eloquently and with absolute confidence. If you are a dimwit - which a great many people are - you have absolutely no reason to question anything it says unless you actually know what you are dealing with or you know the subject matter.
+
+It essentially works towards solving the Turing test. 
+
+One of the biggest concerns I have is people's propensity to anthropomorphize these systems. It is so annoying and people do it effortlessly and will continue to do so. It will only get worse as these systems become more complex and in the mean time, while many people don't actually understand how these systems work - you will have to wade through inane suggestions from people who says shit like "Well how do we know it isn't thinking or has feelings" and it gets exhausting fast.
+
+Essentially they are extremely complex pattern recognition and application systems that can create convincing human like analysis, literature and artwork by "training" on mountains and mountains of online data gathered over many years. That's an extremely simplistic explanation obviously
+.

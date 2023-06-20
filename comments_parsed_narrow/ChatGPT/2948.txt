@@ -1,0 +1,3 @@
+Seems like the address belongs to Microsoft. Which makes sense, ChatGPT runs on Azure servers, the web search is being carried out by ChatGPT. That request is useless for determining the user’s IP address, this is basically ChatGPT looking up its own address and telling that to the user.
+
+https://whatismyipaddress.com/ip/40.77.167.236

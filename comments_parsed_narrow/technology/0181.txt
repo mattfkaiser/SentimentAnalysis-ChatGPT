@@ -1,0 +1,15 @@
+> When you create art, your brain is doing all sorts of things besides just cobbling together a thousand different images you've seen before. 
+
+Is it? Last I checked, the verdict was, at best, still out - and at worst, a general "eh, it's actually pretty standard in regards to learning".
+
+> AI just straight-up can't do that.
+
+Weren't you just writing "we need to not humanize AI models" - so why are you now acting like a human being is no longer involved in this process? We don't have quasi-conscious AI that's creating unending streams of art with no user input. It's all still user-guided, and with the way you're talking, it sounds like your experience in it is limited to stuff like ChatGPT or Midjourney.
+
+Take a jump into Stable Diffusion, go through the at least 5 different settings you need to decide on (besides the prompt) to create the image, and then the 15+ different things that are just standard at doing AFTER the image is created.
+
+You're massively oversimplifying the process. The people that create truly stunning "AI" images, have pretty much 100% of the time still edited those images themselves. You need to decide on models, loras, prompts, negative prompts, steps, high res on/off, high res steps, blurring, upscalers, generators, resolutions, and more - and that's just the very basic setup of it. Then we get into ControlNet and all it's different functions, Image2Image, Inpainting, model merging, Dreambooth training, and the gajilion other things a human is directly involved with. Or hell, the new Photoshop plugin from Adobe, which is to be used actively in image manipulation setups along with all the other Photoshop tools.
+
+Image generators are not just Midjourney.
+
+This is like complaining that Brushes were introduced to Photoshop, since people no longer needed to draw things manually themselves. That, however, hasn't limited creativity, it has only expanded on it.

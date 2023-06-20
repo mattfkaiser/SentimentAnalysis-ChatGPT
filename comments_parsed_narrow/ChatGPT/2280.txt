@@ -1,0 +1,5 @@
+I used 3.5. Even though I was telling it not to do something, it kept doing it. Definitely annoying! I ended up starting a new chat, and worded the prompt much differently. For example, I was writing something that I wanted to include some peer-viewed research. It just kept saying the same points of the research over and over again. I asked it not to repeat, but it kept doing so. So then I scrapped it and started a new chat to just talk about the topic with a prompt later to give me a list of peer reviewed papers with talking points. That worked better, though it seems chatgpt isn't really well versed with research since it didn't give much info. 
+
+You could try leaving out the word "email" in the prompt. Maybe something like: "Please write a response to someone about xyz without pleasantries." -Or- "how can I tell someone about abc?" 
+
+It might be something that the programmers need to adjust. I believe there is a thumbs up and down (or similar) next to the answer to give your feedback.

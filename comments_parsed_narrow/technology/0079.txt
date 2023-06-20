@@ -1,0 +1,9 @@
+I recently watched a talk about how this happens at the MS Build conference.
+
+Basically the model goes down a path while it is writing and it can’t backtrack.  It says “oh sure I can help you with that …”  then it looks for the information to make the first statement be true, and it can’t currently backtrack when it can’t find anything.  So it’ll make up something.  This is an over simplification, and just part of what I recall, but iI found it interesting.  
+
+It seems that it’s random because sometimes it will take a path, based on the prompt and other factors that leads it to the correct answer that what your asking isn’t possible.
+
+Seems like the problem is mostly well understood, so they may have a solution in place within a year.
+
+Edit:  [link](https://youtu.be/bZQun8Y4L2A). The talk explains much of ChatGPT. The portion where he discusses hallucinations is somewhere between the middle and end.  I recommend watching the whole thing because of his teaching background he’s really great at explaining this topic.

@@ -1,0 +1,3 @@
+ I believe it has to do with the way chatGPT processes language.  It does not use words or letters, but tokens which are parts of words. Although it can compute in words or letters, this is not it's internal 'language' of probabilities.
+
+ Interestingly, I expected vex to be two tokens, v and ex, but you can see on platform.openai.com/tokenizer that it is actually ve and x which are 303 and 87.  So this goes against what I thought was happening but at least this may be interesting to consider..

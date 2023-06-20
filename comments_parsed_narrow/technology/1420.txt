@@ -1,0 +1,5 @@
+I tested this a month ago, and got nothing but bunk citations.
+
+Yesterday, I gave chat GPT a civil procedure essay examination, and, with two follow-up questions to elicit the opposite side of the arguments that articulated, it wrote what I would call an "A" answer. A law student would have learned from reading the output.
+
+However, when I asked the machine to give me citations for its argument, it refused, saying it did not have a live connection to the internet and could not search legal databases. So I think they covered that manhole that this alleged lawyer fell into.

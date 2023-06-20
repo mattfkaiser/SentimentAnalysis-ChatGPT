@@ -1,0 +1,2 @@
+Google announced Lambda in 2021. They just haven't released it to the public yet (I assume because security, safety, etc).   
+While release something now definitely seems like a response to the rising popularity of ChatGPT, it isn't something that is new to Google or that they are taken by surprise. They have been working on AI for a long time.

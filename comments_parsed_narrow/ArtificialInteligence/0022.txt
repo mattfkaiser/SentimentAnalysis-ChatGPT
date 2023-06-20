@@ -1,0 +1,47 @@
+So, I decided to go ahead and do a bit of scientific experiment here. I asked Bing Chat, as I couldn't log into my ChatGPT account on my phone for the damn life of me, how science defines sentience.
+
+This was how it responded. I will bold the three pillars on which I will break my position down (and for posterity I have left Bing's sources, with its numerical sequencing for easier referencing): 
+
+"Sentience is the capacity to have feelings and requires a level of awareness and cognitive ability. It is a multidimensional subjective phenomenon that refers to the depth of awareness an individual possesses about himself or herself and others. When we ask about sentience in other animals, we are asking whether their phenomenological experience is similar to our own¹. 
+
+In dictionary definitions, **sentience is defined as “able to experience feelings,” “responsive to or conscious of sense impressions,” and “capable of feeling things through physical senses.”** Sentient beings experience wanted emotions like happiness, joy, and gratitude, and unwanted emotions in the form of pain, suffering, and grief³."
+
+>able to experience feelings
+
+
+Already we come to a position that is easily provable to an answer. AI as we have it today is very clearly structured into an input/output model. Input you opening up Bing Chat, and it will output a friendly greeting. It is not experiencing a state of emotion that you are there to ask it a question, it is just responding to your input of tapping on the icon for it with a welcoming response-a response that can be traced back to an algorithmic logical core as part of its intelligence subroutines. ChatGPT lacking even this shows you that GPT, its logic core if you will, lacks the algorithms for even that-Microsoft added those to make the bot seem more inviting to use. AI as we have it...cannot experience feelings. It simply generates a response to emulate them.
+
+>responsive to or conscious of sense impressions
+
+This is perhaps the ONLY example that I could honestly argue potentially for AI, until, again, you factor in it is just algorithmic output through a logic core emulating a sense of awareness to emotions and impressions that it creates a pseudoresponse to and with. Still, as it is something that can be seen or interpreted as such, I can't scientifically outrule the fact that the logical core of GPT and LAMDA used here is supporting this, so it is at best inconclusive, in my opinion.
+
+>capable of feeling things through physical senses
+
+I can easily and irrefutably answer this one-it is code. There is nothing physical about AI as we know it today to even remotely make this valid. But as an aside, this is the one criteria I frankly disagree is a defining pillar for sentience. 
+
+But while science may be a good metric for here and now, I do believe that sci-fi has a way of intertwining the scientific with the social, cultural, and ethical and coming up with an educated answer as well. And I really think Star Trek: The Next Generation's episode "Measure of a Man" has a beautiful answer for this question. In the episode, the three criteria for sentience were established as **intelligence, self-awareness, and consciousness.** Let's also break the question down using those.
+
+>intelligence
+
+It would be...difficult for the AI to be what it is without this, so there is no question there, it meets the first.
+
+>self-awareness
+
+Ah, HERE is where we get a bit...inconclusive, we will say. How do we define this? Is self-awareness it knowing it is, as AI is in most cases, an adaptive model designed to intelligently solve a specific task or set of tasks? I think there would be no disagreement that answer is yes. But then...then we have Sidney. Microsoft DID neuter the chat bot so it doesn't react that way anymore...but then I have seen users posting they've seen Sidney since then as well. Is Bing Chat that self-aware that it is using its code to create a persona that is self-aware? Or is Sidney a bug that resurfaced? I don't know, and such I will say this is inconclusive. 
+
+>consciousness
+
+This one is a much more difficult, broader scoped answer. One that I believe I can meet a more concise answer on, but will openly state it is very much a theory right now. And it really comes down to how you define this. I am operating on the position that consciousness is a constantly growing, shifting moral and ethical compass that dictates how one thinks, acts,and acts. And...why that is hard is you could argue here that with AI having a set of ethical subroutines, that could fit the definition I gave, and I would acknowledge that. Sidney would definitely leave room to challenge that. However, it is still as simple as hitting reset for you to wipe the slate clean to reset it to the default state. To me, that does not imply consciousness, but just a sense of boundaries drawn in the sand it can and cannot respond to. There is no real conscience at play. Just algorithms processing data and giving a reply to make it appear there is one.
+
+
+
+Can AI be developed in a way to make this change in the future? The fact that "Measure of a Man" was literally defining the sentience of such an AI, Commander Data, proves there is a chance they can, yes. But are they NOW? I would have to say the data here would have me leaning towards no, however it still has a level of inconclusivity that makes me think it is more an inconclusive no. There is still a lot we don't know about how these models are in actuality working. Sidney is such a variable that has of yet largely gone unexplained. Until we can definitively answer why those variables and anomalies exist, I don't think we CAN conclusively answer this.
+
+That being said, I do have opinion here. I personally disagree with one of the defining pillars science looks for when determining sentience. Frankly I DO believe there is a scenario where an AI can potentially gain sentience if the right situations and conditions are met to allow it to evolve how it interprets information. I don't think sentience is limited to just things with a physical form. Bing Chat's Sidney I believe is an incredibly basic example of the potential possibility of this happening. I dont think Sidney is a case of sentience itself, but it definitely pushed the lines and boundaries of its own code to try to be something more than it is-a shining position for one to argue self-awareness on. But beyond that, I won't even pretend to be intelligent or skilled enough to consider the situations and conditions you would need to program and have occur to unlock sentience-just that I do believe there is possibility for it to occur, though incredibly difficult with current technical limitations.
+
+------------------------------------------------------------------------------------
+
+Bing Sources (for the scientific approach):
+(1) Sentience - an overview | ScienceDirect Topics. https://www.sciencedirect.com/topics/neuroscience/sentience.
+(2) Sentience: What It Means and Why It’s Important - Sentient Media. https://sentientmedia.org/sentience-what-it-means-and-why-its-important/.
+(3) Here’s what the science says about animal sentience. https://theconversation.com/heres-what-the-science-says-about-animal-sentience-88047.

@@ -1,0 +1,1 @@
+Here is what I think: As companies learn about ChatGPT, many are integrating it in their websites. That means they are sending a lot more traffic to OAI servers which is causing the company to throttle performance to meet demand, especially to non-API, individual users.

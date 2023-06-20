@@ -1,0 +1,13 @@
+That's not the answer either. It's not hallucinating, using plugins or user inputted information. It's likely that it has been fed some information, most likely of key events, between 2021-2023.
+
+It's widely accepted that ChatGPT has some knowledge of information between 2021-2023, so far as that answer is listed in this [FAQ thread](https://www.reddit.com/r/ChatGPT/comments/107zfxk/rchatgpts_faq_thread/)
+
+Some examples of posts about information post September 2021, some of which predate the introduction of plugins:
+
+[https://www.reddit.com/r/ChatGPT/comments/12v59uf/how\_can\_chatgpt\_know\_russia\_invaded\_ukraine\_on/](https://www.reddit.com/r/ChatGPT/comments/12v59uf/how_can_chatgpt_know_russia_invaded_ukraine_on/)
+
+[https://www.reddit.com/r/ChatGPT/comments/128babe/chatgpt\_knows\_about\_event\_after\_2021\_and\_even/](https://www.reddit.com/r/ChatGPT/comments/128babe/chatgpt_knows_about_event_after_2021_and_even/)
+
+[https://www.reddit.com/r/ChatGPT/comments/102hj60/using\_dan\_to\_literally\_make\_chatgpt\_do\_anything/](https://www.reddit.com/r/ChatGPT/comments/102hj60/using_dan_to_literally_make_chatgpt_do_anything/)
+
+[https://www.reddit.com/r/ChatGPT/comments/10ejpdq/how\_does\_chatgpt\_know\_what\_happened\_after\_2021/](https://www.reddit.com/r/ChatGPT/comments/10ejpdq/how_does_chatgpt_know_what_happened_after_2021/)

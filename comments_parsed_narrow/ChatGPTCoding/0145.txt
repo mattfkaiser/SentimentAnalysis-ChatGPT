@@ -1,0 +1,7 @@
+Yep - how you describe it is how I expected it to work.
+
+It is this part:  
+\> ChatGPT extracts values for the relevant api endpoint  
+that I was curious. For ChatGPT to do this, presumably the APIs OpenAI description is provided as context. Since ChatGPT context is quite limited (e.g. 4k for 3.5) I'm surprised that OpenAPI descriptions generally fit into this.
+
+I was wondering if there was any specific workaround for the above, or if it is just a limitation when you're writing a plugin (that the OpenAPI description is less than 4k or 8/32k for 4.0).

@@ -1,0 +1,3 @@
+If you know literally nothing about the UI programming framework that ChatGPT would use to write the code then it probably won’t just run perfectly right off the bat.
+
+Can probably get you 90% of the way there if you use it correctly, then some small tinkering and tweaks to get you all the way.

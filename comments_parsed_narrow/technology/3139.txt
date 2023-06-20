@@ -1,0 +1,1 @@
+ChatGPT can’t be confident in that sense, it’s just a string of letters. Last poster was saying that there is a confidence variable that OpenAI doesn’t factor into the conversation. They could include that, and make the chat appear more confident or timid.

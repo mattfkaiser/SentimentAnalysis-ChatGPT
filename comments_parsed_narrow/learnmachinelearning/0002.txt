@@ -1,0 +1,1 @@
+I’m a novice python programmer who writes scripts to interpret my chemistry data. It’s been great at improving my coding efficiency. Rather than searching through documentation I just ask chatgpt for an example of how to execute a particular idea, and move from there

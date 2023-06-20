@@ -1,0 +1,3 @@
+These signs are also present in low-quality writing in general. This is the danger of these attempts to discern ChatGPT writing. The whole enterprise of a large-language model is to imitate human writing. It does this well. Even still, some patterns differentiate it from genuine writing, as is detected by some AI-language classifiers\*. However overall this attempts to detect ChatGPT writing are fruitless and will lead to innocent students being convicted.
+
+\* e.g. this [by OpenAI](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text)

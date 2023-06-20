@@ -1,0 +1,3 @@
+>b) specific or specialized knowledge in a product 
+
+This is the case for me. I work as a web developer using Hubspot CMS. There is a limited amount of information about Hubspot CMS online, mostly limited to their official documentation, 1-2 blogs, and a Slack channel. I've tried using Chat GPT to ask questions about the CMS when those other options don't work. It just makes up things that sound real until you dig into them and discover they are complete fabrications. Even asking general questions about HS development, like "Tell me about hubspot developer conferences and paid training courses" gives me made-up information.

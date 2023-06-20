@@ -1,0 +1,3 @@
+ChatGPT gives you only what you ask for.  Proper code should also have error handling and logging and ChatGPT also won’t do that unless you instruct it to.
+
+It’s not a chat bot’s job to secure your code or make it production ready.

@@ -1,0 +1,7 @@
+Rlhf which is the process by which OpenAI “aligns” chatGPT specifically for conversation.
+
+One piece of data which is not included into rlhf is the identity of the current user.
+
+If chatgpt doesn’t know who it’s talking to it assumes it’s talking to the mean of possible people.
+
+My theory is that if it could tell who it’s talking to it can be smarter in more cases.

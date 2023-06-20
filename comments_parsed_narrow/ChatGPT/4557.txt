@@ -1,0 +1,1 @@
+Theres a guy called Thomas Frank on Youtube that has a tutorial on using the Whisper API and ChatGPT to summarise a dictated note. Might be worth checking out for your workflow!

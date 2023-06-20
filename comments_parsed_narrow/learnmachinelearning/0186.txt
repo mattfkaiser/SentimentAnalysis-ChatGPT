@@ -1,0 +1,1 @@
+I would... ask someone on r/theydidthemath or similar. ChatGPT can be *very* confident while being wrong. Ask it the classic riddle: "Alices parents have five children: Bob, Anna, Charles, and Jimmy. What is the name of the fifth child? " and last time i checked, it got it wrong, and i had to pursue it quite a lot for it to accept the answer

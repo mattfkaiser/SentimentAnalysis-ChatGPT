@@ -1,0 +1,1 @@
+If it sounds a lot like ChatGPT then it's because part of its training included tens of thousands of ChatGPT conversations from ShareGPT.  More than 170 different Vicuna models [now exist at Hugging Face](https://huggingface.co/models?sort=downloads&search=vicuna), all with different strengths and weaknesses.

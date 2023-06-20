@@ -1,0 +1,1 @@
+A version of Reddit where you have to use ChatGPT in order to reply to anything.

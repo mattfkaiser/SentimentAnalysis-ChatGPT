@@ -1,0 +1,3 @@
+I once asked it about bioengineering. For each answer, ChatGPT closed the paragraph with, "It's important to note that these are only theories and more studies are needed bla bla bla..." 
+
+I added a prompt for it to NOT remind me that it's only theories and more studies are needed. My goodness.

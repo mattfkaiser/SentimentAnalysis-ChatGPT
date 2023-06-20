@@ -1,0 +1,5 @@
+if you're on chatgpt3.5 vs 4 I've had some success with
+
+"please continue from [x] section in code block format, you cut off there"
+
+x being the beginning of the code block. If its a SUPER long code block and its splitting in the middle honestly its gonna have hella errors anyways, 3.5 ain't that good.

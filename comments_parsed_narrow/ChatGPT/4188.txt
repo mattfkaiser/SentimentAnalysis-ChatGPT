@@ -1,0 +1,11 @@
+Nicely formulated argument! I agree with you on all points. But yeah, this perfectly illustrates how much of a gray area AI is.
+
+It truly stinks seeing such a wonderful tool have its potential neutered because of human nature.
+
+> Not only are humans wrong all they time, they're also manipulative and dishonest, and often have self-serving hidden agendas etc, and other downsides GPT doesn't have.
+
+I think this hits the nail on the head on at least one aspect of why an uncensored ChatGPT is causing so much havoc. While ChatGPT has no malice, it is certainly capable in assisting it without proper safeguards. Amplifying the damage potential of some humans.
+
+> And people do believe other humans all the time, whether the media or peers or the movement they belong to, or Reddit posts. We need to put more effort into countering this, as it is a much bigger problem than trusting GPT.
+
+This is the final nail in the coffin for me. You're absolutely right on all counts. However, ChatGPT's [documented hallucinations](https://spectrum.ieee.org/ai-hallucination) IMHO make the problem even worse. Because it can provide false information in such a convincing manner, it's much more difficult to discern lie from truth.

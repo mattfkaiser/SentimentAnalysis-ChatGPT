@@ -1,0 +1,5 @@
+This is the relevant answer.
+Data protection laws don’t like it at all if you share code, or worse, customer data with third parties.
+A gigantic company has to first do due diligence, and then likely set up something that deals with the data sensibly (in-house LLM, corporate ChatGPT or something like that).
+
+At my workplace we are of course also excited about it, but for an upcoming hackweek our data teams set up 2 on-premise LLMs for this exact reason. European data protection laws are strict, though.

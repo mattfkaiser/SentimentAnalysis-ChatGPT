@@ -1,0 +1,33 @@
+>	You, and many others on /r/technology, keep forgetting that ChatGPT is only 4-5 months old. It’s like people think that the tech right now is all there is, that this is the most it can do?
+>
+
+Funny, as a software engineer with 20 years in the industry I view most people commenting on r/technology as being extremely ignorant of tech. That is, buying the hype of LLM like ChatGPT. 
+
+
+I’m not OP, but I bet they were referring to the fact that everyone and their mothers on here and in general have been hyping ChatGPT [specifically] as this society ending AGI. 
+
+
+>	Each new version of ChatGPT improves over the next, it’s evolving constantly.
+>
+
+Yes that’s how technology generally works. However, we’ve heard and seen this song and dance before. Many times before, especially with AI models. 
+
+It doesn’t mean the dystopian scenarios or wildest sci-fi musings happen and go mainstream, though. 
+
+
+>
+>	The ChatGPT of now will be nothing to what it will be in the next few months. You really need to stop thinking of what it is now but more what it will be.
+
+That wasn’t the argument, though. The argument is that ChatGPT and its clones are overhyped. They are. Currently. 
+
+
+Anything could happen in the future—including AI models drastically plateauing like they always have in the past. Or running into physical computing limits. Or being overtaken by open source solutions, which I think is the far more likely scenario. For example, we’ve already seen it happen with image generating. Everyone though DallE was the be all, end all. But it, too, was replaced. By mostly open source projects. 
+
+
+ChatGPT could exist only as a fraction of itself in 6 months. Or it could explode and take over. 
+
+
+Or governments could interfere because of company overreach. Anything could happen. So instead of buying the hype, we should temper expectations because realistically this will not live up to what is widely expected by non-technical people. 
+
+
+I blame this on mainstream journalists, who can’t tell their ass from a data structure, hyper-extrapolating based on veey flimsy understanding mixed with a heavy does of cultural expectations set by movies and books.

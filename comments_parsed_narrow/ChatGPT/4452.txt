@@ -1,0 +1,3 @@
+But he can make his own website with chatgpt api. It is not a joke. Look at github. There are many ready to use solutions. As soon as this website will be private:
+1. It will not be in the firewall blacklist
+2. Nobody will notice that it is using chatgpt, because all calls to the chatgpt will be done through the host server

@@ -1,0 +1,8 @@
+im not fully sure what words would produce what as i haven't actually used chatGPT myself, but if you ask  
+
+
+hi, how would one perform volume of revolution on a 3d object into 4 dimensional space?
+
+or 
+
+hi, what would be the mathmatical working for performing volume of revolution on a 3d object into 4 dimensional space?

@@ -1,0 +1,3 @@
+>ChatGPT is only aware of syntax that it's been trained on (about 20 languages) 
+
+I don't think this is true. ChatGPT knows pretty much any syntax. You can ask it to write programs in brainfuck for example. What language did you find that ChatGPT couldn't understand the syntax of?

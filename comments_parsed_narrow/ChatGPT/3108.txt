@@ -1,0 +1,1 @@
+Interesting ideas. I think the reason ChatGPT feels smarter when you ask it to go step-by-step is that it has more “short term memory” in the form the reply itself. You get zebra when it’s going straight to the answer because it’s not modeling anything cognitively. Then when it elaborates, the explanation of how to think is part of the text it’s predicting the end to.

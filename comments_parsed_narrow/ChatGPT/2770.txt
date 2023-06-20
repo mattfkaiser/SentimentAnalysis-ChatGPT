@@ -1,0 +1,1 @@
+This is expected behavior right? Chat GPT isn’t programmed with a random number generator. It’s filling in the blank after every word, or at least that’s how the smart people explain it to the normies like me. For some reason maybe it picked 17 early and every time it does it confirms and self fulfills when it is asked again.

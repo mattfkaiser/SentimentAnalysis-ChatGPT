@@ -1,0 +1,3 @@
+>ChatGPT should be embraced as a study tool. You can literally copy/paste a list of questions and answers and have it write study cards to simulate a test where you answer and it tells you whether you were right or wrong AND why. 
+
+I think this will be true eventually, but the current version is too often confidently incorrect.

@@ -1,0 +1,7 @@
+Yes. ChatGPT and AI are buzzwords and overblown. There's a lot in software development and tech that you can break into, and learning to code is a good start to all of them. I recommend Python as a first language.
+
+As for a timeline, it's sort of like saying "I'm learning Spanish, how long until I can get a job as a translator?" or "I'm learning the piano, how long until I can get a job playing at weddings?" It depends, but it'll probably be over a year.
+
+A CS degree or one of those intense eat-up-all-your-waking-hours, 14-week boot camps would be recommended if you can afford it. That's definitely a nice path, though not available to everyone and also not strictly required.
+
+Just don't get discouraged! The most common worries I hear are "am I too old?" and "but I'm not good at math" (to which the answers are "no" and "that's fine, it's not really needed"). I think the main indicator if you can hack it is if you're willing to stick with it. (Some people find working at a computer on a desk for hours on end to be excruciating.) But don't feel like it's beyond your capabilities.

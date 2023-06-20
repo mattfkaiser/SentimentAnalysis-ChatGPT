@@ -1,0 +1,7 @@
+Eh move on and embrace the new paradigm. At least you’re in a position to use it and integrate with existing products, and explore new applications. 
+
+I’ve moved from mostly tree based models, and off the shelf pretrained cv models to now designing and implementing chat gpt agent systems, that interact with most foundational models courtesy of hugging face. 
+
+I’d say it’s a good change. 2-3 sprints on and delivered far more value than a team multiple times higher working on classic ml algos. 
+
+Only downside I’m facing right now is through put / rate limiting from openai. We’re waiting to get azure gpt4 access and Microsoft take their damn time.

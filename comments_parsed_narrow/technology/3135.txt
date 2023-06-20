@@ -1,0 +1,3 @@
+>  The upshot is that in just under a month, there were three recorded incidences of employees leaking sensitive information via ChatGPT.
+
+How did the media find out, did someone manage to get ChatGPT to output those leaked data?

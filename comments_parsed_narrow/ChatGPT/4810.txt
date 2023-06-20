@@ -1,0 +1,3 @@
+>it clearly recognized the answer since it said "no, I'm not fire."
+
+You mean it clearly **didn't** recognize it as an answer, since it thought it was a new question asking if **it** was fire, **it** referring to chatGPT. Which it answered correctly, it isn't fire, and it also reminded OP that he still hadn't tried to answer the riddle (in its "mind").

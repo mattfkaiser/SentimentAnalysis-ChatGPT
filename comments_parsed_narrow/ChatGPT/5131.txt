@@ -1,0 +1,3 @@
+As a researcher in AI, it is pretty high stakes imo. Not necessary you can't get chatGPT to write porn per se, but because there's _no way to access the model directly,_ even for academic institutions. You have to go through OpenAI's API which includes all this filtering. If they don't allow questions about racism, it makes it impossible to do research and write papers about systemic biases that may still exist in their systems, as just one example.
+
+This is a reversal from previous versions of GPT, which had publicly available direct access to the model.

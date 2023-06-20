@@ -1,0 +1,12 @@
+I've used ChatGPT quite a bit, to the point of making a small psudeo-language for it to to process.  Not only was it able to "run" mini programs that I tested, but it could tell be what I needed to input to get the desired results....and it broke down each part to give the reasoning.
+
+Very impressive stuff.
+
+But at no point have I seen anything that resembles "sentience".
+
+That would be the next step....which is to have some sort of internal dialog that filters what it says (like a validater)  .  The second would be to see it have a goal that was a product of the interaction, but not a goal that was given as a task or the result of a task.
+
+ChatGpt really relies on the user to initiate everything. It's a faithful companion that only speaks when spoken to and only set out to accomplish tasks that are given to it.
+
+
+It's possible that a system of agents that communicated internally would start to show this "sentience".  An internal voice that would posited questions about it's environment and of those it's interacting with. A self dialogue that would predict what the next question was and debate morality of giving unfiltered answers.

@@ -1,0 +1,5 @@
+>Come on you can't be too clueless, this isn't super easy to do even with ChatGPTs help
+
+If like they said this is just using HTML/Javasript & CSS, then yeah it is pretty simple. Animations using CSS can be done in seconds, and the collision detection can be written in Javascript likely in a few minutes.
+
+This may look fancy due to the graphics, but in reaity it's one element infinitely sliding left and right (which you can find countless already written CSS animations for), and a collision on that element. Using Javascript for this type of stuff works as long as you keep it incredibly simple. For a more gamey game you'd need a proper engine like Unity.

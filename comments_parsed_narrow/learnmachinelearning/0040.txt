@@ -1,0 +1,1 @@
+If you want to learn about how chatgpt can be used there is currently a free course on "chatgpt prompt engineering for dvelopers" at deeplearning.ai  . Explains how to set up access to chatgpt from within python and how to steer chatgpt to provide good results.

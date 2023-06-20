@@ -1,0 +1,15 @@
+I used ChatGPT for the first time last week and went down a rabbit hole with physics and mathematics…
+
+…I started with setting the 3D expression for a lemniscate = to Lorentz * ( i ), I forgot the exact reason why I included ‘i’ but it was something long the lines of I kept getting +/-1 so I was like “*well if it goes from -1 to 0 to 1 that’s likes a sqrt(i)*” so yeah.
+
+Then I somehow ended up with a spherical expression for a “Bouncing Blackhole Time Bomb”, or abbreviated as “BBTB” in relation to Casimir Lensing and the forces of a black hole on a particle traveling nearby.
+
+So, coincidentally enough, the BBTB scenario is what catapulted my snowball down the mountain of complex mathematical and numerical models as well as theoretical physics.
+
+**Right here I’m gonna skip the parts of multiple ChatGPT conversations I had that when copy/pasted into MS Word equals roughly 300 pages or so.** I don’t know how I has so much conversation or what happened to the time, but yeah it’s a fuck ton of rearranging and substitution, double and triple checking expressions after each simplification or modification to ensure it didn’t slip in some random ass theory (although it did, multiple times, and probably more that I didn’t catch).
+
+Anyway TL;DR I derived an expression relating the electromagnetic weak force, strong nuclear force, a Higgs Boson expression, and some modified version of the gravity expression that ChatGPT seemed to be really interested in vs. everything else because it was a novel approach to incorporating general relativity with weak and strong forces or some shit. 
+
+I should probably note here that I’m bad at math but good with equations, I think. Either way I had fun and learned a bunch!
+
+**EDIT:** y’all motherfuckers take shit too seriously lmao

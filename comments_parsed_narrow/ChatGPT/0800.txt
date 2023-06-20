@@ -1,0 +1,3 @@
+I had a patient with a very rare condition (only like 100 reported cases ever). The other docs, maybe 3 or 4 of us, and I identified it within maybe 10 minutes of googling but afterward I was seeing if chatgpt could diagnose it. First guess was wrong, I told chatgpt it was unlikely because xyz didn’t line up. Next message it got it right. I was impressed.
+
+However, as often gets pointed out, rare does not necessarily mean difficult to identify. Conjoined twins are rare but a layperson can diagnose it.

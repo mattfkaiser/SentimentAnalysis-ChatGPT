@@ -1,0 +1,18 @@
+(my native language is Russian, I'm a language tutor,  translator and a copywriter)
+
+ Creating exercises for my students to practice various grammar and vocabulary topics ("Create a fill in the blanc exercise to practice past simple and present perfect in contrast, on the topic "summer holidays", make 10 sentences, do not show answers"). Works pretty well, although requires corrections sometimes.
+
+
+Explaining words. "In the phrase "...", what does the word/phrase "..." mean?". It understands context well, so it is much more useful than just looking up in the dictionary. It can also explain idioms and references. (Currently, i prefer Bing for this task, as having links to sources is important)
+
+
+When I write in English, reviewing and correcting grammar, improving style. Finding synonyms to make the text sound more unique. Especially useful, when I need to write 100% unique text on the topic that was already discussed thousand times.
+
+
+Via poe.com, I've created two bots for my students. One   makes ru-en and en-ru translations of word and phrases, commenting on the sentence structure (what does each part of a sentence mean and why this or that form is used) and giving simple examples for translated words.(when using existing online dictionaries, middle-schoolers often get overwhelmed with tons of examples and meanings they don't need right now). The second one is a conversation partner for language learners. It supports conversation on various topics, while giving feedback on mistakes in the student's input. Again, it is important that the feedback is given in the student's native language.
+
+
+Random questions. When something like "Why exactly do dogs enjoy fetching sticks?" or "Is it true that cemeteries are always colder?" pops up in my head, I now have a place to get a quick answer.
+
+
+(tested, working, currently not in active usage) Overcoming fear of a blank page. I'm trying to write fiction , and ChatGPT helps with idea generation very much, exactly what I need to bounce my ideas against. Do not need to bother loving people with my nonsense anymore. I also use it as sort of a co-author: I ask it to generate a rough draft of what I want to write and then take it and completely rewrite it, turning generated text into my own creation. For some reason, it is easier for me, than write from the blank page.

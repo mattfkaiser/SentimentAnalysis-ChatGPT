@@ -1,0 +1,1 @@
+i installed chatgpt2 on a raspberry pi 4 and it works just fine.

@@ -1,0 +1,1 @@
+Doing experiments is not something remotely within ChatGPT's design capabilities. ChatGPT can be thought of as a big equation with about 1 trillion terms, that given a chunk of text, estimates what text follows it. It does prompt text -> prediction text. How do you make an input/output function "do experiments"?

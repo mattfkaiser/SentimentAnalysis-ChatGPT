@@ -1,0 +1,3 @@
+If you are inputting sensitive data into ChatGPT, or Google, or any electronic third party, you should assume that the information is no longer secured to your company alone. We've learned this through multiple lawsuits.
+
+Doesn't guarantee that it will be stolen or abused, but we know that it's easily collected, even when companies say they're 'not storing it'.

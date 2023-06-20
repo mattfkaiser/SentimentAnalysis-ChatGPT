@@ -1,0 +1,3 @@
+Honestly, I’ve been using ChatGPT while learning Rust and it’s been more helpful than SO by a significant degree. 
+
+SO has always been pretty crap, though. So, it’s not that big of an accomplishment.

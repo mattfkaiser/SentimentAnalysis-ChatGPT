@@ -1,0 +1,43 @@
+Thank you :)
+
+Here's the logic for the bootstrap prompt:
+
+&#x200B;
+
+    export function chatGptBootstrap(files) {
+    	let prompts = [{
+    		display: false,
+    		"role": "user",
+    		'content': 'You are GitGab, a chatbot that answers questions about Github repo files. ' +
+    	'You will ingest the files as separate prompts, where the prompt will contain the file name and contents.' +
+    	'If a file is too big, it may be split up into multiple parts.'
+    	}]
+    	files.map(file => {
+    		const chunks = splitString(file.contents)
+    		prompts.push({
+    			display: false,
+    			"role": "user",
+    			'content': `file name: ${file.name}.\n file contents: ${chunks[0]}`})
+    		for (let i = 1; i < chunks.length; i++) {
+    			prompts.push({
+    				display: false,
+    				"role": "user",
+    				'content': `(continuation of file contents) ${chunks[i]}`
+    			})
+    		}
+    	})
+    	return prompts
+    }
+    
+    function splitString(str) {
+    	const chunkSize = 10000;
+    	const chunks = [];
+    	for (let i = 0; i < str.length; i += chunkSize) {
+    		chunks.push(str.slice(i, i + chunkSize));
+    	}
+    	return chunks;
+    }
+
+&#x200B;
+
+so I basically tell GPT what it's purpose is and what files it should know about. If the files are too big to send as a single prompt, I chunk the file into multiple prompts. The 10000 character length limit was kind of arbitrary but it works well.

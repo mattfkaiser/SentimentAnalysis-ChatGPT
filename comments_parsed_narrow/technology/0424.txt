@@ -1,0 +1,3 @@
+> ChatGPT gets a lot wrong. I've used it for programming and even basic stuff it gets wrong. You have to know the topic to know it's wrong half the time. 
+
+And that is exactly why nobody should be using it for programming. Code reviewing the AI sounds like a huge waste of time, and trying to learn new stuff from it is unreliable because it could just be lying to you and you don't have the knowledge to know what's what.

@@ -1,0 +1,25 @@
+Ouroboros.
+
+Gizmodo, linked:^1,2
+
+>The news outlet Insider announced to staff via email Thursday morning that the company lay off 10% of its workforce, including staff writers.
+
+>Asked if the layoffs were related to the nascent use of the AI chatbot, an Insider spokesperson said, “Of course not.”
+
+>Insider Incorporated president Barbara Peng announced that layoffs in an email to staff this morning that was obtained by Gizmodo and first reported by The Daily Beast. Peng wrote that staff members affected by the layoffs would be receiving a notification 15 minutes after her email to the company was sent.
+
+>Insider’s president claimed in her email that management was unable to communicate the layoffs to the union, citing unspecified “union rules.” 
+
+>An Insider employee in the union told Gizmodo that the union was not informed of the layoffs ahead of time and received no opportunity to bargain with management. The Insider Union did not immediately return Gizmodo’s request for comment.
+
+Daily Beast, hyperlinked:^2
+
+>The layoff announcement also came a week after global editor-in-chief Nicholas Carlson said the company planned to incorporate AI into the newsroom. “Generative AI can make all of you better editors, reporters, and producers, too,” he wrote to staffers.
+
+>That timing was not lost on multiple Insider staffers. After Carlson led a three-minute call about the layoffs, where he took no questions, multiple enraged staffers in Insider’s union Slack joked that his speech wasn’t written by a human.
+
+>(Carlson did not, in fact, write his speech with the help of AI, an Insider spokesperson confirmed.)
+
+^1 Kevin Hurler (20 Apr. 2023), “Insider cuts 10% of staff, says ChatGPT experiments aren't to blame”, Gizmodo/Great Hill Partners, https://gizmodo.com/business-insider-layoffs-ai-chatgpt-tests-1850356792
+
+^2 Corbin Bolies (20 Apr. 2023), “Insider to lay off 10 percent of staffers, company says”, The Daily Beast, https://www.thedailybeast.com/insider-to-lay-off-10-percent-of-staffers-company-says

@@ -1,0 +1,1 @@
+Hardware I'd guess, I too thought, once a model is trained it's quite easy to run, and while this is comparatively true, I ran a local LLM on my home PC and it spikes my cpu and takes multiple seconds for it to start a response. So I could imagine chatgpt still need good hardware for each individual user.

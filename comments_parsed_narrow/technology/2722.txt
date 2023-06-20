@@ -1,0 +1,3 @@
+The key is to let chatgpt write a template then edit parts as needed.
+
+What I've done recently is ask chatgpt to pull keywords from a job ad.  I then distill down that list, and feed my cover letter through chatgpt again asking it to rewrite the cover letter incorporate those keywords and put some final editing touches on it.

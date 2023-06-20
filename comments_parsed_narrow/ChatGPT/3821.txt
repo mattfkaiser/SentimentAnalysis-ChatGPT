@@ -1,0 +1,7 @@
+That's probably why the down-votes, which is fair.
+
+However, I think my point still stands; there *are other* LLMs people can talk to.
+
+[Recent Reddit post by someone else / huge list of other LLMs](https://old.reddit.com/r/ChatGPT/comments/14awyo3/best_chatgpt_website_alternatives_huge_list/)
+
+Not to mention the conversations you can have with a NSFW LLM locally self-hosted with GPT4All or similar.

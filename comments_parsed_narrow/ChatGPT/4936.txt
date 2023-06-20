@@ -1,0 +1,1 @@
+If someone gives prompts to chatGPT and creates a plugin to make video clips from YouTube, does that person understand how the YouTube API works? Does that person understand what the relevant parts of the videos are? How do you know the answers to those questions?

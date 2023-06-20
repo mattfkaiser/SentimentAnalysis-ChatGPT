@@ -1,0 +1,1 @@
+ChatGPT is a GENERAL purpore language model. I think if they use a very big dataset of input-output pairs from Wolfram or similar service as traing data instead of general discussions from the whole internet, the resulting model MIGHT be able to do it much better.

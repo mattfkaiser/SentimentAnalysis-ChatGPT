@@ -1,0 +1,1 @@
+This revolves around using ChatGPT or openAI. Is there any other self host services to feed confidential data and get results back?

@@ -1,0 +1,1 @@
+That makes sense. I believe HeyPi uses a GPT 3.5 API so it doesn't have the reasoning that GPT 4.0 has. I just wish Chat GPT had a more caring tone to begin with but I suppose it's only a prompt away from being that way; anyway, good to know.

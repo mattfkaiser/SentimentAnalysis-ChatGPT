@@ -1,0 +1,9 @@
+Watched the Lex Friedman podcast on this where he spoke to the creator of wolfram alpha. 
+
+You may not know this, but the wolfram alpha AI uses it’s own language to communicate with itself and perform executive functions.
+
+The creator described that what’s special with this plugin is how ChatGPT is able to translate normal human language into a very specific language created for an artificial intelligence with high levels of accuracy, and then take that output from WrA and translates it back into normal human language. 
+
+He claimed this was pretty revolutionary as he’d been working on this exact concept for decades. In fact, it was the entire founding idea behind WrA if I remember correctly. 
+
+Just food for thought.

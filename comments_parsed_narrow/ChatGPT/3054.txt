@@ -1,0 +1,5 @@
+ChatGPT is very good in this feature. On every prompt, I wrap a block of text asking ChatGPT to include potential questions a user might ask regarding the request for my app. It’s unfortunate in your situation, but it is what it is; OpenAI was just faster than your company on getting there. 
+
+Azure is offering OpenAI models for businesses solving the privacy issue. 
+
+Some companies are choosing in-house solutions still, but I think it’s futile if they’re not among the big tech. Gluck and hopefully things work out for you.

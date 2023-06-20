@@ -1,0 +1,28 @@
+It responded to the question, it just didn't process it as an answer to the riddle. It's the old "Hu's on first" ambiguity.
+
+E.g. I just did this:
+
+P: Create a riddle where the answer is "serious"
+
+ChatGPT:
+
+I can make you somber or grave,
+
+I can make you focused and brave.
+
+When you need to buckle down,
+
+I'm the attitude that you'll crown.
+
+What am I?
+
+P: are you serious
+
+ChatGPT:
+
+As an AI language model, I don't have emotions in the same way humans do, so I don't experience a sense of seriousness or lack thereof. However, I am designed to provide helpful and informative responses to your questions to the best of my abilities. If you have any further questions or if there's anything else I can help you with, please don't hesitate to ask!
+
+P: Is the answer to the riddle "serious?"
+
+ChatGPT: 
+Yes, you are correct! The answer to the riddle is "serious." Well done!

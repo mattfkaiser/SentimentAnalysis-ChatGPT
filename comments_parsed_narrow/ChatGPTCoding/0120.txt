@@ -1,0 +1,5 @@
+When I think further, it looks similar to creating a New Conversation in regular chat GPT with the updated code. Isn’t it? 
+
+The difference is in configuring the settings like temperature, maximum length, etc. 
+
+Am I right or I’m still missing the main use case or usage of playground?

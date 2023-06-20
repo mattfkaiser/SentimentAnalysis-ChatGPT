@@ -1,0 +1,1 @@
+I would agree with this. I've had chatgpt write .net code and it put everything into a single method, then I just needed to tell it to separate it into independent classes and it was fine. it is very literal at times

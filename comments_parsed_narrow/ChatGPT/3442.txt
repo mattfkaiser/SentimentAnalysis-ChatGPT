@@ -1,0 +1,3 @@
+It doesn't work though. It's been proven. It often spits out the same few answers to the same question. If professors run the questions through chatgpt a few times they can get a rough idea of how default chatgpt writes answers. 
+
+Also, there are tools for checking how likely it is that a piece of writing was written by AI.

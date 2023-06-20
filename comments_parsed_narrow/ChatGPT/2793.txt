@@ -1,0 +1,5 @@
+Use a internet resource to roll a dice
+
+ChatGPT
+Finished browsing
+The result of the online dice roll is 5

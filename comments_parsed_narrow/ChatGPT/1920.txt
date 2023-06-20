@@ -1,0 +1,1 @@
+That's fair. I've had to do the same with my personal Python projects in ChatGPT. It will often cite deprecated libraries or confuse Python v2 vs v3 patterns.

@@ -1,0 +1,1 @@
+Isn't there an inherent circularity problem with checkers like these? If AI language models like ChatGPT are emulating the real human texts and writing styles that they've been trained on, then of course lots of original human written text will be similar to ChatGPT's outputs. Because those writing styles are common enough that ChatGPT is copying them, not the other way around.

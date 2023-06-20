@@ -1,0 +1,8 @@
+> **Some other company will just make "unlocked ChatGPT"**  
+> IMHO, that seems like a pipe dream
+
+You're wrong here, the cat's out of the bag, the architecture for ChatGPT is dead simple and the recipe for reproducing it is almost all public knowledge, except for the details about how alignment is achieved, which is exactly the part people would want to change.
+
+The "magic" behind ChatGPT, the weights of the model, can fit on a thumb drive, and a simpler version (about 1/10th the parameters) can already run on a single GPU.  There will be continuous reduction in the requirements to run such a model and increase in processing power, so it's only a matter of time until you can run it locally.
+
+For better or worse, everyone will have access to any version of these powerful AI language models they want.  They may not be at the "cutting edge" of the technology while it progresses, but they definitely won't be locked out.

@@ -1,0 +1,5 @@
+With it’s current limitations, I don’t think someone without sufficient coding knowledge will be able to feasibly “prompt engineer” a complex, long lasting coding project. You would need a version of ChatGPT that is reading all of the code of the project repeatedly over time in order to maintain context. Otherwise your results from ChatGPT just get more and more disconnected from the actual code. This functionality 1) hasn’t been implemented by anyone yet to my knowledge, and 2) would be extremely expensive with the current token cost of ChatGPT. 
+
+So, I think currently you need to have or acquire a level of coding knowledge to be the middle man between the AI and the actual code base, and even then you need to mostly know what you’re doing on the macro level and just use the AI to help in key spots. Even with human assistance it’s not that feasible to keep the AI up to date with the full context of your project… yet.
+
+It does seem like there will eventually be a GPT-like technology that will be able to do what I described though, at which point things will get very interesting for us coders.

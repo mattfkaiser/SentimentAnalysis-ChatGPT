@@ -1,0 +1,5 @@
+People making extravagant claims are likely either doing a task that’s super well understood and easy for the model to regurgitate or just bullshitting people.  
+
+However, the one thing ChatGPT excels at is giving starting examples and creating templates when given a rough idea of what you need.  
+
+I used it today to generate an example of an asynchronous gRPC call in Python it needed to be tailored to what I needed specifically but it probably saved me like 2-3 hours of doing research and generating a rough working example.

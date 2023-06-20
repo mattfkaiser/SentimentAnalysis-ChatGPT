@@ -1,0 +1,3 @@
+>It can be great for beginners or common code generation, but experienced programmers won't use it for that, they already have their own code and knowledge to get them that far. 
+
+Even for things I know how to do, ChatGPT can be much quicker. I use it all the time to write short shell scripts, the type of thing I used to write myself but getting the syntax right takes way more time than just explaining what I want to ChatGPT. Sometimes I have to debug the result, but overall it's still way quicker.

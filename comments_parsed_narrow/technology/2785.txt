@@ -1,0 +1,7 @@
+And yet we are capable of discerning between a truthful statement and a false one.
+
+ChatGPT may be great but it really is, at the end of the day, no different than Google's I'm Feeling Lucky button. Except that instead of being able to determine if what you're presented is valid by verifying its source...you're instead left with an algorith that says "This is the answer to your question" with no ability to check sources.
+
+Add to it the fact that those who control it will, inherently, feed their biases into it because the dataset used to "train" it will reflect the views of whoever controls it. And they are not exactly doing this out of the kindness of their hearts. Look up who funded the research on GPT3. There's a TON of money in this.
+
+Tl;dr - The reasons Wikipedia is not a valid source for research is the same one ChatGPT isn't. It may be a start but too many people are already extremely overvaluating it's accuracy.

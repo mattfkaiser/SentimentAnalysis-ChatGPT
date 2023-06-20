@@ -1,0 +1,1 @@
+This is really great, as a person also with no experience, I've been trying to create a chess with pygame using ChatGPT but I have been unable to complete it. This just seems bizarrely good in comparison to other projects I've seen.

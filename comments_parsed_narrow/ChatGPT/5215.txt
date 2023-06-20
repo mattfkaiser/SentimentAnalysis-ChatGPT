@@ -1,0 +1,6 @@
+>So I ran a small test, and GPT said it wrote all 10 of the essays I gave it, ranging from ones written by me to group assignments, it said all of them were written by ChatGPT. I have even reached out to a few people to get stuff written by them to test if maybe just the Legal writing style is particularly similar to ChatGPT, but I suspect that's unlikely. I fully expect ChatGPT will just report everything as being written by ChatGPT—likely because it's plausible that … anything was written by ChatGPT.
+
+When I ask it, it says:  
+
+
+"As an AI language model, I don't have access to my training data, but I was trained on a mixture of licensed data, data created by human trainers, and publicly available data. I should note that while I strive to provide accurate and up-to-date information, my responses may not always reflect the most current news or events. Therefore, I cannot confirm or deny whether I wrote the specific text you provided, as I don't have memory of past interactions."

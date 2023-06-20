@@ -1,0 +1,12 @@
+What about this?
+
+Yo, so like, the GPT-3.5 model, the one that makes ChatGPT work, tries super hard to make its text sound all human-like and stuff. But, there are some things that can give away the fact that it was actually written by an AI, you know? Check out these signs:
+
+1. Repeating stuff: Sometimes, ChatGPT just keeps saying the same thing over and over again. It's like it got stuck on some idea or phrase, probably because it learned from a bunch of examples.
+2. Being all generic and stuff: ChatGPT usually takes this boring middle ground on things. It doesn't really have personal opinions or feelings, unless you specifically ask for it.
+3. Saying the same things too much: ChatGPT can get kinda obsessed with certain phrases or expressions it picked up from its training. It's like it can't help itself, man.
+4. Not really getting the context: ChatGPT kinda understands what's going on in a conversation, but sometimes its answers are just too generic. It doesn't pay attention to the little details or the specific question you asked.
+5. Making stuff up or being all wrong: ChatGPT messes up sometimes, bro. Its responses can have wrong or incomplete information because it's just going off what it learned before. It doesn't have access to the latest info.
+6. Giving weird or unexpected answers: There are times when ChatGPT gives answers that sound right, but when you look closer, they're actually totally wrong or make no sense at all. It's like, what's going on?
+
+Oh, and like, remember that even though these signs might mean that ChatGPT or some other AI wrote the text, they're not 100% proof, you know? The tech keeps getting better, and with fancier models, these signs might not be as obvious.

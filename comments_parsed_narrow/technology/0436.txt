@@ -1,0 +1,15 @@
+So I think I agree with you for the most part, but I wanted to respond because I think there are different ways of structuring assignments to highlight ChatGPT's shortcomings and to help students continue to learn in spite of this "tool."
+
+I teach a section of an introductory literature survey at a well-known university. (I'm just a grad student, so it's just one section -- thank god.) When ChatGPT started getting a lot of attention, I incorporated it into my midterm assignments: I gave students the option of posing one of the essay prompts to ChatGPT and critiquing its responses.
+
+Across the board, students noticed a few things:
+
+* 1. ChatGPT can "cite" sources, but it often cites the wrong location. It can't seem to find its way around Dante's _Inferno_ or Shakespeare's _The Tempest_, for example.
+* 2. ChatGPT is very repetitive. It can spit out an acceptable high school–level five-paragraph "keyhole" essay, but the level of repetition makes it glaringly obvious that its essays are not on par with even B-level froshes.
+* 3. ChatGPT does not actually analyze the text "in front" of it. At best, it synthesizes a few good analyses and calls it a day. Even my first-year students noticed how superficial its readings are.
+
+Through my students' critiques of ChatGPT, I got to see their own thinking. This was a revelation! Instead of getting a mediocre essay on a required text, I got unfiltered aesthetic judgments on what made a good or bad reading. I got to see a record of my students learning as they refined the prompts that they gave to ChatGPT, and I could see in their subsequent in-class writings how they had started to interrogate the quality of their own writing.
+
+ChatGPT *is* a tool. We can let it take over if we're lazy -- it's competent, and could probably coast through a decent school with somewhere between a C and B average. But we can also expose it as a tool and encourage our students to plumb its depths. Maybe we'll all be better thinkers for the effort.
+
+Addendum: I have to mention Plato's _Phaedrus_, which has never felt more prescient. Please read it if you're at all worried about ChatGPT, and try to recognize the irony of Plato _writing_ this dialogue.

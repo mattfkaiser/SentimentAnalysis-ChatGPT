@@ -1,0 +1,11 @@
+I don't know how other people use chatgpt use it but your is the worst possible use case.
+
+I'm still learning as you are but I'm at the second year of my master degree in computer science and I have to say that since the thing came out I used it heavily to study things and try to understand them.
+For me there is no urge to use chatGPT for two reasons:
+
+1) Unless the thing you are trying to understand is in the realm of "specific but there is something written about it on a website or a text somewhere" its reply will be bad ad best, it can also be completely made up.
+I have seen a friend generating Go code with GPT and it invented library functions that didn't exist.
+
+2) For the love of christ it writes wrong code.
+
+Bottom line, please, stop using chatGPT to do your learning work, you are wasting your time, instead use it ro enhance your learning work by asking him clarifications about stuff that can be found in the documentation (it is good at that).

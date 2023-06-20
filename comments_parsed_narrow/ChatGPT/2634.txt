@@ -1,0 +1,3 @@
+Oh for sure they're keeping all that data. ChatGPT's data policy specifically mentions that everything you send can be used by them for training which is why you shouldn't send sensitive data as it might end up in the dataset. Only by using the API you can keep things private.
+
+All that data is used for sure to train newer versions, so as far as I'm aware the current GPT versions don't really use the RLHF yet because the training takes ages. Unless they can slap it on top of the base model but I kinda doubt they're taking such crude approach.

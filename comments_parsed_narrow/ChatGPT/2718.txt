@@ -1,0 +1,5 @@
+Yes, I'm sure it doesn't understand in the sense that we might, but the responses are eerily efficient at guessing context of the questions. I guess the underlying principle is self learning by extrapolation, but the example given where op is asking ChatGpt to take the part of "an actor" then introduce a novel, unrelated, concept seems to require an amazingly deep interpretation of the input.
+
+It reminds me of this timeless explanation from Richard Feynman about context and understanding:
+
+https://youtu.be/36GT2zI8lVA

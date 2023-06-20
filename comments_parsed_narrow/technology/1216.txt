@@ -1,0 +1,22 @@
+>“My first thought was: bummer,” Cowell said. “My second thought was: You know what, that’s an awfully long and specific and cumbersome title to have randomly been picked.”
+
+> The book, titled “Automating DevOps with GitLab CI/CD Pipelines,” just like Cowell’s, listed as its author one Marie Karpos, whom Cowell had never heard of.
+
+"Automating DevOps with CI/CD Pipelines" is literally the title of 100s of blogs posts out there. Someone found that Gitlab was missing and wrote one using ChatGPT.
+
+The problem, according to the author, is low quality content in books written by AI rather than authentic human fact-verified content.
+
+No plagiarism is claimed.
+
+> The book’s publisher, a **Mumbai-based education technology firm called inKstall**, listed dozens of books on Amazon on similarly technical topics, each with a different author, an unusual set of disclaimers and **matching five-star Amazon reviews from the same handful of India-based reviewers**. InKstall did not respond to requests for comment.
+
+Unscrupulous Indian scam publisher in the technical training space:
+
+https://www.google.com/search?q=%22inkstall+mumbai%22
+
+Well, well, well. I'm Indian and I can assure the world that this is going to become a big deal in the near future. Once one Indian is in the news for making a big buck with low effort, a million other Indians will try it without question. Others will try harder and with more crooked tricks to succeed.
+
+I've worked in the SEO/SMM industry here and it is going to get disrupted completely, and in the process, it is going to add a big headache to the world's 
+quality and content policing systems. Tools like Grammarly Go are going to be on every Indian SEO employee's computer and we are going to churn out bullshit at never-before rates, empowered by GPT-3/4 .
+
+Search engines better learn how to distinguish and label AI content. It's not going to be easy or pretty.

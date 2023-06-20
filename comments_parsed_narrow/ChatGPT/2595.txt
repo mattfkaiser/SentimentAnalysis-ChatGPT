@@ -1,0 +1,3 @@
+I don’t think that whoever wrote this article is aware of the capacity of ChatGPT. Your submissions are limited to an established number of lines and ChatGPT doesn’t remember everything that it’s been told. 
+
+That is unless people like me start to write libraries that can be called during certain tasks and submissions. Hmm… I should get on that. In fact, I already have.

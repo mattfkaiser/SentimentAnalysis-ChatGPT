@@ -1,0 +1,11 @@
+>excited Redditor with a theory, do you understand how ChatGPT works?
+
+CS degree and a few years working with various types of machine learning.
+
+ it's "just" predicting the next word with some fine tuning layered on top of that.
+
+But it turns out that forces it to learn to reason a little about what it's predicting.
+
+It "only" has the reasoning ability of a child. (Chatgpt 3.5 is somewhere around the level of a 7 year old child while the version based on gpt4 is better)
+
+But even the people who built it don't fully understand how it can reason at all.

@@ -1,0 +1,5 @@
+>Can’t create anything new.
+
+in chatgpt's case, can't even learn anything new, with a 2-year-old dataset. 
+
+the reason this works for low-level academic papers is the assignments are that simple & mostly constructed as busywork. real business analysis & decision-making quite simply needs better tools.

@@ -1,0 +1,8 @@
+Yeah they can though. I.e. I have a story-writer that makes characters, dialogs etc. I didn't give it any of that. All I give it is a genre and a high-level synopsis.  
+
+
+It's doing pretty much the opposite, taking a summary and imagining details. Every time ChatGPT lies to you and "makes up facts", it's actually pretty much using the equivalence of imagination. You can exploit this to make something novel and unique.
+
+&#x200B;
+
+I.e. I gave it a prompt to make an absurd story about a fart gaining consciousness, I'm pretty sure that has never been written, and probably isn't in it's training set, but it did it. Named the fart and everything, explained in detail it's first moments of life emerging from someones anus, etc. Probably wrote it better and more creatively than you could, if I asked you to do it.

@@ -1,0 +1,5 @@
+As a programmer, seeing all the people say my profession is dead because they can get chatgpt to write code is comical. It writes incorrect code constantly and just makes up libraries that don't exist to hand wave hard parts of a problem. 
+
+It's great for "rubber ducking" through things or taking technical words and making it into layman terms to explain to management or others though. The LLMs made for coding (like Copilot) are great for easy things, repetitive code, or boilerplate but still not great for actually solving problems. 
+
+I tell everyone ChatGPT is an advanced chat bot, it downplays it a bit but with all the hype I think it's fine to have some downplaying. Code LLMs are just advanced autocomplete/Intellisense

@@ -1,0 +1,11 @@
+I love ChatGPT but they definitely borked it. I was having trouble getting it to do precisely what I asked. It kept trying to get creative. It's like they cranked up the temperature parameter up to 0.99.  
+
+
+After several failed attempts I gave it the same task using the API for ChatGPT 4 and set the temperature to 0.1. Perfect. Did exactly what I wanted.   
+A friend of mine suggested it could be the feedback catching up with it, that too many people are asking it to write poems, emails, etc. which lean towards needing more creativity, aka a higher temperature.   
+
+
+If anyone is unfamiliar with the temperature parameter I posted a short blurb on LinkedIn that summarized Dr. Stephen Wolfram's explanation. Article source in my LinkedIn post.  
+
+
+[Demystifying Temperature](https://www.linkedin.com/posts/mikejmcaulay_what-is-chatgpt-doing-and-why-does-it-work-activity-7069027080939712513-NigH?utm_source=share&utm_medium=member_desktop)

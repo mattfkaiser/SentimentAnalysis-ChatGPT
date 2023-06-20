@@ -1,0 +1,1 @@
+The fact that gpt-3 was released in 2020, and by 2023 we had gpt-4 *does* mean the upper limit is 3 years, and frankly, gpt-3 was stupid compared to even gpt-3.5 (the one powering free chatgpt).

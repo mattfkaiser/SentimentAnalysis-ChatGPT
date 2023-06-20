@@ -1,0 +1,3 @@
+If you’re using the edge browser, check the upper right corner for a blue “b” bing logo. If you click that, a sidebar window will appear. 
+
+In there, there should be a chat option that’s powered by chat gpt

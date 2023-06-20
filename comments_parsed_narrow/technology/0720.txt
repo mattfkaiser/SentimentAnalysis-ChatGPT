@@ -1,0 +1,4 @@
+I don't feed ChatGPT code directly, the infosec guys would send me to the shadow realm for that.  
+
+
+But even still, it's quite useful. I usually just explain the problem and ask how would it solve that, and it gave me many ideas I never thought about.

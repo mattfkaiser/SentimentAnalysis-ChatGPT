@@ -1,0 +1,3 @@
+I’m yet to find a good solution, so, until there is, I’ve been using:
+
+https://chatgpt-prompt-splitter.jjdiaz.dev/?fbclid=IwAR03PtkMDSpv2HXWYVktBszpgU3QhZ8f8ISPTp5GryYGZtxpxG1qXZRSkqo

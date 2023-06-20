@@ -1,0 +1,5 @@
+This is fucking hilarious. Clearly it needs some more RLHF to keep weird shit like that from happening though. Plus it tends to lose the plot if you send more than a couple queries in a single thread. It'll get better for sure.
+
+It's really impressive seeing what it can do when it works though. It can give summaries of collective user reviews, do multiple searches when the first one isn't specific enough for it to pick out an answer (or leads it to an obvious missing piece it needs to look up to finish its answer), provide suggestions based on image contents (it seems anyways), and guesstimate answers to problems surprisingly well. Connecting and fine tuning ChatGPT to trigger and utilize search results in its answers turns out to be scary good when it works.
+
+The WAN Show demo of new Bing is rather impressive, despite the occasional shortcomings. https://www.youtube.com/watch?v=llonR885bMM

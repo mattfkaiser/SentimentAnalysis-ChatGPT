@@ -1,0 +1,6 @@
+Moreover, ChatGPT is the native messaging service of Utopia P2P ecosystem, and it provides several benefits, including:  
+1. Completely private and encrypted messaging between users.  
+2. Instant messaging with no delays, even across long distances.  
+3. File transfer between users with no size limits.  
+4. Voice messaging for convenient communication.  
+5. Group chats and channels for communication with multiple users.

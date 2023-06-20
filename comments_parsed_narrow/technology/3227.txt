@@ -1,0 +1,1 @@
+Coding is one of the things that suits ChatGPT because it has used StackOverflow as part of its learning. There's a whole corner of the internet that exists around people asking "how do I write code for xxx?" And someone always has an answer. So you can speak what you want to code to the chat plainly, and it'll spit you back what you need to write to make it happen.

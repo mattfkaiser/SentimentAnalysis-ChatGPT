@@ -1,0 +1,9 @@
+I would like to suggest an update to this question that would avoid distracting from the main question of "Is chatGPT able to invent new technology?". 
+
+To train ChatGPT, we need a large training dataset, but of course there isn't much text data from 1000AD currently available. But we do have the ability to synthesize vast amounts of data. I think for the purposes of this question, we should assume that we have terabytes of plausible text data consisting of only pre-1000AD knowledge, resulting in a model the same size as ChatGPT, but with all modern science completely eliminated from it's training data. 
+
+Nowadays, we've pushed the edge of technology so far that it is quite difficult to make any progress because all of the obviously useful technologies been invented already. So now it requires lots of money, very complicated experiments, and big teams of people to make meaningful progress. But back in 1000 AD, a lot of very useful undiscovered technologies were still very close to "first principles" reasoning. Some very useful things could be invented by an average joe who manages to combine two ideas in a way that nobody else had thought of yet.
+
+We know that language models seem to have some sort of basic mental model of the world, and some common sense reasoning skills, and I think it would still have these abilities with only pre 1000AD data.
+
+I don't know if it would actually be able to eventually reach our current level of understanding of the world, but I think it should be able to make meaningful progress. Maybe it caps out at 1500 AD before the ideas become too complicated. Maybe not. Someone could try running this experiment by training a language model on a huge chunk of synthesized text that's been filtered to only include pre-1000AD knowledge.

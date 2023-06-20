@@ -1,0 +1,5 @@
+There's so much going on in his post that's amazing, but let's take this.
+
+>It also looks at the error code if there is one, and tries to resend the request differently in an attempt to fix the mistake!
+
+Normally, if your code has an error, that's it. Now, you would have to redo that code so that in the same scenario, it would work. ChatGPT seems to notice there's an error and then redo the request in a slightly different way in order to get the same result but try to bypass the error.

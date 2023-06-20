@@ -1,0 +1,1 @@
+A per-message setting for context priority would be neat in ChatGPT.

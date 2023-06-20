@@ -1,0 +1,19 @@
+I asked GPT4 for you and this was her response:.
+
+Identifying a student's use of AI like ChatGPT for their assignments might be challenging because the language generated is intended to sound human. However, here are a few telltale signs that a student may be using an AI:
+
+1. **Complexity of Vocabulary**: If the vocabulary used in the paper seems unusually advanced or sophisticated for the student's grade level, they might be using AI assistance. Look for a mixture of high-level language and technical terms that the student has not yet been taught.
+
+2. **Perfect Grammar and Punctuation**: While some students indeed have excellent grammar and punctuation skills, a paper that exhibits flawless language construction beyond what is typically expected from a high school student might raise suspicion. 
+
+3. **Excessive Thoroughness**: If a student's work is suddenly more thorough, detailed, or demonstrates knowledge beyond the scope of the taught curriculum, this may be a sign. For instance, discussing historical, scientific, or literary elements in excessive depth.
+
+4. **Unusual Structure**: AI-generated text can sometimes have a slightly peculiar structure, producing content that's organized in a way a student wouldn't usually approach it.
+
+5. **Lack of Personal Voice or Style**: Student essays typically have a distinct 'voice' or style, reflecting their unique perspectives. If this is missing or inconsistent, it could indicate AI use.
+
+6. **Inconsistent Writing Styles**: If a student's style of writing changes significantly from one assignment to the next, they may be using AI. For example, one paper might have a formal tone while another uses colloquial language.
+
+7. **References to Post-2021 Events or Information**: As of my last training data in September 2021, any reference to events or information beyond this date could indicate the use of an updated AI model.
+
+Remember, these signs are not definitive proof that a student is using an AI like ChatGPT. They might simply be improving their writing skills, using new learning resources, or trying out different writing styles. To confirm your suspicions, consider discussing the matter directly with the student and emphasizing the importance of academic honesty and integrity.

@@ -1,0 +1,3 @@
+Again, human beings are a kind of LLM running on vastly different hardware, so QED and all that. The topic, as stated, was not "all possible LLMs", but "LLMs like ChatGPT and LaMDA", which run on CPUs and GPUs. 
+
+I don't believe software running on CPU/GPU hardware is capable of sentience.

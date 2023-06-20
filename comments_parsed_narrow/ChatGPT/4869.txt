@@ -1,0 +1,7 @@
+>It’s essentially a big calculator figuring out which word is statistically the most likely.
+
+No, ChatGPT is not just a big calculator figuring out the statistically most likely word (it's not an n-gram model at all). It is a language model that uses deep learning techniques to understand and generate human-like text based on the input it receives. While statistics play a role in training the model, its architecture allows it to capture complex patterns and relationships in language beyond simple statistical probabilities.
+
+ChatGPT is based on a transformer model, which uses self-attention mechanisms to understand the context of the input text and generate coherent and relevant responses. It learns from a vast amount of training data, including books, articles, websites, and other sources, to develop an understanding of language and generate text that is contextually appropriate.
+
+Rather than relying solely on statistical probabilities, ChatGPT uses its learned knowledge and contextual understanding to generate responses. It can consider the entire input context, including previous parts of the conversation, to generate coherent and relevant replies.

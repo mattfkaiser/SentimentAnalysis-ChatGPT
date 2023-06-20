@@ -1,0 +1,3 @@
+Interesting. I generally have really good luck with PS scripts working without specifying much except for steps. I will say ChatGPT gets confused on which ps module to use since I work in Azure and there are 2 versions from MS but I have the juniors on my team ask me the same question
+
+I was writing one yesterday for adding users to azure devops and it was pretty good but it struggled with the data format output from the azure cli, which looks like json but isn't. Once I told it that it should treat it as just a string it worked fine and knew what to do. Saved me a bunch of time since I hate working with regular expressions

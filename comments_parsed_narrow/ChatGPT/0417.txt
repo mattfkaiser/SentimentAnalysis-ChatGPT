@@ -1,0 +1,29 @@
+Not really a fixed prompt, but I use Google Lens to grab ingredients from grocery store items. ChatGPT can sort the contents of the ingredients and categorize them giving you a better idea of what is in your food.
+
+* Open Google Lens.
+* Take a photo of some ingredients
+* Long press on the text and select it and copy it to the clipboard
+* Paste it into ChatGPT and say something like "Categorize all these Ingredients"
+
+**Prompt**
+> Categorize all these Ingredients
+Energy Bites (Skippy Peanut Butter [Roasted Peanuts, Sugar, Palm Oil, Salt] Honey, Oats, Vanilla Protein Powder [Protein Blend (Whey Protein Isolate Whey Protein Concentrate), Polydextrose, Natural Flavors, Organic Cane Sugar, Salt, Xanthan Gum, Cellulose Gum, Stevia Extract, Ground Vanilla Bean. Soy or Sunflower Lecithin], Reese's Pieces Candies [Sugar, Partially Delatted Peanuts, Hydrogenated Vegetable Oil (Palm Kernel and Soybean). Corn Syrup Solids. Dextrose, Contains 2% or Less of Palm Kernel Oil. Corn Syrup. Artificial Color (Yellow 6 Lake. Yellow 5 Lake Red 40 Lake Blue 1 Lake). Cornstarch, Salt, Confectioner's Glaze, Soy Lecithin, Modified Cornstarch, Carnauba Wax, Vanillin (Artificial Flavor), Milk), Ghirardelli Semi Sweet Chocolate Chips (Cane Sugar, Unsweetened Chocolate, Cocoa Butter, Whole Milk Powder, Soy Lecithin, Vanilla Extract], Water)  
+
+**Results**
+> The ingredients in the Energy Bites can be categorized as follows:
+>   
+> Peanut Butter:
+> Skippy Peanut Butter [Roasted Peanuts, Sugar, Palm Oil, Salt]
+> Sweeteners:
+> Honey
+> Organic Cane Sugar
+> Oats
+>   
+> Protein Powder:
+>   
+> Vanilla Protein Powder [Protein Blend (Whey Protein Isolate Whey Protein Concentrate), Polydextrose, Natural Flavors, Salt, Xanthan Gum, Cellulose Gum, Stevia Extract, Ground Vanilla Bean. Soy or Sunflower Lecithin]
+> Candy:
+> Reese's Pieces Candies [Sugar, Partially Delatted Peanuts, Hydrogenated Vegetable Oil (Palm Kernel and Soybean). Corn Syrup Solids. Dextrose, Contains 2% or Less of Palm Kernel Oil. Corn Syrup. Artificial Color (Yellow 6 Lake. Yellow 5 Lake Red 40 Lake Blue 1 Lake). Cornstarch, Salt, Confectioner's Glaze, Soy Lecithin, Modified Cornstarch, Carnauba Wax, Vanillin (Artificial Flavor), Milk]
+> Ghirardelli Semi Sweet Chocolate Chips (Cane Sugar, Unsweetened Chocolate, Cocoa Butter, Whole Milk Powder, Soy Lecithin, Vanilla Extract)
+> Water
+> Note: The Vanilla Protein Powder also contains Soy or Sunflower Lecithin.

@@ -1,0 +1,3 @@
+A good future AI could easily do that talking as well. The main advantage to natural language chatbots is they can work well with the ambiguity of natural language. They can recognize when important information is missing and request it, or request clarification when an instruction isn't specific enough. It could even offer potential solutions and options.
+
+ChatGPT can do all of this already, just not well enough to replace anyone, yet. But for how long?

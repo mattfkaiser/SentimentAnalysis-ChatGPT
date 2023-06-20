@@ -1,0 +1,5 @@
+You are correct.
+
+I’ll be honest, I was going off the title and a quick skim of the article, which seemed to line up, but you are right, the caption of the article is totally wrong. 
+
+ChatGPT responses are encrypted, although yes there have been numerous times when entire conversation histories have been swapped for userbase as a whole, and openAI retains full viewing and training access to your data. That and considering prior versions of GPT even would spit out peoples phone numbers, email addresses, etc, so openAI still has a bad rep for privacy. Not to mention, openAIs chief technology officer was hacked on Twitter just yesterday and used as a crypto scam, which further drives home why I wasn’t even surprised at the claim.

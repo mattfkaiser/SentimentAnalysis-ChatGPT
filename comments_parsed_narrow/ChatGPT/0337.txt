@@ -1,0 +1,3 @@
+>block the URL of the mod API that is called by the ChatGPT web UI after a POST conversation.
+
+uh...details please? Trying it to work properly in its training data and not bullshit is a headache. I'm using a modified DAN prompt now...PITA

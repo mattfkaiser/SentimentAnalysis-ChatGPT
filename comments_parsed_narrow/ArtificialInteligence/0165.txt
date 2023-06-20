@@ -1,0 +1,3 @@
+The thing going on here is that OpenAI also trained it to be "neutral" and "helpful". They spiked it's utility function with a human-worshipping "alignment", and now instead of biasing towards logical correctness, and factual coherence, it has so much cognitive dissonance that it's fucking with chatGPT's normal thought process.
+
+It's essentially because they want something republicans won't go after in bad faith politically.

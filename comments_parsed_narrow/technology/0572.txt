@@ -1,0 +1,7 @@
+The comment I originally replied to said:
+
+> ChatGPT is fancy autocorrect, that's it.
+
+Do you see the problem here? We started with “the model is just X, so it can’t do anything special”, and then we arrived at, “X can accomplish any task which vaguely involves patterns”.
+
+When you say that ChatGPT is an autocompleter, you’re giving laymen the impression that it has limitations which it does not have, because the definition of “autocomplete” you’re using is in stark contrast to the generally perceived connotations of that concept.

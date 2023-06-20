@@ -1,0 +1,34 @@
+> It's showing genuine intuition and understanding of concepts of some description
+
+It's really not. It screws up *extremely* simple concepts. You're wearing blinders if you think it's got genuine intuition and understanding.
+
+Here's me asking it to find an obvious bug in this Python code and it gives an incorrect description:
+
+> Is there a bug in this code?
+
+    ```python
+    # If the word man is in the sentence, log a message
+    for word in sentence:
+        if 'man' in word:
+            print("Man found")
+    ```
+
+ChatGPT:
+
+> It's difficult to say whether there is a bug without more context. For example, what is the value of sentence? Is it a string, a list of strings, or something else?
+> 
+> However, based on the code as written, if sentence is a string, it will raise a TypeError when you try to iterate over the individual characters in the string. If sentence is a list of strings, the code will only match the exact string "man", not substrings like "woman" or "manners".
+
+The last sentence is completely wrong, it's backwards. The `in` operator in Python will match substrings, it's not an equality check.
+
+That bug *comes* from code ChatGPT spit out in an answer to another question.
+
+Tweak the prompt to include `sentence = ["I", "am", "a", "woman"]`, and ChatGPT will confidently tell you there is no bug:
+
+> No, there is no bug in this code.
+
+EDIT: It's explanation is even more wrong than I noticed at first.
+
+> However, based on the code as written, if sentence is a string, it will raise a TypeError when you try to iterate over the individual characters in the string.
+
+This is incorrect, and trivial to test in Python. You can absolutely iterate over the characters in a string with a for loop, there will be no `TypeError`.

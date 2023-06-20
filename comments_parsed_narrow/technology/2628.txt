@@ -1,0 +1,3 @@
+Yeah people keep defending chatGPT’s performance like “well it’s not great *now*, but it’ll get better!”
+
+The crux of the matter is that no language model is going to do anything better than regurgitate what’s said most often. Approximate knowledge of any things can be useful, but it in no way can replace human intelligence or creativity. It doesn’t matter how many parameters the model has; this is a imitation of the training set.

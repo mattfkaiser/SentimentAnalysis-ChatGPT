@@ -1,0 +1,1 @@
+Chat gpt starts becoming less accurate when it comes to long documents which require logic, so yeah for now it's probably better to make a human go through with making contracts

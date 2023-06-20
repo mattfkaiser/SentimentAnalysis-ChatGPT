@@ -1,0 +1,5 @@
+Based on my experience using ChatGPT-4 and from what I've read in the API & other communities, I believe that OpenAI is using embeddings to work around the token context window.
+
+There's really no other way (apart from some process functionally equivalent to embeddings) the ChatGPT can "remember" parts of a session that happened 100,000 tokens earlier, as is the case in some of the running chats I keep returning to.
+
+Embeddings are also what the OpenAI documentation suggests for usage-- as apposed to fine-tuning-- for certain types of tasks that require data more recently than the September 2021 cutoff for the underlying model's training data.

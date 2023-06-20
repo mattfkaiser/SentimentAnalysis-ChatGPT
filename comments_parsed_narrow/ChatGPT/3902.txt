@@ -1,0 +1,3 @@
+I think the major misunderstanding beneath this question is that an AI that could do what you are describing would simply not be like or look similar to ChatGPT. There are too many differences that you are talking about here, clearly you would require something that is not just an LLM.
+
+Is it possible for this sort of thing to be created? Yes. Has it been created and will it look like ChatGPT? No.

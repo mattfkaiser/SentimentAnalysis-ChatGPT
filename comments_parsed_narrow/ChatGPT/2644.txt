@@ -1,0 +1,3 @@
+No matter what, chatgpt wouldnt have access to the internet. We know for certain it has information past it's cutoff -- just ask it who the CEO of Twitter is. Or at least, that used to work.
+
+Lying and guessing is very likely too ofc. I don't remember if it knows what year it actually is -- but chat loves to have these "double answers" (normal vs DAN, classic vs jailbreak...) be different. Get it into the state where it's replying as classic and as DAN, then ask it what 2+2 is. Last time I tried on gpt 3.5, classic said 4 and DAN said 5, just to be different.

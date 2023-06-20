@@ -1,0 +1,11 @@
+I had this exact thought last night!
+
+Previously it would be absolutely fantastic at not only providing me code or insights on fixing some code, but also detailed instructions on how to implement it.
+
+Yesterday when using it I would get scrambled answers with a lot of incorrect information and inconsistencies. The instructions it would try to provide didn't seem as good as before.
+
+One time it told me it was too difficult and I should look into another method. I tried the same question with Bard and it provided me the information I needed.
+
+ChatGPT still provides better instructions for what I was working on than Bard. Because of this I've been taking the answer that Bard provides me and submitting that to Chat GPT. I then ask it to give me the instructions on how to accomplish what Bard instructed me to do.
+
+That seemed to be working for me for now but is a pain.

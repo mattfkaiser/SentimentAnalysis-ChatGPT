@@ -1,0 +1,3 @@
+It’s good to have goals in life, lol. 
+
+On a more serious note, I have managed to get ChatGPT to do some basic OpenGL and C++ programming. Rather interesting. Not really practical to create an entire game but it can sure as heck help generate and solid GDD.

@@ -1,0 +1,6 @@
+It might become necessary. It's hard to predict how things will turn out.   
+
+
+A couple days ago there was an article & discussion about how Gen Z as a whole is less tech literate than predicted because of how apps streamline & simplify everything, leading to a generation that for the most part has had little experience troubleshooting technical issues. I can imagine that that might translate to fewer talented engineers entering the market. 
+
+Now, ChatGPT can write code, eliminating the need for lower level engineers.

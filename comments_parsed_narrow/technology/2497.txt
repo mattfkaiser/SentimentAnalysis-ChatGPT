@@ -1,0 +1,7 @@
+Why not try it? Ask it "Can you rephrase that without the self-promoting bullshit?"
+
+You'll need an account, though.
+
+Edit: I've done it:
+
+> Sure, here's a more straightforward explanation: ChatGPT is a language model created by OpenAI that uses artificial intelligence to generate text that resembles human writing and conversation. When a person inputs a question or request, ChatGPT uses its training to produce a response. It's essentially a computer program that can simulate conversation.

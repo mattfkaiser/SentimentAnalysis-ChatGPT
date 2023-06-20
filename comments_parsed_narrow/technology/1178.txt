@@ -1,0 +1,3 @@
+> Understand that ChatGPT in it's current form makes no attempt at all to be factually accurate. That is not it's purpose.
+
+I'm being pedantic, but *technically* that's not quite true. I believe the RLHF process does attempt to reinforce based on factual accuracy, so there is a weak attempt. But yes, LM's will very likely need to be augmented with external data sources to achieve meaningful accuracy.

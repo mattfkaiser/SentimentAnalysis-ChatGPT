@@ -1,0 +1,33 @@
+If we’re on the topic of CS, if it’s code I am doing in complete isolation from another code base or a brand new project, typically I will start with my own intuition.
+
+Then I will ask GPT for a few suggestions that really only involve READING the code and providing some GENERAL GUIDELINES:
+
+* A static analysis of the code: this will typically involve just asking it to look over a CHUNK of source code. (if there are user defined functions being used, give a comment to what the function does). And ask the following:
+     * Am I following proper OOP/FP fundamentals (you can get more specific here depending on your paradigm)
+     * Any patterns you can identify that should be followed based on requirements and my own implementation? 
+     * Any suggestions for optimization?
+
+This is all good because sometimes asking GPT to write code isn’t too good. It’s excellent at encapsulating logic. So even if the code is wrong, you can syntactically resolve those issues. Or even if the logic is wrong in some places, you can treat it like a colleague who has an incorrect approach and tell GPT WHY it was wrong.
+
+I find THIS especially important because if you can correct GPT, you are also greatly enhancing your own learning! Take the time to explain in the most concise way possible WHY the code was wrong like you would a colleague!
+
+
+If I absolutely need help writing some solution or approach I do the following:
+
+1) Prompt GPT with the problem, with either source code, or a high level description of the issue. It should then formulate some answer around it. Tell it to save this answer and not tell you. 
+
+2) Ask it to provide you an incredible high level pseudocode to addressing the problem, providing HINTS on how to implement the problem without giving too much source code, or maybe just more comments that specify functionality. 
+
+3) Once you’ve exhausted yourself, ask GPT for the answer, read it and see if it makes sense. 
+
+I feel this was extremely helpful in using GPT to help with writing code more efficiently. Not trying to leverage it as a crutch to just write code for you, but guide you to creating better solutions for yourself. Plus the less work you give it currently, it can provide better, more meaningful answers. 
+
+
+Some other favorite things I like to do with it:
+
+Have one session purely for random Q & A (these are those random questions you get in your head and typically would ask Google or some search engine but instead I ask chatgpt instead in the “Random Q & A” session we have open)
+
+Feeding it previous exams to generate more exams including lecture notes (better for GPT 4). I specifically ask it to make moderate changes in the new test compared to old tests using all previous material provided and using the previous exams as reference. 
+
+TLDR;
+I don’t really get into what SPECIFIC prompts I ask it, but general prompts to help you promote good programming behavior. For students, prompts that turn it into a test generator for more practice. For the regular person, random prompts go into a Random Q& A session for you to have an archive!

@@ -1,0 +1,7 @@
+> 1. NoowAI [https://noowai.com/]
+> 2. OraChat [https://ora.ai/chatbot-master/openai-chatgpt-chatbot]
+ >4. Vicuna [https://chat.lmsys.org/]
+
+Limit 2021 knowledge
+
+Try to add limitations like this to the list.

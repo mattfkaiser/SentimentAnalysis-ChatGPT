@@ -1,0 +1,9 @@
+You don't need to train your own LLM. You can use existing LLMs (as an API) with the right prompt and tool/extention. The LLM can essentially wrap your service to have a chatbot interface this way.
+
+For example, if we wanted ChatGPT to be able to do math, we could teach it what the WolframAlpha extention/tool does and how and when to use it via a context prompt to ChatGPT. Then, when we give it another prompt to do some arithmetic it would know to use it and show the results back. The tool would do all the essential work but the LLM would be able to understand and respond in a chatbot way.
+
+In your case, you would need to:
+1. Build the tool/api that maps user input to the correct advice (e.g. semantic search?).
+2. Tell ChatGPT (or other LLM) how to use it and how to process the result.
+
+Look into langChain, they support this kind of paradigm.

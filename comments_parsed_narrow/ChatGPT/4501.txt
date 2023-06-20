@@ -1,0 +1,3 @@
+Don't circumvent your IT policy.  It's there for a reason to protect you and the company you work for.  As others have said use another device if you're writing code you can push it to git or gist. Send it to yourself as an email, or if you have a phone maybe you could send it on teams or something.  
+
+Do not be a fool and put company intellectual property into chat GPT as I could land you in hot water.

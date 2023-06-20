@@ -1,0 +1,67 @@
+Not only that but a big part of being a good programmer is understanding the context of your application and the various parts that make up the whole. 
+
+ChatGPT can help you solve specific coding problems, which can make a good programmer much faster than previously. 
+
+However, it can’t sift through 10 years of legacy code, with context of the upper management political bullshit that caused x code to be written this way or that, etc. and debug that entire mess and create a new solution that still respects that context. 
+
+As impressive as ChatGPT is, the current limitation I see is that it has such a small window of information it can actually process, despite having such a large amount of information available. 
+
+The other day, I fed it the first chapter of a Sci-fi book I am writing. 
+
+First off - I had to use a number of workarounds to even get that first chapter to upload because it was too many words for ChatGPT to handle. Bard was even worse. 
+
+When I finally felt like it had all the words, it mixed up the context and needed a bunch of additional information (i had already given it) to accurately summarize the chapter. 
+
+Finally I ask it to write me a chapter 2, based on the first chapter. 
+
+It was so awful lol. It did give me a few good ideas for where I could take the chapter, but the actual execution was horrible. 
+
+And I think that was South Park’s take on this in their recent episode about it. 
+
+Humans can be really inadvertently stupid and lazy and that is where this is actually kind of damaging. But when it comes to something like writing an entire episode script, it really doesn’t understand enough of our context to really make it relevant, plausible, or funny in anything longer than a few paragraphs. 
+
+And I think this analogy applies to anyone who works in a white-collar industry but with a job that requires any level of thinking. 
+
+ChatGPT won’t replace blogs or content managers, even if it got super good, simply because companies will always need someone with a writing background to edit and approve them. But that role might transform and a number of freelance writers will be out of business - simply because what would have taken 10 people to do now can be done with one or two. 
+
+I don’t think programmers will be replaced - but by the nature of getting faster and more efficient, companies will need fewer programmers to meet deadlines. 
+
+We will always need smart and creative people to at least manage the AI’s output. The issue is that it will become more difficult to gain the experience needed to be considered one of those smart and capable people who should be in charge of it. 
+
+I think the job market will get much more competitive overall - but I do think that humanity has no shortage of need for work. Perhaps, the optimist in me feels that maybe the *amount* of jobs will increase as AI helps us discover new markets, new industries, new technologies, etc. 
+
+I think in the future, money won’t be so tied to resources like it is right now. The SAAS industry kind of shows that money can be generated through non-tangible things. The tangible worth of a SAAS product is the money that they help other resource-dependent businesses generate. 
+
+I feel like the overall skill ceiling for humans is going to rise much more than ever before. It already is. Humanity right now is smarter and more capable than at any other point in history. There are more educated people and more people taking on increasingly complicated work while getting paid less to do so. 
+
+I don’t think the value of our labor is decreasing - I just think there is far more supply of talent than ever before. 
+
+In the 90s, being able to code a website in HTML with a user portal and a basic database would have been enough to land you a six-figure job. 
+
+Now, you need to be able to build entire web applications with custom UX/UI just to get an internship. 
+
+However, it would probably take multitudes less time now (thanks to new coding frameworks, ChatGPT, GitHub, etc) to build that web application than it would to build that website in the 90s. 
+
+I think that UI will be one potential part of the solution. I don’t think that capitalism will end - but the pursuit of it may be more of a choice rather than it being a bare minimum just to get by. 
+
+The work will change but my hope is that humanity will invent way more jobs and enter sort of like the Industrial Revolution of technology. 
+
+I honestly think this will only work if we vote for laws that end the massive hoarding of wealth. Wealth needs to be shared far more than it currently is. 
+
+In the USA, Our wealth imbalance is the same right now (or worse) as it was during the age of giant Monopolies like the Rockefellers, etc. 
+
+We had massive changes in legislation as a result of the Great Depression that happened from this inequality. It also ensured a number of new Safety Nets so that vulnerable people would be protected. 
+
+I think we maybe have one more Great Depression to go through - and then we will vote to change these things. I think we will see massive, sweeping legislation to provide more social safety nets and social services to all citizens and likely other countries will follow suit. 
+
+Who knows though - maybe the AI revolution will be enough to scare people into voting for it right now. It’s really the only logical solution. 
+
+People can make money if they want to - and go and live extravagant lives. But the absolute bottom end of life shouldn’t ever include homelessness or lack of access to food, medical treatment, etc.  
+
+We aren’t smart enough to solve these problems (clearly), but maybe AI will also unify humanity to be more objective and rational in our decision-making. Perhaps AI will help us to reach better solutions as humanity and maybe help us depolarize. 
+
+Kinda like - we won’t listen to each other. But one day maybe AI will be smart enough that humanity views it as a fair, unbiased party that can give us the best outcome for both sides.
+
+I also think that there are a ton of people who would be really happy despite not having much. If you could have, 100% promised from life to death - Housing (That is clean and safe), Food, an appropriate monthly financial stipend, Medical, etc many people might not work. And that should be totally okay. But I really believe that most humans would endeavor to progress and improve - they would likely choose to work and pursue new opportunities. For those that don’t - their life would be meager but adequate. There’s nothing wrong with that.
+
+This in general would ensure that people who do work are pursuing their passions and thus more likely to do well at their jobs. If fewer people overall *had* to work just to get by, I think we’d see many more job opportunities open up.

@@ -1,0 +1,1 @@
+Once I switched to the API with text-davinci-003, I never went back to chatGPT. Still waiting for my GPT-4 API access though.

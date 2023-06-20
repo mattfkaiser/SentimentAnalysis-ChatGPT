@@ -1,0 +1,7 @@
+4096 is half of it’s attention context.
+
+I think that char limit was chosen to prevent messages from being so long that the model won’t have enough tokens to respond with.
+
+IE: It the prompt is 8000 tokens long, chat GTP’s response can only be 192 characters long.
+
+Although, I’ve read a bit about embeddings in the OpenAI API Documentation. ChatGPT may not be able to keep the entire .csv in it’s attention context, but may be able to search through uploaded files when conducting queries. Functionally similar, I think, to adding your own training data.

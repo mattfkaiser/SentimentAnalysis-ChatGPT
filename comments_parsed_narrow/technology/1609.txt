@@ -1,0 +1,5 @@
+Google interview coding questions are "write a single function to do a thing", some might need a helper function. They're not actual programming, it's just seeing if you know how to apply the right algorithm to the question and know how to implement it.
+
+Tbh, tech interviews are mostly worthless and do little to find good devs, it's just a feeding ground for a new industry of tech interview prep.
+
+Now chatgpt will be stuck in team match for 11 months.

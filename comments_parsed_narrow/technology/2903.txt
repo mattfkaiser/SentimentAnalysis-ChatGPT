@@ -1,0 +1,9 @@
+It’s a poem by Matsuo Bashō, which happens to have the same basic theme as my prompt did: loss of friendship. 
+
+My point here is that meaning is always in the eye of the reader, but what distinguishes good art from bad is what tools it offers the reader when  looking for meaning.
+
+I think the fact that you can’t instantly tell that the second example is from the most famous haiku author in history is telling here. I don’t mean that as a criticism of you, but to make a point that it is just as easy to overcompensate by avoiding seeing meaning as it is to anthropomorphize.
+
+And to be clear, I’m not anthropomorhizing chatgpt here. I am fully aware that it does not have a human understanding of the experience it’s writing about, and that it is not thinking about the process of writing the way a human would. However, I do think that it has seen a _lot_ of metaphors, and it has a model of how the patterns work in metaphors. One of the reasons LLMs are so powerful now is that they’re able to unwrap abstractions, and that’s really what writing compelling metaphors is about.
+
+We don’t have a blind test here. We could, but it would be a lot of work. But I’ve been playing with text generators for decades (since they were simple markov models etc), and trying to squint and see where they tend to make you project meaning, and where they fail hilariously. Qualitatively, the kind of output GPT-4 is producing above, where decoding a metaphor is basically effortless, is unprecedented. And I strongly suspect that if we did a blind test where I was to map prompts onto the generated haikus, GPT-4 would do quite well, while GPT-3.5 would do considerably more poorly.

@@ -1,0 +1,6 @@
+TL;DR — [from the article:](https://www.insider.com/chatgpt-passes-medical-exam-diagnoses-rare-condition-2023-4?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-comment)
+
+* A doctor and Harvard computer scientist says GPT-4 has better clinical judgment than "many doctors."
+* The chatbot can diagnose rare conditions "just as I would," he said.  
+* Kohane says GPT-4, which was released in March 2023 to paying subscribers, answers US medical exam licensing questions correctly more than 90% of the time.
+* But **GPT-4 can also make mistakes**, and it hasn't taken the Hippocratic oath.

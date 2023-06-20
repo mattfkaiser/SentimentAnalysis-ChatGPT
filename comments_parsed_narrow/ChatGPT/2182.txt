@@ -1,0 +1,9 @@
+Your colleagues will probably be replaced by other humans who will adapt themselves to this technology before an hypotetical "automation".
+
+Why holding a seminar if you can use that time to program some new tools you and your team need?
+
+I shared a new tool programmed with the language model with my team and one my colleague said "I really want to see a tutorial on this ChatGPC"...
+
+The thing is that language model is not for everybody right now: whoever wants to develop their efficiency, must understand first how the model works. The biggest walls are always iniciative, creativity, openness, problem solving. You really can't teach those in a seminar.
+
+And those who say you're a bonker that trusts ChatGPT's outputs and that you're feeding it with personal data: a language model is a great personal programmer that can help us creating our own tools outside the model itself from scratch without any programming notion.

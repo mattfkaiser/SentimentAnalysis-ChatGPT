@@ -1,0 +1,3 @@
+So I ran a small experiment with ChatGPT, and I found it said it wrote all 10 essays I gave it, that were written by me prior to ChatGPT being invented. I asked it about its confidence of that, and it was highly confident to moderately confident.
+
+Open AI really need to address this quite urgently, it really needs to ensure that ChatGPT written and human written text can't be differentiated reliably.

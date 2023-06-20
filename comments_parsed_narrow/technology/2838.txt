@@ -1,0 +1,8 @@
+I was able to confirm that ChatGPT is unable to confirm if it wrote something or not.
+
+I pasted random text on the internet and asked if it wrote that text and it said yes, which in this case is not true.
+
+However, if you ask it, "how can I tell if you wrote something?" it will have this answer:  
+
+
+"If you are unsure whether or not I wrote something, you can ask me directly by asking if I wrote a specific piece of text or by asking me to confirm if I wrote something. Additionally, you can compare the text in question to the types of responses and information that I provide to determine if it was likely written by me. As an artificial intelligence, my primary function is to provide information and assistance to users, and I do not have the ability to complete assignments or projects for anyone. I exist to provide general information and assistance, and it is the responsibility of individuals to complete their own work."

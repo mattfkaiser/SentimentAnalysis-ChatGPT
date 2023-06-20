@@ -1,0 +1,1 @@
+ChatGPT does explain the code it writes, which I like for learning when I get stuck. I think of it like using a calculator for math problems. It also is overhyped from what I tried using Hackercode challenges failing test cases and giving the correct output.

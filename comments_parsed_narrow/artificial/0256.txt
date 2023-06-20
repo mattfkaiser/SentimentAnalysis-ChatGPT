@@ -1,0 +1,9 @@
+ChatGPT writes code the same way you do. By writing text with the correct syntactic/semantic structure.
+
+How is it able to do this? That's a very deep question, which gets to the heart of how deep neural networks work.
+
+A very simplified answer would be "by learning hierarchical representations". 
+
+The first few layers of the network learn very simple patterns, such as the basic statistics of which words/letters are likely to follow which other words/letters. In the middle layers, the network uses the lower-level features to build more abstract representations, such as "this group of words is often associated with the words "list" or "array" ". Finally, at the highest layers, you have very abstract ideas such as "this block of code implements a loop". 
+
+Image processing networks work exactly the same way. In the lower layers, neurons represent simple "edge detectors", in the middle layers, they represent common textures and patterns that are built from the edge detectors, and at the highest layers they represent things like "ear" or "face", which are again built from representations in the prior layers.

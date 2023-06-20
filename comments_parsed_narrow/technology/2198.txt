@@ -1,0 +1,1 @@
+This. Humans write mostly insecure code, ChatGPT learned from a huge number of examples written by humans.

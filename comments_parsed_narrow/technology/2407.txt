@@ -1,0 +1,7 @@
+That's fair.
+
+Someone tested out how well it could draw SVG images of the mona lisa and it's artistic ability is.... limited. 
+
+But I found it fascinating that it could do it at all when it's essentially blind itself. 
+
+https://neural.love/blog/chatgpt-svg

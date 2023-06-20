@@ -1,0 +1,9 @@
+Well you shouldn't really.
+
+ChatGPT itself admits it can't know. 
+
+If you ask it:
+
+"Did you write this text: \[text\]?"
+
+Then it will say it did but if you ask it how it knows it'll say "im sorry, i can't know"

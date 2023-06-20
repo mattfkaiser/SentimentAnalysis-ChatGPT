@@ -1,0 +1,5 @@
+You ask ChatGPT? Pretty sure it says in the title it’s 100% programmed by ChatGPT. Graphics made by midjourney.
+
+So all you’d have to do is ask ChatGPT to program you a simple game in a programming language of your choice, ask midjourney to come up with some cool looking graphical elements, import the graphical elements into the game’s library, then compile and run. I may be missing something big though.
+
+Edit: actually it says that in the notes/description thingy below the post, not the title, my b

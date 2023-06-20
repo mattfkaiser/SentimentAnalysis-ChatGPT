@@ -1,0 +1,3 @@
+Your professor has no clue how LLMs work. It doesn’t work by going to a database, it doesn’t even know anything after November 2021 exists. You should tell him that. 
+
+You should also say that he’s putting unnecessary stress and anxiety on his students because people who haven’t used CHATGPT are having their essays flagged as written by it, despite the fact it’s not even OpenAI’s AI detector tool, which only has a 26% accuracy anyway: https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text

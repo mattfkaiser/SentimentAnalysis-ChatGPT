@@ -1,0 +1,3 @@
+Just adding some context here. While they report this as a fact in the linked article, the $700K/day is purely conjecture. This is clear in the original article from The Information:
+
+>	Dylan Patel, chief analyst at research firm SemiAnalysis, pegged the cost of operating ChatGPT at around $700,000 a day or 0.36 cents per query. "Most of this cost is based around the expensive servers they require," he said. "Athena, if competitive, could reduce the cost per chip by a third when compared with Nvidia's offerings."

@@ -1,0 +1,7 @@
+And something that everyone needs to understand is that no matter how "easy" programming is made, you can't just sit anyone down and have them write a good application. 
+
+The only thing this is really dangerous for is "code-monkey" positions and even then, it's only dangerous because it can make that position more manageable with less people.
+
+VS2022 already contains an AI model. It's nowhere near the sophistication of ChatGPT sure but the concept is already in use. Even if the code is auto-generated, it requires a lot of checks and verification from knowledgeable people.
+
+I asked Chat GPT to write me a signal downsampling algorithm. It generated an extremely basic but at least usable function. I asked Chat GPT to write functions to calculate certain statistics on sample sets of data. It did okay until we got to specific requests like "write me a function that can find the three largest values that make up at least 10% of the samples of a given data set" at which point it errored out and could not process the request. Regardless, it could be an incredible tool to auto-generate function archetypes and boiler-plate, which would drastically reduce the tediousness of writing code.

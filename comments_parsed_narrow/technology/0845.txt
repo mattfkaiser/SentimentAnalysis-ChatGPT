@@ -1,0 +1,9 @@
+First reported by WSJ:^1
+
+>Makers of artificial-intelligence tools such as ChatGPT would be required to disclose copyright material used in building their systems, according to a new draft of European Union legislation slated to be the West’s first comprehensive set of rules governing the rollout of AI.
+
+>Such an obligation would give publishers and content creators a new weapon to seek a share of profits when their works are used as source material for AI-generated content by tools like ChatGPT. 
+
+>The issue has been one of the thorniest commercial questions to emerge amid a frenzy of AI-powered tools being launched or tested by the likes of Microsoft Corp. and Google owner Alphabet Inc.
+
+^1 Sam Schechner (27 Apr. 2023), https://www.wsj.com/articles/europe-to-chatgpt-disclose-your-sources-863ef330

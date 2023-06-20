@@ -1,0 +1,3 @@
+Developers in general also create mostly insecure code. Why have different standards? If you're copying ChatGPT straight into your codebase without validating or modifying it then you're going to have a bad time but any developer with even minimal competency knows that.
+
+The bigger issue with ChatGPT is how it can leak proprietary code if you paste it in the prompt.

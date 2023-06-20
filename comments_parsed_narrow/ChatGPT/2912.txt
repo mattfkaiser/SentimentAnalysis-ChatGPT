@@ -1,0 +1,3 @@
+it also made me think if it's just an already indexed response, since it doesn't say it has visited a website - (you know, on the Google results page, there are one-line previews of the website), meaning this doesn't have to be the chatgpt address, just the bing bot address.
+
+and [indeed it is](https://i.ibb.co/tHbb2L7/Screenshot-20230522-071951-Firefox-Nightly.png), notice the different IP ranges.

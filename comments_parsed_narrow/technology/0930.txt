@@ -1,0 +1,7 @@
+This is akin saying chatGPT answering tech support questions means coders are going to be replaced. I work in the field, and see daily how tech is making our jobs worse.
+
+The AI reading EKGs is two decades old and still makes mistakes. The sepsis alert they tried to implement is hopelessly broken but no one wants to fix it. EMR and problem lists are insanely bloated, and no one but clinicians can properly update them. Something no one does because we’re wasting so much time navigating the tech.
+
+A long in the tooth cardiologist told me prior to computerized records, he could see 30 patients a day in clinic. Now he sees 15 best case. Likewise, on a given overnight shift my record is 8 admissions. My friend back at home with paper records is much slower than I am yet does 15.
+
+Tech is dropping physician efficiency, and I see anyone introducing chatbots just contributing to a further drop in the care we can provide. If they can get bots to write my notes for me, however, then everyone’s efficiency will double overnight.

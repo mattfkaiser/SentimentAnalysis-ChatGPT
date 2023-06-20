@@ -1,0 +1,10 @@
+You can use both. By Example fine tunning an model with your documentation, that give you little outputs with the basic context and expande it using ChatGPT for create the nlp output message~
+
+Example:
+
+User: What is the React component for footers in Client side?
+Davinci: FooterClient, that accept x pqrameter with y pqrameter for work
+App: Merge question and responses in a comprensive way
+ChatGPT: Hello! For the question what is the React component for footers in Client side. You need to use FooterClient component that accept the next field and here an Example for use it~ ReactCode~
+
+You need to have a lot of imagination!!!

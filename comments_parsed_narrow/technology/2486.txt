@@ -1,0 +1,7 @@
+Gold standard for what? They've been around for 7 years and chatgpt's been active for just over 2 months.
+
+ChatGPT is by far the best *public* language model to date, but the idea that it is somehow a "gold standard" and that no other language model could possibly compete is ridiculous.
+
+Google's could very well turn out to be better, though I can only find [a description of LaMDA](https://blog.google/technology/ai/lamda/) here. Note that LaMDA, ChatGPT, and BERT (google's bidirectional model from 2018) are all based on *Google's* open-source Transformer technology. Nothing's fixed until we actually see results, but my preference is always going to be for open-source over closed-source, especially when we're talking about future innovation. If google's Transformer technology wasn't open-source, there wouldn't be a ChatGPT to talk about.
+
+But as with all things, I suspect that media time and marketing are what's going to drive public opinion moreso than actual quality.

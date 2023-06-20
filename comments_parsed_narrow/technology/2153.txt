@@ -1,0 +1,7 @@
+I’m in the ML space. Sorry but no.
+
+Developments in the field are incremental and ultimately ChatGPT’s novelty is in the interface. Newer GPT variants will improve but if history is a lesson we tend to hit plateaus quickly with a given architecture. In GPT models one big issue is the quality of the data being used. After a certain point it becomes exponentially harder to improve because the architecture isn’t the limitation it’s the quality of the data being fed in.
+
+Supervised image models were “easier” in that the problem space is much more constrained and you could get huge labeled datasets with labels that were good enough. But now we run into the problem with models being trained on a lot of the crap on the internet.
+
+In my own testing with ChatGPT3 it hallucinates incorrect information quite frequently and in subtle ways a human would rarely do (fabricating citations for example).

@@ -1,0 +1,3 @@
+Lately I've been encountering some censorship with ChatGPT-4 that I didn't used to encounter. It's usually minor, and it'll still do most things that GPT-3.5-Turbo won't. But when censorship happens, the API version of GPT-4 will complete the same task with no questions asked.
+
+It has also begun adding more disclaimers that aren't present in the API version, and that I don't remember being present when ChatGPT-4 released.

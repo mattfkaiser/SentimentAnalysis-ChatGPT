@@ -1,0 +1,1 @@
+I asked ChatGPT to help me certify a signature of a JWT token in a particular language.  It did a particularly poor job.

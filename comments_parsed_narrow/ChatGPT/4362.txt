@@ -1,0 +1,8 @@
+I don’t doubt that’s the case, it just seems odd that it needed context to translate the Japanese idiomatically in this case but not the other languages where it provided corresponding idiomatic expressions by default. Obviously, a “translation” can mean different things depending on context. 
+
+I’m interested to see how quickly Japanese improves. I use DeepL right now but sometimes ChatGPT does a better job.
+
+Edit: I do believe AI will mostly replace human translators soon, but at least at this point the user needs to know enough to understand whether the AI generated translation fits the context. I don’t think it has to be a “human vs AI” matchup. When you asked for a more idiomatic expression, you had to know that the original expression was too literal. So I would say the score would actually be
+
+ChatGPT by itself without context —- 0
+Team of human with working knowledge of Japanese + ChatGPT —- 1

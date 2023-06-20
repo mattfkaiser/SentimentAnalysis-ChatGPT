@@ -1,0 +1,14 @@
+>  how would you feel about students submitting the ChatGPT session along with the paper? 
+
+Some institutions allow it for some assessments.
+
+At the one I'm at, each assignment will have a note saying one of these options (paraphrased):
+
+* No generative AI allowed.
+* \[x,y,and/or z\] specific generative AI programs are allowed. You must explain how you used it and include an appendix of prompts used.
+* Generative AI is allowed, but only for \[x,y, and/or z\] purposes. You must include an appendix of prompts used.
+* Generative AI use is unrestricted. You must include a description of how you used it, and an appendix of prompts used.
+
+(It's not exactly that, but from memory it is roughly that.)
+
+The teacher must pick one of these for each assignment.

@@ -1,0 +1,2 @@
+If you don’t have chat gpt plug-ins access but have API access there’s a plugin for autoGPT that can login to your email account via IMAP/SMTP and reply to emails. It can be configured to only save as drafts, if you prefer not to just let it go wild on your email. 
+Might be worth a look.

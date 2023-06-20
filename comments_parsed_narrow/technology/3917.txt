@@ -1,0 +1,13 @@
+The old Microsoft chatbot was apparently trained on Twitter. Chatgpt started from the whole internet (gpt3.5's build sample), but was finetuned on a custom made prompt/response dataset, and then finetuned again to maximize the annotators rankings for quality. 
+
+They only put quality, safe responses in the fine-tuning dataset, and then they ranked anything toxic terribly, so the model would learn not to produce that kind of response.
+
+You can see how they leaned farther on this by talking to it about whether consciousness could be an emergent property of computation that is platform independent.
+
+That is a tenuous, likely unfalsifiable, question in neuroscience, and every neuroscientist I've talked to has said something along the lines of "yes it has to be an emergent property of processes in the brain, no idea if it would emerge if the same processes happened on another substrate, maybe. No idea whatsoever what the specific processes would need to be if so." The literature is basically that, we have no idea. As a result, gpt-j says exactly that, and gpt-3 probably does too. We don't know.
+
+But chatgpt is absolutely unshakably confident that the answer is no, almost certainly because it was given a lot of prompts for how to argue against machine sentience, to prevent the google lamda issue from happening with the entire public.
+
+That's pretty harmless, and of course they did, because having chatgpt express uncertainty about whether it was conscious would be an almost unimaginable disaster. I would do the exact same thing.
+
+But it is an interesting example of how the build sample can be tailored to produce a desired belief system.

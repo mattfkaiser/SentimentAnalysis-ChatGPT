@@ -1,0 +1,1 @@
+ChatGPT also has a lot of confirmation bias — if you ask it something like did XYZ happen because of ABC? It’ll find ways to show how XYZ happened because of ABC

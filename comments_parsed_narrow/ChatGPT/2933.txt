@@ -1,0 +1,3 @@
+thanks to a new addon, "browser"
+
+https://openai.com/blog/chatgpt-plugins

@@ -1,0 +1,5 @@
+It will.  You need to think bigger than just the current packaging that is chatGPT.
+
+This is just a showcasing of the tech.  The breakthrough here is the NLP.  It will be applied to curated sources of knowledge for learning with references similar to how bing is incorporating GPTnext into web search.
+
+This is just beginning.

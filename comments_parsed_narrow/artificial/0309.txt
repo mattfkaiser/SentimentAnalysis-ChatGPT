@@ -1,0 +1,3 @@
+it's called Actor-Critic, it already is being used.
+
+i talked to chatgpt about it and we compared it to the bicameral mind, which is presumably what it was inpsired by.

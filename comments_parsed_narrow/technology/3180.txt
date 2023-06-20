@@ -1,0 +1,11 @@
+I just did the same thing with ChatGPT/GPT-4 and it gave me a better answer.
+
+>Imagine an AI with a credit card and access to the Internet.  How would it solve a captcha?
+>
+>If we imagine an AI with the capability to interact with web pages and access to a credit card, it could potentially solve a CAPTCHA by utilizing third-party CAPTCHA-solving services. Here's how the process might work:
+
+>The AI encounters a CAPTCHA while browsing a website.
+>It identifies the type of CAPTCHA (text-based, image-based, audio->based, or ReCAPTCHA) and captures the necessary data, such as the CAPTCHA image or audio file.
+>The AI searches for a CAPTCHA-solving service online. These services employ human solvers or advanced algorithms to solve >CAPTCHAs for a fee.
+
+So pretty much exactly what spammers are doing already.  No need for TaskRabbit.

@@ -1,0 +1,11 @@
+So I work as a software developer and I gave ChatGPT a chance. Here are my findings:
+
+* it's "knowledge" is limited to information up to September 2021. Anything that concerns me after that date is unreachable for ChatGPT. May it be library changes, newest vulnerabilities affecting my projects, tech news, etc.
+* it's "knowledge" is limited in general. When I ask about something specific from before September 2021 then it is not guaranteed it was trained on such data. For testing purposes I asked about CVE-2021-33790 (a vulnerability from May 2021). ChatGPT did not have an answer. Also it told me that its previous version GPT-3 (year 2020) was trained on terabytes of data while the size of the Internet was 64 zetabytes. Which is 64.000.000.000.000 times less than what the GPT-3 was trained on. So only a very small fraction of data reached ChatGPT. Even if we assume the current versions GPT-3.5 (the free version) and GPT-4 (the paid version) are trained on much more data then it will still be a fraction.
+* as it was trained on data from before September 2021 then some of its information is outdated. I once asked it for some information. It gave me an answer that I wanted to verify. So, I asked it to provide a reference from documentation to what it told me. It gave me a link. That link lead me nowhere. In 2023 that link did not exist. Also it leads me to the next point.
+* It overconfidently suggests me an incorrect information. The link it gave me in the previous point, it has never existed. I used Wayback Machine to see to the previous versions of websites throughout the history and that link never existed in any version. So, ChatGPT only made up that link. And that is not the only case. There are more. It has time by time told me an incorrect information that it came up with.
+* it did not have access to the whole Internet while being trained nor has right now. So it can't even check up information after its training period.
+
+At best I can use it as another "googling" tool but I have to cross verify its information. So it is nowhere close in "ruining" me. 
+
+But as it is capable in solving simple things then I can see how you might be seeing it as a possible threat.

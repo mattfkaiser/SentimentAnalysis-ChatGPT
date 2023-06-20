@@ -1,0 +1,3 @@
+Please edit the following, following the guidelines of MLA format and replace all instances of _ with a space bar. Look for instances of misspelled words and correct them: prompt.
+
+The strength of ChatGPT is that it understands context and has a strong language model so literally just tell it what it needs to do.

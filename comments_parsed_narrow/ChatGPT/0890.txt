@@ -1,0 +1,3 @@
+Same, I’d just ask ChatGPT if it were me lol
+
+The only thing I know how to do is download a free C++ compiler, ask ChatGPT for a program in C++, copy paste and hit compile. And I know C++ isn’t the best language for all applications but it’s what I know a tiny bit of so it’s what I use. Honestly need to have ChatGPT teach me programming

@@ -1,0 +1,3 @@
+Meanwhile I, a HTML/CSS/Javascript noob, is over here solving my problems with ChatGPT in about 1/10th of the time it takes me to cobble together working code from 20 different Stack Overflow threads and "tutorial" pages I find through a search engine.  Literally today I searched for 2.5 hours for my answers and thought "I should ask ChatGPT".  Four questions later I had working code.
+
+I realize it's not always right, but if it doesn't get you 'there', it gets you 'close'.  It truly is amazing and I'm convinced the technology is going to be the next generation of search within the next five years.

@@ -1,0 +1,3 @@
+This isn’t something that can be answered. It’s up to you how long it takes - everyone learns differently. 
+
+Also, don’t use ChatGPT to learn to code. In my experience asking it C# questions, it gets far more wrong than it gets right.

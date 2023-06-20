@@ -1,0 +1,3 @@
+Well dang, need to move all my ideas over to python then. Whenever I use C#, ChatGPT keeps using tons of resources have to downloaded for a single simple example of a transformer neural net and even hallucinating nonexistent resources or getting stuck in loops while coding. Not finishing the code. Constantly having to get it to debug itself. 
+
+By some miracle I was actually able to get one C# request to work in a really cool way, it made a simple transformer neural net for me, patched a weird part in its own code, and then gave me a training loop to put it through. [Here’s that](https://imgur.com/a/6RsQiR0) if you wanna see it, it’s pretty interesting

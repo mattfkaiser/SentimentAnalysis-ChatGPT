@@ -1,0 +1,1 @@
+Seems to link be the IP of `msnbot-40-77-167-236.search.msn.com`. I never thought about it, but I guess it makes sense that ChatGPT is using bing and not Google.

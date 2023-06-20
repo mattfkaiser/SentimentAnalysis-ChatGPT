@@ -1,0 +1,3 @@
+What do you mean? Of course we know it's possible. Us humans are proof, and unless our brains are magic or something, there's no reason a mathematical approximation couldn't be created and run on a digital computer. That's literally the point of digital computers, they can simulate anything so long as it can be described mathematically (which I see no reason that a human brain couldn't be).
+
+Now whether or not ChatGPT is a reasonable approximation of the human brain is highly debatable and I'd argue likely not. But whether or not it's "possible" to create such an approximation with a digital computer in general shouldn't be a debate

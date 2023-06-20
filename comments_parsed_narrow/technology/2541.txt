@@ -1,0 +1,5 @@
+I see a lot of really technical people say chatgpt isn’t really helpful because it gives wrong answers all the time. I would say those people aren’t using chatgpt correctly. That’s like saying google isn’t helpful because the first stackoverflow or article you find doesn’t immediately solve your problem. 
+
+Being able to iterate and provide more information based on what chatgpt gives you is extremely valuable. Even if it doesn’t give the correct answer it can usually point you in the right direction with example code to work off of. If you have enough experience to know what a correct solution is, then I would say 90% of the time you can get chatgpt to give you a correct answer after some tweaking. 
+
+It’s likely much less helpful to newbies and experts but for intermediates like myself it’s immensely helpful.

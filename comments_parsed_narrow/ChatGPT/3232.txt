@@ -1,0 +1,5 @@
+The internet came in small steps. The first time I used it in an internet café, the owner told me there were literally thousands of websites. I got a 28k modem, at no small expense and was only able to browse websites. Then things developed slowly, this was part bandwidth as well as people finding new ideas. It took many years to take off.
+
+ChatGPT on the other hand, came out of nowhere. I do a bit of Android Developing and have dabbled with Tensorflow, which is Google's Machine Learning API. I was actually getting somewhere and getting my phone camera to count faces in a crowd. Just when my big idea was coming to fruition, ChatGPT and others came on the scene. Although I haven't found an answer, I can imagine soon you'll be able to just throw a picture at one of these and ask how many people are in this image.
+
+This is a huge step forward and it's came with a huge BANG.

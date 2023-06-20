@@ -1,0 +1,49 @@
+I use it as a sounding board most of the time, something that "talks back" if you will. But yes, on daily use it becomes apparent that, in a sanitized environment with clear instructions, it can do some seemingly amazing things, however in the real world it's not nearly as powerful as it seems. 
+
+I was in one of my debugging sessions and asked it something along the lines of "how can I get this function to output this, right now it's output is this". It gave a perfectly reasonably sounding improvement, as well as explained what the code was doing... except that the "improvement" it suggested was literally regurgitating my original function back with no changes.
+
+Another time I asked: "give me a set of input and output for caesar of hello, world from key = 1 to key = 26, format each input and output in the form of an array"
+
+Here is the output it gave:
+
+**Input: \["hello, world"\]**  
+**Output for key = 1: \["ifmmp, xpsme"\]**  
+**Output for key = 2: \["jgnnq, yqtnf"\]**  
+**Output for key = 3: \["khoor, zrugo"\]**  
+**Output for key = 4: \["lipps, asvhp"\]**  
+**Output for key = 5: \["mjqqt, btwiq"\]**  
+**Output for key = 6: \["nkrrv, cuxjr"\]**  
+**Output for key = 7: \["olssw, dvyks"\]**  
+**Output for key = 8: \["pmttx, ewzlt"\]**  
+**Output for key = 9: \["qnuuy, fxamu"\]**  
+**Output for key = 10: \["rovvz, gybnv"\]**  
+**Output for key = 11: \["spwwa, hzcow"\]**  
+**Output for key = 12: \["tqxxb, iadpx"\]**  
+**Output for key = 13: \["uryyc, jbeqy"\]**  
+**Output for key = 14: \["vszzd, kcfrz"\]**  
+**Output for key = 15: \["wtaae, ldgsA"\]**  
+**Output for key = 16: \["xubbf, mehtB"\]**  
+**Output for key = 17: \["yvccg, nfiuC"\]**  
+**Output for key = 18: \["zwddh, ogjvD"\]**  
+**Output for key = 19: \["axeei, phkwE"\]**  
+**Output for key = 20: \["byffj, qilxF"\]**  
+**Output for key = 21: \["czggk, rjmyG"\]**  
+**Output for key = 22: \["dahhl, sknzH"\]**  
+**Output for key = 23: \["ebiim, tloaI"\]**  
+**Output for key = 24: \["fcjjn, umpbJ"\]**  
+**Output for key = 25: \["gdkko, vnqcK"\]**  
+**Output for key = 26: \["helpl, wordL"\]**
+
+In the above output, every key from 3 to 26 is wrong, what clued me in was that, as we all know, at key 26 it should revert back to the original string. So I asked this as a follow up, "give me the same but with key = 27" and it gave me this gem:
+
+**Sure, here's the input and output for the Caesar cipher of "hello, world" with a key of 27:**
+
+**Input: \["hello, world"\]**
+
+**Output for key = 27: \["hello, world"\]**
+
+**Note that the key value modulo 26 is used to determine the actual shift applied in the Caesar cipher. In this case, a key value of 27 is equivalent to a key value of 1, so the output is the same as with key = 1.**
+
+This was my first experience realizing that while it can retain some context, it doesn't seem to have "knowledge" of what it said before, if you know what I mean. It wasn't until I asked: "why is the output of key = 27 the original string hello, world then", that it corrected itself.
+
+My personal opinion is that it's great as a reasoning aid, just don't let it do the thinking for you or trust anything it gives out completely. It is great for stock data or boilerplate code, for example when building a page and I need Lorem Ipsum text, I just ask chatGPT to generate text in the context of the page I am working on, makes it easier to see how it might look at the end.

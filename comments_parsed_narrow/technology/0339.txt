@@ -1,0 +1,3 @@
+I tried to get ChatGPT to write some SQL earlier.  It had some defects that would be obvious to even a beginner--leading back to the issue in coding that you deal with technical shit more than the true problems you're trying to solve.
+
+It's close, it's convincing, but it's not there (yet).

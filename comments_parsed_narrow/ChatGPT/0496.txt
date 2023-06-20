@@ -1,0 +1,37 @@
+Not sure about what you mean by both 'review' or 'work rosters', and this is not something I've played with (yet).
+
+However I took a few moments and found this YT video, [https://www.youtube.com/watch?v=go5aCVnD1Fs](https://www.youtube.com/watch?v=go5aCVnD1Fs) and dropped it into ChatGPT Plus, and activated the VoxScript plugin. 
+
+Here's my prompt:
+
+> Please walk me through setting up Zapier with Google Sheets, though  analysis of this YouTube video:  https://www.youtube.com/watch?v=go5aCVnD1Fs as well as looking up  internet information sources. And explain this to me like I am 14 years  old, using ChatGPT Plus, Google Sheets and plugins. 
+
+Zapier is a plugin that connects some 5000 applications (such as Google Sheets and Gmail and 4,998 other things). 
+
+It gave me the written step-by-step, numbered and nicely formatted.
+
+>Sure, let's break this down into simple steps. This YouTube video by Webcafe AI is a tutorial on how to integrate the ChatGPT plugin with Zapier and automate tasks with Google Sheets. Here's a summary of the first part of the video:  
+>  
+>**Setting up the ChatGPT plugin**: If you don't have plugins enabled on ChatGPT yet, you can join a waitlist from OpenAI, and they'll gradually let you access it. Once you have access, you can go to the plugin store and install the Zapier plugin.  
+>  
+>**Building a Zap**: The Zapier plugin doesn't allow you to build plugins directly on the ChatGPT user interface. So, you need to ask the Zapier plugin to provide a link where you can build the Zaps. You can do this by typing something like "provide the link where I can build the Zaps" in the ChatGPT interface. The AI will understand your request and provide you with the link.  
+>  
+>**Creating a Zap**: Once you have the link, you can click on it to access the ChatGPT version of the Zapier user interface. Here, you can create a Zap that will allow you to provide information to ChatGPT.  
+>  
+>The video then goes on to explain how to use this setup to automate tasks in Google Sheets. I'll fetch the next part of the video transcript to continue explaining the process.
+
+(etc)
+
+I then asked ChatGPT for use-case examples, again inquiring about the YT video from the VoxScript plugin.
+
+Here's the answer:
+
+>Sure, here are some examples of how Zapier automation with Google Sheets can be used, based on the search results:  
+>  
+>**Turn Typeform responses into rows in Google Sheets**: With this workflow, you can set a trigger so that when you get a Typeform submission, Zapier turns it into a row in Google Sheets on the spreadsheet of your choosing. This allows you to maximize your data transfers and minimize the effort involved. [Source](https://smith.ai/blog/10-ways-to-automate-google-sheets-with-zapier-to-improve-your-business-operations-fast)  
+>  
+>**Connect Google Sheets with Movement**: Zapier's automation tools make it easy to connect Google Sheets and Movement. For example, you can set up a Google Sheets trigger that will automatically make something happen in Movement when certain conditions are met in the spreadsheet. [Source](https://zapier.com/apps/google-sheets/integrations/movement)  
+>  
+>**Automated Email Triggered by Google Sheets Update**: You can set up an automation where an update to a Google Sheet triggers an automated email to be sent out. This could be useful for a variety of applications, such as notifying team members when new data is added to a shared spreadsheet. [Source](https://www.makeitfuture.com/automation/zapier-examples)  
+>  
+>For more detailed examples and step-by-step guides, you might want to check out the articles linked in the search results. They provide a wealth of information on how to use Zapier with Google Sheets to automate various tasks.

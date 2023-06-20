@@ -1,0 +1,3 @@
+If you can access chatGPT through your browser you already know its IP, otherwise you wouldn't be able to access it since all internet data is sent and received using IP addresses. The URL is translated to an IP address using a DNS.
+
+So this isn't doxing, it's completely pointless.

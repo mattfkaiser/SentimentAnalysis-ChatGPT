@@ -1,0 +1,3 @@
+If that happened then yes it might. But it won't happen, because the amount of data available for training a large language model to associate "twitter handle darkhorse" with sensitive information from that real person's chats will be minuscule and lost in a sea of noise.
+
+ChatGPT itself is further fine-tuned to *remove* any such ability to retrieve information about real people, so that even if you ask it about public figures it may respond that it cannot provide real time or personal information. That mechanism itself forms part of the AI model, so it's not perfect - but it means that such "9 times out of 10" scenarios will not occur.

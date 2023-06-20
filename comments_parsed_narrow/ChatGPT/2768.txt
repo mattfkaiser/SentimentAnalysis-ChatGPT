@@ -1,0 +1,5 @@
+You already got the complicated explanation but the simple one. ChatGPT is basically worlds smartest parrot. It doesn't know anything but predicts the next word that, based on what it learned is most logical one they follows.
+
+Literally in the training data there's stuff like 58 + 6 with expected answer 64. The more often something occurs the more likely it uses that as answer.
+
+Somehow 4 and 17 ended up being seen as more relevant. GPT itself doesn't actually know you want a random number and doesn't have the means to do so.

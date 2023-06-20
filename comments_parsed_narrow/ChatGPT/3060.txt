@@ -1,0 +1,3 @@
+Wait until bug reports and when ChatGPT fails to understand where's the problem.
+
+Currently, I have to work with some Azure Pipelines. I am no stranger to coding, but often I feel completely lost. Sometimes ChatGPT gives me contradicting advices. Or tells me I cannot do things that I later discover are possible. Or the opposite.

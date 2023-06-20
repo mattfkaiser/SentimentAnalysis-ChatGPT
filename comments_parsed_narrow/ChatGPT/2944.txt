@@ -1,0 +1,1 @@
+I asked it the same question. chatGPT couldn't find my IP address. My assumption is that you gave your IP address, then asked it what your IP address is

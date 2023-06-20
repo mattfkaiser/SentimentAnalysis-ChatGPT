@@ -1,0 +1,7 @@
+Perhaps I failed to make my point of discussion clear. I never said that chat gpt is not innovative. What I'm simply asking is that what is it that makes it innovative?
+
+ Is it the model it is using? If it is the model then how come I see other vendors throwing out their own chat bots which can be trained on a specific set of information to make it able to answer queries.
+
+Is it the size of the dataset it fed on? If it is then could the other tech giants be able to consume that data into their own model to make something similar?
+
+If it isn't one of the two reasons I mentioned above then what other reason there is? This is what I want clarify on

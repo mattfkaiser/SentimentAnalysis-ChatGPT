@@ -1,0 +1,3 @@
+Have you tried Bloom, it's open source and it was trained on 176b parameters, its slightly bigger than gpt3. I have been experimenting with the prompting side of  Bloom quite alot. As a result I have built quite a collection of prompts that I have been storing in my open source mobile text editor called Maker+ Ci.
+ 
+My most recent and best prompt allows me to emulate the basics of what chatGPT does in Bloom with zero shot, meaning without giving it any examples, it can easily generate code and explain it if instructed to. If you would like learn more about my work you can join my [discord](https://discord.gg/EtRcMRTh3G). If you do join the discord message me directly and let me know who you are.

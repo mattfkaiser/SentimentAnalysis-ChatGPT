@@ -1,0 +1,16 @@
+You are teacher. You gave a student a bad grade, which was justified. His parents are now reaching out to you and demand you to change the mark. Respond in a polite but decisive tone and explain that you won't change the grade.
+
+ChatGPT:
+
+Dear [Parent's Name],
+
+Thank you for reaching out to me regarding your son's grade. I understand that you would like me to reconsider and change the grade, however, I cannot do so as the grade was earned fairly and is an accurate reflection of your son's performance.
+
+Grading is an objective process based on various assessments and evaluations, and I assure you that I have followed all the necessary policies and procedures. I am committed to providing an accurate and fair assessment of your son's abilities and knowledge.
+
+While I understand that receiving a lower grade can be disappointing, it is important to acknowledge that it provides valuable feedback on areas where improvement can be made. I encourage you and your son to have a conversation about what steps can be taken to achieve better results in the future.
+
+Thank you for your understanding and please let me know if there's anything else I can assist with.
+
+Best regards,
+[Your Name]

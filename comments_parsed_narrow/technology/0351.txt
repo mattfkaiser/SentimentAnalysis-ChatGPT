@@ -1,0 +1,5 @@
+Doctor here. Were the people feeding symptoms into ChatGPT researchers who fed it classical symptoms for the 1:100,000 diagnosis or was it a typical history provided by patients (often times inconsistent and vague).  IMHO a large part of the difficulty of medicine is extracting the relevant information from people who sometimes aren't sure what it is they are feeling.  Even junior doctors sometimes have trouble extracting information from these patients.
+
+As an ER doctor I'm not too worried about AI (in my career lifetime atleast).
+
+Plus med mal needs to figure out who to sue if AI gets the diagnosis wrong... or perhaps some enterprising lawyer will sue the patients themselves (via their umbrella policy) for providing inaccurate information.  That being said, I would trust chatGPT more than many new Nurse Practitioner graduates who have less clinical training hrs than a medical student 3 months into their clinical rotations.. and way less classroom instruction /knowledge pertaining to actual practice of medicine.

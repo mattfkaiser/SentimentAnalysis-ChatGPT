@@ -1,0 +1,3 @@
+The code you have just scrapes a sitemap from a generic website.
+
+What do you mean retraining? If you just want to ask questions about websites, you need to chunk all of the contents of the websites you care about and convert those into embeddings. From there, when you have a question you want to ask you can use cosine similarity to return all the embeddings that are similar to your question and then use chat gpt to use that context to answer your question.

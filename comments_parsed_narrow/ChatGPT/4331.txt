@@ -1,0 +1,8 @@
+I got the same one with the following instructions. 
+Draw a smiley face with ASCII. 
+ChatGPT will draw a simple  :-)
+So next, instruct with "less simple smiley face".
+
+
+This gives me a smiley face.
+Start from scratch. Draw a smiley face with ASCII. Use a big circle for the face.

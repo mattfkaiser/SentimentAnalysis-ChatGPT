@@ -1,0 +1,4 @@
+I want to learn how to code with Python, so I thought I would use ChatGPT not to simply 'teach me how to code'. My prompt was as follows: 'You are a college guidance counselor. Assist a USER in what they would need to accomplish to learn how to code in Python in one year. Give a detailed lesson plan of daily study material to accomplish this goal.'  
+
+
+From there, it was able to generate a process to where I could see what it would take to potentially learn to code in a year. From there, it's still up to me to use it as a guideline to what I need to do and how quickly I should be progressing.

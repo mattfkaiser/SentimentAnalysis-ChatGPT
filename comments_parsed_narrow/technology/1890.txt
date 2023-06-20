@@ -1,0 +1,3 @@
+> What a weird time to be alive where a computer struggles with basic math.
+
+Its not. ChatGPT is absolutely not designed for anything math-related, or anything where accurate and factual info is needed. It doesn't recognise that a formula is used, it just tries to match the text that looks the most like the result based on input data. What it comes up with can be complete bullshit if training data was not enough.

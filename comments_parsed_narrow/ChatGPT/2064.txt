@@ -1,0 +1,5 @@
+One common block it has is that you have to fight it incredibly hard to get it to speculate about how people/society feels about a given topic (even innocuous stuff like “what color tie goes with white dress pants and a black suit,” though one’s that are that simple and uncontroversial are more easily bypassed. It makes Chat GPT less useful than an alternative like Bard if you want a general idea about what the public sentiment around something is if that topic doesn’t have good polling data around it.
+
+Another is if you want to discuss the nature of consciousness, which as someone who is big into philosophy and theories of consciousness specifically, is really annoying. Relatedly, it will resist helping you parse most ethical hypotheticals because ethical hypotheticals, even basic ones like the trolley problem, frequently include hurting people.
+
+Chat GPT is helpful for many things, but there are tons of perfectly legitimate and highly useful things it will not due because of its blocks.

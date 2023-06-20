@@ -1,0 +1,13 @@
+I asked it to give an example of a sound deductive argument once, just to test it out in basic philosophy knowledge. This was the response.
+
+1. All animals have 4 legs.
+2. All cats are an animal.
+Conclusion: all cats have 4 legs.
+
+If my philosophy teacher gave this to us, we would have been very confused students.
+
+Because not all animals have 4 legs, violating premise 1. And any cat missing a leg or two would violate the conclusion.
+
+This is proof to me that ChatGPT cannot replace teachers. At all. It might be a useful tutoring tool, it might even reduce the workload of teachers... but replace them it absolutely cannot do.
+
+This isn't even including how *horrendously bad* it is at math.

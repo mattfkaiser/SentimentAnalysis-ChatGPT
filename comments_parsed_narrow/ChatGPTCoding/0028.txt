@@ -1,0 +1,1 @@
+Any tool you find will be limited by Chat GPT's "memory", which is currently short. It can't digest that much info, even if it can access it. You'll still have to have it look at just a few parts at a time.

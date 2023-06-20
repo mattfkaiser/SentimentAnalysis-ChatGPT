@@ -1,0 +1,7 @@
+I'm a one-man gamedev studio at the moment, mainly, so nobody looks at my code but me and this LLM dingus I talk about in the post!
+
+The trouble is actually often with syntax issues. Like I mentioned, I went down a rabbit hole to see if there was a syntax update in a later version of C#. It's hard to research and use relevant keywords for the validity of something that doesn't exist.
+
+I've thought about this a bit more, and the real break from the past is if you went around reading up docs, forums and so on, the information would almost never be wildly wrong in key ways, and yet confidently asserted. So even if I feel I'm wasting a lot of time digging info on the ol' legacy internets, at least I'm reasonably assured much of what I'm seeing is well thought out, and probably even tested by someone. I'm fairly confident I would have learned something that is, in some scope or another, true.
+
+By contrast ChatGPT feels is like a vending machine. Cheap and quick, but rarely satisfying beyond an immediate need, realizing the cost is in a lot of garbage you're invariably ingesting.

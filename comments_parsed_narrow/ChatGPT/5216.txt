@@ -1,0 +1,5 @@
+Right now we're having immense issues because people think we're there, when we're not there yet. AI has gotten great at interpreting prompts and sounding like a human, heck it's even better at summarizing stuff than most humans are.... But it has no active understanding of  what it does and can't really separate causality and correlation or verify sources. Also, as seen here, it has no clear recollection of it's own outputs.
+
+People just see that it talks and assume that it's true intelligence... It's not. Not yet, at least.
+
+This overconfidence in an emerging technology is dangerous and will lead to a lot of bad decisions. AI needs more time, but the explosive attention ChatGPT has gotten in the last year has robbed it off careful and clearly neded adjustments.

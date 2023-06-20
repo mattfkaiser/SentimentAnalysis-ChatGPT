@@ -1,0 +1,1 @@
+It's like ChatGPT jeopardy where the AI tries to guess the prompt it was given to create the result.

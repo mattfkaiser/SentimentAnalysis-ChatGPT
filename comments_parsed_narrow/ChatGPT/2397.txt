@@ -1,0 +1,7 @@
+Really? I can think of a few use cases 
+
+1. Discovery in civil litigation especially if the US is involved is super expensive and I understand people have been trying to reliably automate as much as they can - ai could be a boost
+
+2. Legal reviews of non-contract documents such as pitch presentations etc. where conventionally you need some poor person to go through and reword things like "we will ensure"
+
+3. Several lawyers I know  use chatgpt now for first drafts of correspondence and then tweak

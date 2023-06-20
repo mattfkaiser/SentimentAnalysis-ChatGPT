@@ -1,0 +1,3 @@
+That's the thing though. If your question is of the form "Is there an API that allows me to...?" or "Show me how I could do *x* in such-and-such a framework" it's likely to invent things even if the APIs in question have been around for years. If I ask such a question it's because I don't know whether the API to do what I want is nonexistent or whether I've just not found it yet. And if it's nonexistent then ChatGPT, as it stands, won't tell me that, but will invent something instead. That's not helpful as a tool for discovery.
+
+I admit that if you already know the territory and you just want to save time writing some very standard code it can be a timesaver. But that's a pretty limited use case.

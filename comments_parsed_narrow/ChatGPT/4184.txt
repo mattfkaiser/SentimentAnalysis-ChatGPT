@@ -1,0 +1,15 @@
+Yep, the phenomenon you describe is generally part of the workflow. This happened to me yesterday:
+
+=====
+
+**Me:** I am getting the following error:
+
+**Me:** Error	CS0246	The type or namespace name 'RelayCommand' could not be found (are you missing a using directive or an assembly reference?)	PomoApp
+
+**ChatGPT:** My apologies for missing the RelayCommand class. The RelayCommand class is a custom implementation of the ICommand interface. Here's the code for the RelayCommand.cs file:
+
+=====
+
+It happily wrote the function, and I happily continued on. But if it recommends something as large as a library or API you can't always just ask it to write it.
+
+Software being what it is, a certain level of "hallucination" is just design. But notably, it's not telling me "I will recommend a function you can write". It's referring to a function that *doesn't exist*. I made it exist. I used ChatGPTs help, but I'm the one that made the hallucination real.

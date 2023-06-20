@@ -1,0 +1,9 @@
+It scares people because it has the appearance of being able to do a lot of white collar job stuff and can trick people who don’t understand AI/ML into thinking it’s an AGI.
+
+Anyone who’s fucked with it enough knows it has no true understanding of what it’s doing, though.
+
+I tried having it write code with a newer version of a library that had little amount of code examples for it online and ChatGPT kept writing code in an older version of that library, and insisted on using the older version.
+
+Another example: Someone asked it to encode all its responses and then asked it to decode those responses and got the language model to begin breaking down. It’s just a good language model.
+
+That being said, it’s an EXTREMELY powerful natural language tool. I used it to categorize some parameters about Facebook Marketplace listings and return it in JSON format. It would’ve taken me an insanely long time to build any meaningful parser to do what it did in one second.

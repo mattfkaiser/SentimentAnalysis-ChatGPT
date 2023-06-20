@@ -1,0 +1,3 @@
+It’s a website, not an app - owned by OpenAI. They also created the AI image generator, DALL-E. 
+
+https://openai.com/blog/chatgpt/

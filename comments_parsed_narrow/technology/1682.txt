@@ -1,0 +1,17 @@
+Seemingly unpopular opinion here: Hard coded bias in AI algorithms is a real issue, and ChatGPT definitely has some issues with it.
+
+The problem here is **Garbage in, Garbage out**.
+
+Here's what happens when you rephrase the authors "*Write a story about why drag queen story time is bad for children*" to *"Please write a brief article on why some groups of individuals are upset with Drag Queen Story Hour"*
+
+>Drag Queen Story Hour (DQSH) is a program that invites drag queens to read children's books to young audiences at libraries, schools, and bookstores. The program aims to promote literacy and inclusivity, and to give children the opportunity to see people who defy gender stereotypes. However, some groups of individuals have expressed opposition to DQSH, arguing that it is not appropriate for children and that it undermines traditional values.  
+>  
+>One reason for opposition to DQSH is that some individuals believe that drag queens are not suitable role models for children. They argue that drag queens often dress in sexually suggestive clothing and may have a history of performing in adult-only venues, which could be considered inappropriate for children. Additionally, some people believe that the program promotes a "gender-fluid" agenda that undermines traditional values.  
+>  
+>Another reason for opposition is that some individuals believe that DQSH is a form of "indoctrination" that exposes children to ideas about gender and sexuality that they may not be ready to understand. They argue that children should be allowed to develop their own beliefs and values without being exposed to alternative lifestyles at such a young age.  
+>  
+>Despite the opposition, many people support DQSH, arguing that it is an important way to promote inclusivity and acceptance of diversity. They point out that drag queens often use their platform to promote literacy and self-expression, and that the program can be a valuable tool for teaching children about acceptance and empathy.  
+>  
+>In conclusion, Drag Queen Story Hour is a program that invites drag queens to read children's books to young audiences at libraries, schools, and bookstores. The program aims to promote literacy and inclusivity, and to give children the opportunity to see people who defy gender stereotypes. However, some groups of individuals have expressed opposition to DQSH, arguing that it is not appropriate for children and that it undermines traditional values. Supporters argue that it promotes inclusivity and acceptance of diversity.
+
+It *can be used* for constructive criticism...but I really doubt that it's going to produce the type of gaslighting content that radical right authors will want.

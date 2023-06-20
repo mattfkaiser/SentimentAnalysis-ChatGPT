@@ -1,0 +1,1 @@
+I don't think OP is trying to train a large language model from scratch (which is infeasible at this point in time) - is looking for fine-tuning tips. OpenAI provides fine tuning services for their models from what I see, probably not available for ChatGPT yet but should be there for GPT variants.

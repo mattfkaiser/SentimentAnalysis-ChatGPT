@@ -1,0 +1,9 @@
+Every time an article about ChatGPT comes out we have a comments section filled with people *guessing* how AI works and getting it wrong, so a worst case scenario can be complained about.
+
+Before commenting, excited Redditor with a theory, do you understand *how* ChatGPT works? If not, I'd read into it and then see if your theory still holds up before posting.
+
+90% of the time, your doomsday scenario is not even possible.
+
+EDIT: you also need to understand the process you want to replace and how it's produced.
+
+A language model isn't going to be able to automate itself into doing brain surgery or altering its code intelligently (beyond what the ML random goal driven generation thing does).

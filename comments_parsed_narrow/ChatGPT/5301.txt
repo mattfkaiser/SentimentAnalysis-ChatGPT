@@ -1,0 +1,7 @@
+ChatGPT is non-deterministic, so it won't give the same response every time for the same input. It also doesn't know if it's written anything because it has no memory. Even if you asked it to write an essay, a person using chatgpt later on will not (should not) have access to anything it's written before in a different thread.
+
+You can test the non-determinism by asking it the same type of questions (especially open ended ones) several times. You could even ask something like "What parts of this essay did you write?" You'll probably get different answers each time. 
+
+Furthermore, you can run documents that were definitely not written by AI, and it'll probably tell you (at least on some runs) that the document was written by AI unless it recognizes that the paper was in its training set. So if you asked it "did you write: \[pasted contents of US declaration of independence\]" then it would tell you no. But even when it tells you no, it'll tell it to you in a different way, even if you paste the same prompt in twice.
+
+Also, depending on how a person prompts the LLM, you can get different responses.

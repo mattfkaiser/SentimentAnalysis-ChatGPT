@@ -1,0 +1,3 @@
+The first iteration of ChatGPT having some obvious issues hardly means that those issues can't/won't be fixed in future iterations though
+
+When we look back at this version of ChatGPT a couple of years from now we're probably gonna laugh at how bad it was compared to the AI tools we'll be using at that point, whether they be a next gen version of ChatGPT or something else alltogether

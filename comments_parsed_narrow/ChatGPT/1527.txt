@@ -1,0 +1,1 @@
+Bing AI can access the internet.  It uses chatGPT 4 as part of it's backend, and I've found it very helpful.

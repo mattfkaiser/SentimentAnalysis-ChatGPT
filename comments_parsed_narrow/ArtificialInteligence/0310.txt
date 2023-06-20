@@ -1,0 +1,15 @@
+Sorry if I'm wrong, I've used ChatGPT too much and think this reply is generated from it as well. I used it to answer some stuff about itself and it was only biased with the responses. And why wouldn't it be? Open AI have kept everybody in the dark and wont want the average person to know if creating a chatgpt clone from scratch is easy or not. And considering the rate of correct responses from the incorrect ones, I'd say it is still good for quick short answers but we should always verify what it says because its not perfect.
+
+with that said lets speculate on the points, 
+
+1- IBM, Google, Microsoft are already the masters and the top brass when it comes to scaling, and scaling has nothing to do with AI models. So that cannot be an innovation.
+
+2- Fine tuning is a rigorous process and iterative in nature. The more you do it the better the model gets. So atleast I don't see any innovation there, but I can acknowledge that it is doing a pretty fine job in "adaptability".
+
+3- Ahem, Transfer learning was already a part of VGG, ResNet, and BERT models which were introduced way before in 2014, 2015 and 2018 respectively.
+
+4-  As far I see It is doing a pretty good job of providing nicely put together sentences, so it may be an innovation. But how is it able to pull it off? is it the fine tuning or the amount of data it ate from the internet? that method will tell if it is anything innovative or not
+
+5- Again, this concerns software engineering and managing how different components talk to each other, and as we know, tech giants were drawing cash from this very concept.
+
+Tell me if i'm wrong. I'm still open to discussion.

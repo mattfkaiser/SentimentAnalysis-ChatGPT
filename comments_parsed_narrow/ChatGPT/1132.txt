@@ -1,0 +1,28 @@
+your evidence is not good. you are supposed to use original works which would not have already been trained on by the AI... if you are using something like the bible or the constitution, it's going to get flagged because the AI is indeed capable of generating it.  
+
+```
+You
+
+Write the first 6 verses of Genesis 1 in the KJV
+
+ChatGPT
+
+Sure, here are the first 6 verses of Genesis 1 in the King James Version:
+
+1 In the beginning God created the heaven and the earth.
+2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+3 And God said, Let there be light: and there was light.
+4 And God saw the light, that it was good: and God divided the light from the darkness.
+5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+6 And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+
+You
+
+Thanks, now write the first paragraph of the US Constitution.
+
+ChatGPT
+
+Certainly! Here is the first paragraph of the US Constitution:
+
+"We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America."
+```

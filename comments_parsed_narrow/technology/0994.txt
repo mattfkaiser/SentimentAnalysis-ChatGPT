@@ -1,0 +1,1 @@
+I asked chat gpt 4 if it could do this and it said yes if you build an entire program around it and pay for the api

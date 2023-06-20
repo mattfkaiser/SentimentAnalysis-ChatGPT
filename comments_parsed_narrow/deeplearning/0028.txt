@@ -1,0 +1,7 @@
+I have just installed a 30B Open Source model on a 24GB RAM PC with no GPU ... it's like ChatGPT (to a degree) but runs very slowly.
+
+A GPU would make this run well.
+
+That said, $20 a month for ChatGPT V4 or pay-as-you-go in the Playground is  a bargain.
+
+Question: how much do you spend on coffee, donuts, burgers or booze in a month?

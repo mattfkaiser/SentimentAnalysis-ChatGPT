@@ -1,0 +1,12 @@
+Ok so I've done more research and it seems a little more complicated than I anticipated. I've set up a connection to my gmail through zapier, but to access the links in my google alerts need code to parse the email body and extract the URLs and then store the URLs in an array or variable.  
+Then I need to pass URLs to a Webhook: Set up a web server or use a serverless function that can receive HTTP requests. Create an endpoint that accepts POST requests.  
+Configure a Webhook Action in Zapier: Add a webhooks action to your Zap and configure it to make a POST request to the endpoint you created in the previous step. Pass the extracted article URLs as data in the request payload.  
+Handle the Webhook Request: In your server or serverless function, receive the POST request from Zapier and extract the article URLs from the request payload.
+
+&#x200B;
+
+\^these were steps from chat gpt and they are not in my wheelhouse. 
+
+&#x200B;
+
+Just as a reminder, I'm trying to get zapier to open and read the articles linked in my google alerts in my gmail inbox, then get zapier to summarize them and store the summaries in a file or document somewhere using chat gpt

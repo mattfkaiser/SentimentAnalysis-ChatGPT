@@ -1,0 +1,3 @@
+You probably have a good understanding of what prompts will produce good results and then have the knowledge and experience to filter and edit what comes out. If I’m right, you aren’t “cheating” in the slightest, you’re using a tool to be more effective and whoever hired you is going to benefit from that. 
+
+One thing that came to mind is that when a human assistant or junior professional/mentee assists a more experienced person with tasks, they get the full learning loop. But ChatGPT doesn’t necessarily learn from what edits you are making to make the output better and it certainly can’t understand why you are doing it. That’s a negative for these machine learning systems.

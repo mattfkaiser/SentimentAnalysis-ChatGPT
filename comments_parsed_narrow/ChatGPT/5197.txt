@@ -1,0 +1,1 @@
+Not only does it not know, it can’t know. It can’t think, it can’t analyze. All it does is predict the next word in a sentence. ChatGPT will declare something as fact and be confidently wrong, because it’s not stating a fact, just generating words. It’s a parrot. It can tell you what it’s heard, but it doesn’t know anything about that content.

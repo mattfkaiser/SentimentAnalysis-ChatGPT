@@ -1,0 +1,8 @@
+I see two issues that Google is facing now, and will need to tackle soon (and announce very publicly):
+
+* As the linked article says, LLMs have big potential to compete as the new go-to search
+* As you've mentioned, Google will need new/different ranking metrics to identify high quality content, similarly to art platforms (artstation et. al.) having to ban AI generated content.
+
+Google has tried to provide something similar to a top-1 result, but faces much greater legal difficulties, as this content is in direct competition with its customers (the ranking websites).
+
+In the end, i believe chatGPT etc. are phenomenal writing tools, which still need experts to curate and finetune content to write real quality and insightful articles. The focus will shift from cookie-cutter content to who can provide valuable insights & insider knowledge that only experts have.

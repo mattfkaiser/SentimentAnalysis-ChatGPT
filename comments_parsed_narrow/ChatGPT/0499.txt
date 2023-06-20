@@ -1,0 +1,5 @@
+That’s true but releasing a standalone product like Bard or ChatGPT or Bing Chat is much more newsworthy to journalist. 
+
+Claude-instant-100k is kinda interesting, but Claude+ is the only model that competes with GPT-4 and Poe limits that model to 1 chat per day. 
+
+They would get a lot more press if they release Claude as a standalone ChatGPT competitor.

@@ -1,0 +1,28 @@
+Or, and hear me out, OpenAI isn't interested in accepting any potential liability.
+
+**EDIT:** Just wanted to add this tidbit too since there seems to be some confusion.
+
+Most people here seem to think of ChatGPT as *the* product from OpenAI—it really isn't. So, what is ChatGPT then?
+
+ChatGPT serves two main purposes for OpenAI,
+
+1. It is a marketing tool. It keeps OpenAI in the news cycle week after week. Almost always in a way that is positive to them. Prior to the launch of ChatGPT, if you asked 1,000 people on the street if they had heard of OpenAI or GPT-3 (or GPT models in general), you would have probably gotten 999 blank stares. ChatGPT created something incredibly powerful—brand recognition. Now everyone and their grandmother is talking about how they can use ChatGPT to do this-that-or-the-other-thing. I'd bet 80% or more of the people who use ChatGPT wouldn't even recognize the name OpenAI (despite it being in the URL), but anyone who is looking to incorporate a large language model into any part of their product does. There is value in the name **ChatGPT**, as in people will pay to be able to use the tag *"powered by ChatGPT"* on their product in a way they just wouldn't be willing to do with anything else right now.
+2. It provides them with reinforcement learning data in the form of human feedback (RLHF). RLHF data is *incredibly valuable* and generally *prohibitively expensive* to collect at scale. By releasing ChatGPT for free (even collecting $20/month from some) to the masses, a non-trivial number of whom will occasionally provide feedback to ChatGPT (even if it's just in the form of a 👍️/👎️ on the response), OpenAI collects a ton of data for fine-tuning the models, making them more performant and valuable.
+
+Now, in this context let's think about some of the decisions OpenAI has made regarding restrictions on ChatGPT.
+
+Does providing legal advice further either of these two goals? Maybe, but as with most things, it depends.
+
+What happens if ChatGPT provides solid legal advice? Maybe there's a few feel-good stories for a news-cycle or two about how ChatGPT helped the wife of an innocent man secure a new trial on appeal after his incompetent lawyer botched it or everyone said there were no grounds. That's great. For a news cycle or two, then it's lost to the ether.
+
+What happens when ChatGPT gives bad legal advice to someone and they end up losing their business or going to jail? That story has much longer legs. It's *sticky* in a way positive stories aren't. It causes people to question whether or not we should be relying on these things for anything at all. It also starts states attorneys general thinking about maybe fining OpenAI for any number of things, but certainly investigating them, auditing their code, their data sources, etc. It also opens them up (and their investors) to potential lawsuits from users who were given bad legal advice—no matter how many times the AI proclaimed "I am not a lawyer and this is not legal advice, but here you go anyway..." Many of these would end up dismissed, some would be settled, but it only takes one to make it to court and for discovery to happen. And no company anywhere ever has said they would welcome that. Then lawmakers start talking about regulations, first at the state level then at the federal level.
+
+So, on the one hand, giving legal advice is something the model *can* do, and can *probably* do pretty well, probably better than *most* lawyers *most* people could afford. If OpenAI allows it to do so and it goes well... pretty much nothing. There's no real benefit to OpenAI. Whereas if it goes bad, it can potentially go very, *very* bad.
+
+On the other hand, if they use the content moderator to intercept those requests and redirect users to talk to an actual lawyer, what happens? Well, the very small percentage of paying ChatGPT users who want to use ChatGPT to ask legal questions may be annoyed, upset, or even outraged. Some may even cancel their $20 subscription. Oh. No.
+
+What about useful feedback? They really wouldn't be getting any valuable feedback here since the vast majority of that feedback wouldn't be coming from people qualified to evaluate the quality of that feedback anyway.
+
+So, as we can see, there is basically zero upshot for OpenAI to allow ChatGPT to do, essentially, legal work, and a whole lot of reasons for them not to—none of which have anything to do with keeping the jackboot of oppression firmly on the neck of the proletariat.
+
+Thank you for coming to my TED talk.

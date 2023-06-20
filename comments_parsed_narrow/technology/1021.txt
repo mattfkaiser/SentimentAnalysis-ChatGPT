@@ -1,0 +1,5 @@
+Its basically a google aggrigator. It takes the information from an algorithm that is basically a search engine and then reorganizes it and presents it into a form that has correct grammar.
+
+If it tells you how to turn people into borgs, its scraping that info from a blog or story prompt somewhere, or even combining several of them.
+
+The actually useful thing about chatgpt is that its good at producing accurate information about things that are easy to google, in plain english. But for anything else, it kinda gives you random trash.

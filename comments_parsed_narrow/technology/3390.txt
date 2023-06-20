@@ -1,0 +1,21 @@
+With Google, at least you don't have too many people posting code that absolutely doesn't work at all with the author confidently claiming it does.  ChatGPT has a long way to go before it's the tool I go to before Google instead of after.
+
+Most of my conversations with ChatGPT have been:
+
+>"Me:  Write function that does soandso using libraryname."  
+>  
+>"GPT:  Here's code to do that..."  
+>  
+>"Me:  That doesn't work because the X function has no parameter Y, which you made up."  
+>  
+>"GPT:  Oh, I'm sorry.  You are correct. Here's updated code that will work..."  
+>  
+>"Me: That doesn't work because it uses Z, which has been deprecated as of version V, which is why I'm asking this question."  
+>  
+>"GPT:  I apologize for the error.  You are correct.  Here's updated code that works..."  
+>  
+>"Me:  That won't work because...."  
+>  
+>(ad infinitum)
+
+Every once in a while it will provide a decent working example for non-simplistic functions, but it seems to be the exception.

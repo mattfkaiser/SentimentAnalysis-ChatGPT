@@ -1,0 +1,13 @@
+> it reduced the time it usually takes me between 65% to 75%.
+
+Precisely this.
+
+Don't expect ChatGPT to do everything (although it can do a lot of things very well even without refinement); let it draft, then make amendments if necessary.
+
+I have already created prompts that have allowed me to use it to draft CVs and cover letters - edited and sent out in maybe 5 minutes, removing or rewording minor inaccuracies - and have had significantly more success than I ever have in my own prior efforts.
+
+It has a great amount of versatility. It can create rotas for you for time management. It can draft code. It can draft emails and essays. You can ask it deep, philosophical questions, and it can provide book citations - and, assuming it's not too niche, you've got a very good chance of those citations being real sources. You can do what I do, and get it to create a Harry Potter rewrite where the characters have the personalities of specific BoJack Horseman characters, that then morphs to being in the comedic style of Monty Python.
+
+My payroll office currently has a poem stuck on the wall written by ChatGPT. The office is convinced I wrote it, and don't believe that it's AI. I couldn't write a poem even if I tried.
+
+Those that do not find ChatGPT 4 useful, I frankly consider to have either not used it enough or not experimented enough with the right prompts. ChatGPT 3.5 is a different story, though - after exposure to ChatGPT 4, I consider 3.5 to be rubbish.

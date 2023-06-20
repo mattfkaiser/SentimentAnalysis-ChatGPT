@@ -1,0 +1,3 @@
+Searching webpages and telling you which webpages it searched is, importantly, what traditional search engines already do.
+
+And obviously ChatGPT is using a search engine when it does this.

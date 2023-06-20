@@ -1,0 +1,3 @@
+Yes, ChatGPT will only give God responses to well-formed questions.
+
+This OP with multiple typos is not a prompt engineer that will be able to verify the output effectively, IMO.

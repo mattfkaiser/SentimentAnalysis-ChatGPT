@@ -1,0 +1,17 @@
+> Don’t be fooled by ChatGPT agreeing with your correction. 
+
+Perhaps the terrifying thing is that you could explain this to most people, but a very sizeable portion, perhaps even the majority, would still think that ChatGPT in at least some small way corrected itself.
+
+I believe the phenomena is similar to a natural inclination to anthropomorphization that most people seem to have (perhaps co-evolved with the facial pareidoilia phenomena) that helps us function as social, empathic animals.
+
+As such, it seems like this misestimation is an error that's going to be a repeated part of our experience of AI until "common sense" catches up.
+
+But when that will happen, and what will happen in the interim, and as a result of the error in the meantime is very hard to predict.
+
+> But also don’t be fooled by post hoc justifications. It’s not like the model can actually remember its thought processes.
+
+I wonder if this is coming in GPT-4 or 5. 
+
+Not remembering its thought processes but a more comprehensive memory of its output and the inputs it received.
+
+At the moment it seems to error correct by avoiding the content of the objection you give it, so there must be some sort of persistence state.

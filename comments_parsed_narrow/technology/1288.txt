@@ -1,0 +1,3 @@
+>A language model isn't going to be able to automate itself into doing brain surgery or **altering its code intelligently** 
+
+Isn't one of the big use cases of Chat GPT to alter, improve and translate computer code?

@@ -1,0 +1,25 @@
+This sounds like someone who doesn't know a single thing about the person they're replying to, and genuinely gave no attempt to do so.
+
+I'm a software developer with an AI interest, and I used to work as a service engineer. I use the damn thing from that perspective, and I've used it probably 20 times this week (mostly for boilerplate code for cumbersome syntaxes, but otherwise straightforward).
+
+I didn't say it was search. I literally said it doesn't really threaten Google search. I said it is getting overhyped, *not* that there isn't things to be hyped about.
+
+I can absolutely see this being trained to help with screening Junior Software Engineer questions before they bother a valuable Senior Engineer. It can also help explain concepts in a simpler way for beginners who are learning.
+
+A huge number of questions in programming are very simple, but also very hard to get a simple well-written answer without waiting around for someone to answer on Stackoverflow or a Facebook page or discord server... ChatGPT is awesome here, because you can keep asking and getting questions answered fairly quickly.
+
+I can absolutely see this used as a way of assisting new service engineers who are at a loss for what to continue troubleshooting after they tried x, y, and z, *rather than* waste the time of the product specialist. Only bothering the PS when they're still at a loss.
+
+I can *also* see it one day being a threat to Google Search. Integrating search with conversation has a lot of appeal.
+
+For instance, the pasta recipe. While I might find a good website with one, they also hand me bullshit information about how their grandma used to make it this way when they visited their 2nd cousin in Italy... or whatever nonsense story. ChatGPT just gives me the recipe.
+
+So perhaps ChatGPT can first do a Bing search with relevant parameters, identify the relevant information from the results, then give me that specific information. For pasta, ChatGPT told me 1/2tsp salt and 1/2tsp oil, top Google search said to use a full top of each (for the same flour and eggs mixture). By first searching then checking, it vould alter the important numeric values to match the most *relevant* info, rather than just the most *probable* number to generate.
+
+But right now, it's vastly overhyped for that specific purpose, which is what I originally was saying.
+
+For me, I love the tech. This is massive. Someone starting a new business in another country can send emails out with professional sounding language, without knowing the language themselves. That's big.
+
+People with severe dyslexia could use a voice-to-text program and have ChatGPT write some code for them. It could be potentially be an effective tutor for students who are learning.
+
+So again. It's massively overhyped for replacing Google. Its underhyped for all the other useful shit it could do.

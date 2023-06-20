@@ -1,0 +1,3 @@
+The pipe '|' is computer code used to chain commands into one line. So, what you are saying really is:  then do this, over and over without a command.
+
+Maybe, ChatGPT feel it MUST return something --so it "thinks" something up?

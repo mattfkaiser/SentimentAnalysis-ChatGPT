@@ -1,0 +1,1 @@
+Yeah, I'm still trying to learn python, but ever since ChatGPT came out I've been making lots of useful scripts by combining my basic understanding with ChatGPT's expertise. I have it write code, but I can usually tell what it's doing right/wrong, and it's teaching me.

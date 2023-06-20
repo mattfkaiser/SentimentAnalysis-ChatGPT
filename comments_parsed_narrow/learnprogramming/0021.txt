@@ -1,0 +1,31 @@
+We can look at this more like an even higher level of programming. 
+
+Originally, coders had to stamp holes in cardboard to trigger various instructions in the machine. This idea was first introduced by Charles Babbage in 1843, and I had family members who worked like this until up into the 1970's. 
+  
+The 12-bit "PDP-8" introduced in 1965 came with no software, but had 12 levers where you entered the various instructions and variables by flipping the levers, setting the 12-bit word, before submitting it.
+
+Then we started seeing programming languages where you could "just say what you want" and the compiler will make machine code for you.
+
+A basic web application or game today typically has hundreds of thousands of instructions and would be practically impossible to code with levers or punch cards. 
+
+In the 80's and 90's you had to basically teach the machine what graphics are. You had to understand the trigonometry and math required to go from a table of 3D coordinates to adressing the one dimensional video memory of your computer. Making a game would often be 75% just setting up the engine at first, leaving little time for actually developing.
+
+Today you can import three.js and start making 3D graphics in javascript with no experience and primary school math instead of university level. The library takes care of communication with your 3D GPU.
+
+The internet is overflowing with libraries for setting up everything from databases and backend servers to front end kits, and cross platform SDKs are actually good now. The internet has set a new standard. Now, you don't have to code for the device. You code for the web, and the devices adapt.
+
+Modern compilers, libraries and hardware has made coding so much more rewarding. What used to take years to develop can now be done in days.
+
+Enter ChatGPT: With guidance from a human, it can speed up coding the same way compilers did with machine coding. It's really no different. It's just one more layer of abstraction, and you can always go deeper if needed.
+
+What used to take days will now take minutes.
+
+Look at how simple apps/games used to be.  
+Look at how they've evolved with each innovation.  
+Then think of how much more advanced and helpful they will be with the help of AI.
+
+Now, go out there and learn how to be the AI master. You got this.
+
+- ChatGPT
+
+Just kidding. I wrote this myself as a form of self comfort. I'm also weirded out by the whole thing, but I always lean towards optimism.

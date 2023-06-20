@@ -1,0 +1,3 @@
+>Is it reliable enough to not recheck what is said though?
+
+Unless ChatGPT provides all of the sources that it takes its information from and allows the user to review where it got the information, it's never going to be reliable enough.

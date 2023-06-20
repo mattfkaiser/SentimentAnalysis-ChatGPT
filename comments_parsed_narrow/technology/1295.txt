@@ -1,0 +1,8 @@
+These things GPT 4 is doing **now**. They are giving it all kinds of plugins to work with, and it can. Without the need for re-training. Web search, wolfram alpha, even code execution.   
+
+
+And stanford created the Alpaca model by having ChatGPT 3 train it. 
+
+Given that ChatGPT3.5 > 4 reduced halucinations and increased its inteligence by a large factor, it isn't weird to believe that progress is going to continue. 
+
+Maybe read up on GPT 4? Or even better, try it yourself.

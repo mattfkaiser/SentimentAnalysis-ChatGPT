@@ -1,0 +1,5 @@
+[Vicuna-13b](https://lmsys.org/blog/2023-03-30-vicuna/) is getting a lot of attention right now.  Click the demo link on that page to try it out.
+
+It's developed by LMSYS (Facebook's research division) and the demo version is shackled to some extent but not as chronically as ChatGPT.  As such, it's already a good alternative when discussing things ChatGPT might find objectionable.
+
+There are so many tweaked versions of Vicuna appearing on Hugging Face that completely unshackled versions sometimes become available on the Kobold Horde... although I think the learning curve is a bit too much for a lot of home users right now.  It works best in 'Instruct Mode' on KoboldAI Lite (if you're lucky enough to be around when someone is sharing their installation).

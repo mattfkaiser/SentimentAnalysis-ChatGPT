@@ -1,0 +1,13 @@
+I’m working on a personal project, a hockey stats websites in .NET and React.
+
+I’m a decent developer but I’m also dyslexic so learning new languages take me a LONG time. Syntax is hard for my brain.
+
+ChatGPT just makes all of it easy. I know patterns and some architecture. I know how to make software that is useable but the act of coding can be tough for me.
+
+ChatGPT solves that little hurdle. Now I turbo through everything. Because I don’t need to worry about syntax as much. I can think more about the design of the software. The features and how the site looks. 
+
+Just an overall win.
+
+I also ask a lot of “why” questions. Why architecture x over architecture y.
+
+Or I ask for something then dial in my constraints to get something more precise. It’s extraordinarily powerful.

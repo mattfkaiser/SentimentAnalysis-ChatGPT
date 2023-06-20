@@ -1,0 +1,5 @@
+I only started yesterday and was only able to get ChatGPT to interact with it today, so it remains to be seen haha.
+
+The error correction is crazy. Basically ChatGPT tried creating a query and received an error code like "expected an object instead of an array", it assumed it made a mistake and tried to format the data differently multiple times. I stopped it after a few times not wanting to get flagged as it couldn't really fix it - it was my mistake in an API definition.
+
+It's certainly not perfect, but having these capabilities at such an early phase of the technology is very exciting for me.

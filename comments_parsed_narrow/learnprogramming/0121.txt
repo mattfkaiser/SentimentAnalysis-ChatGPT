@@ -1,0 +1,13 @@
+Thank you for the help already. I am interested in learning which is why I started working on this. I use chat GPT yes but I understand really quickly and I've managed to make a few things all by myself that works like a charm.   
+
+
+An idea pops, I ask Chat GPT, he tells me how it works, showing examples and all, I add a version of that example that will work with my code.   
+
+
+I keep having ideas and making my code do more things which I'm happy about, but gets close the time where I should put a GUI to make it work instead of a command prompt, and that's old but new territory.   
+
+
+I will learn about it and try to make it work. WxWidgets seems to be very hard to work with, I can never manage to successfuly make a makefile.gcc with MinGW as it always fails at some points telling me how a \*recipe for target '\[filename that is different everytime\]' failed and Error 1.   
+
+
+I have asked Chat GPT about it, checked Forums, it's so complicated that idk what is wrong. Installed wxWidgets, MinGW and Windows SDK all latest version as well.

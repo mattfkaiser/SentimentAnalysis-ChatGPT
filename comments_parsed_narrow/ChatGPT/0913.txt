@@ -1,0 +1,3 @@
+While I do believe that ChatGPT is powerful, I don't think you could rival anyone with a decade of experience with just ChatGPT. I'm a CS student and I can't for the life of me imagine doing anything remotely close to someone with a decade of experience even with ChatGPT, just system architecture alone would kill me, and I wouldn't want even want to trust it to an AI since I would definitely spend more time debugging that if I just did it on my own, unless it's GPT-5 with a context window of 10 million tokens or something.
+
+Point is, ChatGPT is powerful, but not as powerful as some people might make it seem. Or maybe you just exaggerated the "decade of experience" thing and I just ranted here, lmao

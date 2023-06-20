@@ -1,0 +1,5 @@
+What is ChatGPT Doing by Stephen Wolfram. 
+
+Natural Language Processing with Transformers by Tunstall, Werra and Wolf. 
+
+Any of the Grokking series.

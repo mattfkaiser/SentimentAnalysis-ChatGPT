@@ -1,0 +1,13 @@
+As a beginner you can work directly with chatGPT or autoGPT until your code is too big for the max tokens gpt can take, if you can get gpt4 you have a higher limit
+
+On chatGPT just say something like amed/update the code above with X, code only and just iterate like that, you probably want to test each step
+
+Once it's too big for a single file you need to start having some knowledge as to slicing files in a useful manner
+
+GitHub co-pilot, the current version is an auto complete useful for developers, I don't personally think it would be useful for people that don't understand coding.
+
+Autopilot helps existing multi file codebases, it directs gpt to specific files. 
+
+There might be a gap in-between the one file too big and large multi file project done by technical people. You can work with chat to learn and follow recommendations.
+
+I assume autopilot might learn overtime to also take projects from 0 or from one file to multiple files

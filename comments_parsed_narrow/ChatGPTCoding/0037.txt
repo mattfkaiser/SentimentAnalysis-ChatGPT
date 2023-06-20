@@ -1,0 +1,5 @@
+It's basically just a collection of uploaded documents. Basically you upload your docs and you can ask ChatGPT about them. I'm not sure it's relevant to your use case but you can then connect the bot to Slack or Discord.  
+If you want to try it without creating an account:  
+[https://app.conifer.chat/try-it](https://app.conifer.chat/try-it)
+
+Shoot me a DM if you'd like a sign up code for the beta.

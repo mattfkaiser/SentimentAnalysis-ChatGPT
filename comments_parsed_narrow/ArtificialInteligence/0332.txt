@@ -1,0 +1,1 @@
+asking ChatGPT code question from topics past 2021 kneecaps it completely - using a pretrained model instead of one with live data is useless and gets worse as time progresses

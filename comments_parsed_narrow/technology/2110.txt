@@ -1,0 +1,11 @@
+Ok, I see your point. 
+
+I'm not sure how much water would be saved by doing nightly/daily or global deployment without any concrete data. It'd be interesting to study though. Based on the rough estimate in the paper, there might be some reasonable savings if we only consider the so-called "on-site water usage" (look at their figures 4 and 5 for summer/winter and night/day variations). 
+
+The estimated water values in this paper could be a few times off the real usage. Their methodology is open, and to me, it's reasonable and solid. Without real data available, I don't blame the authors for possibly failing to provide an exact number. 
+
+My take is that this paper isn't a purely technical paper. To me, its most interesting part (or you could say "contribution") is that it makes me as wel as many others be aware of the water issue associated with data center computing including AI. I had completely no idea of water before reading this paper. Of course, there're many other critial issues with AI, such as model accuracy, but having a new and meaningful angle to look at AI is always good. It might be true that water usage is well-known to data center professionals, but definitely it's not so to many AI researchers (including myself) without data center backgrounds as well as to the general non-technical readers. In terms of novelty, I'd rate this paper as 9 out of 10.
+
+For their "presentation", all I can say is that this type of writing is \*very very\* common in AI... Look at the papers like "xxx is all you need". Their methodology and formulas are stated with references, so the "technical" part is Ok to me. The comparison of ChatGPT's water to BMW/Tesla cars is probably for non-technical readers to have a sense; as long as their cited numbers are correct (I checked the BMW number and it seemed correct), I'm Ok with it. The comparison to "nuclear cooling tower" is not stated in the paper; probably added by the reporter.
+
+I also read their first reference to Facebook's report. It's interesting to see "every drop matters" in Facebook's report... I'm Ok with this type of non-technical sentences; to me, the methodology (and nubmers if available) is more important, and this is also how I reviewed research papers --- I typically skipped the intro which anyway is bunch of "subjective" paragraphs. :)

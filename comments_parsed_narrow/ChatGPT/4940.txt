@@ -1,0 +1,7 @@
+Why would it not be able to search the text of Reddit posts and comments?
+
+It seems like any search engine online can do that.  
+
+Is chat GPT intentionally limited in some way to not be able to do that?
+
+From the quality of its response I would think it would point out if it could only access the content of the title of any Reddit posts?

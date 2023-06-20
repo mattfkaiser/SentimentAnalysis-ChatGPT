@@ -1,0 +1,3 @@
+u/AousafRashid in the prompt you provided in step 18, how do you take care of the aspect that the variable `{the_top_5_results_returned_from_vector_database}` does not exceed `max_token` in the prompt?
+
+Another one: if I count tokens e.g. with Python's NLTK, will NLTK bring up the same result as when ChatGPT API counts? Since I understand that tokens is not equal to words, but rather to \~4 characters.

@@ -1,0 +1,1 @@
+There's an easy way to solve this problem and you don't even have to expose people to toxic content they wouldn't have been exposed to anyway.  Just pipe all the contents of 4chan's /b/ forum into the negative training set for chatgpt.  Problem solved!

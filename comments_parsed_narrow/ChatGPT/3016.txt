@@ -1,0 +1,5 @@
+Maybe I don't understand everything but I think your company is making big mistake.
+
+Instead of trying to use new open source models (which are emerging right now) to create a unique solution for their clients, your company is basically willing to become just another ChatGPT API wrapper deliverer, who are completely dependent on OpenAI.
+
+Your company is going to bankrupt in the near future.

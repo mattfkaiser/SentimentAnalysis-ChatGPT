@@ -1,0 +1,1 @@
+ChatGPT does not have any spatial reasoning capabilities. This requires a very basic one, but so basic, that it is probably never made explicit in its dataset.

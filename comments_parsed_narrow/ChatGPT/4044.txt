@@ -1,0 +1,3 @@
+Yeah, I feel the warnings for this should be more prominent. I think lots of people are naively stumbling across similar stuff and finding out about ChatGPT hallucinations. 
+
+An AI giving accurate sounding but completely made up  an useless answers is pretty weird.

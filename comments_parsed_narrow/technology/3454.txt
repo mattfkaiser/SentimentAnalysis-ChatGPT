@@ -1,0 +1,11 @@
+The real issue they care about is the fact that you can use ChatGPT logs to train other AI's.
+
+And even if you don't, nothing they are doing with ChatGPT won't be figured out over the coming 6 months by researchers. A lot of it seems to have been figured out already. And plenty of new stuff they aren't doing will be discovered too. 
+
+The barrier to train models at these scales will be drastically reduced every time someone figures out an optimization plus the usual hardware improvements over time.
+
+Most of the current work has been on optimizing them for execution rather than the training stage. You can make a model shrink to like 1/4 of its size with quantization. That allows running LLMs on consumer grade hardware. Granted those models are 66B and Chat3.5 was like 512B but that just mean you need multiple highend GPUs as opposed to a datacenter and $15k-$30k AI specific GPGPUs. And in the future with hardware upgrades, not even that.
+
+Also they probably have found that they are at, or close to the maximum that a LLM can achieve, so they can't just throw more money/hardware at it. A point where adding more parameters and running on larger hardware doesn't actually help improve the quality of output or make the responses smarter. Or a point where the required time to train is exponential and no amount of hardware will work.
+
+iirk adding more parameters is really just increasing the amounts of factual information they 'know' at some point rather than the intelligence of the models to answer questions and there are other ways to provide raw factual information such as vector databases.

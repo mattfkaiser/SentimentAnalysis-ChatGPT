@@ -1,0 +1,5 @@
+So you are saying 10 junior people can be replaced by ChatGPT?  I think this may be a huge stretch.
+
+First of all, almost everything a developer (junior or otherwise) is asked to do involves knowledge of and integration with the 100k lines of code (written in various languages and formats)  of the existing application.  The integration of all of these systems -- the DB, the microservices, the UI and it's framework, the message queue, the index DB, the cache store..  -- they need knowledge of this, the ability to set up and install this locally, as well as the business they are trying to support.  The integrations of all of this, and working around the challenges that come up is what they are hired to do.    ChatGPT is nowhere near being able to solve these sorts of problems.  At best, it is an extension of a good IDE, which is already a powerful tool that is far more useful to developers at this point.
+
+No-one is hired to write algorithms like they seem to impress on you in college.

@@ -1,0 +1,3 @@
+Telling ChatGPT to only use one symbol/word can break it, because it's internal algorithm penalises it heavily when it tries to repeat itself. 
+
+A good example is if you convince it to repeat a letter/word as much as it can, it will start outputting completely random text after a couple of lines.

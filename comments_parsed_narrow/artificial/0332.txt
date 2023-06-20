@@ -1,0 +1,1 @@
+That happens all the time. Just reload the page and try again with the same prompt. It's just the webpage crapping out, not chatGPT.

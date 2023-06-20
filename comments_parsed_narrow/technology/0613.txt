@@ -1,0 +1,5 @@
+I’ve used ChatGPT to help with a couple of functions I was struggling with.  But it took a lot of time to engineer the prompt correctly to get it to not produce total trash that errored out. 
+
+Even GitHub Co-pilot generally returns sub-par, inefficient, error-laden crap.  I had to disable it in VS Code it was so annoying.  
+
+You can’t replace knowledge. GPT can be a tool when used correctly, but it doesn’t replace humans (yet).

@@ -1,0 +1,3 @@
+GPT is not only useful for chatbots. 
+
+OpenAI made one named ChatGPT to demonstrate to the general public how good their tech is and also to attract more investors. However, GPT3 can be used for A LOT of things. Since it's extremely good at text, it can be used to categorize (and well) complex text and much MUCH more. I could see this being useful when indexing pages.

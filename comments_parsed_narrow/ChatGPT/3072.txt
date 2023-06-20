@@ -1,0 +1,4 @@
+https://www.reddit.com/r/ChatGPT/comments/13qzkmu/in_response_to_questions_about_turnitin_and_ai/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1
+
+My usual response to comments about AI detectors. Scroll down to the section about using Bayesian statistics to calculate false positives.     
+It's too long to put in a comment but give it a read, and claim this isn't a real problem.

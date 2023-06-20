@@ -1,0 +1,3 @@
+i just thought of another one. This is particularly useful if you are expecting a very long response. Say if you are trying to ask it to give you a very long piece of writing/ code, it might not be able to give you the full answer and says error. It will try to regenerate the answer but due to the length, you will never get the reply you want. 
+
+When that happens, simply ask Chatgpt to split the answer in chunks, for example, "please separate your response into 3 parts. Please give me part 1 for now." and you just repeat to get all three.

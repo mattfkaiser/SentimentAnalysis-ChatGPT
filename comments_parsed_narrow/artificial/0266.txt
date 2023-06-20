@@ -1,0 +1,11 @@
+> It's awesome for coding tasks.
+
+Yes, but it's less about easy validation and more that good programmers already allow for difficult-to-find errors in their workflow. u/needaname1234 mentions "proper code review or unit tests", which hits the nail on the head.
+
+In the case of familiar patterns in simple programs it really is easy to validate too.
+
+On top of that, it occasionally introduces brilliant ideas to me I wouldn't have even known how to ask about. 
+
+There's also a fundamental change in how I spend my mental effort. Instead of grinding away at the minutiae of writing code, I'm more-often thinking about what I want on a higher conceptual level. Features and design rather than nuts and bolts. For problem-solution pairs that can be expressed in 4k tokens or less, the moment I precisely and accurately frame my problem is the moment when ChatGPT provides a solution.
+
+^^*sometermsandconditionsapplyaccuracynotguaranteedbatteriessoldseparately*

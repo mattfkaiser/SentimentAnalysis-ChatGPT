@@ -1,0 +1,5 @@
+Yesterday, I asked ChatGPT how to use JavaScript to copy text to the user’s clipboard. It spit out a long ass over-complicated function that kinda worked, but used a method that was being deprecated on modern browsers.
+
+So it gave me a starting point for code that I had to heavily re-work. And that’s my typical experience with GPT. 
+
+Will it get better? I’m sure it will, but even if GPT gets to a point where it gets 95% of things correct (we’re probably a long way off from that number), you’ll still need some expertise to get that 5% where it needs to be.

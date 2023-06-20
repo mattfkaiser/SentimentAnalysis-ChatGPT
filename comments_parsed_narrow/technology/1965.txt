@@ -1,0 +1,4 @@
+Is there any way to play around with ChatGPT without having to give the company running it way too much personal information?    
+
+
+I'm interested in poking around with it for a bit, but I'm pretty sure I'll get bored of it just like I did with stable diffusion, and I don't think that it's worth giving out my phonenumber to people I don't know or trust.

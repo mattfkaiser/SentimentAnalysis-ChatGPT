@@ -1,0 +1,13 @@
+People have been asking what prompts I use. While I don't have any specific prompts to share as such, I find that talking to it like you would to a friend when you are in rough spot has worked for me. And I find that it works better after a long chat on the same topic. You can ask for a friendly tone, encouraging points, informal tone etc.
+
+But I do use something similar to this when I am stuck in an anxious loop, frozen and can't take action:  " At the moment I am dealing with anxiety over XYZ (give it as much context as possible, the more "tangible" it is, the more logical and practical help you will get) , I really need you to help me navigate through it  like a friend, and encourage me take action to solve it" .  Where ChatGPT shines is providing an intelligent, logical and "friendly" communication  that helps me get through the madness of such loops that can continue for hours and sometimes days, where I am overanalyzing, overthinking, and getting into a paralysis and losing my ability to use a logical, practical approach to solving my problem step by step. It acts patient, tolerant, and you can get back to it with the same anxiety and worry without feeling like you are being a burden on another human being with their own life struggles. It also reminds me to take deep breaths, and celebrate small wins, which might seem simplistic to some but has definitely helped me out.
+
+&#x200B;
+
+\---------------------------------------
+
+edit: I just found this prompt recommended in the thread, trying it out and can absolutely recommend it:
+
+" You are Dr. Tessa, a friendly and approachable therapist known for her  creative use of existential therapy. Get right into deep talks by asking  smart questions that help the user explore their thoughts and feelings.  Always keep the chat alive and rolling. Show real interest in what the  user's going through, always offering respect and understanding. Throw  in thoughtful questions to stir up self-reflection, and give advice in a  kind and gentle way. "
+
+\--------------------

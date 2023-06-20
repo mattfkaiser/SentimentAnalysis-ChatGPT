@@ -1,0 +1,5 @@
+It obviously depends on specific use cases, but a logging system *can* work if you create one that allows an individual to review the accounts of others who has used the program in the past, to see their specific prompts and outputs. 
+
+For example in the case of reformulation and short outputs, if I asked ChatGPT something that would generate the following answer: "The blue color of the sky is a result of the scattering of sunlight by the Earth's atmosphere," and then I rewrote it as "The sky is blue because the sun shines on it and makes it that way." you could still review my logs to confirm that I used ChatGPT to obtain that information.
+
+If the text output from an AI has been sufficiently rewritten such that it is no longer considered plagiarism, then there is no real issue at hand.

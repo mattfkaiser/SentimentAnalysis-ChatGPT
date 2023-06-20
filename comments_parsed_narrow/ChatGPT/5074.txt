@@ -1,0 +1,3 @@
+and then what happens when there are tens of thousands of plugins?
+
+chatgpt should just figure out which one we need based on the context.  "what's the cheapest flight from new york to paris" shouldn't be too difficult for it to know which plugin to use.

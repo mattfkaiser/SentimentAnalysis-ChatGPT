@@ -1,0 +1,3 @@
+it's been a relief to stop doom scrolling through SO comments and suggestions trying to work out what's actually a reasonable, up-to-date and correct answer and then adapt it to my needs.
+
+ChatGPT both gives me the correct API/syntax but also writes out great examples, explains them to me in detail and on top of it, if I tell it to, it uses my actual variable names etc.

@@ -1,0 +1,3 @@
+No one else realizing how little filtered ChatGPT is now? Sure, GPT-3.5 on ChatGPT is still filtered quite a lot, but it’s better than before, and GPT-4 is a whole new fucking world. It can swear, be violent, be sexual, violate copyright laws, tell you how to make fucking meth. For all those things (except the last), you literally just have to ask it. No need for trickery anymore.
+
+I also find it agrees to almost anything now. Tell it to play a character whose sole purpose is to make methamphetamines? It’ll do it. GPT-4 went from neutered and boring to fucking amazing. And GPT-3.5-Turbo via the API is also _much_ less filtered now as well (and way better than ChatGPT’s GPT-3.5-Turbo). But GPT-4 on ChatGPT is amazing now! Haven’t needed to use a jailbreak in ages.

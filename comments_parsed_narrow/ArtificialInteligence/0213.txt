@@ -1,0 +1,7 @@
+Main this is control. Both from the side of input and output.
+
+ChatGPT is already a problem for a number of corporations, as employees use it to solve their work-related issues, while leaking classified information to the third party.
+
+In the future, all major corporation would have in-house AIs, inhouse servers, probably physical, inhouse LLMs / smart chatbots etc.
+
+Imagine connecting all departments into one massive system, from HR, Finance, Development, and Marketing. As you can imagine this is very sensitive information.

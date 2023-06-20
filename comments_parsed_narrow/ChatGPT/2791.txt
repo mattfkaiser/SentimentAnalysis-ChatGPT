@@ -1,0 +1,31 @@
+I know this post is for the lulz, *but* I am also concerned by the numbers of comments trying to deduce how / why ChatGPT arrived at 4 *mathematically* or *algorithmically*, when we definitively know it doesn't have that ability.
+
+Reminder that ChatGPT does not actually possess a random number generator (or pseudorandom number generator) or e.g., code execution capabilities… at least in the general models.  It doesn't have any genuine form of randomness — besides the fact that the ChatGPT responses themselves are nondeterministic — and I think that may be deluding people into having the impression that it truly does have randomness.
+
+---
+
+Major caveat though: IIRC there is a Python code interpreter plugin now, so in theory this *should* work:
+
+```python
+execute the following python code to roll a dice:
+
+import random
+random.seed()
+print(random.randint(1, 6))
+```
+
+However, I tried it under *GPT-4 (Plugins)* mode though, and it failed like above.
+
+My assumptions were:
+
+1. GPT-4 Plugins mode pick the best underlying plugin to use
+
+2. The *GPT-4 (Code Interpreter)* mode is one of those plug-ins
+
+3. My impression from the blog post was that the Code Interpreter plugin basically just passes text to a Python interpreter
+
+4. The most recent release notes said all Plus members have "Plugins" access now, but maybe that doesn't include the Code Intrepreter plugin, or I'm just doing something wrong here (???)
+
+Hopefully this approach will work in the near future though.  And then you can probably even have ChatGPT generate the trivial "dice rolling" code.
+
+Curious if anyone who has used the Code Intrepreter plugin can comment on that more.

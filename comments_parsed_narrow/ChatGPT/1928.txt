@@ -1,0 +1,11 @@
+ Posted this elsewhere - 
+
+I have been using ChatGPT for a while for resolving some Python bugs, it does a pretty good job indeed.
+
+Moreover what I really like is that it resolves it's own bugs when prompted or executes the code in a particular way I need
+
+The biggest issue I face at times with StackOverflow - 'Defining the problem at times'
+
+I feel there are times, when I am unable to frame the question properly (usually when the bug is still in a dormant stage or when I simply haven't figured it out yet)
+
+I feel ChatGPT turns out to be far more polite at discussing bugs than StackOverflow.

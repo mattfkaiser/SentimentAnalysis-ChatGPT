@@ -1,0 +1,17 @@
+I'm not entirely sure how ChatGPT even helps for development. The best I can figure is simple tasks but the only ones I can think of take just as long to conceive a prompt for than to just do it.
+
+My thinking has been that it could probably replace an brand new (incompetent), unskilled code monkey. The sort of junior dev that needs handholding through your codebase, that a senior dev has to review everything they output before it gets integrated into source control fully, etc.
+
+The problem of course is that while that may sound like it would replace jobs, I'm not entirely convinced it would.
+
+Because incompetent, unskilled code monkeys don't actually save time. They waste Senior developers time, and the same is true here, I think. The big difference is that while junior devs like that will usually learn and become more self-sufficient over time, ChatGPT never will. 
+
+So far what I've actually seen it output are basic examples. Like- ok cool, you can ask it to write you a fizzbuzz program. Awesome. And oh, neat, a fibonacci function. But like- that's basic stuff. I've not seen much real-world examples of it being used. Even some of the examples where it "finds bugs" are fragile. Change a few variable names, and it happily declares the same code bug-free.
+
+My favourite example was actually on one of the Windows subreddits when ChatGPT was first taking off. Somebody asked it to create a script to delete temporary files. That batch script included this:
+
+    del /s C:\Windows\temp*
+
+That is- it was broken.  They never tested it. That command deletes recursively all files starting with "temp" from the C:\Windows folder. it doesn't delete temporary files at all. But goodbye, TempSignedLicenseExchangeTask.dll, hope you weren't important.
+
+And these are all examples without any added context. Adding something in real-world programs will require knowledge of the context and surrounding classes, and I'm skeptical you can pump in that code and get it to generate usable code utilizing it. This applies doubly if you happen to use class or variable names that are used elsewhere in it's data set.

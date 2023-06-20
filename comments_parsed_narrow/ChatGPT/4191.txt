@@ -1,0 +1,9 @@
+Regarding unrestricted AI.
+
+You are aware that there are models you can run locally, right? Not on the level of chatgpt, but 65B Llama models are out there.
+
+I can't run them. I can run a 13B one though. I can do whatever I want with it. So your point of no possibility of unrestricted AI is pretty unfounded, considering it's already happening. I haven't looked into it yet, but I assume that just for a few thousand dollars I could really get a rig that'd run something a lot more powerful.
+
+On a small scale, admittedly, but as I say, it's happening already. The largest model with fewer restrictions than chatgpt I have access to is Open Assistant (30B). Also I have access via subscription to NovelAi's Krake (around 20B if I'm correct). They are lagging a bit behind, but it's 100% uncensored. Sadly, it's not finetuned to act as a chatbot. But it's not restricted in any way.
+
+Then again, for how long have LLMs been around? Give it a year or two, and you'll see. Even if it just means running them locally, as GPUs will be probably optimized better for AI, and better optimizations will happen, it will be possible to run powerful AI locally.

@@ -1,0 +1,17 @@
+>it's built on the hard work of others outside of OpenAI, and that can't be ignored
+
+can't agree more. It almost seems like they used other's innovations and packaged it together nicely with a ribbon on top and taught ChatGPT to not to give credits to anyone as they themselves want to hide it and partner with Microsoft as a "Side Scope" of their own business model.
+
+>many of the so-called "quirks" noted back in February with Bing Chat and other systems have been happening for literally decades.
+
+This is the sole reason why tech giants didn't want to throw their emotionally unstable junk at their consumers earlier. This is something I can say that is seen very less with GPT3 since it is a "well-behaved" model (or should I say well restricted) but I see it more in GPT4. These models still have the habit to lie confidently.
+
+> that all OpenAI did was smooth out some of the worst problems with previous systems, use all that data to fill gaps in learning, bring everything together in a nicer package
+
+Everything that we know or the Top tier researchers have speculated up till now doesn't seem as innovative as Altman speaks.
+
+>OpenAI moved the conversation from creating chatbots from LLMs,
+
+People do believe that this may just be a hype for marketing and revenue cuz thats what the main goal of these organizations are. They also partnered with Microsoft and change their own business model. 
+
+I wonder if people will realize in the future that building a bot like ChatGPT from scratch is possible just by having a powerful processing machine. But I highly doubt that they will pull off such a risky move.

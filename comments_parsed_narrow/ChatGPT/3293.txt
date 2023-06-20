@@ -1,0 +1,5 @@
+Yeah, but the problem is that, no matter what you submit, it still adds the transition phrases and clauses.
+
+By the way, I completely agree it does a great job of emulating in-prompt submitted writing with instructions to emulate it. But, without the exhaustive instruction to remove the transition words/phrase, it will absolutely add it, even when emulating writing where it would never appear. I was making ChatGPT rewrite Twilight in the style of paragraphs I got from James Joyce's Ulysses and Finnegan's Wake. If you think James Joyce injects stupid phrases like "On the other hand," or "Finally,", you'd be mistaken.
+
+I actually believe that what's happening is that after the model writes me the James Joyce paragraph, it undergoes another transition hardcoded by OpenAI, to add the transition phrases under a misguided idea that it makes it easier for the user to read and follow the ideas presented.  That would also explain why it still puts them in when I don't explicitly tell it what phrases not to use.

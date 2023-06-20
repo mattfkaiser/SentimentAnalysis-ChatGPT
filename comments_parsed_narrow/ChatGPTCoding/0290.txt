@@ -1,0 +1,5 @@
+We solved it by implementing our own UI on top of gtp-3.5-turbo and gtp-4. That allows us to give access to all models to all of our company, and just pay API usage. It's a LOT cheaper this way.  Requests that come in via the API are \*NOT\* used in their training set, so this is the ideal situation for a business.
+
+This also allows us to take advantage of vector databases / embeddings to load in our own content.
+
+And yes, we have a company policy that employees should NOT be using the normal version of ChatGPT. They need to use ours.

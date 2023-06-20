@@ -1,0 +1,21 @@
+Actually testing it is the best way to see what it does. And I mean really test it, with absurdly complex requests That you can be sure no one in history has ever attempted. For example:
+
+“Write a zen koan about the folly of stockpiling circus peanuts that features Winnie the Pooh.”
+
+“Now convert your response into a comedy bit in the style of Seinfeld.”
+
+“Make it rhyme.” 
+
+“Boil it down to a slogan for a politician running for office.”
+
+“Turn it into a high school graduation speech.”
+
+“Now a movie script with a plot twist ending.”
+
+You get the idea. I haven’t tested these, this is just random stuff off the top of my head. You may think what it churns out is terrible. I find it’s hit and miss. Often you can improve the results by telling it what you don’t like. 
+
+But the key point is that for stuff like this, it’s very obviously not just looking things up and summarizing. It’s creating brand new combinations of ideas. 
+
+In fact, one of the most fascinating things about ChatGPT is that it can’t “look things up” and isn’t designed to. Instead, it’s designed to simulate intelligent speech by predicting word patterns. It’s bad at math, for example, because it doesn’t contain a calculator and has not been given the rules of arithmetic. Anything it know about math just comes from having seen lots of people talking about math and the simulating those discussions. 
+
+Obviously the next obvious step is to connect it to a search engine and let it look up facts, which is what MS and Google are doing.

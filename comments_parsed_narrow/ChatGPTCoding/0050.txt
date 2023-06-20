@@ -1,0 +1,1 @@
+Thanks! Can you expand on each of the potential responses the bot might have given? Please give examples for each response in an example run of this function. Remember, it feeds each message back to chatgpt and continues through the loop up to 20 times.

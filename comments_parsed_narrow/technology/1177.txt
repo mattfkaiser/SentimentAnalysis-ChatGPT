@@ -1,0 +1,9 @@
+Understand that ChatGPT in it's current form makes no attempt at all to be factually accurate. *That is not it's purpose*. This is not a criticism, I am saying that nothing like a fact search is even in the thing.
+
+It's sole purpose is to produce coherent sounding words. It is a comprehensibility engine.
+
+That being said, it should be viewed not as a thing that gathers knowledge BUT it can be made to be a front end to a more traditional search engine.
+
+How it will be used is that a user will not input a "prompt" for GPT itself but for a search engine. The search engine will glean facts and form them into a simple prompt and feed *that* into GPT. It won't ask GTP for fact, it will provide facts and task GPT with putting them into pleasant to read paragraphs.
+
+As it is now, one of your students who know the subject they've been asked to write on could provide GPT with bullet-point facts and get a "paper" out of it. But they need to provide the facts because GPT isn't set up to find them itself.

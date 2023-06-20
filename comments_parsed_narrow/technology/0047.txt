@@ -1,0 +1,1 @@
+Subreddit simulator is a simple Markov chain system. ChatGPT is way more sophisticated. It is a giant step forward. But it was never meant to determine true information. It was meant to make text that seemed written by a person.

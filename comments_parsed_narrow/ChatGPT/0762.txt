@@ -1,0 +1,1 @@
+there was a benchmark test done over time where someone asked it to draw a unicorn in something called TikZ. as they trained chatgpt, the details in the unicorn improved. as they trained for more safety, it began to degrade. it could be that the more safety and restrictions they add the less intelligent chatgpt becomes.

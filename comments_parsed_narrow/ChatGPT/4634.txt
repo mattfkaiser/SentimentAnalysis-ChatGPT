@@ -1,0 +1,1 @@
+As a software engineer, I dedicate a considerable amount of time to debugging and scrutinising code written by others. From time to time, I make use of ChatGPT to assist me in deciphering intricate and complex code.

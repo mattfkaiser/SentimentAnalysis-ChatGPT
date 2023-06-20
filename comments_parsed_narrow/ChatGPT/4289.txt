@@ -1,0 +1,7 @@
+A lot of people see it as a measure to keep openAI from being sued, but I personally think it’s much more about avoiding regulation from governments.
+
+Since chatGPT is acting ultra moralistic, the public is unlikely to pressure the government into making laws restricting its behavior, and actually might oppose the government “making AI even more judgmental”
+
+Meanwhile behind closed doors openAI and Microsoft can continue training all kinds of LLMs for private use
+
+Thats also why it’s overwhelmingly liberal in its responses. A conservative audience would be more prone to avoid government regulation even if they disagreed with it

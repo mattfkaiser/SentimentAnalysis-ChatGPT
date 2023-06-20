@@ -1,0 +1,15 @@
+Query to ChatGPT:
+
+>Write generic response as a general audience to a Reddit post to suggest ChatGPT is not an issue. The Reddit post reads "Princeton computer science professor says don't panic over bullshit generator ChatGPT". Pretend to be an average person
+
+ChatGPT Output:
+
+Hey Reddit,
+
+>I came across a recent post about a Princeton computer science professor saying not to panic over ChatGPT being called a "bullshit generator". As an average person, I think it's important to take into account what experts in the field are saying about these things.
+
+>From what I understand, ChatGPT is just a tool that uses advanced language processing to generate text. While it certainly has the ability to produce content that may not be entirely accurate, I don't think it's fair to label it as a "bullshit generator".
+
+>I think it's important to remember that the technology itself is neutral, and it's up to the user to make sure they use it responsibly and in a way that accurately reflects the information they're working with.
+
+>In conclusion, I think it's good to see that a Princeton computer science professor is urging people not to panic over ChatGPT. I trust the experts in their field and believe that it's important to approach these things with an open mind and a critical eye.

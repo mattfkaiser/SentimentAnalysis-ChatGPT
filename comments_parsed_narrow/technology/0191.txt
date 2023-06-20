@@ -1,0 +1,7 @@
+Which honestly seems perfectly fine... **IF** OpenAI is held legally responsible for any damages.
+
+If this were to actually happen, they would easily lose in court.
+
+**The real problem is more nefarious.** It's not going to be identity theft or anything so cut-and-dry like that. It's going to be bits and pieces of everyone's personal information. And it's going to be *inferences* that bad actors can make, based on the outputs of the model, rather than ChatGPT explicitly "revealing" these secrets in complete sentences. Ditto for IP theft.
+
+This is why it's so important to regulate these issues *before* they show up in court -- the most problematic stuff isn't *going* to come up in court because it'll be virtually untraceable.

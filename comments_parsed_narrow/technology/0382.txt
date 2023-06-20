@@ -1,0 +1,19 @@
+I've done some testing/training of modern language models in the past year, and the thing that I keep telling people is "Hey, don't freak out."  
+
+
+Yeah, Chat GPT can produce some amazing results. It also produces a ton of absolute garbage. It struggles to produce anything coherent beyond a couple of paragraphs though. If you tell it to write a 1000 word essay, it's going to repeat itself, contradict itself, and make up facts. There's probably an 80% chance that if you were to read it, SOMETHING would feel off, even if you were completely unaware of its origin.  
+
+
+Sure, if it dumps enough technical jargon in there, or it's discussing a topic that you have absolutely no foundation in and no interest in, it might be able to get past YOU...but it's not going to get past someone familiar with the topic, let alone an expert.  
+
+
+Right now, Google, Microsoft, and OpenAI (among others) are literally dumping hundreds of man hours into testing on a weekly basis.  
+
+
+Chat GPT and other language models will have moments where they appear sentient/creative, and moments when they produce something that could pass as 100% human-written, just due to law of averages. (The ol' "a thousand monkeys at a thousand typewriters for a thousand years" thing.)  
+
+
+But right now, they still haven't figured out how to get it to factually answer questions 100% of the time when it's literally got the information.  
+
+
+One day (and honestly, I would not be suprised if that day DOES come in the next decade, give or take) it will be problematically good at what it does. But that day is most certainly not today.

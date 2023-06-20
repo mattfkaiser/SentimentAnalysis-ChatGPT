@@ -1,0 +1,1 @@
+As you can see in the code, it is using davinci. Can you explain more about that? Is that an earlier version of chatgpt?

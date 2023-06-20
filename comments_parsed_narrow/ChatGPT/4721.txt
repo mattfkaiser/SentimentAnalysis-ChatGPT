@@ -1,0 +1,3 @@
+If you know how to write python, use the API. You can change the base system prompt freely through the API, and it will likely answer your questions without any problems if you set the system prompt right.
+
+If you don't know how to write python or use the API, consider asking ChatGPT to help you learn how to do it. It is pretty straightforward to do.

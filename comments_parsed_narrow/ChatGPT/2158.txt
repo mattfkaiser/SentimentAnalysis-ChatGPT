@@ -1,0 +1,1 @@
+Your GLP training (or your GLP lab technical director) tells you the answer to this.  It needs to be validated before you can deploy it.  We are no where near there yet.  ChatGPT still hallucinates and makes up references.

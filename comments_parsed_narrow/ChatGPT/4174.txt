@@ -1,0 +1,3 @@
+> Pretty sure GPT 4 is right more often than fellow humans, so whatever caution you apply to using GPT, you should apply even more when dealing with humans
+
+I have never seen code from Github use libraries that are literally fake. If it happens, it's exceedingly rare. OTOH, it's not at all rare for ChatGPT to hallucinate libraries or even functions that haven't been written yet.

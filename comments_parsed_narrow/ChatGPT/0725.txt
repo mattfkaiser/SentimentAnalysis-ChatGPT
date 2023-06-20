@@ -1,0 +1,16 @@
+It's definitely worse for me. I posted about it here:  
+[https://www.reddit.com/r/ChatGPT/comments/14be766/today\_gpt\_4\_is\_acting\_like\_gpt\_3/](https://www.reddit.com/r/ChatGPT/comments/14be766/today_gpt_4_is_acting_like_gpt_3/)  
+
+
+It's even changing programming languages in the middle of providing me with some code, which I've only seen gpt 3 do maybe a couple times. I've never seen gpt 4 do it until now.  
+
+
+Additionally me giving it code, asking it to add some extra content.   
+It gives me my own code back, but then breaks it.
+
+    if 
+    elif
+    endif
+elif
+
+I think openai might be trying to save money and cut corners or something, but the responses I'm getting today on gpt 4 are about the same length and the same bad responses as gpt 3.

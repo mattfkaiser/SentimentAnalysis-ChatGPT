@@ -1,0 +1,3 @@
+I think you are very confused. What you are describing is a use case for the GPT API, not plugins. Plugins allow ChatGPT to reference outside apps to create its response.  What you are talking about is incorporating GPT intelligence into other apps, which is what the API is for. 
+
+Now, there has been API access to GPT for almost 3 years at this point. Everything that you describe is possible, and has been possible for that whole time. The problem is that 1) calling the API a lot is expensive and 2) it is slow as molasses. It could not be driving all these NPCs all the time or give you instant interaction. When query time is dramatically improved or we get models small enough that they can be evaluated locally, then your use cases will be more realistic.

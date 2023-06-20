@@ -1,0 +1,11 @@
+I don’t have 0 knowledge of programming, I just am new. I understand how C++ works and made a few things in my small game without the need of Chat GPT. 
+
+I know that chat gpt does errors, and am not building an MMORPG off of it. I am just building a game that gives you a currency, allows you to spend that currency in order to make a Gacha roll, get something off that roll going from a 3 star thing up to a very rare 5 star thing, and giving currency back depending on the rarity. 
+
+Also having a pity system but that’s not why I want a GUI.
+
+I just want something like the banner window of Genshin Impact, you have a button to roll, a button to add currency, a button to roll x10 and some animation going with the results. 
+
+Everything’s working fine as I want it to work, I just want to do a GUI for it to look good and be happy about it.
+
+I had a UI for a game I made years ago, and I could work with it since I did it before, but I have no idea where it is or how I started it or made it. I could only work with it if I still had the file which, I don’t.

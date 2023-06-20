@@ -1,0 +1,3 @@
+I foresee that there will a progressive change on the type of questions on the discussion boards. ChatGPT will be capable of performing the most common and trivial tasks; this does reduce or eliminate those type of questions. The support forums will then be filled mainly by those more niche questions that ChatGPT can't (yet) solve. This process continues...
+
+In any case, I still see a large need for human programmers; there are too many shoddily documented and supported libraries.

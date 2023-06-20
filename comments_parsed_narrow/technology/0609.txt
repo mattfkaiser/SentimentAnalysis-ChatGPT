@@ -1,0 +1,5 @@
+It's not a flaw in the programming, it's just simply not designed that way. ChatGPT does not have an active internet connection to fact check itself. All it was ever designed to do was produce human-sounding text.
+
+And why can't you "make up" case law? I can do it right now:
+
+In 2002, a Massachusetts state court ruled in the case of John Jacob Johnson v. Tom Brady that the use of the word "football" alone in a legal document was not considered sufficient to distinguish American football from soccer, and must be clarified explicitly.

@@ -1,0 +1,1 @@
+Looks like chatgpt is using a database of some sort to pull relevant information based on your prompt however because your prompt is the way it is, there must be some glitch with the algorithm they are using to pull said records. Just an assumption

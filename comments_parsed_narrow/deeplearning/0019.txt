@@ -1,0 +1,1 @@
+also, chatgpt is capable of summarizing the ongoing dialog for the user. it can apply this to condense the dialog into a summary with tokens less than 4000 (although i’ve read elsewhere that the actual limit is probably 8000 token).

@@ -1,0 +1,23 @@
+Sure, I can help you with that! Here's an example of a concise bullet point logic flow for the JavaScript function that you're asking for:
+
+- Import the "openai" NPM library
+- Create a function that takes in a user's input as a parameter
+- Create a variable called "conversation" and set it equal to an empty string
+- Create a variable called "iteration" and set it equal to 0
+- Call the openAI API using the "openai.apiKey" and "openai.Completion.create()" methods and pass in the user's input as a prompt
+- For each response that the API returns, append it to the "conversation" variable and increase the "iteration" variable by 1
+- If the "iteration" variable is less than 20, call the API again with the last response as the prompt
+- Once the "iteration" variable reaches 20 (or greater), return the "conversation" variable
+
+Now let's walk through each loop iteration with the user input "hi chatgpt, can you tell me how to avoid building a rogue ai on Reddit?":
+
+- The function is called with the user input as the parameter
+- The "conversation" variable is set to an empty string and the "iteration" variable is set to 0
+- The API is called with the user input as the prompt
+- The API responds with a message ("Sure! Here are some tips:")
+- The message is added to the "conversation" variable and the "iteration" variable is increased to 1
+- The API is called again with the message from the previous response as the prompt
+- The API responds with another message ("First, make sure to set clear goals for your AI and establish guidelines for its behavior...")
+- The message is added to the "conversation" variable and the "iteration" variable is increased to 2
+- This process continues until the "iteration" variable reaches 20
+- Finally, the full conversation (including all 20 messages) is returned by the function

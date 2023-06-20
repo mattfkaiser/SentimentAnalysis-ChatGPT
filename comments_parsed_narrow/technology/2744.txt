@@ -1,0 +1,1 @@
+Chat GPT has all of its information cached, since 2021 it's database hasn't be updated/retrained. It doesn't get any information from google or the web as it already has a massive cache of data.

@@ -1,0 +1,15 @@
+> there are some pretty popular hypotheses that the human brain itself is just a big autocomple prediction machine that constantly makes predictions based on patterns it sees (predictive coding theory). This theory is part of what Informs deep learning and has produced such spectacular results.
+
+I don't think anyone in the field holds that that's what the brain is doing in total. Yes, there are substantial parts of the brain that we hypothesize might be engaged in something similar (though it's hard to say because we don't have a single, tokenized output) but the brain clearly has a variety of complex structures engaged in a collaborative interaction and those structures do not appear to be working in the same ways.
+
+So yeah, we ***might*** have hit on one of the major building blocks, but that's all I'd be willing to commit to.
+
+> Chatgpt seems to be vindicating this theory
+
+Quite the opposite if you're not restricting yourself as I did above.
+
+ChatGPT, while wildly successful at generating text that works in a variety of human-capacities, is incapable of a vast array of human tasks that we consider trivial, ranging from certain forms of logic and mathematics to spatial reasoning to temporal reasoning. It's also pretty clear that there's no direct way to get to abstract goal planning with the current predictive model, and that's a BIG DEAL for general intelligence.
+
+Supplemental structures that operate on other principles are probably going to be essential, and ChatGPT is making that very clear.
+
+I'm not dismissing what you're saying. It's true that there's substantial progress here, and we've definitely found a key to at least a big piece of the mystery of intelligence. I'm just being cautious about how much we generalize that.

@@ -1,0 +1,5 @@
+It's going to write generic stories if you give it short generic prompts. But it can work alright with detailed prompts, or if you input a long segment of your story and ask it to continue it. Also the tightening filters after the first 2 weeks did impact its creativity, gotten more cookie-cutter and G-rated. 
+
+I've experimented with stories back when ChatGPT was least censored and the onlu thing holding it back was its morality filter. In my initial attempts, Character A kept rejecting Character B's flirting and insisted they're friends. It really just comes down to prompt engineering to use its deeper potential. I read tips from others afterwards and was able to lure it to spit out pretty detailed stuff. 
+
+Real authors don't have anything to fear for some time because as of now, it's still garbage in garbage out. ChatGPT is not going to craft a passable book just because you asked it to write a story. Its quality in output will depend on your input. There still needs to be effort from the user, so it's just a tool. But it's definitely not incapable of writing

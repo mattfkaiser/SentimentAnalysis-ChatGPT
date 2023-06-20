@@ -1,0 +1,3 @@
+According to [Bing](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4), they're using GPT-4 that's optimized for search.
+
+I can't tell you which is better, but I was able to trick Bing into answering something it wasn't supposed to before it self-censored itself in the middle of responding. It also deletes your conversations after a few queries whereas ChatGPT saves them.

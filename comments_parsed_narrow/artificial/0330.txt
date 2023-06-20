@@ -1,0 +1,6 @@
+I think you might find this one interesting (and funny as well). Especially the tiny screws for big holes example lol, chatgpt really is a guy...  
+[https://imgur.com/cWRXFVb](https://imgur.com/cWRXFVb)
+
+It also just occurred to me that in your original prompt, the answer is actually fed to it (as in the first screenshot I posted).  
+"wouldn't it make more sense that **the box is too small to contain the ball**?"  
+new sentence: The box is too small to contain the ball

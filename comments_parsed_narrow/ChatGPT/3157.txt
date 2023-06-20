@@ -1,0 +1,1 @@
+yes, [hallucinations](https://vectara.com/avoiding-hallucinations-in-llm-powered-applications/) can be a problem indeed with Vanilla ChatGPT. That is why we are proposing this approach (we call it grounded generation at Vectara) where the response is based on actual facts from your data, and the response comes with citations to the source to allow further dig-down if needed.

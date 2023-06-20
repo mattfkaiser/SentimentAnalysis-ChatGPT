@@ -1,0 +1,3 @@
+> "Germany considers following Italy in banning ChatGPT due to breach of EU privacy laws".
+
+Even this is somewhat sensationalized. From what I gather, the site was just blocked in Italy because OpenAI didn't follow GDPR opt-in standards for collecting user data. They'll add a popup with a checkbox and be back online in a week.

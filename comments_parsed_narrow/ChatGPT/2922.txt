@@ -1,0 +1,9 @@
+That IP is owned by Microsoft. Edit: as mentioned below it’s an Azure IP (MS’s cloud computing platform), so it’s essentially their “web host”
+
+~~Also how do you get it to use web browsing? I have Plus, and enabled web browsing in settings, but it just says it can’t browse the web in real time.~~
+
+Edit: thanks to Zaki below I finally managed to enable it. I was interested in which browser it uses. I asked it to search user agent string and it came back with:
+
+    Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+
+The first part is common to many browsers including Chrome, Safari and Edge. Not sure if it actually uses a full browser or it just sends that for compatibility reasons.

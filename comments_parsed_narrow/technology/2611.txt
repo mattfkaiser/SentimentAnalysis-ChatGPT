@@ -1,0 +1,32 @@
+Its not THAT complicated, but I'm not THAT good as SQL. Also, its not going into production code, it was helping me troubleshoot a problem by isolating some data for me.  Here. This is what ChatGTP wrote:
+
+  
+I started off with this prompt: "I need the framework for an SQL query.  From a table containing fee amounts for accounts generated each year, I need accounts where the fee changed by at least 50% between last year and this year."
+
+  
+Not quite good enough, added this prompt:  "But the fee field is the same, there is a date field in order to distinguish the years"
+
+  
+Still not quite good enough, added this prompt: "I also need to return the fee date for the respective fees"
+
+Final result from chatGTP:
+
+SELECT account\_id, this\_year\_fee, last\_year\_fee, this\_year\_fee\_date, last\_year\_fee\_date  
+FROM (  
+  SELECT   
+account\_id,   
+fee AS this\_year\_fee,  
+date AS this\_year\_fee\_date,  
+LAG(fee) OVER (PARTITION BY account\_id ORDER BY date) AS last\_year\_fee,  
+LAG(date) OVER (PARTITION BY account\_id ORDER BY date) AS last\_year\_fee\_date  
+  FROM fees\_table  
+) AS subq  
+WHERE ABS(this\_year\_fee - last\_year\_fee) / last\_year\_fee >= 0.5
+
+&#x200B;
+
+All I had to do was replace the table and column names with my own.  
+
+For people that don't specialize in SQL, but need to grab some data periodically to help troubleshoot a problem, this is invaluable.  Im good with subqueries, never used the lag() call before, but that one is straight forward enough, but the "OVER(PARTITION..." bit, I wouldn't have pieced that together. I would be struggling with GROUP BYs and HAVING clauses, and just getting more and more frustrated as time went by.  
+
+Instead, I fed a simple request into chatGPT and it produced a solution for me.

@@ -1,0 +1,1 @@
+Not really a fact checker, since ChatGPT could just be memorizing "facts" from the same sources that are then just re-found by your search engine. If the original was wrong, that doesn't make ChatGPT right.

@@ -1,0 +1,1 @@
+Awesome project! Out of curiosity, how are you sending the files to chatGPT? Is it formatted in any specific way or do you just send the raw text as a prompt along with the user’s prompt?

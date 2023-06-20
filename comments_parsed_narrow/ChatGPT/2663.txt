@@ -1,0 +1,3 @@
+the jailbreak prompt is where it bypasses openai policies, and this specific one puts it into two different categories from what chatgpt says, and what the bypassed one says
+
+tried explaining it as best as i can

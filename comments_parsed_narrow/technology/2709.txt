@@ -1,0 +1,1 @@
+ChatGPT is simply a tech demo as of now just to show off contextual awareness and basic human reasoning skills. The real work after this is to take that foundational model and scope it accordingly to specific areas of expertise. Yes, each of these will require VAST amounts of training, data, and money. Hold on to your butt.

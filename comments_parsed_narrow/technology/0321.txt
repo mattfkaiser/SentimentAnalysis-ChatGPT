@@ -1,0 +1,9 @@
+The quality of the elaboration varies dramatically though, and I’ve found ChatGPT (including 4) is more likely to provide shadier answers, sources, and verification when you are trying to get it to elaborate.
+
+Just yesterday I was asking it about an academic topic, and wanted it to elaborate on one part that stuck out to me. I asked it to provide sources with the elaboration. It then elaborated, confidently, while providing me sources.
+
+The problem? One of the sources was a book that straight up does not exist at all. The other included a link that didn’t exist at all. The only other one was a real book that I had heard about that seemed related, but I don’t know if that source actually backs up the elaboration, which didn’t seem correct. When I asked about the book that didn’t exist, ChatGPT replied essentially saying I was right and it shouldn’t have included that source.
+
+I tend to ask ChatGPT about topics I already have some background in, so it’s easier to recognize when something doesn’t add up, but a lot of people ask about things they aren’t familiar with and view the answers as largely factual. In some cases it has been completely, opposite end of spectrum wrong. That can be a serious problem.
+
+There is no question ChatGPT can be more helpful than Google for a variety of things, but it has it’s own drawbacks for sure. People already often don’t interact with sources, don’t look into the reliability of the source, and/or never actually learned how to do research, and the expansion of conversational AI could make that a lot worse.

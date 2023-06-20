@@ -1,0 +1,9 @@
+There is no ChatGPT "1, 2, 3".
+
+You might be thinking of GPT, of which there is an OG model, GPT-2, and GPT-3 (and a few other misc models besides mostly based on GPT-3). 
+
+The ChatGPT that you use right now is 3.5-Turbo. If you have a plus subscription, GPT-4 and GPT3.5-Legacy are also available.   If you started using ChatGPT last December, then you were using an earlier version of what is now called GPT3.5-Legacy.
+
+Sydney (aka Bing Chat) is built on top of GPT-4. But it should be noted that Sydney has a completely different set of fine-tuning weights applied to her, compared to ChatGPT.
+
+Here's a list of models currently available via API: https://platform.openai.com/docs/models/overview

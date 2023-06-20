@@ -1,0 +1,1 @@
+I mean you don't really need to specify which version you have, if the chatGPT icon is green it's 3.5

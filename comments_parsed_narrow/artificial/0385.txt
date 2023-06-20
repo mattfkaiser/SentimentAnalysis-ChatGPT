@@ -1,0 +1,5 @@
+You might be good at googling but not everyone is, and you're probably not good at googling things not familiar to you.
+
+You know how to find the best solutions you need particular keywords that require you already know something about it beforehand? Well, chatGPT doesn't need you to know this, and moreover will probably teach you those keywords by itself. Also, it gives personal advice to your very specific problem, rather than you having to look for general solutions that need you to have the skill to understand and apply to your problem. It's like making a post on stackoverflow and have someone answer every time, except without fear of being made fun of.
+
+This is just its usefulness as an assistant. Personally I'm way more interested in what it can do as an API but that's another thing entirely.

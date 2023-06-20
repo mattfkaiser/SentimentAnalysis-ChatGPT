@@ -1,0 +1,1 @@
+I’ve been trying to treat chatGPT like a robust search engine. its answers are based on its training data. Which means its reliability is dependent on how reliable its training data data is. In other words, I give as much trust to ChatGpt as I’d trust information anywhere on the internet. After all, most of its training data is probably found on The Internet

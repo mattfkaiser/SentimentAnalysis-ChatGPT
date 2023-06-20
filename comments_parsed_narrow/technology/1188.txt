@@ -1,0 +1,1 @@
+Anecdotally, using ChatGPT as a more advanced “[rubber duck](https://en.m.wikipedia.org/wiki/Rubber_duck_debugging)” to talk to in brainstorming exercises has helped a lot in my current line of work. I think of some things, it suggests some things, then I can spend my mental energy on making strategic decisions.

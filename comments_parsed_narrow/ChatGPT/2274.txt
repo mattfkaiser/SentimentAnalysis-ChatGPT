@@ -1,0 +1,1 @@
+Give it two or three examples and tell it to emulate the style in the examples. You can also give it negative examples and tell it not to do that. It does very well with examples. I create a prompt template in a Google doc that I copy and paste into chat GPT when I need some specific task.

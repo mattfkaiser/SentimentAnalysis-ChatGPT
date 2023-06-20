@@ -1,0 +1,7 @@
+Holy shit, an actual live zero-day. It's been a while.
+
+Obviously not a useful one in its current state or since it's been posted about publicly now, but nonetheless interesting.
+
+This is why I'm a proponent of private-key delimiting. If your <userinput> and </userinput> (I'm being pedantic) are anything remotely common or reverse-engineerable you'll get things like what OP found happening.
+
+That is, as long as OP's example isn't a character-recognition issue, in that ChatGPT tokenizes the input perfectly server-side. If this is true, then it's classified as an exploit.

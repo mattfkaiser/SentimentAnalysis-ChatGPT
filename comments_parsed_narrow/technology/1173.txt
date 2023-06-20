@@ -1,0 +1,3 @@
+I'm a physics teacher and I've been tinkering around with ChatGPT to see if it is correct. In highschool physics it answers incorrectly 90% of the times even if it's written very correctly (as opposed to students who don't answer correctly that tend to also maje statements without any logical sense).
+
+I assume it's because all the unfiltered knowledge it has had as input. I sure hope an AI will be trained with experts in each field of knowledge so THEN it will revolutionize teaching. Until then we just have an accessible, confident blabbery.

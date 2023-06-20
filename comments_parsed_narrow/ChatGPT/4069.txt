@@ -1,0 +1,5 @@
+There’s an old saying about newspapers that people only notice how wrong they are when they write about something you know personally. But, they are that wrong about everything else too, you just didn’t notice.
+
+This is also true of Chat GPT and similar tools. If I ask it for a legal brief, it may make up cases or laws in that jurisdiction, or flatly misrepresent how the law works in that state. 
+
+The value of a professional is not only in what they can produce, but that they can tell you whether something is accurate and sign off on it. These tools need to be much more accurate before people would get comfortable not needing to verify what they put out.

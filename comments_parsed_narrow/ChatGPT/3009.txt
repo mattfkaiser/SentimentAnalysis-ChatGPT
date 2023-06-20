@@ -1,0 +1,12 @@
+I’m not at all surprised to see companies trying to put the squeeze on and jumping onto the chat GPT BAND WAGON! Don’t get me wrong, I’m all for progress etc
+
+However a recent report from KPMG  which interviewed top management at billion dollar revenue firms clearly stated that 
+1) only 5% of executives say their companies have an AI governance protocol in place
+2) more than a quarter (27%) say they do not currently see a need or have not reached enough scale that would call for the development of a responsible AI governance program.  
+3) 60%, say they are still a year or two away from implementing their first generative AI solution.
+4) Respondents anticipate spending the next 6-12 months focused on increasing their understanding of how generative AI works, evaluating internal capabilities, and investing in generative AI tools.
+
+And this was the biggest and clearest one
+For me
+
+5) respondents cite cost and lack of clear business case as the two highest barriers to implementing generative AI. Cyber security and data privacy are currently most top of mind concerns for leaders, at 81% and 78% respectively.

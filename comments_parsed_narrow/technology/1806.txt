@@ -1,0 +1,5 @@
+chat.openai.com
+
+You create account ( use Google or fb account) 
+
+Then it let's you chat with the AI (or at least the chatbot version of it , ChatGPT is one of a few different implementations of openAI).

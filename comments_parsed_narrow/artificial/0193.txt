@@ -1,0 +1,1 @@
+Yes - they're in reserved status which means they weren't made out of thin air by ChatGPT. Somehow it got access to that info, and they were marked reserved after it's training data cutoff in 2021.

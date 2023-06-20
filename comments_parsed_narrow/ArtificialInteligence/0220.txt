@@ -1,0 +1,1 @@
+the problem with tests like this is that they are inherently biased in favor of humans. With the right accomodations, ChatGPT can perform better than students.

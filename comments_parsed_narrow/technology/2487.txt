@@ -1,0 +1,24 @@
+Honestly this feels rushed and half-baked. The screenshot from the announcement already makes me wary of the quality. And that's probably already a cherry picked result to look good.
+
+Query: 
+> Is piano or guitar easier to learn and how much practice does each need?
+
+Bard:
+
+> Some say the piano is easier to learn, as the finger and hand movements are more natural, and learning and memorizing notes can be easier.  
+> Others say that it's easier to learn chords on the guitar and you could pick up a strumming pattern in a couple of hours.  
+> Music teachers often recommend that beginners practice for at least 1 hour per day. To get to an intermediate level, it typically takes 3-6 months of regular practice for guitar, and 6-18 months for piano.    
+
+Not really helpful in my opinion. 'some say X, some say Y'.  Sounds exactly like the BS you read on SEO optimized blogs that contain the keywords, but no insightful content.
+
+Compare that to ChatGPT:
+
+> Whether piano or guitar is easier to learn depends on the individual's personal preference, background, and learning style.  
+>     
+> Piano may be considered easier to learn in the beginning, as playing chords and simple melodies is possible in a short amount of time. However, it can take longer to master more advanced techniques and reading sheet music.  
+>     
+> Guitar, on the other hand, can be harder in the beginning due to the physical difficulty of pressing down the strings. However, once the basics are learned, it can be easier to play a wider range of styles and techniques.  
+>     
+> As for the amount of practice needed, both instruments require consistent practice to improve. Generally, it is recommended to practice at least 30 minutes to an hour a day, but this can vary depending on individual goals and schedules.  
+
+So much better.

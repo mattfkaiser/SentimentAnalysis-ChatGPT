@@ -1,0 +1,3 @@
+Quantum computers are able to produce true random numbers. 
+
+I’m waiting for the day chatgpt goes quantum.

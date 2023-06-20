@@ -1,0 +1,5 @@
+Kind of.  I use chatgpt as an engineering for quickly doing research or taking pseudo code explanations and turning it into documentation. But even then it needs to be refined.
+
+I’ve also found it really good at taking a baseline for business use cases and making it more clear and concise for a broader non-technical audience. Or making slack messages less abrasive.
+
+Learning how to use this tool in the context of broader knowledge is much more valuable to the majority of us not prepping for a profession writing scholarly articles.

@@ -1,0 +1,15 @@
+I ran this through ChatGPT:
+
+Prompt: Explain to a five year old what ChatGPT is in the style of a surfer dude
+
+&#x200B;
+
+Answer: "Yo dude! ChatGPT is like a super smart surfer who knows how to talk and answer all sorts of questions, just like a surfing pro knows how to catch gnarly waves! It's like a magic buddy who's always ready to chat with you, no matter what you ask."
+
+&#x200B;
+
+Prompt: Explain it again, but this time to a 40 year old and in the style of a business executive
+
+&#x200B;
+
+Answer: "ChatGPT is a cutting-edge AI language model developed by OpenAI. It is designed to generate human-like text responses to a wide range of inquiries. Think of it as an incredibly sophisticated virtual assistant, equipped with an extensive knowledge base, that can help streamline communication and provide valuable insights in a timely and efficient manner. In short, ChatGPT represents the future of AI-powered communication and is poised to revolutionize the way we interact with technology."

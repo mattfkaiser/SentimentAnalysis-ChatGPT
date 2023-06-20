@@ -1,0 +1,1 @@
+Yes, you can. Not in your machine, but you can look for an API that links your bot to chat gpt, and do all the work. It might have cost, but better than start from scratch.

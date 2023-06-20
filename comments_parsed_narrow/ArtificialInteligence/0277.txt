@@ -1,0 +1,17 @@
+I built a few content affiliate marketing websites which depends upon Google traffic. In the past, I would write some of my own articles, but it was always very boring and repetitive stuff because in this particular niche its not even content people will actually read... they just want to find some items and go buy. So I'd outsource a lot of it to cheaper freelancers (because I didn't really require quality writing).
+
+ChatGPT has completely invalidated the need for those freelancers. To be fair, the quality for them was often pretty terrible. ChatGPT does such a better job.
+
+Now, I train it on my own content samples so that it can mimic my writing style, provide it with a format for how the articles should be structured, and it's 10xd my article production with a fraction of a cost. Now the majority of work is simply fact checking and running them through AI content checkers to make sure they beat detection. With GPT-4 they pass detection almost always on the first pass.
+
+Obviously detection will get better as well, but there will reach a point at which its undetectable. I've found by training it on my own writing it does a much better job of beating detection.
+
+I think this will replace a lot of the mundane copy writing that most consumers don't even read... and that's the thing... a lot of this content we produced for websites over the years was hardly read at all. Most people have been scanning content for decades already.
+
+Now, I disagree about creative writing. I am also looking to write fiction, but I feel no desire to outsource that to AI. It defeats the purpose. However, it can be a powerful research tool for creative writing, and also helpful for idea generation. So I think it can actually be a powerful tool to supplement your creativity.
+
+But obviously there will inevitably be people who just crank out AI fiction in the same way I'm using it for online content. No way around that.
+
+As people rely more and more on these tools, some of their skills will atrophe. I think its each to up to us to maintain those skills as much as we can. But people still like to express themselves through writing.
+
+Just think about reddit for example... ChatGPT has been around for a couple months now. How many users do you think are using it to craft responses to posts on here? I don't think many, but who knows. It would seem to defeat the purpose of engaging in communication if you just have ChatGPT spit it out to you. So I think in that sense written communication will still be a human activity longterm.

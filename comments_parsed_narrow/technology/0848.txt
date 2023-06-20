@@ -1,0 +1,1 @@
+How would you even begin to come up with some fair scheme for compensating peoples whose works were used in training AI when it's virtually impossible to determine to what extent those works are used in the end result? At least for large models like what ChatGPT uses.

@@ -1,0 +1,10 @@
+That a LLM happened to output numbers that map to reserved CVEs isn't proof of anything, beyond the LLM having some notion of what a plausible CVE looks like.  
+There are literally several thousands of reserved CVE ids, allocated to [anyone](https://cveform.mitre.org/) who believes they may need them in the future.
+
+There is nothing in that twitter thread that credibly shows ChatGPT is emitting confidential CVE data.
+
+If you're in a very generous and trusting mood, you could simply wait for the CVEs to become public.  
+Oh but you can't, the thread author helpfully blacked out the CVE numbers to make that impossible.  
+
+Incidentally, the tweet mentions their shocking discovery is "similar to the recent #Samsung’s leak incident", yet if you read the samsung article, there is no mention of chatGPT ever outputting Samsung's data, merely that Samsung employees feed chatGPT some internal code.  
+It's unwarranted sensationalism all the way. like and subscribe, I guess.

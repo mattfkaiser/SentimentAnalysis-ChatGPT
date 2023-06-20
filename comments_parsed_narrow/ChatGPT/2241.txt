@@ -1,0 +1,3 @@
+this is the right answer. i use a long prompt i [shared here](https://reddit.com/r/ChatGPT/comments/13mnrca/_/jkw8nkh/?context=1) that i use explicitly for this purpose just like this. give it limitations, a role, and a format for the email, better yet a sample and then it will do a much better job of outputting things in your voice and style.
+
+edit: for those trying bing since the update, [refer here for an alternative prompt that's less about creating prompts and more acting like a computers operating system.](https://www.reddit.com/r/ChatGPT/comments/13orqqh/comment/jl6m6ca/?utm_source=share&utm_medium=web2x&context=3)

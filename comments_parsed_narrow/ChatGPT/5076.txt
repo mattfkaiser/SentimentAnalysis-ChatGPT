@@ -1,0 +1,1 @@
+I still don’t know how the Zapier plug-in works. I have a Zapier account but that needs a ChatGPT API to use which I havent set up billing for, only ChatGPT Plus. When I try the Zapier plug-in from ChatGPT Plus, it sends me to Zapier which requires my API key which I don’t have :/

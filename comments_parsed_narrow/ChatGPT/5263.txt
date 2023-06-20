@@ -1,0 +1,20 @@
+I'm curious what the subject of the class is and what the assignment was.
+
+I teach in a technology-related discipline. My approach has been that AI assistants are new tool so lets get to know them.
+
+This last semester I had ChatGPT attempt to complete my assignments right along with the class. While it's writing is really good -- better than the students and myself -- it wasn't able to take any topic into great detail unless you continued to prompt it with deeper and deeper questions. In some cases it answered incorrectly. It would have gotten a C, maybe a B.
+
+So I asked the students if they were using it. At first they were reluctant to say because they feared it might be considered cheating. I promised that wouldn't be the case. A few were trying it. I encouraged everyone to try it and we collectively messed with it throughout the class.
+
+The assignment has a big influence on what you can do with it. If you want a 6th grade book report, ChatGPT has you covered. Want a poem about dump trucks? Yep, ChatGPT to the rescue. It will write functions/programs in all sorts of programming languages. I had it write code in JOVIAL which I haven't seen in 30 years.
+
+What it won't do is think. It mimics. So, the nature of the assignment makes or breaks it as a source of quick answers. An obvious case: Can ChatGPT give a presentation and then verbally answer questions during that presentation? Sure, it can write a speech and text-to-voice features can read it, but what professor is going to let you "press play" and just stand there? You can deliver ChatGPT's speech, but you have to answer the questions.
+
+ChatGPT doesn't really have an opinion. Assignments that go deeper than regurgitating facts will challenge it. If you're given a complex scenario with lots of facts to analyze, pick a course of action, write a plan, and the be able to defend your choices, you might get some assistance using ChatGPT, but you have to be the brain driving it.
+
+So, to the original poster, a few things to me would demonstrate you did the work. First, the presence of awkward language, typos, and misspellings. ChatGPT's writing will be very good, where I would expect your writing to suffer from you being human. Most students write quickly and without revisions for their assignments.
+
+As a more overt and scholarly approach to involving ChatGPT, consider including transcripts of your ChatGPT sessions with your assignment. I think you'll find it can point you to good sources and drive deeper learning. Your professor might begin to understand ChatGPT better. You can also get creative with it. For instance, if you were asked to write an essay about the "Adventures of Huckleberry Finn", you could engage ChatGPT, ask it to pretend to be Mark Twain, and ask it questions -- conduct an interview -- which you then fact check as part of your assignment, supporting or rejecting ChatGPT's statements.  
+
+
+Note: I say ChatGPT, but really I mean that entire class of tools. There are quite a few of them now, plus some interesting tools built on top of them.

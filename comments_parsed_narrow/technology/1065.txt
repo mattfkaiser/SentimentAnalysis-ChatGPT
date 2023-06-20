@@ -1,0 +1,3 @@
+ChatGPT will already give you a grade out of 10, 100 or whatever you ask it to scale to.
+
+If you try to grade an entire class’s essays like this you’ll see some varied feedback that is specific to the strengths and weaknesses of each essay.

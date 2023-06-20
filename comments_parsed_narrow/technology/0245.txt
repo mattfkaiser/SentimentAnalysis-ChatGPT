@@ -1,0 +1,3 @@
+Seems like a weird niche case. Not sure an anecdote means much 
+
+ChatGPT makes research and URLs up and confidently states that it is true. You then click the URL and... Nothing.

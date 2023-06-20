@@ -1,0 +1,1 @@
+I know very little about chatgpt/ai, but I do have a question: Given the same input/prompt, will chatgpt/ai return the same output/response?

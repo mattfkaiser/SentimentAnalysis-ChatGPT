@@ -1,0 +1,5 @@
+This is funny. Because... I'm a software developer and project manager. Last week a client couldn't wait 3 days for the lead dev on their project to be back in the office, so they asked ChatGPT to debug what they thought was an incorrect database query. 
+
+Not only was the bot 100% wrong with its answer, that wasn't even the actual bug. But the client _committed the bot's changes to the code_ without any review. Mayhem and billable hours ensued.
+
+Edit: its

@@ -1,0 +1,1 @@
+As a follow up to this test, today I created a custom algorithm and challenged ChatGPT to see if it could *learn* my algorithm: [https://www.reddit.com/r/ArtificialInteligence/comments/12t96kt/another\_impressive\_interaction\_with\_chatgpt\_it/](https://www.reddit.com/r/ArtificialInteligence/comments/12t96kt/another_impressive_interaction_with_chatgpt_it/)

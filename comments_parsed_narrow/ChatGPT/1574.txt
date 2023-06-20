@@ -1,0 +1,13 @@
+Things ChatGPT can't do: 
+
+* be consistent
+
+Even if you ask something about grammar of a language (you know the thing it should excel at(!)) with tens of millions of documents, it can't say one way or the other whether or not a given way of writing that sentence is correct or not, because it literally contradicts itself within 5 minutes. 
+
+If you ask it to write some code, it assumes that the input is structured in a particular way, which is an *invalid* assumption that no human student would make. The reason it makes that invalid assumption is that according to its statistical model, it's the most likely answer, but since the question is new, it's just plain wrong. 
+
+As such, ChatGPT can be better seen as a question answering machine for at most trivial consequences in a huge corpus of text for questions that have computationally easy answers and are not self-reflective (like how many characters does this sentence have?). 
+
+I do find it tempting to ask it to ask simple programming questions as a kind of API documentation, but ultimately, I still had to write the program myself and have expert knowledge. For the given application, I think the input window should also have allowed at least 100K characters for it to be useful, because the data format had unknown structure to me and part of the task was to figure out what this structure was in order to extract the right data. 
+
+Having said that, ChatGPT appears to be more intelligent than a useless human (of which we admittedly have many) in some domains.

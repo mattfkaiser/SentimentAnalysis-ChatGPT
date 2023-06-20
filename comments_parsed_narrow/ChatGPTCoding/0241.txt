@@ -1,0 +1,5 @@
+Ask chat gpt about api's and python. You can use python to yoink the questins from the excel sheet, and you can use python to send your question to the openai api, and then you can use more python to put it back into your file!
+
+the python library pandas will do the data maniplation for you and openai has decent docs for their API.
+
+GPT doesn't know it's own API, but it knows APIs in general and can probably help you get there.

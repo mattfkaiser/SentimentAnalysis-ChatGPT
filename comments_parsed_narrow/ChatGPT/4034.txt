@@ -1,0 +1,2 @@
+This is my experience too; the coding time is around 10-15% of the time; the remaining 30-35% is understanding clients' needs (client may be internal or external) and explaining what they need to the same client, around 30% of the time studying niche data inconsistencies that need a lot of bussiness knowledge to understand why they are inconsistencies and the remaining 20% on other kinds of meetings.   
+The ones who actually spend time coding are juniors and interns... and I prefer a junior than chatGPT, as the junior will grow to a useful engineer one day.

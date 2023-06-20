@@ -1,0 +1,5 @@
+The article does not cover such a case.
+
+In the article, I propose to feed ChatGPT only public info about the company. For example, a vet clinic can feed chatbot information about its services and contacts, but definitely not about clients. 
+
+This approach is not suitable for user information, not only because of its sensitivity, but also because ChatGPT can get as input a limited number of tokens.

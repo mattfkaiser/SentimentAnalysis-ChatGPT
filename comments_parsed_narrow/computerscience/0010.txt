@@ -1,0 +1,7 @@
+That also true, but the majority of the adult population also aren’t engineers. Your calculator example is useful, though: there are some calculators in the world (TI-83 all the way up to things like Mathematica/Matlab/R) that do things so advanced, the average person doesn’t even know how to use the tool. But those who do – those who have specialized in the field – can use it to great effect making discoveries, digesting troves of data, or, well frankly things I don’t have the expertise to even know!
+
+So it is with ChatGPT and similar systems (LLMs). They hold promise to be fantastic tools (someday) for a variety of fields – including software engineering – but every sufficiently sophisticated tool needs a sufficiently specialized human to provide the right inputs and drive the human/tool interaction in a useful direction. Otherwise, you’re just going to get garbage in, garbage out :-)
+
+Don’t worry, be excited! I’m probably too old/entrenched at this point to think of the cool things that can be done with these new tools (I’ll stick to my TI-83, thank you), but you have an opportunity to innovate. Don’t be afraid of it!
+
+Besides, if it ends up you should be afraid of it, let it never be said that I didn’t welcome our robot overlords.

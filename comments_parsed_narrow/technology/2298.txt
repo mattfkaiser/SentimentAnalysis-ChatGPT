@@ -1,0 +1,12 @@
+The thing with ChatGPT is that it's good but it's not always reliable. Most students use ChatGPT because it costs no effort and on the surface it looks like it's answering your questions really good but when you ask too specific questions, that's where ChatGPT could be unreliable.
+
+The correct way of using ChatGPT is something like this:
+
+Write a formal mail to Mr. Example about how bad climate change. The Email must contain the following:  
+Begin with Dear,  
+Argument 1: ...  
+Argument 2: ...  
+Argument 3: ...  
+Conclusion
+
+ChatGPT is great if you already have background information. Using it to write an e-mail or a summary (With your background information as input)

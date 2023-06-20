@@ -1,0 +1,5 @@
+Chat GPT is essentially just a optimized tool for research/searching stuff. Its output is the result of summarizing patterns of responses, and it's optimizing it based on the feedback.
+
+If you use it for many days like I did, you will notice that it replicates a lot of patterns from websites that teach you how to code, like Stack Overflow or Geeks for Geeks.
+
+Use it as you wish, but don't blindly replicate what is says. Just you like you do with Google. Depending on the question, it doesn't know whether what it says is wrong or not.

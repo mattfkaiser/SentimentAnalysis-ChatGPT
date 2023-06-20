@@ -1,0 +1,1 @@
+Like. An example of what your plugin is actually for and what a user would input to trigger ChatGPT to use your plugin.

@@ -1,0 +1,7 @@
+Yo I use it to write emails and summarise information for me about generalised topics. It's pretty easy for me to read over it and see if it's right or not and it's all written coherently and spelt correctly. 
+
+The 10 million users are doing tasks like this. Shitty, mundane, low level white collar work that allows you to spend time on the stuff that actually needs high level thought. 
+
+I feel like there is a gap in this field because most machine learning engineers aren't terribly impressed with chatGPT or the benchmarks in comparison to the others. The real benefit here is the applicability to many professions as a time saving tool. 
+
+If the machine learning community put as much time into designing models for people to actually use rather than beat benchmarks they would get hyped too.

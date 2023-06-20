@@ -1,0 +1,5 @@
+What ive found chatgpt being good at is making the dumb scripts for me
+
+Do i need to convert a data in a specific format to another one? "Write me a simple python script that..."
+
+But don't think about asking it to write SQL, C or even Rust, itll fail at the medium complexity questions, especially with its outdated dataset

@@ -1,0 +1,7 @@
+Yes.. but I'm fairly certain YOU have no idea.
+
+gpt-3.5-turbo is the AI model OpenAI uses for ChatGPT. You can access it through their API. 
+
+[https://platform.openai.com/docs/guides/chat](https://platform.openai.com/docs/guides/chat)
+
+You really need to sit down. You sound silly.

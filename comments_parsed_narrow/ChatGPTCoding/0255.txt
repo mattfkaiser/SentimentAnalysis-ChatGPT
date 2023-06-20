@@ -1,0 +1,15 @@
+It’s actually not very hard.
+
+Here are steps:
+
+1) Sign up for the GPT-3.5 API from OpenAI
+
+2) Use GPT-3.5 API tokens to send and receive JSON data to GPT API.
+
+3) Input/output JSON data as desired.
+
+
+
+That’s all it takes to build an ‘app’ using ChatGPT.
+
+If you want it to do anything extra, then yes a non-technical person will find it difficult.

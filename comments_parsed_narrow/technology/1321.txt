@@ -1,0 +1,7 @@
+chatGPT (GPT-3.5) doesn't have any *direct* access to the internet, or the answer key that the professor used.
+
+A large number of people seem to misunderstand how exactly this technology works but the simplest way to explain is this:
+
+chatGPT is only trying to anticipate and semi-randomly output what it "thinks" should come after your text. Every word you type into a language model like GPT-3.5/chatGPT is basically processed as it goes along, looking for important keywords and arrangements of words in strings that it treats as 'landmarks' for where to go with its given output. 
+
+The reason it can do things like this is because of the level of complexity of that process, and a tiny bit of luck (occasionally) so that it picks the right "space" of data to explore when giving its next word in a sequence.

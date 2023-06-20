@@ -1,0 +1,7 @@
+As an experiment I managed to get ChatGPT to write a very good paper on Ethnic Chinese cooking.  
+
+Essentially I would take GPT's work and break it down into parts, then asking it to write more elaborately about those parts.  If it gave me something about Sichuan cooking, I'd ask it about spices in Sichuan cooking.  I'd then ask it to elaborate on each spice, and so on.  
+
+In the end I took everything, slapped it together and punched it up.  It was a damn good essay, and took me about 1 hour instead of several hours.
+
+The point is, with some work you can get AI to create something great out of anything.

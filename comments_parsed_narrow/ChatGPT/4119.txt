@@ -1,0 +1,7 @@
+I don't think that feature is available to everyone yet, in OpenAI's announcement they said:
+
+[https://help.openai.com/en/articles/6825453-chatgpt-release-notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+
+>We're excited to introduce a new feature: shared links. This feature  allows you to create and share your ChatGPT conversations with others.  Recipients of your shared link can either view the conversation or copy  it to their own chats to continue the thread. This feature is currently  rolling out to a small set of testers in alpha, **with plans to expand to  all users (including free) in the upcoming weeks**.
+
+I agree going forward we should establish a convention of insisting users share actual links to their chat, not just screenshots, but right now it's too early to say someone must be BS-ing unless they share the link.

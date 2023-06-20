@@ -1,0 +1,10 @@
+"Fix this code:"  
+
+
+And/or:  
+
+
+"We're going to write a class in <insert language here> that does this. These are the functions and variable names:"  
+
+
+Kind of broad, but I've written a LOT more code lately with the help of ChatGPT. It's not \*replacing\* programming for me, but it's removing a TON of the work I used to have to do in going and searching for the documentation for a particular library or function, then finding the method I need, then finding an example of the usage, then testing it, then fixing it...

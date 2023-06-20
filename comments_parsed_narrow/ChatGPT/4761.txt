@@ -1,0 +1,1 @@
+Yeah it's a recent feature! When continuing the chat, you will continue in your own session, so it won't affect the shared one (and when I continue in my original session, it also won't change the shared version). This whole sharing thing is great because it means you can ask follow-up questions and such to ChatGPT.

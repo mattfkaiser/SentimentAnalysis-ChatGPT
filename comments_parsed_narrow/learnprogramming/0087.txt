@@ -1,0 +1,25 @@
+I don't see how ChatGPT is lazy when I quoted the type of question I request from it. I'm aware it isn't 100% accurate, however I use it to explain a concept in the bigger picture with real world examples that i'm experienced in (food for example). Here's an example of what it gave me for loops (which we covered one example problem in class and moved on)
+
+"Loops and do-while loops serve similar purposes, but they have different structures and execution flows. Let's illustrate the difference between a loop (using a for loop as an example) and a do-while loop in the context of food:  
+Imagine you have a bowl of fruits, and you want to eat one fruit at a time until there are no fruits left in the bowl. Here's how you could represent this using a for loop and a do-while loop in pseudocode:  
+For loop:  
+bowl\_of\_fruits = 5  
+for (count = 1; count <= bowl\_of\_fruits; count++) {  
+eat\_fruit()  
+}
+
+  
+Do-while loop:  
+bowl\_of\_fruits = 5  
+do {  
+eat\_fruit()  
+bowl\_of\_fruits = bowl\_of\_fruits - 1  
+} while (bowl\_of\_fruits > 0)
+
+  
+In both cases, you're eating one fruit at a time until there are no fruits left in the bowl. However, the for loop uses a loop control variable (in this case, count) to iterate through the loop a specific number of times (equal to the number of fruits in the bowl). The loop condition is checked at the beginning, and if it's false, the loop won't execute even once.  
+In contrast, the do-while loop executes the loop body at least once, regardless of the loop condition, because the condition is checked after the loop body has been executed. In this example, you'll eat a fruit first and then check if there are any fruits left in the bowl. If there are, you'll continue eating fruits until the bowl is empty."
+
+&#x200B;
+
+Obviously, I do not expect the professor to be that descriptive in an introductory lecture, but it's similar to how a lot of my other courses, like calc 2, physics, econ, etc. It's just my biggest gripe with it is the fact that My family has to spend thousands of dollars for a course when I could maybe get a degree in econ or something, and learn code all on my own with a minor, youtube, and online resources. Lot's of people in the other replies have given me useful advice and I will adhere to it and try to see if those work. The whole concept of university is just odd right now.

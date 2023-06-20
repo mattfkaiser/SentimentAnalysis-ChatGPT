@@ -1,0 +1,1 @@
+Encrypted input wouldn't change anything because the input still needs to be decrypted once at the chatgpt servers in order to be processed. Whoever wrote the title doesn't seem to have a grasp on how encryption works.

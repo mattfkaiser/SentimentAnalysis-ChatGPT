@@ -1,0 +1,5 @@
+ChatGPT training data is a couple years out of date.  Also, there can be accuracy problems when it recalls specific documents.  Finally, the training data is only a slice of data from the net while the big search engines attempt to be comprehensive.
+
+So there are those drawbacks.
+
+As long as what you are looking for was broadly represented on the net a couple years ago, then ChatGPT should be pretty good.

@@ -1,0 +1,5 @@
+Yes, it's limited to only 100 messages. 
+
+Its initial response is often too concise, and I need to ask for it to be more thorough (the opposite of GPT4). This takes credits. But I'll also often take the output and then work with it further in ChatGPT. Other times it blows me away with the speed at which it can process so much information on the first prompt.
+
+It's certainly saved me time and money. If you have any budget for AI, I recommend at least experimenting for one month.

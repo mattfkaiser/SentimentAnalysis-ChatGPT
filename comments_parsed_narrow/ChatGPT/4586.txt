@@ -1,0 +1,11 @@
+When I started my position in 2019, I created a 'helper' spreadsheet for myself that I called my Assistant.  
+
+Over the next couple of years, with the help of Google, I was able to hack together some queries and VBA that made my job much easier.  I named it Assistant2 and shared it with my boss and team. It was buggy and still pretty tailored to me so literally nobody used it.  
+
+I spent the next year fine tuning it, working out most the bugs, adding a lot more code, and made it more versatile for other positions in our company.  After a period of hesitation, I sent Assistan3 to my boss and coworkers again.  This time, it was picked up by a couple people on the team and eventually passed around to a handful of others.  Success in my book! 
+
+Then ChatGPT came out.
+
+In less than 3 months, I ran every line of code I wrote through ChatGPT with 1 simple instruction:  "Look at the code below, is there a more efficient way to get the same result?"  If I didn't understand the output, I would ask it to explain the code to me one line at a time.  If the code gave me errors, I would ask ChatGPT to fix it.  
+
+Let me tell you, in the past 5 months I've learned more about SQL & VBA than I have in the past 5 years prior. Not only has it produced a polished product, but Assistant4 has been picked up by the majority of our C-suite which has been passed down to their employees!

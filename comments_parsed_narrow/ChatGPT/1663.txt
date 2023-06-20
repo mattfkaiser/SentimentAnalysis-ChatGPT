@@ -1,0 +1,4 @@
+Yes, it's very easy to train chatgpt to spit out things in prompt form (e.g. begin each prompt with "/imagine prompt:" followed by {description of scene}, {description of composition, colors, etc.}, --ar {appropriate aspect ratio}) .  
+
+
+I have different chats trained to different types of midjourney prompts, some that get really in depth with cameras and lens and film and so forth.

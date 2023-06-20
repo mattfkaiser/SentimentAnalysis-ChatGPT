@@ -1,0 +1,12 @@
+| it gave very confident explanations that were dead wrong.
+
+Exactly, which proves you understand the material...which is all that matters. If you professor understands the material then he would easily be able to tell if you just copied and pasted something that was bogus code. I really don't see the problem here...except:  
+
+
+It's really annoying that too many people seem to assume that chatGPT is suppose to generate flawless material without the needed for manual intervention. This particular AI application was intended to be an assistant not a program that "does everything for you"  
+
+
+In my field (DevOps), I use chatGPT to generate alternate methods for automation tasks. For example, I feed a series of tasks I wrote and ask it to just generate an alternate version. The prompts I use are fairly straight-forward. I don't ask it to do anything terribly complicated. I'll do this a few times and look over each version, cherry-picking the best parts. Then those tasks are then run in test|staging environment and once approved then we consider moving those tasks into the production environment. I've had great success so far using chatGPT in this way.   
+
+
+If you majored in CS  you might find Github Co-Pilot to be the AI application most useful. It can code complete with high-accuracy. ChatGPT, was not designed for this.

@@ -1,0 +1,3 @@
+You can run LLM's on consumer hardware.  in the very near future they will be as good as ChatGPT. Its getting closer every day and much, much more.
+
+subs: r/ AutoGPT and oobabooga

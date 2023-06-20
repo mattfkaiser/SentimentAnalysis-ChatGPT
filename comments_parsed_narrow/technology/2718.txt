@@ -1,0 +1,17 @@
+Or you can say “write out 25 steps it would take to code Tetris in Java” and then start like the method before.
+
+Once it makes the window or does the first step (sometimes the first step is weird) keep saying “Modify the code to include that”
+
+When ChatGPT reaches its limit and randomly stops, say “continue in a code viewer” and it will continue where it left off.
+
+I want to create a jank ass Mario clone, so I could say:
+
+ “Create a window in Java, center it and size it to 1280 x 720.”
+
+“Create a character in the center, it can be an image or a basic shape.”
+
+“Modify the code to let the user move the character with WASD like Mario.”
+
+“Modify the code to let the user jump with the space bar like Mario.”
+
+And then you just keep going hahah

@@ -1,0 +1,23 @@
+I haven't released my project, yet, but here's the Bash source to `gpt`.  It requires `bash`, `curl`, `jo` and `jq`
+
+    #!/bin/bash
+    
+    # single chatgpt query
+    # usage example:
+    # echo 'How tall is everest?' | gpt temperature=0
+    
+    set -euo pipefail
+    
+    query="$(cat)"
+    
+    echo "$query"
+    
+    # https://platform.openai.com/docs/api-reference/chat
+    jo -p -D model=gpt-3.5-turbo \
+      'messages[]'="$(jo role=user content="$query")" "$@" | \
+      curl -sf -X POST \
+        "https://api.openai.com/v1/chat/completions" \
+        -H "Authorization: Bearer $OPENAI_API_KEY" \
+        -H "Content-Type: application/json" \
+        --json @- | \
+      jq '[.choices[].message.content] | join("\n\n### Next choice\n\n")' -r

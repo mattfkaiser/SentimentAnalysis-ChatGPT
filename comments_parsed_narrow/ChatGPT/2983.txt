@@ -1,0 +1,1 @@
+You can use chat GPT output to train your own model. You can propose them to record all interactions with ChatGPT and once you got a few thousands feed the interactions to an open source base model or your own LLM.

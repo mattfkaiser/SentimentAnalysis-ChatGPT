@@ -1,0 +1,1 @@
+Interesting, I asked chatgpt and it says " olleH, yas I nac" and considers this answer as the reverse of "Hello, yes I can". So it understands the idea but still can not make a correct answer.

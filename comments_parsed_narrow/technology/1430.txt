@@ -1,0 +1,13 @@
+None of that is true.
+
+[Here for example](https://www.youtube.com/watch?v=lHDPfREgGxo), Midjourney starting from you **untagged** image recognizing it as a face, and recognizing the elements of that face and then reworks the image keeping those style elements (in multiple angles). It was clearly taught with tagged images, but having been taught it can recognize things without the tags. 
+
+As to hoping it will be garbage, that's wishful thinking. Google algorithm is not a DNN and did not scale. So what, a DNN is not Page rank. Citing it as evidence that it would be garbage ignores the current reality.
+
+A lot of your hopes seem to stem from 3D, yet [AI text to video already generates dynamic 3D](https://www.youtube.com/watch?v=tcTFbwE91WA) motion. 
+
+There is nothing special about us. We're not the dominant intelligence on the planet anymore.
+
+>While AI is a "singularity", humans are a differentiation machine, more innovation comes from being different or contrarian than the same.
+
+ChatGPT argues too.

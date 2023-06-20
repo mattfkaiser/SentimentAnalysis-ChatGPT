@@ -1,0 +1,3 @@
+It is random, not personalized. Most likely each session has a different seed. 
+
+The thermodynamics part of the answer in your figure is wrong. Entropy is not a measure of disorder or randomness. Your answer at least have the part about the microscopic configurations, but it is still overall wrong. Tell chatgpt that it is wrong, that many systems are both highly ordered and entropic, and it will fix it without you providing any additional info. Because chatgpt knows the correct answer. You can achieve the correct answer from the beginning by providing an initial prompt where you ask to avoid incorrect simplifications, be correct, and similar stuff

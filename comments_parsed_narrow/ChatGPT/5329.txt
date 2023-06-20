@@ -1,0 +1,1 @@
+This is so dumb, I don't think I can even comprehend this. AI's work on the transformer modell and get trained once, in this case ChatGPT has a training set which ends 2021. GPT is a letter-guesser, it can not think nor know what essays it created if not trained on the information.

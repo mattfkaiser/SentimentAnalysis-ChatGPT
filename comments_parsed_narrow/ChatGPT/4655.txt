@@ -1,0 +1,5 @@
+Can you quickly outline how this works? I didn't have a chance to take a look at Plugin development.
+
+So I guess chatgpt is generating the Javascript code on its own based on your prompt. Then, it evaluates the code using your plugin. I guess it prints the contents of your lyrics files, but how is that content actually given to chatgpt?
+
+Does chatgpt prompt itself with that content?

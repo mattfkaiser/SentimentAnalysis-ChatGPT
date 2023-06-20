@@ -1,0 +1,1 @@
+The EU, being the architects of GDPR, are most likely a little more tech savvy than say….Montana’s elected officials, to be fair. ChatGPT has a massive data lake to train their models on, they will most certainly know where all that data is pulled from it’s just whether they want to go to the expense of reporting that and building in the transparency needed.

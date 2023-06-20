@@ -1,0 +1,1 @@
+ChatGPT is old technology. IBM was using GANs (Watson) to generate white papers in the late 00s early 10s

@@ -1,0 +1,11 @@
+If you want to defeat this detector, it's pretty easy [as discussed in related subreddits](https://old.reddit.com/r/ArtificialInteligence/comments/10q7yhu/chatgpt_creator_openai_releases_tool_to_detect/).
+
+Prompts like
+
+>> Write a paragraph with at least 1000 words describing a dog playing in a field where that paragraph has a perplexity of about 8.
+
+or
+
+>> Write a short paragraph about a dog in the style of ghost of a 19th century paid-by-the-word novelist.
+
+or just use GPT2 which it seemingly has trouble detecting.

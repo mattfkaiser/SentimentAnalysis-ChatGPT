@@ -1,0 +1,5 @@
+So true. It will lose its competitive advantage greatly. and will become same as the rest. Also, all of its data and knowledge will be fed to the GPT servers 
+
+Using ChatGPT as a tool to handle a few niche caches is one thing, replacing the whole software with ChatGPT is another thing.
+
+Had the higher management been a bit ambitious, they would have provided us with resources to develop an AI model ourselves, close to the capacity of ChatGPT. They could have sold that model as an API! That is the reason all big companies like Samsung and Google are banning ChatGPT for their employees.

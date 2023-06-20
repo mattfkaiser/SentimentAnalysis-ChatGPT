@@ -1,0 +1,1 @@
+If you have funding for training I have scripts/data for almost exactly what you are describing. If you open source the models I'm happy to pass along what I have. (GPT-Neo fine tuning and ~25k chatGPT examples)

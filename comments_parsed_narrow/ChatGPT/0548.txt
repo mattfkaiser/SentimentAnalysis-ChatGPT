@@ -1,0 +1,1 @@
+Does ChatGPT 4 with API has chat limit to 25 messages as well?

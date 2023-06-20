@@ -1,0 +1,9 @@
+Just decided to test it now by asking it about the Battle of Beecher's Island. As you say, on a broad level it gets some things right, but it manages to get all of the details wrong.
+
+1: It claims the battle was a significant turning point in the general Native American wars of the time period, when really it was just an interesting story people passed around. It was significant in how they managed to survive but it's overall historical significance is very disputed.
+
+2: It says that Major Forsyth was the leader of the reenforcement squad which assisted the soldiers on the island. This is flat out wrong. George Forsyth was literally the entire reason they went out to the island at all, and he sent out two scouts secretly to get more help. Beecher, his second in command (another thing chatGPT gets wrong: it claims that Beecher was in charge of the operation) tragically died during the fighting.
+
+3: It claims that William "Buffalo Bill" Cody was involved in the conflict, a claim that I cannot find any backing or proof for. It just seems like it looked at some database of western historical stuff and picked names out of a hat. 
+
+Often the people who champion this program the most understand it the least. Using it as a research side for any event that isn't constantly talked about is going to be full of inaccuracies.

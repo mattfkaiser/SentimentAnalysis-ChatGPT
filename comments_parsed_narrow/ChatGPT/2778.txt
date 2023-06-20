@@ -1,0 +1,1 @@
+Presumably ChatGPT uses temp or top-p to introduce random noise into the results. Intuitively you would assume that this would result in at least ostensibly random results here, but its possible that the training data weighs heavily towards 4 (maybe because of the xkcd comic).

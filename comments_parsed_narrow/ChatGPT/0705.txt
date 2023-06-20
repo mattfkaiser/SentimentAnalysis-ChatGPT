@@ -1,0 +1,7 @@
+There's a lot of nuance to this.
+
+Chat GPT often gets me 70-80% of the way there on diagnosing errors, explaining terrible code in natural language, and in general answering questions.
+
+At the end of the day, it doesn't need to be right. It helps me understand the problem and come up with a solution in less time than google, stack overflow, and docs combined.
+
+Langchain apps are showing to be pretty powerful in terms of complete programming solutions. They are very obviously not there yet. I've been developing with it for a bit now, and can definitely see it being similar to launch of chat gpt. One day, suddenly its just going to be "oh shit this actually works now"

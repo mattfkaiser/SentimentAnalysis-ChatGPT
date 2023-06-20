@@ -1,0 +1,3 @@
+Having read the ChatGPT response, I think the best work around would be to allow the LLM to experiment in a game world that uses real physics and is modeled on Earth. I'm imagining something akin to the linked experiment which used Minecraft as an arena for their LLM to learn in.
+
+https://voyager.minedojo.org/

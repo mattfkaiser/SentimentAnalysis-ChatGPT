@@ -1,0 +1,1 @@
+How come,  ChatGPT through browser has 1K word limit. Isn't the rate for the API the same?

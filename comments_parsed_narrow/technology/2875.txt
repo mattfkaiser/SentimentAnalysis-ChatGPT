@@ -1,0 +1,1 @@
+You won't get far with such abstract problems though. I've experimented a lot with ChatGPT codegen and it's very capable when generating boilerplate, well-known algorithms and small variations thereof. Anything more complicated will fail in more or less subtle ways, making it harder to debug than what you could have written yourself.

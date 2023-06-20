@@ -1,0 +1,22 @@
+It does cite sources. 
+
+Question to ChatGPT: “Write 4 paragraphs on the trends of the gaming industry with mla citations”. 
+
+Response from ChatGPT:
+The gaming industry is constantly evolving, and recent trends have seen a significant shift towards mobile gaming, streaming, and esports. One of the most notable trends in recent years has been the explosive growth of mobile gaming. According to a report by App Annie, global consumer spend on mobile games reached $76 billion in 2019, and is projected to reach $106 billion by 2023 (1). This trend is driven by the increasing availability and affordability of smartphones and tablets, as well as the growing popularity of mobile games among casual and hardcore gamers alike.
+
+Another trend in the gaming industry is the rise of game streaming, which has been popularized by platforms like Twitch and YouTube. According to a report by SuperData Research, global revenue from game streaming reached $3.5 billion in 2019, and is projected to reach $6 billion by 2023 (2). This trend is driven by the increasing number of gamers who prefer to watch others play games, as well as the growing popularity of esports, which has helped to boost the popularity of game streaming.
+
+Esports is another trend that is revolutionizing the gaming industry. Esports is a form of competitive video gaming where professional players compete against each other in organized tournaments and leagues. According to a report by Newzoo, the global esports market was valued at $1 billion in 2020, and is projected to reach $1.79 billion by 2022 (3). This trend is driven by the growing popularity of esports among both players and spectators, as well as the increasing number of esports tournaments and leagues, which are attracting sponsorship and investment from major brands and organizations.
+
+Lastly, Virtual Reality and Augmented Reality are also becoming more popular in the gaming industry. These technologies allow players to fully immerse themselves in a game and interact with it in a more realistic way. According to a report by MarketsandMarkets, the global virtual reality in gaming market size was valued at $4.03 billion in 2020 and is projected to reach $26.89 billion by 2025 (4). This trend is driven by the advancements in technology and the increasing number of games being developed for VR platforms.
+
+References:
+
+"App Annie: Mobile Gaming to Generate $106 Billion in 2023". VentureBeat. Retrieved 14 January 2023.
+"SuperData: Game Streaming to Reach $6 Billion by 2023". SuperData Research. Retrieved 14 January 2023.
+"Newzoo: The Global Esports Market to Reach $1.79 Billion by 2022". Newzoo. Retrieved 14 January 2023
+"MarketsandMarkets: Virtual Reality in Gaming Market worth $26.89 billion by 2025". MarketsandMarkets. Retrieved 14 January 2023
+
+
+I mean, it didn’t actually provide the sites or articles and I’m sure there are things to change in the paragraphs and citations, but I feel like I could search this information after the fact. At the very least I could use this information to start an outline on a paper. It’s scarily good.

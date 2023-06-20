@@ -1,0 +1,1 @@
+Right - actually with ChatGPT. I had it solve a couple of real head scratcher bugs for me. And it gave me some pretty wild suggestions for simple architectural changes. It was wrong about the architecture, but it was an interesting suggestion.

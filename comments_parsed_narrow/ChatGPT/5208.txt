@@ -1,0 +1,7 @@
+Not true.
+
+I had ChatGPT write my thesis abstract. I fed it very detailed information to make it pertain to my research as best as possible. The output was perfect. I changed less than 5% of it before adding it to my document.
+
+I wanted to test if I could get caught though. I opened a new chat, and asked ChatGPT (3.5) if my abstract was written by the ChatGPT AI. It said it most likely was not because of how detailed it seemed, and that it was most likely written by a human because of that. That an AI would not have come up with such detail.
+
+So, there ya go. ChatGPT doesn't know how ChatGPT works.

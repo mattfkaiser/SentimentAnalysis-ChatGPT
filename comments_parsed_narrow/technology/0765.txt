@@ -1,0 +1,9 @@
+I’m a developer, and I use ChatGPT about every day. 
+
+He’s absolutely lying. It sucks pretty bad at programming. It can give you the general structure, but it struggles with anything serious. 
+
+It’s basically only good for skipping some simple googles. If I need a simple command, or a quick way to do something, it’ll give it to me a lot faster than google
+
+It is wrong a lot though, and you have to spend time validating what it tells you in a lot of cases since it’ll lie. It’s definitely sent me down the wrong path before and wasted a couple hours
+
+It’s at most a 15% efficiency bump to an engineer

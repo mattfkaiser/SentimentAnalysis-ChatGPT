@@ -1,0 +1,3 @@
+For sure. Asking for introspection doesn’t produce meaningful results, but asking for the best answer oddly does help. Because the llm is just trying to predict text it has no strong preference for right answers unless you direct it so. (This failure to favor the right answer is partially trained out of ChatGPT, but not completely). 
+
+Letting the LLM do step by step reasoning helps break the problem down and spread the problem over more tokens. Since each token includes the previous tokens it only needs to come up a small piece of the total answer.

@@ -1,0 +1,12 @@
+Firstly, by measuring data drift and analyzing user behavior, UpTrain identifies which prompts/questions were unseen by the model or the cases where the user was unsatisfied with the model output. It automatically collects those cases for the model to retrain upon.
+
+Secondly, you can use the package to define a custom rule and filter out relevant data sets to retrain ChatGPT for your use case. 
+
+Say you want to use LLM to write product descriptions for Nike shoes and have a database of Nike customer chats:  
+a)  Rachel - I don't like these shoes. I want to return them. How do I do that?  
+b)  Ross - These shoes are great! I love them. I wear them every day while practicing unagi.  
+c) Chandler - Are there any better shoes than Nike? 👟 😍   
+You probably want to filter out cases with positive sentiments or cases with lots of emojis. With UpTrain, you can easily define such rules as a python function and collect those cases.  
+
+
+I am working on an example highlighting how all the above can be done. It should be done in a week. Stay tuned!

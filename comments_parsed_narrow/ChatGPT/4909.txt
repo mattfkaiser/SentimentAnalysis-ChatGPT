@@ -1,0 +1,3 @@
+So ChatGPT is using ChatGPT for it's API access?
+
+I swear this company has some very bright minds working for it. Constantly thinking outside the box with this stuff. To think APIs in general might be old news soon enough, if you can just have an AI interpreter as the middle man.

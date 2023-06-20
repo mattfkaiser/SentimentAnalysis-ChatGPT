@@ -1,0 +1,23 @@
+> is there an AI tool to TLDR the video?
+
+https://www.summarize.tech/
+
+**00:00:00 - 00:15:00**
+
+The video discusses how to effectively use OpenAI GPT tools for programming. Rather than having a linear conversation that can lead to confusion and overwriting fixed bugs, the presenter suggests using Chat GPT for refining ideas and getting boilerplate code. This involves clarifying requirements and using the playground feature to configure models directly. The speaker emphasizes the importance of understanding APIs, including documentation and example code within the system prompt, and using a config file to store sensitive information. Overall, effective use of Chat GPT involves updating the system prompt with the latest code after implementing changes and starting a new conversation for the next feature or bug to address.
+
+**00:00:00** 
+
+In this section, the video presenter shares how he uses OpenAI GPT tools more effectively in programming compared to how most people use it. Rather than having a linear conversation with the bot that eventually leads to it getting confused and overwriting fixed bugs, he only uses Chat GPT for refining the idea and getting boilerplate code. He gives the example of asking GPT to write a to-do app in Flask and states that he clarifies some points such as whether to store tasks in a database, user authentication requirements, and front-end technology. Based on his requirements, GPT gives him a simple implementation using Flask for the back-end and Ginger 2 for templating along with CSS and JavaScript. He then opens VS code and pastes the code given by GPT till the program is up and running without any errors.
+
+**00:05:00** 
+
+In this section, the speaker introduces the playground feature which allows users to access models directly and configure them according to their needs. By writing their own system prompt, users can program the tool to understand what they are working on which is a powerful feature. The speaker shows an example of a to-do app and explains how to add categories to it by overwriting the add method and modifying the container div. We see how to generate efficient python code without wasting tokens and test the code by adding a new category and task. However, an issue arises as the new task is not displayed, giving an opportunity to go back and figure out what went wrong.
+
+**00:10:00** 
+
+In this section of the video, the speaker discusses the process of making changes to code while simultaneously updating a chatbot in ChatGPT. They demonstrate adding categories and tasks and making HTML changes, while utilizing copilot to generate code snippets. The speaker emphasizes the importance of updating the system prompt with the latest code after implementing changes and starting a new conversation for the next feature or bug to address. This process allows for flexibility and maximum length assistant responses.
+
+**00:15:00** 
+
+In this section, the speaker discusses the importance of understanding how to properly implement APIs when using ChatGPT for coding. He points out that if one were to use the GPT4 conversational API, for example, and simply ask it to implement the wrong code for chat completion, it would not work properly. To fix this, the speaker suggests including the API's documentation and example code within the system prompt so that ChatGPT understands how to implement it correctly. Additionally, the speaker recommends storing config options in a config file to avoid passing sensitive information back and forth.

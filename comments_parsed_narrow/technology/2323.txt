@@ -1,0 +1,3 @@
+If I ask you to convert Celsius to Fahrenheit, then a calculator is a tool that will help you *if* you understand what you're doing - but you *must* understand how the conversion works yourself.
+
+But ChatGPT (and, in this case, Google as well) will simply give you the answer with no work or understanding required.

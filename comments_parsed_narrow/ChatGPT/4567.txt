@@ -1,0 +1,3 @@
+I am having ChatGPT help me build an iOS app. I do not know Swift, but I have coded in some other languages (barely). Just knowing some coding principles helped a lot even though I don’t fully understand Swift still.
+
+But I’m not using prompt engineering. I’m literally just saying “hey I want the app to do this. It’s not quite doing it. Please fix it”.

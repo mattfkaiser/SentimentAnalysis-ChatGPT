@@ -1,0 +1,5 @@
+The research did, which is a bit different. I don't see why this would be a violation of the TOS though. I don't see anything in there about using model outputs to train other models. The closest would be:
+
+> reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of the Services
+
+But that's not the same thing. Training your own model on ChatGPT outputs won't result in anything like the same source code, algorithms, or model weights as ChatGPT.

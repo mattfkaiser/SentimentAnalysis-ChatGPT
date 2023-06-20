@@ -1,0 +1,7 @@
+I think I stated this in a different comment, but anything factual, I cross check with other sources. I've also found the topics I tend to research don't lend themselves to what they call "hallucinating." That's the official term for when something like ChatGPT makes things up. :D
+
+I think the key for these areas is to perform checks on the specifics. But generally speaking, it has enough training material to get the concepts correct. There are also approaches being developed to produce more reliable results, not to mention the work being done to actually improve the AI's overall accuracy. I've found that ChatGPT 4 does much better at sticking to the facts than ChatGPT 3.5. Still a WIP but things are moving quickly. The general caveat is still warranted but it's becoming less of an issue with each step forward.
+
+Here's an incredible video from someone who is doing the hard work of distilling the papers coming out into practical approaches. In this video, he introduces a prompt framework that dramatically improves ChatGPT's chances of getting things right. I actually decided to start coding up the solution he's describing. :)
+
+https://youtu.be/wVzuvf9D9BU

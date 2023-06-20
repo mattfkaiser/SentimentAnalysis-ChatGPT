@@ -1,0 +1,5 @@
+It would be nice to know how they handle our private/personally generated data, for instance. 
+
+OpenAI is not in compliance with EU data privacy regulations. As someone who lives in the EU, even if I did not consider my privacy worth maintaining (which... I do), continued access to ChatGPT relies on their compliance with GDPR. 
+
+Italy has already banned their services due to non-compliance, while other EU countries are preparing to follow suit.

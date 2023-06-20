@@ -1,0 +1,3 @@
+That's not ChatGPT. It lets you use a bunch of other OpenAI models, like text-davinci-003 (a sister model to ChatGPT), but the one model it _doesn't_ give you is ChatGPT.
+
+Also, ChatGPT is free to use. The models you can access in the playground cost money (after you use up whatever free credit they give you).

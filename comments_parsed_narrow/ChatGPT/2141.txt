@@ -1,0 +1,3 @@
+Definitely right that the current public AI systems present some potential for misuse and safety concerns for privacy. I think it's more likely a problem from the occasional lane jumping that chatGPT does more than OpenAI selling the data but that could easily change. 
+
+However, this appears to be a fantastic use case for privatized and trained LLM engine. Since GPT is open source and the open source LLM models are shy of but look to be set to leapfrog OpenAI. A company I'm working with is currently getting building a privatized AI for grant writing but really this isn't far off from what we're in the middle of doing.

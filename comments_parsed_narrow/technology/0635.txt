@@ -1,0 +1,3 @@
+Even as a relative laymen to software engineering - from what I've watched it seems like the consensus is essentially :
+
+For really high level engineers, ChatGPT is like being a professor that has a classroom of first or second year engineering students to bounce questions regarding your project off of - in that you can ask questions and get some good ideas, but need to know that they might sometimes be idiots and your knowledge needs to be solid enough that you know what does and doesn't work.

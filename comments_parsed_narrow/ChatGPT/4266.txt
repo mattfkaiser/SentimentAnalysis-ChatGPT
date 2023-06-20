@@ -1,0 +1,1 @@
+Actually the way transformer models work, if you could hijack chatgpt's responses and remove all ethics, it would start outputting less and less ethics as the conversation went on, since, to simplify, it tends to "Imitate" previous behavior.

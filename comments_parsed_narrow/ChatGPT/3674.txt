@@ -1,0 +1,9 @@
+This is a UC San Diego study that finds that ChatGPT Outperforms Physicians in High-Quality, Empathetic Answers to Patient Questions https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions
+
+Btw the answers are from health providers themselves.
+
+I think chatGPT is definitely going to replace meh-to-ok performers across disciplines. In the case of OP here it sounds like the psychologist is mediocre (not helpful, not insightful, defensive, not adapting to feedback, etc.). 
+
+As a senior engineer who works with AI, I think the only way to survive employment is to use it to augment our skills: being good at your job and using AI intentionally to get even better. If nothing, that desire to grow in itself makes people want to work with you. 
+ 
+But ime people who suck at their jobs don’t usually care about being “augmented”.. they do the minimum, they are defensive/unresponsive when given feedback (even if they hear the same thing from different people), or don’t even view feedback as a gift to grow. There’s no way those of us who fit this description will survive chatGPT, which may be a fair thing.

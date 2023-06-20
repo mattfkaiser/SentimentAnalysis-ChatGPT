@@ -1,0 +1,3 @@
+If you just Copy/Paste it'll take the formatting from the text as well.  (Font, colour, etc)  So you'll end up shooting out a message that conveniently looks like what you'd see in a chat with ChatGPT.  If you copied it into notepad first, all the formatting would be stripped out and you'd only have the text.
+
+Basically ever have that time when you copy/paste into a document but the font is wrong or super large or has extra spacing?  That's what they're talking about.

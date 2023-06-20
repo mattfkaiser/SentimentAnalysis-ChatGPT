@@ -1,0 +1,3 @@
+I really doubt so. chatGPT is of 175 billion of parameters. Anything with that size already requires specially built architecture no individual could afford. And your data in comparison with theirs should be insignificant. I guess they will release sth that allows users to set focus on some topics. But it is usually in the sense of having more weights on your topics in prediction, not in the sense of retraining the model. 
+
+But I am only guessing.

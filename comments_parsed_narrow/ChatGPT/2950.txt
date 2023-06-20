@@ -1,0 +1,1 @@
+ChatGPT doesnt send get requests. if you provide it a link, they're first passing it to a search engine. spending hundreds for plus accounts isn't the brightest idea either (unless youre abusing refunds?)

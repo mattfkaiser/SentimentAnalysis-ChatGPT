@@ -1,0 +1,3 @@
+This is definitely user error, in as much as the user doesn't understand that ChatGPT is fundamentally unreliable, but it's also chatGPTs fault for *being* unreliable.
+
+Any "technology" that is as unreliable as chatGPT is, anything that is confidently incorrect to the same level as chatGPT, and has that confidence irrespective of whether it's right or wrong, is just a toy at best, and not even a great toy at that.

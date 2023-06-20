@@ -1,0 +1,3 @@
+They're in compliance with GDPR. As of now ChatGPT is not.
+
+There have been cases of ChatGPT outputing sensitive user information which is obviously a huge privacy flaw

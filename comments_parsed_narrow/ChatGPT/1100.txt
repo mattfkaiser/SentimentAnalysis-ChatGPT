@@ -1,0 +1,1 @@
+Would you care to elaborate? Is that because ChatGPT uses data from prior to 2021, so this tool would recognize it as source/training material (if it’s in its training set)?

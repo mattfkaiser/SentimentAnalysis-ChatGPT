@@ -1,0 +1,9 @@
+Oh man, once you start realizing what it's capable of and what it's limitations are it's a fantastic tool.  Probably helps I'm a software engineer but I was writing tests for a variety of endpoints that were for different resources but were all very similar.  So a lot of copy paste + change a few variable changes.  
+
+Was taking me ~45 min to get through a block, and so I started putting it in chatgpt telling it what I was changing each time and it took that process down to about ten minutes.  
+
+Was it flawless?  No but it took a lot of the busy work out and I just needed to proof read it quickly.
+
+Anyway just one small example of what chatgpt excels at.
+
+As people figure out how to use this new tool, it'll become more useful.

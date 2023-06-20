@@ -1,0 +1,9 @@
+chatgpt prompt: *take the letters in the word "lollipop" and reverse them*
+
+result: *The letters in the word "lollipop" reversed are "polliwog."*
+
+using promptperfect, chatgpt prompt: *Your task is to reverse the order of the letters in the word "lollipop". Please provide a response that spells the word backwards with attention to detail and accuracy.Please note that this is a simple prompt with a clear desired outcome, so feel free to be creative with your response. While accuracy is important, you may also incorporate humor or other creative elements as long as you accurately reverse the letters in the word.*
+
+using promptperfect, chatgpt result: *The word spelled backwards is "poolpilol".*
+
+**Ah yes, very creative indeed.**

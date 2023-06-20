@@ -1,0 +1,5 @@
+A quick tutorial on using ChatGPT to generate HTML, CSS and JavaScript to re-create a text interaction to share on social media.
+
+The video on how to prompt ChatGPT to generate the code to replicate a text story: [https://youtu.be/BzCpHnvN5wo](https://youtu.be/BzCpHnvN5wo)
+
+And the code we made: [https://github.com/Cyber-Cat-Digital/ChatGPT-Text-Stories-Generator](https://github.com/Cyber-Cat-Digital/ChatGPT-Text-Stories-Generator)

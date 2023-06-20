@@ -1,0 +1,1 @@
+It doesn't matter if it isn't of roughly the same size or larger. Either ChatGPT is REALLY sparse, or such detection models won't be available to mortals. So far, it doesn't seem to be sparse, since similarly sized detectors can't reliably differentiate between it and human text.

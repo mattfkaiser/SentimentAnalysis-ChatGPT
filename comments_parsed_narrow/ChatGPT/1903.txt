@@ -1,0 +1,1 @@
+Seems Chat GPT can't write a greedy algorithm or optimal algorithm yet

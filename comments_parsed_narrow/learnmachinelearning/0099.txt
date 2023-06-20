@@ -1,0 +1,1 @@
+I caught one using chatgpt to answer coding questions. It's going to be a major issue. Because before maybe they (the students) could look for an answer on stackoverflow and they had at least to understand and adapt it to the problem. Now they can submit the question as it is and in most cases get a good enough answer that doesn't need them to understand.

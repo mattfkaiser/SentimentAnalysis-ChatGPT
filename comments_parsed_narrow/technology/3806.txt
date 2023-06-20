@@ -1,0 +1,5 @@
+I've not used python until recently but have only ever seen that used for comments. No repos I've looked at or have worked in over the last few months have used that.
+
+Anyway, as has been said, these AI tools are not perfect and are better in the hands of somebody who knows what they're doing and can confirm, though if you see an error you can ask ChatGPT wouldn't x cause wrong outcome and it will often recognize the mistake and correct.
+
+e.g. I just asked it to create a small HTML5 app which, among other things, layered drawing layers, which it did using canvas elements atop of each other (which is fine). I then asked if it could do it with one canvas, and it said sure, and reworked the code to use pixel buffers. That was a fairly simple use case, but far beyond the simple things you're trying with it with, quite frankly, confusingly worded questions, which as both a human and the AI has told you, is difficult to understand without more context, which is a simple request which you can fulfil by having a conversation with it, instead of trying to catch it out.

@@ -1,0 +1,1 @@
+It's after this that ChatGPT chose to not store chat history to train their model

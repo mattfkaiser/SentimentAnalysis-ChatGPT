@@ -1,0 +1,3 @@
+So my usecase is specifically for Powershell.  ChatGPT takes a lot of massaging to get what you want, but if you give it some starting information for what you are doing before you start asking it questions, it works way better.
+
+For example, ill paste in the script that I'm working on, even if its just a bunch of comments at the top that describe what i want it to do, and then I'll ask all my questions based on that.  I also make sure to tell chatGPT the exact version of powershell that I'm working with.

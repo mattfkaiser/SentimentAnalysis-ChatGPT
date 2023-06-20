@@ -1,0 +1,1 @@
+That's the confidence that this is an acceptable sequence of words according to its training data, ChatGPT really has no idea if what it is saying is based on fact or not.

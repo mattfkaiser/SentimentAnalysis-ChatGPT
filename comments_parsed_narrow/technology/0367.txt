@@ -1,0 +1,3 @@
+The only problem with ChatGPT and similar language models is that the users typically don't have the background in computer science to understand what it is they're interacting with. As such they're attributing intelligence and trusting it when it's a Totally Obidient Moron with approximate knowledge of many things. There's a ton you can gain from interacting with it but you always need to check for yourself what it's saying is accurate. 
+
+That's also the true 'danger' with it. Not that language models are going to get too intelligent and take over the world. But that humans are stupid enough to just trust what a language model tells them.

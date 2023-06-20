@@ -1,0 +1,5 @@
+It is extremely difficult to get ChatGPT to say anything problematic. Like, you have to go super out of your way - and if you are using GPT4 it’s nearly impossible. I can’t find a single example anywhere online of GPT4 saying something problematic - even with DAN - outside some swearing. 
+
+With GPT3.5 I would be surprised to see any source to the contrary that isn’t using eg DAN. If you’re using GPT4 and can find an example - even using DAN - of anything at all other than basic profanity I would be very surprised. I’ve tried dozens of DAN prompts with zero success.
+
+RLHF has been extremely effective. Arguably too effective, ChatGPT’s refusals to answer anything even slightly off base are a meme at this point.

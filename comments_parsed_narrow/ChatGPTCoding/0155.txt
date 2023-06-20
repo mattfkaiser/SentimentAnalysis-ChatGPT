@@ -1,0 +1,3 @@
+Right, my project currently has at least 10 files, and is separated into components, screens, api calls, etc, and is running over the memory token limit very quickly when I want chatGPT to remember the context for my entire project, because otherwise it will write code that doesn't actually reference the right things or isn't "aware" of my components/styles/etc and is instead generic examples. I suppose a better way to put my question would be can I use it to essentially talk to chatGPT and have it retain knowledge of my project and/or access these files autonomously? Is that what is does, and if so, will it be more useful to me or will it be more akin to an aid for a developer ex. copilot? 
+
+Thank you for taking the time to explain everything by the way.

@@ -1,0 +1,11 @@
+I wouldnt have to since it is already in this thread but no wonder people like you get so easily impressed by chatgpt you cant even find a piece of text on the very link you are commenting on lol :P 
+
+https://www.reddit.com/r/artificial/comments/11ul2sq/unpopular_opinion_i_dont_get_where_the_fuzz_is/jct6tgb/
+
+what I did (and essentially the instructions on how to repeat/reproduce the same result) is in the above reply I gave                                
+
+Oh and here is an additional blunder that makes it obvious how botlike it is and just spits google results https://i.imgur.com/cjqWqVs.png (yea I dont care if it bings or has an inhouse webcrawler/indexer bottom line is it looks up popular webpages and spits out their content )
+
+P.S that convo starting by asking what's the lowest spec CPU that is still capable to do 1440p encoding and it just gave stupid "google" results about gaming cpus... while I was after the best bang for the back CPU to use on a pc whos only task would be to encode 1440p video 24/7 realtime (so at least 60 FPS) in case you are not familiar with hardware I was expecting something like lets say an Athlon FX 8320 or an 2nd gen i5 etc or a modern/retail equivalent in horsepower...  obviously it failed miserably               
+
+P.S 2 the funny thing is that if you google search eg. amd fx 8320 1440p encoding or cpu 1440p encoding etc and dont use the word VIDEO the first results will indeed be about gaming.. coincidence? I think not...

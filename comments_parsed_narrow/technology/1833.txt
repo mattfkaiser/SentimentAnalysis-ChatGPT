@@ -1,0 +1,5 @@
+> Microsoft Research were experimenting with early versions of GPT4, before it was toned down for safety
+
+I think it's not widely understood yet that these things are dumbed down versions of something much more capable, and ChatGPT is intentionally wired up to have no access to tools.
+
+GPT4 can figure out how to use tools like a human would to extend its own capabilties. It's a bit scary to look at.

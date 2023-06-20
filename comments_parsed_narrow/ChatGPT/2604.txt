@@ -1,0 +1,7 @@
+Hmm I think it's compelling to think of better security methods using Ai, and perhaps this could be one, but I feel like how social engineering is used by scammers to get access to things, the interactive conversation with an Ai might also be manipulated, granted in different ways probably to what would fool a human.   
+
+
+As far as convenience I'm just not sure what level of security will be required, while quantum computing may become more prevalent I'm not sure the economics of it will change as much, and quantum computing is quite expensive, so what are the chances a basic consumer will be the one that needs to worry about it? I mean I only have a basic padlock on my garden shed, I did not feel it necessary to have a steel door with a fingerprint sensor.   
+
+
+So I'm not totally against it, I am just skeptical and would like to see it working in the wild before I were to jump on board. I know people are really excited by the possibilities of Ai and hate a naysayer, but I can't help but be unsure about chatGPT's ability to handle security. Still, it is super exciting to work through these different possibilities.

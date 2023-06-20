@@ -1,0 +1,25 @@
+This reads like someone who hasn't used ChatGPT to do anything, just typed some things into it, said "this is dumb" and walked away.
+
+ChatGPT is not the new search. It can do that to a very limited degree, but it'll never replace search, mainly because the language model itself isn't realtime updating, it's limited to a point in time.
+
+Its real power is to have a conversation where the user and the AI, work together to produce a superior output then either could have produced.
+
+Your "pasta" recipe for example. Imagine that you ask it that, but now you want it for your kid to understand
+
+> write a pasta recipe for a 5 year old to understand
+
+But your friend is over, and he's german...
+
+> translate that to german
+
+Now one of your diners is gluten free
+
+> It's going to be a dinner for 4, but one of them prefers gluten free
+
+But you know what, I want to be guided to do this.
+
+> Act like you are a head chef helping me, a trainee, cook this, start from the beginning. Ask me to do a step and then wait for me to reply that i have.
+
+This is NOT search. This is *conversation*. Whilst it doesn't have ability to perform "actions" yet, once you plug this into an external API, this is **the** personal assistant people have been waiting for.
+
+This is more than IT and customer service, this is revolution. If you have used any of the AI "tech" like Siri, Hey Google, bixby, you KNOW that they are dumb. Like really really dumb. If my Google nest could react and remember conversation like ChatGPT it would be phenomonal.

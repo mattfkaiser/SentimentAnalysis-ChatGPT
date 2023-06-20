@@ -1,0 +1,1 @@
+Two of my technical team recently used ChatGPT to win an office “guess how many chocolate Easter eggs are in the glass urn” contest. They described the challenge, fed it a few parameters, and submitted their “guess”: 253 eggs. The actual count was 251.

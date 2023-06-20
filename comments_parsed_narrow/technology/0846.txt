@@ -1,0 +1,12 @@
+
+>Backpropagation has no biological analogue.
+
+Uhhh, *sleep* anyone? To me this similarity is a bit scary even. Does it suggest that backpropagation-like phenomena in learning are somewhat inevitable or the most efficient? The are non backpropagating algorithms out there but none are as powerful as bp (with current hardware architectures anyway).
+
+Also, your comparison with the zebra is misleading. You can show a person a picture of a zebra and have them point them out in a zoo but they are also relying on years of data after having been "trained" on a lot of the implicit information in that scenario, including what an animal is and how they have legs, heads, colors, also the idea of stripes and what a picture is, the ground and grass the zebra is standing on, what exactly a person usually means when they say "*this* is a zebra" upong being shown a picture (you could have refered to the grass in the picture, etc) and the list goes on.  
+If you try your thought experiement again on a newborn baby, you'll get very different but unsurprising results.
+
+In this sense, showing an adult or a 6 year old a zebra and them understanding the concept of zebra is more like inference in ML. You can tell chatgpt an entirely new concept it has never seen before and it will be able to "learn" it immediately for the duration of your session (it gets stored in the attention layers and not in the weights themselves). However, chatgpt will be relying in the information it saw in training to understand it (the model's weights).
+
+
+But just to be clear, I'm not saying that our brains are exactly like ML algorithms. I'm aware that the differences are vast and the brain isn't fully understand but I wanted to point out that the similarities are maybe a bit stronger that what was stated.

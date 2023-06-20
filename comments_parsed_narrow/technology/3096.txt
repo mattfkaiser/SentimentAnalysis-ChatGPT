@@ -1,0 +1,2 @@
+The people who created ChatGPT understand it well - there are lots of academic papers on generative models
+It’s not like a mystery AI that is able to think for itself, it just predicts which words go together

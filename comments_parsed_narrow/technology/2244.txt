@@ -1,0 +1,5 @@
+Creating huge AI models isn't that difficult, really, if you are already a software engineer who knows linear algebra. Training them is pretty hard, and it requires specialized hardware that's complicated and expensive, but you might be able to rent it in the Cloud.
+
+Creating the training data sets, however, is a bear. It takes many thousands of hours of collecting and labeling data pairs, and the work must be done reasonably well, or the model won't as well as it might. So these companies must hire an army of people who can read to teach the machine to read. 
+
+This is why every competent python programmer can't simply replicate ChatGPT-4 in their basement with $50,000 worth of hardware. Using some of the open source efforts, they might get close, but there are licensing issues, and they'll never be as good.

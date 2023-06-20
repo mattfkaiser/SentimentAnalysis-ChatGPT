@@ -1,0 +1,13 @@
+I know I’ll get downvoted to Hell, but I can prove that I’m an “experienced prompt engineer”.
+
+I hired low cost freelancers and only communicated through chat (and links) for decades.
+
+The chat interactions between me and the freelancers and ChatGPT are extremely similar.
+
+Next, I was already working on a software system to automate managing the freelancers. Then ChatGPT came along. Now I’m integrating local LLMs to replace those freelancers.
+
+I get the cliche’ joke that companies want more years experience than a technology has existed. 
+
+However, considering the fact that I’ve documented my prompts for decades (and can show a fully automated system that can guide an LLM through complex projects) I’m confident that I can prove I’m uniquely qualified for the role.
+
+Working with ChatGPT 3.5 feels very similar to working with a low cost freelancer through chat.

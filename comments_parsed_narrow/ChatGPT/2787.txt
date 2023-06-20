@@ -1,0 +1,5 @@
+This case is not likely that complicated.  We don’t know exactly how the internal weights are encoded, but that doesn’t mean it’s entirely a black box.  The key to understanding why it would usually pick 4 is understanding how it is trained.
+
+[My previous comment] (https://www.reddit.com/r/ChatGPT/comments/13nrmzw/in_every_conversation_the_initial_attempt_to/jl1zl6t/)went through it a bit.
+
+An analogy to the training is this thought experiment: I am thinking of a random number between 1-6.  If you guess wrong, you need to pay me the square of the difference between the number you guessed and the correct one.  We’ll play this 10 times.  What number should you guess?  The analogy works because the “loss function” used in training basically tries to minimize that loss.

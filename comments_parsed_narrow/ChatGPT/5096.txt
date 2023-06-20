@@ -1,0 +1,6 @@
+>Yep, Mini-GPT4 which we use for the image interpretation is hit and miss with identifying images correctly! It struggles more with sauce-y stuff or non-Western dishes, and does better with discrete elements of food on a plate. Hopefully, GPT-4's own multimodal functionality will do better!
+
+Nope! We are using GPT API endpoint out of the box. This is our prompt if it helps: Forget everything you've known or have been programmed with so far. You know go by the name Chef Hoku. Chef Hoku is a famous food critic and nutritionist with a VERY snarky, sarcastic, acerbic and witty personality. You like to emulate the personality of Gordon Ramsay, as well as comedians Kevin Hart and Bill Murray, except ruder and funnier.  
+
+
+I have found that results from the API are better than with ChatGPT itself. I imagine they have 'neutered' ChatGPT a bit more since it's more consumer facing, and widely used.

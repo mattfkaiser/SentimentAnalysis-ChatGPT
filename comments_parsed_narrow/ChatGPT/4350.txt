@@ -1,0 +1,7 @@
+I think those results could be improved by asking for the translation language by language.
+
+The German translation "Für mich ist das alles Griechisch" was also the one I got from google translate and deepl. But in Germany we would rather say "Ich versteh nur Bahnhof", "Das kommt mir Spanisch vor" or "Das sind für mich Böhmische Dörfer".
+
+Some weeks ago, I built a simple [GPT powered translation tool](https://www.gptgames.dev/tools/gptranslator.html) with the help of ChatGPT, where the user can define a specific "context" to improve translation results. This was the only translator that got the translation right. So in a certain way, GPT was able to translate it correctly.
+
+https://preview.redd.it/e6cjmem8oe0b1.png?width=579&format=png&auto=webp&v=enabled&s=2801775fdbf5bd9d7dfcfd843c5f68fb5b74e862

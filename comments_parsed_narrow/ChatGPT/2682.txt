@@ -1,0 +1,1 @@
+I think is a chrome extension (web gpt) for letting ChatGpt to access the web

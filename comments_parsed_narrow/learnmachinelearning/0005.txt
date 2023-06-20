@@ -1,0 +1,21 @@
+> the results are just as inadequate as those written by humans.
+
+even if the tests aren't a perfect full coverage suite that captures every imaginable edge case or state the code can reach, something is better than nothing. lots of people who would otherwise never write tests *at all* are adding test suites now, and it's a lot easier to grow a test suite that's already in place when you encounter those edge cases. treat it the same way you would output from a junior dev: it's probably not perfect, but it's a good start and probably just needs a little polish and iteration. Also, considering where the state of the technology is right now, imagine where we'll be in a year.
+
+> The fact that you can proficiently use new tools with little prior knowledge doesn't expand your skillset
+
+I'm not a sysadmin and had never heard of kvm, qemu, vfio, virt-manager or gpu pass through a few days ago. With chatgpt's help I was able to set up virtualization with GPU pass through on my workstation. It wasn't a one-and-done thing and chatgpt didn't do it for me. having gone through that process (and chatgpt being extremely helpful but not getting everything perfectly correct), I now know *a ton* more about virtualization and pci devices than I did a week ago. suffice it to say: I beg to differ.
+
+> reading a research article and asking an LLM about confusing parts doesn't enhance your understanding or ability to comprehend complex topics. 
+
+...it literally does though? how does asking someone "hey this part confused me, can you explain it to me?" and iterating on that explanation not enhance your understanding or ability to comprehend complex topics?
+
+> independently grappling with complex subjects.
+
+What exactly does "independently grappling" mean? Seriously, think about this for a moment, and then reflect on what your process is when you are independently grappling with a complex subject. Does it involve google? Do you visit stackexchange and learn from discussions other people who have encountered those issues had previously? do you go to forums or discord and engage in discussions directly? do you hit the literature and research the topic? if you're a student, do you visit office hours or consult with your peers? Would you fault anyone or express the same concern to anyone who described to you that they were getting problem solving assistance from google, domain experts, study groups, or office hours? 
+
+If the challenges you are facing are challenges others have faced and solved already, you can leverage the work that came before you to accelerate your path to a solution. LLMs make getting on that path as easy as if you had a personal tutor in the room holding your hand. Do you have these same concerns that tutelage is a crutch that holds people back from growing rather than supporting their growth?
+
+> people will become so reliant on the simplified output of LLMs that they will be incapable of independently grappling with complex subjects.
+
+are you "reliant" on your junior devs and less experienced colleagues? are they able to accelerate your workflow despite perhaps not being able to meet the quality of output that you personally produce? does having a team comprised of less experienced people to supervise weaken your ability to achieve your goals or is it a force amplifier? i think maybe you're discounting the value of an extra set of hands (even clumsy hands) much more than you realize.

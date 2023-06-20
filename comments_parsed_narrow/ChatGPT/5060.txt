@@ -1,0 +1,1 @@
+Think of a plug-in as a tool to make Chat GPT more powerful.  If your prompt requires heavy math, ChatGPT will use a certain tool, if it needs to view text on a pdf, it will use a different tool.  The beauty is you don't have to tell it what tool it needs.  it figures it out based on the context of your prompt.

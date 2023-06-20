@@ -1,0 +1,5 @@
+This is of course ingrained in the nature of this tool and it makes sense why it does it.
+
+ChatGPT is only extremely good at guessing the next set of words one would expect logically after your prompt to it. Naturally, it did indeed give what appears to be text describing exactly what you asked for.
+
+Whether or not its description is factually correct or not does not matter and is nigh impossible to prove. This tool does not "think", and thus cannot reason about facts. It merely produces the statistically probable set of words to come after your prompt.

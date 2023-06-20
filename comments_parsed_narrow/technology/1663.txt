@@ -1,0 +1,14 @@
+They will be from the GPT2 or earlier AIs, in the last year or two things have gotten orders of magnitude more powerful.
+
+ChatGPT uses GPT "3.5". It's very powerful and can do all sorts. It's pretty much always grammatically correct and is genuinely surprising in how useful it can be (I used it for practicing french. It can converse with me in a french, responding naturally and giving me an English translation, feedback on what I wrote and point out errors in my french).
+
+It can also write code shockingly well sometimes.
+
+It is also confidently *very incorrect*. I asked it for an interesting animal fact and it told me flamingos have an extra rod of bone to lock their legs so they could stand up all day. I spent a while trying to find out if it's true, or at least from some internet article, even looking at some scientific papers of flamingo dissections. Nope. Just completely made up. I think.
+
+
+GPT3 could produce very legible and correct English language, but it was often inconsistent over s paragraph or two. It would forget what happened a few sentences ago, it was inconsistent over time.
+
+GPT2 could produce snippets of vaguely convincing English language, sometimes the grammar was okay but almost always it was very obviously generated, had mistakes, and lots of inconsistencies sentence to sentence. You can see examples in /r/SubSimulatorGPT2/
+
+GPT4 will probably replace some jobs lol

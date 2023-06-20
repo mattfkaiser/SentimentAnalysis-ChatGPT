@@ -1,0 +1,1 @@
+Yup, ChatGPT isn’t really anything special besides being a Transformer model (which has been around since 2015). It’s just that it’s been trained on a huge dataset that makes it so powerful

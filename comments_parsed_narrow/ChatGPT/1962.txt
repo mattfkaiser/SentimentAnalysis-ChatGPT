@@ -1,0 +1,1 @@
+I use it a lot less but i still need to check documentation and find recent information. I had to troubleshoot a bad update from Hashicorp last week. The issue on github was only 3 days old which chatgpt wouldn’t know about

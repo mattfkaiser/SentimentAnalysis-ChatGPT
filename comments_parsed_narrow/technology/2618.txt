@@ -1,0 +1,7 @@
+It's a new tool now, but how many versions before it becomes more useful than the people using it? The same people who say that's impossible probably also thought it was impossible for a machine to make art. 
+
+We really shouldn't underestimate the potential of systems like this, especially considering we're just at the beginning of their development. ChatGPT can translate, summarize, paraphrase, program, write poetry, conduct therapy, debate, plan, create, and speculate. Any system that can do all of these things can reasonably be said to be a step on the path to general intelligence, even if it doesn't do them as well as a human expert. On most of these tasks it's already better than the average human.
+
+We aren't anywhere near the limits of these systems. We can make them multi-modal, inputting and outputting every type of data, embodied, by giving them input from and control of robotic systems, goal directed, integrated with the internet, real time, and potentially much more intelligent simply by improving algorithms, efficiency, network size, and data.
+
+Given how many ways we still have left to make them better it's not unreasonable to think systems like this might end up better at most tasks than the people who would use them as tools.

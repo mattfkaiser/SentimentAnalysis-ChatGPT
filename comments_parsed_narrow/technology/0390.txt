@@ -1,0 +1,3 @@
+Turnitin doesn't "catch". It provides information for a knowledgeable human to investigate. It's the investigate part that's often missing.
+
+There is no way Turnitin can be 100% sure of anything. Chatgpt isn't easily detectable no matter how much money you throw at a tool to do it.

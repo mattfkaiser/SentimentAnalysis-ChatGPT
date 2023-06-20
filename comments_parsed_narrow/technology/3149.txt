@@ -1,0 +1,3 @@
+Sure your correct but the documentation isn’t always written correctly maintained or incomplete , tools like chat gpt allow us to take the collective knowledge of the internet to account for this.
+
+Also add the fact that the interpretation of the docs can be done in a manner that makes sense to you with easy to understand examples.

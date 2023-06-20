@@ -1,0 +1,5 @@
+This is how it writes about everything. I almost exclusively use it to write about dry technical topics and it CONSTANTLY ends paragraphs with platitudes like "It's important for CISOs to understand the value of strong security practices." No shit? They're CISOs, their entire job is cybersecurity?
+
+It's filler language and it shows up so often in ChatGPT because we, humans, are constantly using similar filler language. Uni students writing essays, copywriters churning out SEO content, people trying to sound smart in their LinkedIn posts -- it's hard to say something of substance that hasn't been said before. But much easier to say "it's important to understand \[insert broad conclusion that everyone already understands\]."
+
+I blame the humans, not ChatGPT.

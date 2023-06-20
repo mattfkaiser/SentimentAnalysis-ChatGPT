@@ -1,0 +1,1 @@
+Vpn extension in browser that you flip on for chatgpt

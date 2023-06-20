@@ -1,0 +1,18 @@
+OP here. One of the less-reported aspects of the WGA strike is how deeply screenwriters are worried about the role that AI may play in their future. Sure, their primary asks are still around better income and working conditions, but how the WGA has framed its position on AI is a great example of how creative professions are struggling to adapt to an AI future that has arrived faster than they expected.
+
+[My full breakdown is here](https://www.artisana.ai/articles/hollywood-writers-on-strike-grapple-with-ais-role-in-creative-process), but relevant points are also included below. I'm curious what you all think!
+
+* **OpenAI's own researchers** believe that writing professions will likely the most heavily impacted from LLMs.
+* **Joe Russo (Avengers: Endgame, Infinity War)** believes that movies made completely with AI and customized to viewers preferences could arrive in two years or less. He sits on the board of several AI companies and has a bit of a unique insider (but potentially biased) perspective here.
+* **The Writers Guild has evolved its own stance on AI during negotiations**, showing how challenging it is to grapple with AI's impact. It originally called for heavy guardrails, but then reversed course and clarified that it was OK with AI used as a supplementary tool.
+* **The WGA's perspective shows that they may not fully understand AI as well.** AI's "output is not eligible for copyright protection, nor can an AI software program sign a certificate of authorship," the WGA has said. Its take is that AI cannot produce anything wholly original or innovative, which is a concept that's increasingly challenged by more and more advanced generative AI models.
+
+If AI-generated content really progresses at the pace that Joe Russo thinks it will, screenwriters could be in for a rude surprise. This also highlights how other industries may fare, as their own understanding of the implications of AI tech run behind how fast the tech is changing their professions and how quickly the tech itself is improving in capabilities as well.
+
+Other industries that have already been impacted include:
+
+* Videogame artists (in China, some have seen 70% decline in work)
+* Essay writers (work has dried up for many, and even platforms like Chegg are seeing declines in user engagement)
+* Photography (an artist won a photo award with a fully AI-made photo the judges could not tell)
+
+P.S. (small self plug) -- If you like this kind of analysis, I offer [a free newsletter](https://artisana.beehiiv.com/subscribe?utm_source=reddit&utm_campaign=chatgpt) that tracks the biggest issues and implications of generative AI tech. Readers from a16z, Sequoia, Meta, McKinsey, Apple and more are all fans. As always, the feedback I get from each of you has been incredible for my writing.

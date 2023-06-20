@@ -1,0 +1,1 @@
+Try using Code Anything Now prompt, with GPT-4, that would work out. Note that ChatGPT cannot really parse characters accurately when you provide examples. It won't be able to count the number of characters in a phrase.

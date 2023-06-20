@@ -1,0 +1,7 @@
+There are a few advantages to the playground: 
+1. You can customize the system prompt. The system prompt is hard coded in ChatGPT. This gives you a lot more flexibility in telling it how to respond and what it’s purpose is. The system prompt configures the system and carries much more weight than a regular user prompt. 
+2. No limit. You pay as you go. 
+3. By operating in a loop workflow instead of a linear conversation you can work indefinitely without running out of tokens or confusing it. Every single submission is fine tuned exactly to what you need rather than containing a bunch of extraneous back and forth from the previous conversation. 
+4. You can edit the bot responses. If you wanted it to respond with json and it didn’t or it, like it often does, included extra text or messed it up, you can change it’s own response to reinforce what it should be doing and include that reinforcement in future prompts. 
+
+Read the info here: https://platform.openai.com/docs/guides/chat

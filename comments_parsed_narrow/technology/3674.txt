@@ -1,0 +1,5 @@
+ChatGPT is also a search engine. Although it does not search the whole internet, just whatever OpenAI has curated for it (which is still quite a lot). That’s why when you ask it for a chicken dinner recipe or about a person, it can tell you something, because it has a whole bunch of data to search.
+
+It presents its results differently than Google or Bing does, because it also the analysis and predictive functions of a large language model.
+
+So, yes, it’s a search engine, and it doesn’t have the same reach as a conventional search engine. But because it’s also got this facility with language, it can interpret queries and present results to queries a lot like it’s a person talking to you, and not just a search engine.

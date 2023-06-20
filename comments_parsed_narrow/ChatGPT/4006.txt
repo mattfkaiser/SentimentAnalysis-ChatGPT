@@ -1,0 +1,2 @@
+you can have the language model generate the vector description directly instead of prompting a diffusion model  
+e.g. TikZ unicorn:  https://www.wired.com/story/chatgpt-agi-intelligence/

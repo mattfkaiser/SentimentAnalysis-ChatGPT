@@ -1,0 +1,5 @@
+Who says you need to feed chatgpt confidential info or company documents? Anyone doing that maybe ain't too smart. Anyway chatgpt is probably much less useful if prompted with really specific confidential info that doesn't have great correlations from open training data.
+
+To help with work you should be asking chatgpt things like "how do I do XYZ", or "show me an example of doing ABC", things that boost you out from being stuck or give you a leg up to learn a new skill.
+
+e.g. Don't feed chatgpt a company spreadsheet and ask it for a summary: ask chatgpt how to do some fancy thing in excel, then use that to build the summary worksheet yourself and learn a new skill in the process.

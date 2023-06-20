@@ -1,0 +1,5 @@
+It doesn't make mistakes, people expect the wrong outcome. It is a generative A.I., where it generates the most probable text from the text you input. ChatGPT doesn't understand or know. That is not its purpose, it knows how to generate text within a context.
+
+The correct answer is mostly also the most probable outcome in a question. But not akways and especially in highly contrasted and debatable things.
+
+It will be there in the near future though, when this generative AI is being connected to various internet services.

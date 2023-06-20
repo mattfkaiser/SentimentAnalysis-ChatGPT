@@ -1,0 +1,3 @@
+That seems less like "fact-checking" and more like "hey let me illustrate the weaknesses of this type of ML model".
+
+Fair point, I guess? I don't know that I'd expect a very generalized model (i.e. the one that ChatGPT uses) to produce relevant output on such a specific topic, unless I fine-tuned a custom model on subject-specific input (which OpenAI makes available via their API and in the Azure-hosted versions of their models FYI).

@@ -1,0 +1,7 @@
+Depends on what you mean. It still takes a lot of patience and back and forth with chatGPT.
+
+If you have a project you want to make, you can start by describing it and asking it to lay out a plan with all the steps that  you will need to make it happen. Then you work with it to carry out each step, one at a time. 
+
+Because of the context limit, it can get lost sometimes and the code can get muddled, but I've been able to keep it on track. I do have a couple years of experience with Python so that has helped, but most of the time it was just me telling ChatGPT what I wanted to do next and it will adapt the code as needed. 
+
+As long as you know what you want and are willing to do the back and forth with it long enough, you can make it happen. We may get to the automatic program creations soon, but we're not there just yet.

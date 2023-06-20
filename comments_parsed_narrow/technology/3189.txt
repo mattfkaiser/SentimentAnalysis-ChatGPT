@@ -1,0 +1,1 @@
+"Person hires someone from a service then uses ChatGPT to talk to them"

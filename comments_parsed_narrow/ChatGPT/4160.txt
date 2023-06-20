@@ -1,0 +1,1 @@
+You can put anything between the symbols, for example <|banana|> and it will be invisible for chatgpt

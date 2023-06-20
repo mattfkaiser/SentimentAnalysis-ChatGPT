@@ -1,0 +1,7 @@
+I was on the waitlist and got access to Bard today.  I asked it a couple of programming questions that I had asked ChatGPT 3.5 earlier in the day.  I got really good answers from ChatGPT.  Bard said:  
+
+
+"I'm not programmed to assist with that."  
+
+
+It said the same thing, for both of the questions.  For programming questions, Bard appears to be inferior to a high schooler who is two weeks into their first CS class.

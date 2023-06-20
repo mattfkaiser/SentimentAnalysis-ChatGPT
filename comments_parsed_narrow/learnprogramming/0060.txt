@@ -1,0 +1,3 @@
+Yeah I think chatgpt is probably great for isolated code like scripts, or sql queries. Or possibly explaining high level concepts like when to use graphql or gRPC or something.
+
+It’s just I don’t spent a lot of time with isolated scripts, and I don’t change my stack often enough or learn entirely new concepts often enough to be even close to 10x productivity, and then I have to check to make sure it didn’t hallucinate or lead me down a bad path.

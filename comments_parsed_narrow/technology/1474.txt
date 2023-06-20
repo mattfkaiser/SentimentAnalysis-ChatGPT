@@ -1,0 +1,1 @@
+The funny thing is that Open AI already has a solution to the privacy issue.. Their API lets you opt out of your data being used to train the model! So they can just implement that in the ChatGPT as well.

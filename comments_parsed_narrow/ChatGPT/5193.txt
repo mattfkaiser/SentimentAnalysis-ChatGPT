@@ -1,0 +1,2 @@
+
+I believe that the most "concrete" way to check if chatgpt actually wrote is to ask it to write it. For example, your essay talks about "dogs that don't bark", your teacher goes to chatgpt and plays "write an essay about dogs that don't bark" and compare. Something like that. Probably there is a tool already that does that comparison.

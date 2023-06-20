@@ -1,0 +1,5 @@
+It's so interesting to me how chatGPT is clearly very cable of making ASCII representations of *something* meaningful but it's almost always wrong about what that something is.
+
+I've seen multiple posts of it drawing clear letters in ASCII but the letters never spell anything. 
+
+Just interesting.

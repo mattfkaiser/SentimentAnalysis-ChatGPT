@@ -1,0 +1,5 @@
+I've used this a lot:
+
+https://github.com/f/awesome-chatgpt-prompts#prompts  
+Especially this:
+https://github.com/f/awesome-chatgpt-prompts#act-as-a-prompt-generator

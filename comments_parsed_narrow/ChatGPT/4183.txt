@@ -1,0 +1,17 @@
+Literally never? That's actually surprising.
+
+> You ask for the wibble class that does the wibble function, it writes "import wibble".
+
+Well yeah, that's a fake library. It's a matter of degrees, if it gives you a fake stub it will often give you the implementation (after a re-prompt). This is from my chat log after it suggested a function which didn't exist:
+
+=====
+
+**Me:** I am getting the following error:
+
+**Me:** Error	CS0246	The type or namespace name 'RelayCommand' could not be found (are you missing a using directive or an assembly reference?)	PomoApp
+
+**ChatGPT:** My apologies for missing the RelayCommand class. The RelayCommand class is a custom implementation of the ICommand interface. Here's the code for the RelayCommand.cs file:
+
+=====
+
+That works fine until it suggests an entire library, or utility that's fake. Then you just go "Ohhhh, you got me" and start a new project lol.

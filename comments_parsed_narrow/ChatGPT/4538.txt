@@ -1,0 +1,1 @@
+I'm in the same situation, and I've actually had success using **Chatbots** that uses the OpenAI API. However, I don't know if you'll get away with playing the "you only banned ChatGPT, not airline customer support bots".

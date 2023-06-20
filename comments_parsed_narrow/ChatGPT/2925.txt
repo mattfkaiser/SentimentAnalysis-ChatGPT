@@ -1,0 +1,1 @@
+Right?  But what it means is that you know when ChatGPT comes knocking on your home network.  Set up a honeypot and if you see 40.77.167.236 hitting your router then you know ChatGPT is trying to get in.

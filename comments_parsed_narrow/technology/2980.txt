@@ -1,0 +1,9 @@
+"The purpose of including these AI-produced texts is in no way to replace the judge's decision,” he added. “What we are really looking for is to optimize the time spent drafting judgments after corroborating the information provided by AI.” 
+
+&#x200B;
+
+"Garcia included the chatbot’s full responses in the decision, apparently marking the first time a judge has admitted to doing so. The judge also included his own insights into applicable legal precedents, and said the AI was used to "extend the arguments of the adopted decision." After detailing the exchanges with the AI, the judge then adopts its responses and his own legal arguments as grounds for its decision."
+
+&#x200B;
+
+Honestly I'm not sure after reading that. It sounds like chatGPT was consulted and cited, but the judge still wrote his own opinion? I'm not really sure if the AI actually wrote anything that went into the judge's opinion or if he just cited case law that the AI found record of.

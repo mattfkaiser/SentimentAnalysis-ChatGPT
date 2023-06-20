@@ -1,0 +1,3 @@
+I do work for a large company but my skill level is irrelevant here. If your code base has a complex stack, LLM isn’t very helpful. Any sufficiently complex code base is essentially DSL, or as you put it, a language chatGPT isn’t familiar with.
+
+It just can’t understand the context. It only works on self contained tasks at the moment. For a complex stack, the developer‘s job is mostly thinking and weighing solutions rather than typing them out.

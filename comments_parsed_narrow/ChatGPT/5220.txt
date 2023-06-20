@@ -1,0 +1,3 @@
+> ChatGPT is a LLM (Large Language Model) it a machine learning based text transformer which ultimately means just like how y=mx+b gives you a slope, you give chat GPT text and it gives you text back based of off probability and/or regression from the text it was trained on.
+
+No, you see it is the magic thingamajig that will save humanity from itself and deserves more investor money so therefore it doesn't contain any flaws.

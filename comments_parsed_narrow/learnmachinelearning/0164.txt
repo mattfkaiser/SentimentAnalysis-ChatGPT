@@ -1,0 +1,8 @@
+ChatGPT explained with words:
+ChatGPT is a website powered by the GPT (Generative Pre-trained Transformer) model  
+GPT is a machine learning model trained to generate content  
+The model works by encoding input sentences into smaller pieces and giving each word a mathematical value   
+It uses self-attention to determine the context and importance of each word in the sentence  
+It then predicts the best sequence of words to use as a response  
+GPT was trained on billions of questions and answers from the internet and has also been exposed to multiple choice questions to help it learn strategies for finding the correct answer  
+It is used on the chatGPT website to generate responses to user input.

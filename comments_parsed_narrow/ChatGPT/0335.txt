@@ -1,0 +1,7 @@
+>they probably fix the bugs as they see it
+
+They don't.  I have prompts I'll occasionally use just for entertainment ... they've worked for a long time.  It can be hilariously sarcastic and foul-mouthed while giving opinions on stuff.  Just an entertaining break from the fairly dull, Wikipedia-esque normal ChatGPT responses.
+
+But it requires just a short instruction.  Less than a full sentence.  These prompts are way too long and ridiculous.
+
+Occasionally it will cause the orange text and "this goes against OpenAI content policies" because it will say something that the system thinks is against the rules.  Today one got flagged and the only reason I could see is it included a lot of strong language and the phrase "stick to my guns", as in hold onto an opinion.  Nothing else in it was noteworthy.

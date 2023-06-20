@@ -1,0 +1,7 @@
+You definitely can, but keep in mind that you will need to learn how to clearly convey your intentions. Most of the time, when it doesn't solve my issues, it's my prompts the problem. Also code management will be the main skill you will have to learn, as you will always be limited by the number of lines you can put per prompt, keep your files small. Also it gets just really bad when you give it too much.
+
+Always put the file location as a comment at the top of your files (before the imports). When copy/paste your code, that will greatly help it understand the file structure of your app and it will give you way better responses.
+
+Don't expect it to be one shot, but it is entirely possible to code with chat gpt4. 
+
+Also, you can use Chatgpt 3.5 when you need to better explain a problem.

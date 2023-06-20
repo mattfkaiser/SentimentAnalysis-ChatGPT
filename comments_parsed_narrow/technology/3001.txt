@@ -1,0 +1,23 @@
+Adding in racism to the fearmongering.
+
+Evidence that ChatGPT's racism is worth warning people about (fearmongering).
+
+AI Does have a racist bias.  It is replacing systems that have had racist biases since before the first computer was made.
+
+Should we be more afraid of the less racist ChatGPT when the racist systems that ChatGPT learned from were so bad that it became instant racist?
+
+&#x200B;
+
+I agree with your general argument, current AI is racist as the all available training data is racist because society at large is racist.
+
+We don't need to warn people about this because the systems it's replacing were already racist.  
+
+Additionally there is extensive work being done to solve the issue of racism within the context of generative AI it's an active area of research with many people studying the how and the why's of learned racism.
+
+&#x200B;
+
+Also notice how all it all got noticed?  There aren't people in academia who deny the issue of biased training data. No one is ignoring the problem, but trying to deny the technology based on these grounds when the alternative implemented is worst doesn't make much sense.
+
+&#x200B;
+
+You are in this thread right now advocating for caution around the implementation of these systems based on what evidence?  You are going to say they are racist, but you would also admit that the current legal system is already racist.  What makes ChatGPT worst than run of the mill Human racists?

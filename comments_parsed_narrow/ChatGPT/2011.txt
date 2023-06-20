@@ -1,0 +1,1 @@
+I honestly havent used chatgpt too much lately but this is horrible advice unless youve got money to spend. Each api request costs money, the bigger your prompts the more money youre spending. I dont think everyone has money to blow on the gpt4 api. It doesn’t require much smarts to implement it either.

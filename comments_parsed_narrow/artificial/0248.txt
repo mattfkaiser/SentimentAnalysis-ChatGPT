@@ -1,0 +1,1 @@
+Try [filtir.com](https://filtir.com) to spot chatGPT hallucinations. It's a handy tool that digs out facts from text and cross-checks them online.

@@ -1,0 +1,1 @@
+You're talking bout the ascii art post? Chatgpt cannot and has never been able to discern ASCII at because it can't think in space or time, nor can it see special characters or new lines. It's literally working with the binary representation of the text. It can't see the characters. It can't see new lines. It can't compare a character with the character below or above.

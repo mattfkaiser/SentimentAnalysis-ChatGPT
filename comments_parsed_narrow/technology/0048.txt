@@ -1,0 +1,10 @@
+So the thing that GPT really excels at is semantic understanding, that is to say, treating an abstract concept correctly in context. This is because the meaning of an abstract concept is more or less the aggregate of its statistical relationship to all other words it appears near, in all contexts where that word appears in language. I'm not certain people would have expected semantic linguistics to be solvable in this way, if it were not for LLM development and models like GPT, but GPT's performance at this point makes that conclusion hard to avoid.
+
+ChatGPT has "solved" that problem for millions of abstract concepts. However, it doesn't "know" factual things at all. You can get much better results if you ground the model to a corpus of facts, and instruct the model to treat them as true. This is why a lot of the commercial applications of GPT right now are:
+
+1. Take existing database/search engine of reliable facts.
+2. Query from existing, reliable database to provide grounding material.
+3. Provide grounding material to GPT, ask GPT a question about that material.
+4. Include ability to "cite" back to the grounding material.
+
+Once you slap this framework together, GPT becomes fairly useful for understanding those facts. But without that grounding, it is not very useful for fact-based inquiry.

@@ -1,0 +1,1 @@
+I'm not talking about Chat GPT being some AI detector. I'm saying that if you let Chat GPT write a text, and later send it back that same text and ask if Chat GPT wrote it, it will say yes. Even if I myself summarize this text, Chat GPT will still recognize and  say that it wrote the text, as long as the content roughly remains the same

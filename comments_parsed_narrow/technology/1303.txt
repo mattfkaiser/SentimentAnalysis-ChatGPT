@@ -1,0 +1,5 @@
+>For one, ChatGPT doesn't have free will and it will produce a consistent output for the same prompt in the same version
+
+Except it's not, anyone have tried to use ChatGPT even once should know that the same prompt will give different answer each time.
+
+I tried to use it to edit my translation of a novel to make sentences flow better, and with the same prompt, the same input text, it give different edit each time.

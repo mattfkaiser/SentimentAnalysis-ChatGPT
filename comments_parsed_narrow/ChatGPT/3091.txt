@@ -1,0 +1,5 @@
+Instead my point is this: answer you got is not a hallucination, it is the typical oversemplification done for high schoolers. That oversimplification is widely known to be wrong (chatgpt knows it as well). By a very simple prompt engineering (i.e. by asking to avoid incorrect oversimplifications), chatgpt returns the correct answer.
+
+The outcome of this simple exercise is that, by default, the user is considered at the level of a high schooler. By explicitly asking to change the level, chatgpt obeys, because it knows the answers for grown up. This is most often frustrating, because I always need to use prompt engineering to get good answers, that chatgpt clearly knows, instead of answers for high schoolers. I have a text files of initial prompts that I feed to chatgpt to be treated as a grown up. 
+
+I can bring a lot of examples from physics, chemistry, computer science. It very often behaves like this. The only field where I find this happening much less is machine learning, where answers are relatively good without any additional effort from user

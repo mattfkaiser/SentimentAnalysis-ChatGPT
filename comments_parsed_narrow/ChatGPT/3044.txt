@@ -1,0 +1,1 @@
+This actually cuts both ways. Just as present management can disband the ML team in favor of ChatGPT, there's nothing stopping the ML team from leveraging the same ChatGPT API and offer competing services that are better and cheaper. If it really comes to that, maybe you can make it clear to the management.

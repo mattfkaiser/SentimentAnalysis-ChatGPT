@@ -1,0 +1,11 @@
+This is the best tl;dr I could make, [original](https://www.theverge.com/2023/5/30/23741996/openai-chatgpt-false-information-misinformation-responsibility) reduced by 90%. (I'm a bot)
+*****
+> This is the warning OpenAI pins to the homepage of its AI chatbot ChatGPT - one point among nine that detail the system&#039;s capabilities and limitations.
+
+> Because when it comes to preparing people to use technology as powerful, as hyped, and as misunderstood as ChatGPT, it&#039;s clear OpenAI isn&#039;t doing enough.
+
+> The misunderstood nature of ChatGPT was made clear for the umpteenth time this weekend when news broke that US lawyer Steven A. Schwartz had turned to the chatbot to find supporting cases in a lawsuit he was pursuing against Colombian airline Avianca.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/13vv182/openai_isnt_doing_enough_to_make_chatgpts/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 2.02, ~686910 tl;drs so far.") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PM's and comments are monitored, constructive feedback is welcome.") | *Top* *keywords*: **ChatGPT**^#1 **clear**^#2 **information**^#3 **chatbot**^#4 **system**^#5

@@ -1,0 +1,5 @@
+I think teachers will have to start relying more on interviews, presentations and tests instead of written assignments. There's no way to check for plagiarism with ChatGPT and those models are only going to get better and better at writing the kinds of essays that schools assign.
+
+Edit: Yes, I've heard of GPTZero but the model has a real problem with spitting out false positives. And unlike with plagiarism, there's no easy way to prove that a student used an AI to write an essay. Teachers could ask that student to explain their work of course but why not just include an interview component with the essay assignment in the first place?
+
+I also think that the techniques used to detect AI written text (randomness and variance based metrics like perplexity, burstiness, etc...) are gonna become obsolete with more advanced GPT models being able to imitate humans better.

@@ -1,0 +1,1 @@
+You basically code software which takes your inputs, turns them into chatgpt prompts, then translate chatgpts response into a usable output. Or use one of the many many ai tools out there. Chatgpt is far from the only capable ai

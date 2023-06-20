@@ -1,0 +1,5 @@
+This idea depends on programs like ChatGPT and Dall-E being unique and difficult to copy but that's hardly the case. The company that produced these products is still called OpenAI, the "open" part originally referred to "open source" and the tools to make such programs are still available to anyone who wants to make a competitor. 
+
+The price of the hardware is keeping generic alternatives at bay for now but that certainly will not last. You can force one or two companies to watermark their output but when there are millions of competitors, such a system will be useless. This is generic technology that emerges from changes in hardware that began with video games and then were fueled by Bitcoin. You can't uninvent the hardware changes that formed the basis for these large language model neural network programs and, in fact, many parties are working as fast as they can to make that hardware cheaper and more generic than ever. 
+
+Censoring these first few feeble systems will do little to protect anyone from anything. The interesting stuff will come when these bots are allowed to do porn and political satire.

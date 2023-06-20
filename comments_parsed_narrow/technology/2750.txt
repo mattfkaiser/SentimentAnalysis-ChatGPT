@@ -1,0 +1,7 @@
+Ok.... And? Wasn't it a decade ago that Watson won on Jeopardy? Couldn't a common calculator arguably pass some entry level math exam? How many developers rely on Stack Overflow results?
+
+Also, supposedly it scored at the bottom... Probably worth taking into consideration pretty heavily.
+
+This hype over some AI that's particularly good at language really needs to be understood for what it is - it's not better at much of anything except language. Humans are still infinitely better at things, and even Google is better at certain times. ChatGPT is just better at language.
+
+For comparison, there's a huge ordeal about ChatGPT replacing developers, yet I consistently give simple and single-line solutions to things for which it gives 30+ line solutions that might not even accomplish the desired task.

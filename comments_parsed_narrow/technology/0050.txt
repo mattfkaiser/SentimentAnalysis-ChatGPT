@@ -1,0 +1,9 @@
+I mean, that's not a "problem".
+
+It's how it was built and it performs **exactly** according to specification.
+
+It's a statistical model that given a sequence of words generates next sequence of words that are most likely to occur.
+
+It's not that it "makes shit up". Ultimately ChatGPT most likely runs at around 400GB and some models you can run at home fit in like 8-20GB. This is not nearly enough storage for "literally anything written on this planet". Instead it's an **approximation**. It doesn't directly store any specific legal case, article, application, manual and so on.
+
+In some cases it does better as there are stronger connections between words or they are common enough that it can establish higher level rules surrounding them. In some - not so much. It may be able to generate something that **resembles** a legal case as they have a fairly specific wording and unified structure and in some cases it may even get it right but it's really down to statistical data. Asking it for legal advice in general can give you ton of bullshit since amount of incorrect information flying on the internet that it consumed as an input vastly outpaces legal texts it could possibly access.

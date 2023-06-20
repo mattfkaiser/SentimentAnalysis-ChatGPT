@@ -1,0 +1,11 @@
+I asked ChatGPT about this and, among other things, this is how it replied:
+
+>…even if we assume that AI could exhibit some form of emotional intelligence, it could potentially conflict with the first idea of unbiased decision-making. Emotions and biases are closely linked - our personal experiences and feelings often shape our biases. If AI were truly emotionally intelligent, would it also be subject to emotional biases?  
+>  
+>The balance between AI decision-making and the importance of emotional intelligence might also lead to tensions in this society. Would decisions be made based on cold, calculated logic (even if it's "unbiased") or on emotional understanding and empathy? Finding the right balance would likely be a challenge in this utopian society.  
+>  
+>Finally, there are ethical considerations. Even if we could develop emotionally intelligent AI, should we? How would this impact human employment, identity, and purpose? How would we ensure that such powerful AI is used responsibly?
+
+A lot of good questions.
+
+Though let's not forget this is a glorified word imitation machine that reflects the data its fed, it's not a magic mirror.

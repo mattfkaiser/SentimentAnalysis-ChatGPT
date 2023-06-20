@@ -1,0 +1,5 @@
+Is there a plugin for ChatGPT for visual studio code? 
+
+Also anything that I don't need an API and something that isn't a security risk? 
+
+I just play with python for fun.

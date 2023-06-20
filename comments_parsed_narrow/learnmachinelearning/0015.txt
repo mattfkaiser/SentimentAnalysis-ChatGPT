@@ -1,0 +1,3 @@
+Working on data science and machine learning for the last 8 years. It's fascinating to see how much these models have improved over the last few years. And now that ChatGPT has made these models available to the general public, we're at the threshold of another technological revolution.
+
+Think of ChatGPT as the first iPhone. Sure, smartphones had existed before but the iPhone changed the game. Others are going to copy and improve on it, that's for sure. But it's almost impossible to predict where it's going to lead, just like it would've been hard to predict the emergence of apps like Uber and Tiktok in 2008. People are still trying figure out what we can build on top of it.

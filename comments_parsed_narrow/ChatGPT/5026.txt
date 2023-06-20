@@ -1,0 +1,3 @@
+I experienced the same when looking for advice on certain software engineering technologies. There's so many articles out there that just contain a million filler words to force a higher rank in the search engine. So very often you have no chance of searching for something very particular, because there's a million articles that contain every tech word you can think of so those will always come up first. 
+
+It's gonna be even easier now for website owners to create such articles en masse with the help of chatGPT.

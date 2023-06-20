@@ -1,0 +1,1 @@
+I asked chatgpt a question about an excel formula and it gave me a decent conceptual answer, but made a very basic logic/math error. Later it also suggested a formula that doesn't exist natively in excel. Pretty disappointing.

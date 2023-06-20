@@ -1,0 +1,3 @@
+GPT4Free + custom domain with tls. I really wish I can do this with ChatGPT website via reverse proxy...
+
+Getting a domain youtube.\*\*\*\*\*.\*\*\* Worked like a charm around bank systems.

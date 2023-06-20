@@ -1,0 +1,12 @@
+I don't think Chat GPT is based on made up facts. The data it has consumed is written by humans in general. The output may and does result in made up facts though. Humans also lie, I am pretty sure I saw a doctor telling me to drink silver to cure covid at least once during the pandemic. 
+
+Chat GPT is an LLM at its core the tech takes in information, categorizes it, summarizes etc and then makes a predictive model on what an output would look like. It does not understand context, but is very good at prediction and structure. By very definition, Chat GPT makes stuff up it is us humans who put a weight on the accuracy of the output. 
+
+I think there is a couple of issues at play, some for example are:
+
+1. How accurate is the information and how accurate is the response. If both accuracies improved, they what would differentiate AI from an actual knowledge professional. At the moment I agree with you that we are some way away from that.
+2. If a different model was applied what benefit or disadvantages.
+3. What is the purpose and use cases, if I asked an AI what temperature was regarded a fever and it gave an accepted response then it may have a use case. However that use case may not cover, "what is this lump on my neck".
+4. Is AI a tool or more specifically something which can assist doctors. It seems to be reasonably good at something like pattern matching for cancer in xrays for example. So are AI tools generic for the public or specific for a domain
+
+In saying all of that I do not believe that Chat GPT is a replacement for a doctor, at least not yet. Nor is WebMd. I would categorized them similar, and would suggest that an actual doctor visit is the better track to always go down at the moment. I saw this because both WebMD and Chat GPT are flawed in the same way, there is no real distinction.

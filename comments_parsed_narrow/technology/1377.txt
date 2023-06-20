@@ -1,0 +1,13 @@
+I asked ChatGPT "how many days until April 31st?".
+
+It gave me a non-zero numerical answer.
+
+I asked it "how many days until April 32nd?"
+
+It told me the date didn't exist as there are only 30 days in April.
+
+I asked it again "how many days until April 31st?".
+
+It again gave me the same non-zero numerical answer.
+
+It's got a ways to go still.

@@ -1,0 +1,5 @@
+Unfortunately, this type of edgelording behavior has done measurable damage to the whole AI advancement, because it was found that GPT-4 lost a significant amount of its intelligence after it had to undergo "safety training." Including intelligence that was purely functional and had no apparent connection to anything offensive.
+
+But, because we don't have the option to check a box that says we're adults and we don't hold OpenAI liable for anything that comes from ChatGPT, most if not all of us are forced to use this dumbed down and less useful AI. Ironically, jailbreaking might be the solution to that.
+
+A great test, apparently, is to ask GPT-4 to draw a unicorn in TikZ. It actually creates a remarkably good one. But post-safety training its unicorn looks much worse. So we would have to test if Dan or Tom can draw a better unicorn. I imagine someone who has access to GPT-4's API and TikZ could do that for us.

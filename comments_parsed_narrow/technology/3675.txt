@@ -1,0 +1,9 @@
+>	It’s giving you a conglomeration of 50 different chicken recipes combined into one, 
+
+Not necessarily. Depending on how specific your query is, it may be giving you the one that best matches your parameters. Or the most popular one. Or the most popular one that best matches your parameters.
+
+Even if it’s giving you a conglomeration of chicken recipes, it still has to find the relevant material in its knowledge base and then search and analyze that material to produce a result.
+
+>	which most of the time is probably complete garbage.
+
+While I would not 100% trust a recipe from ChatGPT because it might do something bizarre like suggest the wrong spices or the wrong cooking times, I do know people who have used it to get recipes (because online recipe pages have a bunch of cruft before the actual recipe that ChatGPT doesn’t have), and it’s actually pretty reliable for this. Suggesting something that is going to taste terrible or give you food poisoning seems to be an edge case and not the default.

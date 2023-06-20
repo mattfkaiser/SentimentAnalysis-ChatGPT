@@ -1,0 +1,7 @@
+From the [OpenAI chatGPT page](https://openai.com/blog/chatgpt):
+
+> We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
+
+That sure looks like a self-recommendation as a research tool to me. ‘Answer follow up questions’ is a prime feature of a research tool. As is understanding of quality of results (‘admit it’s mistakes’, ‘challenge incorrect premises’). 
+
+“Make shit up” is not generally useful…

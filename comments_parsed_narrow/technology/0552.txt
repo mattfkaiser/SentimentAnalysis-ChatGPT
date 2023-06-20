@@ -1,0 +1,7 @@
+You and I can choose not to use it for those things, but we still have to live with the consequences of other people who do (like this lawyer). So it's good to educate people on what it can't do, imo.
+
+And the bigger problem: you're absolutely right that it doesn't know what's true and what isn't, but it's being *sold by its creators* as something that does - a search-replacing assistant.
+
+These LLMs are being passed off as hyperintelligent oracles, or at the very least their creators make no attempt to clear up that misconception.
+
+Hell, I've seen people use chatgpt as a calculator, which is probably the thing it's worst at. It's easy to brush them off and say "they're just using it wrong," but they're using it wrong because they're being *actively lied to* about what it's capable of.

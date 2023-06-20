@@ -1,0 +1,7 @@
+There's a waitlist for activating access to registered APIs in you chats.
+
+> We are extending plugin access to users and developers. We are initially prioritizing a small number of developers and ChatGPT Plus users, and plan to roll out larger-scale access over time.
+
+There's a similar waitlist for developers wanting to register APIs.
+
+Web browsing and a Python code interpreter are OpenAI-provided plugins. Other plugins are provided by external developers similar to how you can register tasks with Alexa or Google Assistant.

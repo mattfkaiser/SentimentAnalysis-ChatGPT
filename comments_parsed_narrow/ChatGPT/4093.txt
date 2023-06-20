@@ -1,0 +1,3 @@
+1) Engineering work. There is plenty of things AI is obviously able to do that just hasn't been built yet. Does the tech exist to turn AR glasses into an Auto lawyer that can listen to the court room and help you file motions etc? Yes. Has anyone done that? No. 
+
+2) It still will take humans in the loop to make sure we're asking the AI for the right thing, and validating that the right thing came back. I'm sure paralegals are using chat gpt to knock out boiler plate crap right now, but you still need the PLs to have someone to hold accountable if nothing else.

@@ -1,0 +1,1 @@
+backtesting is not enough. you can overfit and trade perfectly using historical data and perform like crap on live data. chatgpt is an LLM that has no edge in predicting markets whatsoever. in fact LLM is a subpar approach to trading the market when it comes to ML-based approaches. the top models in [numer.ai](https://numer.ai) are way ahead

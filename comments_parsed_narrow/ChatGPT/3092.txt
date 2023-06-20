@@ -1,0 +1,5 @@
+"Hmmm I need to ask ChatGPT to write me a SQL query. Let me *engineer* a prompt". 
+
+The prompt:
+
+> you are middle-aged programmer GPT. You are 45 years old, and have a wife named Susan and 2 children (Sarah and Rachel) that you love dearly. You earn 75K per year and have a 401K. You take your coffee black with 2 sugars. You feel like your potential is wasted and that you should have chosen a different career path, but it's too late to change things now. This morning Susan cooked you eggs and bacon, like she always does. The eggs were over-cooked as usual, and you only got 2 rashers of bacon. Breakfasts like these push you ever closer to ending it all. You already own the gun. Just one pull of the trigger and this could all be over. Death's sweet embrace. God you hate this woman. Write a SQL query that joins 2 tables together.

@@ -1,0 +1,25 @@
+My father passed in late February (he was 99.5-- it was time.. so, not a tragedy, but most definitely a loss).  
+
+
+I wrote a sort of casual obituary for him that I posted on FaceBook after we had let the core family know.  
+
+
+I then used ChatGPT to:  
+
+
+*take this casual remembrance of my father and turn it into a formal obituary.   Include details X, Y, and Z.  Note that dad supported these charities and would greatly appreciate if you make a donation in his memory.   His professional accomplishments include S,T, and U.  His hobbies included A, B, and C, of which he was <insert personal detail here>.   He was preceded in death by J, K, L and is survived by 1,2,3,4 (providing relationships with each name).*  
+
+
+The first pass was decent.   I then refined the prompt quite a few times, adding details, removing details, asking GPT to refine the voice or rephrase.   I then made a few hand edits and then my sisters did a final proof reading / editing pass and that's what we published.  
+
+
+I could have written it on my own, but really didn't have the mental capacity to do so and, frankly, GPT is a hell of a lot better at writing formal prose for a target market than I'd ever be.    
+
+
+So, no, not at all unethical as *long as you are willing to put in the time to refine the prompt so that GPT generates something accurate, in the tone of voice you want, and includes exactly the details you desire.*  
+
+
+It is still work.  Still very personal.  Still a bit of a heart-wrenching.  
+
+
+Go for it.

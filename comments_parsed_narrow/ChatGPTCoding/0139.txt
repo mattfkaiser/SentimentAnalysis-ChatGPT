@@ -1,0 +1,1 @@
+The safety measures — RLHF — have been in place since the very beginning of ChatGPT in November 2022. No one outside of early researchers has had access to the base model without RLHF.

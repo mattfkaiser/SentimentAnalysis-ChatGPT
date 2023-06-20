@@ -1,0 +1,1 @@
+If the answers require the entire context of the conversation and that won’t fit into chatgpt, you can either: summarize your chats, then see if the shortened chats fit in the context, or fine tune a custom llm with your chat history.

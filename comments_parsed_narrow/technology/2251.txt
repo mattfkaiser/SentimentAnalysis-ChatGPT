@@ -1,0 +1,31 @@
+I work in research and I'm from a CS background.
+
+Google existed when i was doing my undergrad. I had to make a conscious choice to not just copy-paste code for whole assignments when I was a student and write my own.
+
+I'm glad I did. I would have screwed myself over.
+
+Of course in industry and elsewhere we copy-paste code all the time but it's important you fully understand it if needed.
+
+In my current job colleagues often come to me when they are having trouble with some R code or some IT issues.
+
+The other day a friend emailed me with a problem involving an obscure R library.
+
+I couldn't answer off the top of my head and would have needed to spend some time going down some stackoverflow rabbit holes
+
+As an experiment I simply showed chatgpt a few lines of  code and described the problem she was having.
+
+It proposed a solution (the same one I first thought of) but that gave an error.
+
+So I just showed it the error. It took the error intp account and offered a fix.
+
+But there was something else wrong. 
+
+Repeat because there was also an issue caused by how my colleague had named columns.
+
+3 layers of errors in it offers a small code block that fixed all the problems and got the code working as desired.
+
+That floored me. Probably half an hour of digging through forum threads about libraries turned into seconds to get working code.
+
+Intelligent and reactive bug fixing.
+
+This is going to change the workplace in a big way.

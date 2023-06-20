@@ -1,0 +1,11 @@
+>If someone is dumb enough to type a prompt into ChatGPT and just directly submit it for an assignment, that probably won't be too hard to catch.
+
+I tried using ChatGPT on a question of a homework assignment that I didn't know how to start on. So I pasted the question in and it explained to me through how it got its answer. It all seemed pretty legit.
+
+Then to double check it, I loaded the bot up again and fed it exactly the same script. And it again explained to me the steps it did... of an entirely different method it used to get a *different answer* that was several magnitudes different from the first.
+
+I asked it why it got a different answer the second time, it asked me for the original answer it gave, and it said "oh I made a mistake" did the original method and got that answer. To see what would happen, I asked "so that's the right answer, right?" and it spit out the second method with that answer again. So I don't think I'd say I trust it with anything technical.
+
+For science I tried reloading the bot and giving it the prompt a third time and... third method with third different answer.
+
+The bot is very confident, but not always correct

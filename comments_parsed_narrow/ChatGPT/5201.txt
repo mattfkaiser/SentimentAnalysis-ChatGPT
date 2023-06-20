@@ -1,0 +1,7 @@
+Yeah, I did a similar test. I started feeding it essays I wrote back in high school and college.
+
+It basically claims it wrote any college essay I wrote years ago, but it does not claim my high school ones. Tbf, I was a very poor writer back in high school.
+
+ChatGPT is great, but it is not capable of detecting what it did or didn't write. It's just a language model that predicts what should be said based on the prompts given. It's not actually analyzing the text for markets that would show a GPT model wrote them
+
+Bad teacher for using ChatGPT this way. It's even worse than those GPT cheat detectors, which are also not good yet.

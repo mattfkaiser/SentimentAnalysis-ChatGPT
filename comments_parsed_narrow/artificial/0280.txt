@@ -1,0 +1,3 @@
+Check it out here: [https://useadrenaline.com/playground](https://useadrenaline.com/playground)
+
+I built this using the ChatGPT API which was just released the other day. What's special about this is it not only understands the code you're trying to debug, but behind the scenes it pulls in potentially relevant StackOverflow posts and tries to adapt their solutions to your specific code. This takes the hassle out of plugging your broken code into Google, finding a StackOverflow post, and trying to manually integrate the solution into your code.

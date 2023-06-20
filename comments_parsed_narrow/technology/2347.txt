@@ -1,0 +1,3 @@
+I've used it to write some of my Excel formulas. I usually try it myself, get frustrated because I messed up some syntax somewhere, ask ChatGPT, then modify its result to give me something to fit my needs.
+
+It's pretty great.

@@ -1,0 +1,3 @@
+>This is pretty naive. It would take years of programming before you make anything remotely useful related to AI
+
+If anything your take is naive. Years ago I showed my 60-something year old mom who works as a receptionist how to record macros in excel. I'm a software engineer so I tried to show her what recording a macro does and how powerful modifying the VBA it generates can be, but she'd always cross her arms and say it's over her head. Now with chatgtp she's gained the confidence to modify the underlying VBA the macro generated because she can copy a line and ask chatgpt what it's doing, or ask it how to do something specific. She's literally programming now. It doesn't have to be scalable, OWASP compliant code. It's saving her a lot of time.

@@ -1,0 +1,9 @@
+I wrote a shader for a game engine, took me about 3 hours.
+
+Later I thought I'd see what the fuss was about, and asked ChatGPT to write the same thing for me. It spat it out in about 5 seconds. I was gobsmacked.
+
+It compiled, but didn't do what I wanted. Still, was impressive.
+
+I asked it to write a 2nd shader to do something else but haven't tested it yet.
+
+It was very convincing that it would do what it should. It even told me the limitations and then corrected the code when I asked it to fix the limitations. But yea still, didn't do what I asked for in the first place.

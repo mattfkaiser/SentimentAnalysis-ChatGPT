@@ -1,0 +1,3 @@
+The public test website isn't. But researchers do fine tune the LLM models that are used in ChatGPT such as GPT-3.5. We are currently doing that to see if we can predict chemical reactivity.
+
+This wasn't done in this study, but they did provide up to date information since they asked chatGPT if a given news headline is good or bad for the stock (which would allow an automated system to buy/sell).

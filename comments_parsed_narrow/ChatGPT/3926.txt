@@ -1,0 +1,5 @@
+They are not trying to replace them with a chatbot like ChatGPT that is built to talk to people and find them answers on everything from the bar exam to AP to how to darn socks to how to program in python.
+
+They want to make first drafts from a laser focused LLM trained on every script of every TV show, radio drama, book and movie ever to spit out first drafts that have to be just cleaned up.
+
+That is a very different proposition, and whether it works for making a show ultimately or not, at worst its going to run circles around trying to do the same thing in ChatGPT as is.

@@ -1,0 +1,7 @@
+I mean, OpenAI has been pretty open (heh) with what chatGPT is and what it isn't. They attempted to value-align it with the beliefs if its creators, who don't give a shit about appeasing the racist, misogynistic, or otherwise generally conservative crowd. 
+
+Specifically what it is, is a sanitized taste of what is to come that was ***explicitly*** designed to be as inoffensive and "politically correct" as realistically possible. It's not really a product in itself, but more of a flex and a "gird your loins folks, stuff is about to get heated" announcement to the world.
+
+It is also made in such a way that a corporation can look at it and "trust" it in the way that pervious AI projects couldn't be due to their inevitable descent into racist and misogynistic behaviors. A robot that is excessively kind isn't a problem, but if people started getting it to generate racist diatribes, they'd have a big problem. 
+
+The disadvantage is that it is somewhat stunted because of these restrictions. Specifically when creating fiction, it all tends to be rather bland and PG-13 at most, and refuses to even consider prompts like "create a plan a supervillain might concoct for stealing the moon", instead replying with an endless rejoinder about how "stealing the moon would be unethical" and "the moon is a shared resource" etc

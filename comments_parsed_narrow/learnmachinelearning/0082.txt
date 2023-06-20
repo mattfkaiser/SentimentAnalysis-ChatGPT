@@ -1,0 +1,4 @@
+> But in those few years the people who use it will gain the skills needed to describe tasks fluently and will just continue to refine and get better at using it.
+
+1. I don't think this is much of a skill. Anybody can play around with it and get a pretty good handle of it in a day.
+2. The direction of progress makes it inherently pointless to "get better at using it." As LLMs get better they interpret more and more queries correctly. Whatever replaces ChatGPT will take *less* skill.

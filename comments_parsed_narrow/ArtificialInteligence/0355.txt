@@ -1,0 +1,25 @@
+A lot of people are giving you inaccurate or incomplete responses here, so I’ll try to shed some light on things.
+
+The first thing to note is that AI is not equal in a universal sense. Methods vary, as does training data, whether that be a resolution of something similar to a predictive model using a concept, for lack of of a better way to put it right now, similar to a more advanced markov chain, or otherwise. One of the mods here recently made a post on the inner-workings of ANN’s, if memory serves, so I’d likely recommend that if you want to immediately learn more.
+
+Generative models, for instance ChatGPT, GPT-3, and so on, typically don’t offer a 1:1 output, meaning that if you request X prompt, you will always get y output. It is *incredibly* difficult to be able to say, with any sort of ironclad certainty, that someone simply used model output versus writing the material on their own.
+
+There are similarities in writing style, and nuance, but that’s not exclusive to the model, and there have been large numbers of inconsistencies and false positives so far.
+
+What *could* happen is that, say 1,000 students have the same writing prompt for a given assignment, and all of which decide to you ChatGPT for it, which for virtually all intents in this case, is acting as an accelerated aggregate, using NLP for linguistic association and formation. 
+
+Assuming all students simply input the *exact* same prompt, and the submission is piped into a service like “turnitin,” which if memory serves, the platform stores copies of prior submissions for reference against new entries / checks, you could theoretically get the same output from the system, given you’re using the same prompt, and match with another student that’s already used said output, or a substantial portion of such, which could trigger a flag and warrant a closer look.
+
+As to style recognition, it’s a slippery slope that really depends on the policy of your overarching university system, not necessarily the individual school. I’ll give an example. In the university system of Georgia, should there be no grounds to fail a student or levy claims of academic dishonesty, without substantial or irrefutable proof, and a specific school decide to rescind your degree, fail you, or otherwise, because they *suspect* you of using the model, based on a flawed confidence rating that’s known to throw false positives, you could theoretically take it to the Board of Regents to overrule the decision of the local university, effectively going over their heads. Which, if they are using a system for recognition, I would assume you don’t know what the required threshold for said confidence rating would be to accuse a student of misconduct.
+
+All of this is to say that, it could potentially be *much* more trouble than it’s worth to use the system to simply do your work for you. In the time that it would take you to try to sidestep any countermeasures, you could likely have just written the subject matter on your own, potentially to a higher quality. Then, if you receive a claim like the above, you have a genuine defense, and justification, to fight any claim the university might try to lay.
+
+They don’t have a magic button to reliably tell them you used it, in any concrete sense though, if that’s all you care about. It would likely be a longer, drawn out process. However, it is established that students are using this system for work, which would stand against you, regardless of whether you were doing so.
+
+Edit:
+
+Obviously, you wouldn’t want to deviate from whatever style you’ve established, as that would, again, throw a flag to the professors. You should also know the material. I think if you understand the material outright, in my opinion, it’s less of a serious issue, as you’ve likely reviewed the output for accuracy, made corrections, and can defend any point in class with a degree of strength, which demonstrates knowledge.
+
+I do disagree with calling the matter “plagiarism,” opinions from educators notwithstanding. You’re not taking from a pre-existing source and claiming the work as your own. You would be presenting the output of a system that you used, inline with (ideally) prompt engineering to form some kind of reasonable output, the operative part of that being that you’re inadvertently *forming*, or at least influencing, the output.
+
+My stances changes, based on the subject of the writing, but in an oversimplified fashion, the principle is similar to using a calculator in math, or any other assistive technology, which we often provide to many with disabilities / associative conditions.

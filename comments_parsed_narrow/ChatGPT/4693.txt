@@ -1,0 +1,1 @@
+Not yet. Wait until they release the plugins and embed some legal dataset into a vector database and serve it through ChatGPT.

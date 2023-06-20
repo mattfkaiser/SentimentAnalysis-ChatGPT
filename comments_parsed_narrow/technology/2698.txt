@@ -1,0 +1,3 @@
+Because it literally used that text to train. It didn't think of any answer, it just pulled the text from a textbook it "read" while learning. It has no actual understanding of what you are telling it or what it is telling you. 
+
+There's a subreddit for these markov chain text bots, and chatgpt is just a very advanced version of that.

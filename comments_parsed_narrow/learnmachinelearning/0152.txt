@@ -1,0 +1,9 @@
+I have discovered a method to accomplish exactly what I needed to do using a combination of format refining and utilizing u/f10101's comment. Format refining involves using context specific wording and Markdown language, such as bold and italics, as well as formatting question functions to include closed or open-ended questions. I was able to input large data sets, over 20,000 words, containing character information and background, and the method was able to generate fairly accurate replies with ease. 
+
+&#x200B;
+
+I have written a post about the formatting techniques I have learned over the past few days, which can be found at the following link: [https://www.reddit.com/r/ChatGPT/comments/zxs9n9/maximizing\_chatgpt\_prompt\_effectiveness/](https://www.reddit.com/r/ChatGPT/comments/zxs9n9/maximizing_chatgpt_prompt_effectiveness/)
+
+&#x200B;
+
+Hopefully this helps some people out.

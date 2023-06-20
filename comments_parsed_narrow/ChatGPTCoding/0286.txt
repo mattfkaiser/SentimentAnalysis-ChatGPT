@@ -1,0 +1,7 @@
+For example it never "forgets" these command if you write story with it and you define a certain style you don't need to repeat it and you know it will always use it.  
+
+
+When you list these things in normal ChatGPT after a while you have to repeat them and sometimes randomly it doesn't take them into account.  
+
+
+but no, the quality of code should be the same.

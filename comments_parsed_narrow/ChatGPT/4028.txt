@@ -1,0 +1,9 @@
+> more commoditized with lower barrier to entry
+
+This has been going on for decades, and has never produced a drop in employment or salary.
+
+I started programming in the 80's. The barrier was pretty high then, and has been falling ever since. At the same time productivity has skyrocketed - consider programming before and after the internet, or before and after Stack Overflow. 2023 SWEs are easily 20x as productive as we were back then, and there are far more employed. Salaries have continued to rise, over the entire 40-year span I am aware of.
+
+ChatGPT is a huuuuuuge productivity boon, but so were things like shared libraries (.Net, PyPi, npm) and relational databases. I'm going to go out on a limb and say internet access (and all it entails) was actually bigger (from a productivity perspective). I use Chat every day to write code, but it's more like a superpowered snippet generator than an actual programmer.
+
+We're nowhere near Chat actually replacing programmers, and won't be until the context window is large enough to fit a modern software system, AND they get a handle on the hallucinations. Maybe then you won't need to be a programmer to program with it.

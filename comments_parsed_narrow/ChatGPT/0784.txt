@@ -1,0 +1,13 @@
+I see this as a big problem with my personal adoption of it.
+
+Even if its right 95% of the time. I go to chatgpt for it to provide me answers and solutions (to things I do not know) if it's wrong 5% of the time then I have to fact check every answer. 
+
+If I had a human colleague at work that responded in a similar way, I would find it impossible to work with someone that was so confidently incorrect. 
+
+If I had a calcualtor that was correct most of the time, but completely wrong some of the time I wouldn't use that calculator. 
+
+It seems to me that when it was trained it was trained to give answers that seem plausible and are worded in a fashion that suggest human like knowledge and expertise. Rather than actually being trained to prioritise being correct over plausible.
+
+At the moment I see it as a tool that can potentially speed up production of the tedious, but only where I am already expert enough to be able to fact check the responses with ease from my own knowledge, rather than have to embark on a research effort to find the horrendous errors. 
+
+A few days ago I had it giving wildly incorrect results to percentage calculations (some of the time). Seems to have been corrected since, but percentages in the range of 0.2% were coming back as 20%. If this had been more subtly incorrect I may not have noticed.

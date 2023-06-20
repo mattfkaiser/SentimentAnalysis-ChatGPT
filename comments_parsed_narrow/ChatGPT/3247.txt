@@ -1,0 +1,9 @@
+AI will be huge and transformative. LLM's will be a key enabler of digital evolution.
+
+ChatGPT's value proposition is too universal... it is structurally vulnerable to competitors which go deeper (multi-level deductive reasoning) or narrower (for example, for Finance applications - I need an AI that has read every SEC filing in detail along with the case files for every major fraud case, without spending time acquiring insights from Moroccan archeology and Sri Lankan Pagan Philosophy.)
+
+\[No disrespect to either domain but unlike to help with analyzing investments.\]
+
+ChatGPT's principal contribution to AI history will be in popularizing and vulgarizing the underlying technology, putting it in many people's hands...
+
+It will also unleash a wave of commercialization and investment that will fund additional waves of innovation, so there's a chance OpenAI could evolve into a strategically significant competitor in the space once the industry matures... In that, case ChatGPT will be retroactively credited with unlocking future innovation. At this point, we're in the equivalent of the late 1970's with regards to AI commercialization. There's also a possibility OpenAI emerges as the Xerox Parc of this innovation cycle.

@@ -1,0 +1,5 @@
+> ChatGPT is quite impressive
+
+Even in cases where ChatGPT is helpful from a professional perspective, it still takes a professional to state the question properly and vet the answer. Even the best ChatGPT answers are not perfect and require editing.
+
+This can even make it more difficult to vet; if you write the answer by hand, you'll be referring to your own knowledge. Reliance on ChatGPT may include pieces beyond your knowledge that you cannot even recognize how wrong they are.

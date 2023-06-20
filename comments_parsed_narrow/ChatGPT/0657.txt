@@ -1,0 +1,1 @@
+Most recipe sites have a "jump to recipe" button now that would be much faster than copy/pasting the url into chatgpt. Even just scrolling down would be faster.

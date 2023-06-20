@@ -1,0 +1,3 @@
+Cue: Addons that strip the responses from ads. 
+
+I think Google faces a major issue here and I'm most curious how they will solve it: ChatGPT has no ads and no links. The key feature of it is that it provides *information* without spamming or linking external sources. Unlike google search, it is almost like talking to an actual person. And their solution won't be competitive with ChatGPT if it is just the same thing with ads.

@@ -1,0 +1,1 @@
+Make sure that you install the ChatGPT demod userscript.  You can find it on GitHub.  That isn't magic, but what it does do is prevent it from flagging anything as red.  Everyone here should be doing that.  That way, at least we won't be providing them with more and more data to use against us.

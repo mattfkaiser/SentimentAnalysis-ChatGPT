@@ -1,0 +1,5 @@
+So far it’s been a huge productivity boost for my in my professional software engineering role. Does it do my job for me? No. Does it produce some crappy buggy code? Yes. But for boiler-plate setup, configuration and pattern completions it saves me at least an hour per day of work. I’ve also used it to solve some pretty complex configuration issues by asking questions in English and getting back bullet points and example configuration snippets that helped unblock issues I would have needed to open a support call for otherwise. 
+
+It’s also great as a learning tool. My kids and I use it to code fun projects in python and consult openai for help when we’re blocked and for code suggestions. 
+
+From an academic perspective, universities need to figure out a way to ensure students are learning rigorous reasoning and logic skills along side use of ai like chatGPT because it’s a fixture of modern life now.  Simply blocking it is an ostrich head in the sand reaction and demonstrates an unwillingness to address the actual problem which is how do we make sure kids learn with ai by their side?

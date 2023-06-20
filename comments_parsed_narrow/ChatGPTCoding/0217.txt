@@ -1,0 +1,1 @@
+It's chatgpt under the hood, but they combine it with a search engine so that it can reference sites like stackoverflow

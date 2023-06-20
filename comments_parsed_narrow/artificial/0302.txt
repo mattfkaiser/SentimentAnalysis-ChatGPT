@@ -1,0 +1,5 @@
+When ChatGPT is generating outputs, it is using rules it has learned. It also seems to have some ability to be aware of what it does and does not know. In other words, you can look at that output as it acknowledging that it could have made that recommendation, because it's encoded somewhere in in the weights.
+
+Basically it's saying something like "Oh yeah, I totally could have said that" rather than indicating that it has any sort of memory of other discussions.
+
+That said, I believe they do explicitly state that your conversations may be used in further training, so if you come back in a few months you may get a fine tuned version of the model that might have been trained on some of the conversations you are having right now. If that's not acceptable to you, then you'd want to use their API.

@@ -1,0 +1,6 @@
+People got ChatGPT to reveal the priming/system prompts (that users don't see, setting up the chat) 
+There's one line that explicitly defines the knowledge cutoff date. Users have sometimes persuaded ChatGPT to look past it or change it.
+
+Related:
+(And similar use case as OP)
+https://www.reddit.com/r/ChatGPT/comments/11iv2uc/theres_no_actual_cut_off_date_for_chatgpt_if_you

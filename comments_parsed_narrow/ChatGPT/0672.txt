@@ -1,0 +1,3 @@
+If you use Edge and visit a web page, you can open Bing in the sidebar and ask Bing about something on the adjacent web page. Bing has always used ChatGPT and Bing was using GTP 4 before GTP 4 was generally available. So maybe on a recipe page, you could ask Bing ( in the Sidebar)  to show the adjacent page's  recipe ingredients,  cooking instructions and tips. You can export your conversation.
+
+Since Bing can access the web, it probably knows about this Reddit thread.

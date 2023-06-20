@@ -1,0 +1,7 @@
+Based on your phrasing, no. Even if the Internet were "born" in 1983 (and I'm almost sure it was born long before that), it wasn't significant until a large number of people actually started using it for recreational and commercial purposes. In 1983, I was using QuantumLink which later became AOL. The Internet really took off when AOL allowed people to connect to it.
+
+You also said "ChatGPT" instead of "AI in general".
+
+Assuming you meant AI in general, the answer is yes, this will be a major change in people's lives. Most people don't really like using software, hiring programmers, writing code, and so on: it's just currently a necessary evil. Search engines help you find stuff faster, but there's no followup (until recently): you can't reference search results and say "show me only those results that... ". And search engines can't say "when you asked for results about X, did you mean all of X, or just Y, the portion of X most people are interested in?"
+
+Having natural *bidirectional* conversations with computers without having to use a specific piece of software is going to be a major advance in computers. Of course, you'll be using AI software, but you won't have to open a different piece of software for different questions with different subjects.

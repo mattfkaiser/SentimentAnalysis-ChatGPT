@@ -1,0 +1,3 @@
+1. Be careful using Chat GPT - it can give false/misleading information
+2. Consider using a request body rather than URL-encoded parameters
+3. Before diving head first into this, make sure you understand the concepts. Read up on what a REST API actually is. Read up on HTTP. Make sure you understand these. Once you do, you should be able to put this app together no problem.

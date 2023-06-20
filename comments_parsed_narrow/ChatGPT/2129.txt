@@ -1,0 +1,5 @@
+If you're using the APIs, you actually have to explicitly opt in if you want your data to be used to train future models! You can read more here: https://openai.com/policies/api-data-usage-policies
+
+To avoid any data sharing complications, they could either write their own program using the APIs to meet their needs, or hire someone to do it for them. OpenAI does, however, retain the data for 30 days to avoid any misuse. And the data is being processed "in the cloud" by a third party, so it might still be considered a violation. 
+
+Also: It seems you can even opt out of training with consumer apps like chatgpt: https://help.openai.com/en/articles/7039943-data-usage-for-consumer-services-faq

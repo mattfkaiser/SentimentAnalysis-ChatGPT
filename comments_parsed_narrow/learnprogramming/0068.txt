@@ -1,0 +1,1 @@
+My instructor showed me chatGPT earlier this week. At first I was really impressed and wanted to test it’s abilities with some simple cshtml I wrote. It got so much wrong that it was basically unusable for anything other than having it explain what a code snippet or block does if u don’t want to bother googling it.

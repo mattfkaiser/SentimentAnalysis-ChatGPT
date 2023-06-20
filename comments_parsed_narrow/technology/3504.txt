@@ -1,0 +1,9 @@
+**Here's a one sentence summary of your text:**
+
+"The speaker declined a teaching job for a masters topic with 60+ international students but is tempted to offer to mark their essays out of curiosity, and wonders if Chat GPT can assist with spell and grammar checks." - ChatGPT
+
+**Checking your spelling and grammar:**
+
+"The text contains a few spelling and grammar errors, here's a corrected version:"The upcoming academic year in Australia is going to be fun! I just turned down a job teaching a master's topic that would have had me teaching 60+ international students, mostly from Southeast Asia. I'm still tempted to offer to do the marking for the class, just to see how different the 4k and 8k essays are. Can you use Chat GPT to do spell and grammar checks? If so, that would be amazing!"" - ChatGPT
+
+**ChatGPT is very smart, but it still makes a lot of mistakes and gives wrong answers all the time. I'm always careful to fact check it.**

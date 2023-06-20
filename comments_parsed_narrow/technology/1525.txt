@@ -1,0 +1,5 @@
+The cat and mouse of ai vs ai detector will go in cycles for any well known tool. The only real hope would be that chatgpt and competitors would intentionally add the watermarking system that's been talked about, but my guess is that's a short term addition to assuage the public opinion and fears about the software. 
+
+In any case that falls flat when someone browses GitHub for another model/weight set that doesn't yet have a detector. Teachers will always find themselves a step behind with the strategy of waiting for an ai detector. 
+
+A better method might be to discuss any given paper with the student that wrote it, making sure *they* fully understand what they wrote. Someone who just prompted chatgpt isn't likely to understand the entirety of the subject they "wrote" about.

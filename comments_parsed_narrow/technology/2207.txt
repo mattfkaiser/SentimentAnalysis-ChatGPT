@@ -1,0 +1,1 @@
+I still found it useful since I can (hopefully) figure out the dumb parts of the code but chatgpt can give me examples of poorly-documented libraries that would take ages to figure out through googling

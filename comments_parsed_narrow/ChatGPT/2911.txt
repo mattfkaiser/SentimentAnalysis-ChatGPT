@@ -1,0 +1,3 @@
+That is completely incorrect. The address from which chatgpt’s back-end servers browse are unknown to a person interacting with their front-end systems.
+
+Browser bots are exposed to many different kinds of attacks. Knowing their IP address could prove helpful but sending their bot to gather data from a compromised/malicious server might be one step further.

@@ -1,0 +1,1 @@
+I'm confused. I'm on Android and I've just been visiting [chat.openai.com](https://chat.openai.com) on Google Chrome. I put a link-icon on my homescreen so with a tap, it's like using a ChatGPT app--how would native iOS/Android ChatGPT apps be different?

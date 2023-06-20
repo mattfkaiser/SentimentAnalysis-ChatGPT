@@ -1,0 +1,3 @@
+I would be amazed if Microsoft wasn't already doing things like that with enterprise clients somewhere. Intellisense is already getting pretty good at guessing entire chunks of code ahead of me.
+
+Even if you don't dedicate the entire process to something like ChatGPT, at some point it's just going to be something like Intellisense that guesses as you write until it Akinator-like understands what you're going for and just does it for you.

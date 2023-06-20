@@ -1,0 +1,13 @@
+Here's a quick test for ChatGPT:
+
+&#x200B;
+
+Open up ChatGPT and ask it to list 20 common names, first and last.
+
+Once generated, then ask ChatGPT to list those same names in alphabetical order by last name.
+
+Watch it shit the bed with that simplest of instructions.
+
+&#x200B;
+
+Now, try to convince me that AI will take over anything meaningful in the next 20 years.

@@ -1,0 +1,3 @@
+Well, it isn't an expert, it's an LLM. The only task it has to fulfill to is give plausible sounding answers, nothing to do with correctness or expertise. 
+
+Neither OpenAI nor anyone that knows anything about this topic would refer to ChatGPT as an 'expert' at literally anything. That's your mistake, not theirs. They've been very, very clear about the limitations of this model.

@@ -1,0 +1,5 @@
+The rando India tech worker with a 12 page resume full of tech keywords but actually learned his job only last year from the pirated udemy course his friend passed him, yeah, chatGPT can help him finish his jira ticket because he can copy and paste the answer instead of iterating with stack overflow questions for a week,
+
+&#x200B;
+
+The other way it saves weeks is by recommending libraries instead of letting the rando indian tech worker accidentally recreate a shit copy of some popular already existing tool to do the task

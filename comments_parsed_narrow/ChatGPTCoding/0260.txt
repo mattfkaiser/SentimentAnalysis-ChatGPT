@@ -1,0 +1,21 @@
+Try this it is an updated function that uses a more general regular expression to match any function name and argument name:
+
+function replaceFunctionAndArgument(originalString) {
+    const regex = /def (\w+)\s*\((\w+)\)/g;
+    const replacedString = originalString.replace(regex, (match, functionName, argumentName) => {
+        return `function ${functionName} depending on the ${argumentName}`;
+    });
+    return replacedString;
+}
+
+let originalString = "def lalala(x)";
+let replacedString = replaceFunctionAndArgument(originalString);
+console.log(replacedString);
+
+This function uses a regular expression to match the pattern “def functionName(argumentName)”, and then uses a replace function to construct the new string “function functionName depending on the argumentName”. 
+
+The \w+ in the regex matches one or more word characters, allowing for any function or argument name.
+
+You can ask ChatGPT something like: 
+
+“Write a JavaScript function that replaces all function definitions of the format ‘def functionName(argumentName)’ with ‘function functionName depending on the argumentName’ in a given string, where functionName and argumentName can be any valid JavaScript identifier.”

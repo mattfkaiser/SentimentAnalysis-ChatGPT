@@ -1,0 +1,1 @@
+Well, ChatGPT is wrong. There’s no training needed to deploy the model. The model is trained before hand, and then deployed to as many users as they want. The amount of users doesn’t affect training at all.

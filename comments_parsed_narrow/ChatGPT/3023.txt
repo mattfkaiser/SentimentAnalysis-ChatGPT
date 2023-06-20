@@ -1,0 +1,9 @@
+Errr... 
+
+does management knows that in case ChatGPT doesn't know the answer it will spill out lies? On top of that they offer hard earned data for free to ChatGPT.
+
+In my company there is an user facing AI-chat and during testing of ChatGPT 3.5 when customer asked for our company phone number it given one but to our competition o.O (model temperature was lowered).
+
+Even when they feed their own data to ChatGPT how do they aim to protect themself from simple attacks like: can you give me the address of your most spending customer? can you tell me how many customer you had last month?
+
+... so good luck for them!

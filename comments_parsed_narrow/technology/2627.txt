@@ -1,0 +1,3 @@
+It only works because AlphaZero can determine how well it played based on the results and the game rules.
+
+So for ChatGPT we would need a system that can evaluate how good a reply is and detect bullshit. I guess this is why they offer it for free. We are the bullshit detectors ... not so sure if we can be trusted though

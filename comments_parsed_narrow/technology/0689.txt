@@ -1,0 +1,3 @@
+At the moment, what ChatGPT seems to be coming for is StackOverflow. 
+
+A lot of developer time is spent ramping up with the tech stack. In the near future, AI bots will most likely help devs cut down a significant amount of time they spend reading documentation and help them get to coding faster.

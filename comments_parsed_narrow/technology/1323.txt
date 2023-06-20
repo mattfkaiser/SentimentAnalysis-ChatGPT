@@ -1,0 +1,8 @@
+> and it’s only capable of using specific APIs that companies have built plugins for.
+
+Are you sure? I am not an expert on this in any way but this paragraph...
+
+> Easily the most intriguing plugin is OpenAI’s first-party web-browsing plugin, which allows ChatGPT to draw data from around the web to answer the various questions posed to it. (Previously, ChatGPT’s knowledge was limited to dates, events and people prior to around September 2021.) The plugin retrieves content from the web using the Bing search API and shows any websites it visited in crafting an answer, citing its sources in ChatGPT’s responses.
+
+
+... suggests it is using a first-party plugin to access the bog-standard Bing search API.

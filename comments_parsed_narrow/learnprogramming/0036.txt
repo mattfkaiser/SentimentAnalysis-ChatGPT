@@ -1,0 +1,5 @@
+ChatGPT is by far the best way to learn programming. In my case, even though I have a masters in ML, I learnt more today about an ML topic (in particular ML algorithm fine tuning methods) than my entire time in this field. 
+
+This is how to use it. Pick a project. And then converse with the bot as you go through the project. If you don’t understand one of its responses, just respond with “can you elaborate further”, and it will try explaining it in more detail/in a different way. Suppose you have written a function in Python. Ask the bot “what could I do to make it more concise and more readable”. Then ask it to show you different ways of implementing the same thing. 
+
+Once you’ve asked it to do something, e.g (“show me how to make the code more efficient”), try asking it the same thing again. Then once it responds, ask again, such as “is there any other way I can make it more readable”. It will continue giving you answers!

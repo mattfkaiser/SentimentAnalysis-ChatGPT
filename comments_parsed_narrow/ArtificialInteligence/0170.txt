@@ -1,0 +1,5 @@
+This \^\^
+
+ChatGPT can write code. But you still have to tell it what to write and incorporate it into your design. ATM it hasn't replaced coders. Its just made coding more efficient so the same person can produce code more efficiently.
+
+For me it's like having several graduate level coders to palm mundane function design off to.

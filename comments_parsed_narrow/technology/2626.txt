@@ -1,0 +1,3 @@
+>and ideally being able to reference its sources
+
+Already happened, but only when augmented with two stage IR pipelines frameworks plus a vector database set up for question answering. They show you exactly where they got their answers. Keywords are Deepset.ai, Pinecone.ai if interested. The LLM of your choice like Chatgpt is used as a Reader component in the pipeline.

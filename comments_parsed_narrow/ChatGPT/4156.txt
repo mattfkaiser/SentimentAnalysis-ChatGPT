@@ -1,0 +1,27 @@
+yup, maybe there EOS tag:
+
+
+```
+
+what is '<|endoftext|>'?  
+ChatGPT  
+I'm sorry, but your message seems to be incomplete. Could you please provide more context or clarify your question so that I can better understand and assist you?
+```
+
+cool
+
+<|startoftext|> as well
+
+Update:
+
+seems to just be <|*|>, so probably what they are using for tokenization and concat of string, eg:
+
+```
+what is '<|purplemonkey|>'?
+
+
+ChatGPT
+I apologize for any confusion, but the phrase "''" by itself does not have a specific meaning or reference. It appears to be an empty or incomplete quotation. If you can provide more context or clarify your question, I'll be happy to help you further.
+```
+
+they might be doing some logic to strip anything with <|*|> to prevent attempting to "hack" the model to do undesirable things.

@@ -1,0 +1,7 @@
+chatGPT is a large language models who's only function is to predict what the word that is supposed to come next is. It has no capability to know if it has or has written something. It has the same capability to predict if it wrote something as you have of using a calculator to see if a different calculator did a certain calculation. Or like if you found code on GitHub, copy and pasted it into eclipse and typing at the front "was eclipse used to write this code" 
+
+
+The chances of chatgpt saying yes or no are probably 50% and I'd guess to be about as accurate as flipping a coin.
+
+
+I'd ask you please not make definite statements about topics you don't understand.

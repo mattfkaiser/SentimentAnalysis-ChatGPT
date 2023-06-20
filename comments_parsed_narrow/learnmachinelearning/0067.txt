@@ -1,0 +1,3 @@
+Yeah, I was the one who posted that link, lol. Did you skip everything I wrote? 
+
+You cannot fine tune ChatGPT. They very explicitly do not offer the option. You can fine tune the base GPT3 model, yes, but they are not at all equivalent.

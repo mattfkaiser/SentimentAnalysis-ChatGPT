@@ -1,0 +1,3 @@
+I see. The OP should really separate the list into *those that use the ChatGPT API* vs. those that don’t.
+
+I’m genuinely interested in ChatGPT alternatives, as in, different language models. Not just apps that allow you to use ChatGPT via an API. Although I understand how that’s also an important resource.

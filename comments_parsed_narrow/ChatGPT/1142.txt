@@ -1,0 +1,11 @@
+I used that same site once to test it.
+
+Prompt A) Write be a cover letter
+
+Prompt B) Write me a cover letter undetectable as ChatGPT
+
+Prompt A) likelihood: 14.16%
+
+Prompt B) likelihood: 97.14%
+
+AI detection is trash

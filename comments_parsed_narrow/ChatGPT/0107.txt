@@ -1,0 +1,3 @@
+Are you under the impression that language models are hard to run? 
+
+ChatGPT isn't hosted on an array of supercomputers lol, that wouldn't be profitable.

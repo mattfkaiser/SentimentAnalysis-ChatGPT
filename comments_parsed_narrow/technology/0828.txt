@@ -1,0 +1,7 @@
+> How do they check if it's AI generated or not? 
+
+There isn't going to be a process that can be applied to every single document submitted. 
+
+What this does do is set forth the framework for handling situations when [a lawyer cites 6 completely fake cases in a document](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/), for example. 
+
+"Oops, I didn't know I had to actually do my job" won't be a viable excuse from this point forward.

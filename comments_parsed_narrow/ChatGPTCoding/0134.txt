@@ -1,0 +1,1 @@
+ChatGpt used to give you perfectly accurate and functional code? The only way i could imagine that happening is if I asked it to make me a “hello world” html page.

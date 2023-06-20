@@ -1,0 +1,4 @@
+There are already numerous VS Code extensions. One of them is Clippy AI, which is using OpenAI/ChatGPT Codex API to achieve similar results.
+
+  
+I'm also building a similar product, using OpenAI API and Vector Index: https://github.com/MusabShakeel576/quickfix.ai.

@@ -1,0 +1,11 @@
+There have been, just a ton of posts about how unreliable AI detectors are. If your professor is asking ChatGPT whether it wrote something, then they clearly have very little understanding of the model and how it works. For safety and technological reasons, it has NO long-term memory and would be a serious breach of privacy if it revealed information from separate conversations. 
+
+The AI does hallucinate, however, which means that it quite simply makes things up; if your teacher is only asking for a yes or no to whether or not a student cheated, then it assigned a close-to-random probability to its algorithm and does not actually "know" anything. To reiterate: asking ChatGPT whether it wrote something is NEVER reliable, and is very close to being basically random.
+
+While certain tools such as OpenAI's own [Classifier](https://platform.openai.com/ai-text-classifier) is more accurate than commonly used tools such as ZeroGPT, many of which are triggered by texts such as the US Constitution and the Bible, nothing is perfect. Read the FAQ on their linked Classifier. 
+
+Most people suggest writing your essay in a Google Doc so that you can prove you wrote it with your version history. Others that you should input in previous works of yours from years before ChatGPT was invented, or even try the professor's own papers. Unfortunately, there is no reliable way to prove anything when AI is involved, which is why so many come here asking what they can do to prove their innocence.
+
+Many also try to run their essays through the very tools that schools use to check them, and retroactively change their wording, or even ask ChatGPT to increase its "burstiness" and "perplexity", which are some of the factors involved in detecting whether something is AI-wirtten. However, this does not differentiate you at all from those who actually used ChatGPT to write their essays, and is not recommended.
+
+I'll end here with a post I saved about the probabilities for this sort of thing, that you can show your teacher and maybe convince upper management that no method is completely reliable. Good luck!

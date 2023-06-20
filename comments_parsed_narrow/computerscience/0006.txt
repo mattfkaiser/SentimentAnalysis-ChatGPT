@@ -1,0 +1,5 @@
+ChatGPT, GPT-3, Hugging Face, BERT, and others are all based on a new type of deep learning neural net called a transformer. Transformers are 5 years old and are rapidly maturing (as we've seen this year and last) and have some key benefits over prior deep learning neural nets including recurrent neural networks (RNNs).
+
+These transformers maintain additional context about word order or pixel location in processing the images and so are able to provide more information to the hidden layers of the neural network. This allows the networks to find multiple dimensions of meaning in the input text and generate complex outputs. Additionally, transformers can be trained over a massive amount of content without losing their effectiveness.
+
+All of this is still really early on and only going to improve over time as it addresses its weaknesses. Significantly, it can be hard to tell how a transformer generated the things it generated, they can be hard to tweak and control, and there are significant ethical concerns in the training of most transformer models about the source materials.

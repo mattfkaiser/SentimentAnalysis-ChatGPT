@@ -1,0 +1,5 @@
+I'm annoyed that chatGPT wrote a not-too-terrible version of the argument against machine-written material that we've all been improvising for weeks, but amused at the way even that argument is a bit mealy-mouthed.
+
+Its not enough to 'check to make sure it's right' , we need a better way to understand HOW the machine (or rather, the ones after ChatGPT) come to conclusions or make decisions.
+
+ Humans have been having ethical, philosophical, and epistemological debates about our own decision-making for centuries. It's going to take more than 'we'll just let the sheer input volume decide' for machine-driven writing to be trustworthy.

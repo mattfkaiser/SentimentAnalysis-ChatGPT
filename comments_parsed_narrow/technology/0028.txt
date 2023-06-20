@@ -1,0 +1,3 @@
+Can’t speak for any of the other stuff except coding. If you walk it through your code and talk to it in a specific way it’s actually incredible. It’s saved me hours of debugging. I had a recursive function that wasn’t outputting the correct result/format. I took about 5 minutes to explain what I was doing, and what I wanted and and it spit out the fix. Also, since I upgraded to ChatGPT 4, it’s been even more helpful.
+
+But with that being said, the people that claim it can replace actual developers - absolutely not. But it is an excellent tool. However, like any tool, it needs to be used properly. You can’t just give it a half asses prompt and expect it to output what you want.

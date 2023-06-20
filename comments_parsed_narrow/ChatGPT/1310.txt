@@ -1,0 +1,3 @@
+ChatGPT is still in early'*ish* development stages, we're helping them with their R and D.  You've got to expect quirks and alterations in performance as things are tweaked.  I don't think that it's meant to be considered a production release, particularly GPT4, which is still listed as Beta.
+
+[https://platform.openai.com/docs/models/overview](https://platform.openai.com/docs/models/overview)

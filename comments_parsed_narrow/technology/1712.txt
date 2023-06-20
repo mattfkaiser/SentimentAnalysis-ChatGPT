@@ -1,0 +1,9 @@
+It's the concern that the proprietary information will be fed into training the model, leading to GPT disclosing the information to outside people.
+
+If an Apple engineer gave GPT, say, a feature list for an upcoming iPhone that had not yet been announced, that feature list might be used to train the model.
+
+Then, someone in, idk, Nebraska, asks ChatGPT what features will be in the next iPhone and GPT helpfully answers the question with information it received from the horse's mouth. Quite possibly before Apple made the information public.
+
+This is not a theoretical possibility, either. The information you put into the free version *will* be used to train the model, and important details *will* end up in the hands of unauthorized third parties, because that's literally what the model and service supporting it are designed to do. The whole point of large language models is to be able to answer questions based on the corpus of information the model has been given-- unauthorized disclosure is not merely possible or probable. It is definite, because GPT is precision engineered to do that exact thing.
+
+Corporate types are entirely justified for being suspicious that even information put into the paid versions of GPT is or will be used inappropriately by OpenAI, given their total lack of transparency on the topic.

@@ -1,0 +1,1 @@
+You'll end up coding way more in those languages. With python it will just be a few library imports, initialization of the net, and function calls, all of which chatGPT is capable of coding reliably. The most tedious part will be setting up the environment

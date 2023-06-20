@@ -1,0 +1,50 @@
+Well. It’s important to understand what your goals are. If you want to learn how to program, that’s one thing; but if you simply want to understand what plug ins are, that’s different; and you should start there and make it clear to both you and whoever you seek help with, that that is your goal. Of course there’s plenty of overlap, but the path that you will go on and your destination will vary wildly.
+
+I also have a surface level understanding of plug ins. Or, at least I thought I did, but I didn’t really understand what really defines a plug-in or how it works. But I have done a bit of research now I think I figured it out:
+
+**A plug in is a piece of software that allows users to connect a program or a bit of code, to any other bit of code, which includes code that people like you and I could write ourselves**
+
+An analogy I can give is it’s a bit like a webhook, which connects a program to like a page on the web, but for like everything. I suppose it could be argued that a webhook itself is a plugin.
+
+But I think a better analogy I can think of is:
+
+*think of your program like a tent. And this tent only has one way in and one way out, the front entrance. You’re the only one allowed in, so only you can work on the tent and keep it organized.(just like your program can only be edited by you). But, you’re just one man, and your tent is kinda big. And now it’s really messy and there’s crap all over the place that serves no purpose, and it’s all pretty overwhelming to the point where you simply cannot fix the mess by yourself.
+So, you decide to poke a couple holes in your tent, grab some plastic tubing, and tell your friends out in the campground that they can connect to your tent via that plastic tubing, and they can help you fix that mess inside your tent, and even make some improvements on their own.*
+
+This is basically what plugins are. It starts with a commitment to allow other people to work on your program(cutting the wholes), and making the decision to be more open source. The plug-ins themselves are the adapters that connect the tents.
+
+Sources used:
+
+https://youtu.be/xse6JKcfbzs
+6:42 this guy briefly goes over what plugins are
+
+
+These 2 sites explained it in more detail
+
+https://www.lifewire.com/what-are-plugins-4582189
+
+https://www.computerhope.com/jargon/p/plugin.htm
+
+Finally i asked ChatGPT to boil it down for me:
+
+“A plugin, also known as an add-on or extension, is a software component that adds specific functionality to an existing application or software program. Plugins enable users to customize and enhance the features of an application according to their needs without altering the core structure of the software.
+
+Plugins work by integrating seamlessly with the host application, extending its capabilities or adding new features. They are typically developed using the same programming language as the main application and interact with it through an Application Programming Interface (API). This API allows the plugin to communicate with the host application, access its data, and perform desired actions.
+
+Examples of plugins can be found in various software applications, including web browsers, audio/video editing programs, and content management systems. In a web browser like Google Chrome or Mozilla Firefox, plugins might add ad-blockers, password managers, or language translation features. In audio/video editing software, plugins can add new effects or instruments to the program.
+
+The main advantage of using plugins is that they allow users to tailor the functionality of an application to their specific needs without overloading the core application with unnecessary features. This modular approach makes it easier for developers to maintain and update the core software while allowing third-party developers to contribute and expand the application's capabilities.”
+
+More comprehensive explanation:
+
+“At its core, a plugin is a modular piece of software that extends or enhances the functionality of a host application by adhering to a specific set of rules and interfaces defined by the application. To provide a comprehensive understanding, let's break this down into its essential components:
+
+Modular: A plugin is a self-contained module that is separate from the main application. This modularity allows developers to add, remove, or update plugins without affecting the core functionality of the host application.
+Functionality extension: Plugins are designed to add new features or enhance existing ones in the host application. They address specific user needs or requirements that the main application might not cover, allowing for a more customizable and adaptable experience.
+Host application: A plugin is always associated with a specific host application, which provides the environment and context for the plugin to operate. The host application exposes an API or a set of interfaces that the plugin must adhere to, enabling seamless integration and interaction between the two.
+API (Application Programming Interface): The API is a predefined set of rules, functions, and data structures that the host application provides for the plugin to interact with. The plugin uses the API to access the host application's resources and functionality, such as reading data, modifying settings, or triggering actions.
+Compatibility and interoperability: A plugin must be compatible with the host application in terms of programming language, API version, and platform requirements. This ensures that the plugin can be loaded and run by the host application without causing conflicts or errors.
+Third-party development: Plugins can be developed by the creators of the host application or by third-party developers. This encourages a collaborative ecosystem where developers can contribute to the host application's capabilities and address niche requirements.
+In summary, a plugin is a modular software component that extends or enhances the functionality of a host application by adhering to its API and interfaces. It is designed to be compatible and interoperable with the host application, and can be developed by either the host application's creators or third-party developers. Plugins provide users with a more customizable and adaptable experience, allowing them to tailor the host application to better suit their specific needs.‘
+
+Ofc, it’s always good to be skeptical of what these AI spit out, and ask experts for their opinion on if the information presented is accurate, but, even so; this is the best explanation of plug-ins I can give you as far I’m concerned.

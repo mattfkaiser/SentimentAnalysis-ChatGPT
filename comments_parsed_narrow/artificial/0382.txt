@@ -1,0 +1,31 @@
+Google:
+
+- figure out how to formulate the search so google gives me the correct results in the context of coding.
+
+- scroll past the first 5 ad links
+
+- click on something that sounds promising.
+
+- start reading the page and realize I need to pay to keep reading
+
+- go back and click on a stack overflow link that seemed relevant.
+
+- See it’s marked as duplicate, closed.  Follow link given to previous answer that turns out isn’t at all related.
+
+- go back to search and find a non-paywall article
+
+- read the persons life story to eventually get to where they explain the one thing I was looking for.
+
+- repeat for the 10 things I need to do
+
+
+Vs ChatGPT:
+- type general idea of what I want
+
+- wait 30 seconds as it gives me a tailored response with all steps and code and explains it all.
+
+- copy/paste into IDE
+
+- Fill in the extra details
+
+- fin

@@ -1,0 +1,3 @@
+Blackrock's AI is different. It's not AI in the same sense that ChatGPT is, rather it's essentially data analysis and machine learning tools which aggregate a huge amount of data into a more manageable form which can be easily queried.
+
+The Blackrock AI isn't picking stocks, rather it's just summarising data for the fund managers.

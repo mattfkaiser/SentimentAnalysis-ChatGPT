@@ -1,0 +1,5 @@
+Not reliably. You can tell from experience when the prompt wasn't ask for specific writing styles. If the writer is skilled at this, you will have no chance to detect this.
+
+ChatGPT likes to generate lots of subordinate clauses with a passive voice. Also humans are rarely as consistent and exhaustive in providing 2-3 examples on everything they mention.
+
+I would argue that in theory, one could not distinguish a language model without human alignment and fine-tuning. All the little quirks you can detect are because of that alignment. It is that process of human feedback that shapes it's answers into a specific, recognizable way.

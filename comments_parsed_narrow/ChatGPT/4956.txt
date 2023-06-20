@@ -1,0 +1,5 @@
+Through our five senses, and our relational brain structure that can learn automatically from experience and from forming relational neural pathways.
+
+Large Language Models aren't that, especially not Generative pre-trained Transformers like GPT, even less ChatGPT which is heavily guardrailed and programmed. It works with tokens, sorting out probabilities to give out the most probable expected word, then the next, then the next. And we already know that organic neural brains don't work like that at all.
+
+So whatever consciousness is, a pre-trained, text only, language module, isn't it, the only reasonable take about LLMs is that they demonstrate a philosophical question of whether or not language itself has the property of reasoning, like Plato I think if I remember explored, which is why ChatGPT is able to mimic reasoning relatively well, most of the times at least.

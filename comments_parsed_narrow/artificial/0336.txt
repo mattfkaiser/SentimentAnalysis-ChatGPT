@@ -1,0 +1,3 @@
+IMO integration is the answer here. Chat GPT is a “proficient” LLM. Google is an exceptional search engine. It would be most efficient to integrate the two, opposed to one or the other trying to take the entire job. 
+
+I would only imagine that keeping the current form of Chat GPT constantly up to date on the internet would take an incredible amount of energy. To be fair, we are still in the early stages of AI development. The future is exciting.

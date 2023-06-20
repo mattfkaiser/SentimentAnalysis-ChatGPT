@@ -1,0 +1,5 @@
+The problem with ChatGPT is that people are trying to use it in a manner that it's not intended to and thus it doesn't perform well.  Maybe someday it can be expanded for those functions, but right now it's not a research tool, it's a language model.
+
+That makes it really great at finding the answers to questions based broadly on information you could find from Wikipedia or a simple Bing search.  It's probably more than fine enough for what you'd want it for while driving.  Like maybe you're looking for directions to a place.  Or maybe you want to know local traffic laws.  Or maybe you want to know what restaurant to go to.  Or maybe you want it to compile you a grocery list for a particular recipe.  Those are all great uses for this technology.
+
+You will not be driving and asking it about the strategic flaws made by Portuguese revolutionaries during the Peninsular War.

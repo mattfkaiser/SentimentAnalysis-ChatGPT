@@ -1,0 +1,3 @@
+I will say you can apply to use Gpt-4 through the API, they won't change those models without telling people. I did notice a decline in ChatGPT-4 but it seems to have fixed itself for me now. The answers have gone back to being much better than Gpt-3.5 and my prompts work normally again. also if you are using the mobile app. I'm quite convinced that it's running a smaller dumber turbo model.
+
+Alternatives, Anthropicai Claude I guess. Most of the other models I've tried are just nowhere near the quality and I've tried a ton.

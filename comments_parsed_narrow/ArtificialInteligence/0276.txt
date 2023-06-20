@@ -1,0 +1,1 @@
+I think the prompting really matters but keep in mind Chat GPT learns and relearns based on the collective amount of prompts added. So as AI becomes better, it will supersede the prompter eventually

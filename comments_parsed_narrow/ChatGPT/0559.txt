@@ -1,0 +1,1 @@
+I've noticed the same thing across many prompts. The most recent was a story in which OpenAI tests ChatGPTs ability to take care of a cat, and it passed with flying colors, learning about how cat ownership has to do with deeply empathizing with the needs of the cat and stuff.

@@ -1,0 +1,3 @@
+Excel isn’t a natural language bot. All it does is do preprogrammed functions in a repetitive fashion. 
+
+Like Squarespace and Wix didn’t kill off all web developers but for basic tasks even for e-commerce it’s probably cheaper to use SS than custom build a website from a developer. And even then chat gpt does a decent job of giving you barebone templates

@@ -1,0 +1,5 @@
+Though I'd quibble whether that is then "ChatGPT".
+
+It's GPT, sure, and it's OpenAI, but I wouldn't call that ChatGPT.
+
+Since we're in r/ChatGPT, I'm focussing on the web interface that OpenAI provides to their language models, not the API.

@@ -1,0 +1,5 @@
+The motivation being prompt engineering. With power going towards people who know the right prompt to use, it makes sense to have prompt suggestions at our fingertips instead of searching through prompt libraries.  
+  
+The suggestions are from either 1) your recent prompts (saved on only your computer) and 2) the open source prompt database https://github.com/f/awesome-chatgpt-prompts and prompts and answers shared by others. We included the option to “share prompts and answers” automatically, which can also be turned off whenever -- so no data is collected when it’s turned off.  
+  
+For those interested, feel free to try the beta here: https://chrome.google.com/webstore/detail/chatgpt-prompts-search-sh/gmhdpmjdfaiegdjjekoojmpidhlcneod?hl=en&authuser=0. The suggestions are quite limited right now, but will be spending the next few weeks adding more prompt suggestions.

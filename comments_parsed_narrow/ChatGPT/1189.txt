@@ -1,0 +1,50 @@
+I think the best way is to explain through some prompts.
+
+Here's one that takes an array of json objects (that were extracted from an empty fill-in-the-box PDF) and some profile data (totally unstructured, just copy/paste text from a resume):
+
+```
+        const prompt =
+            `Act as computer that generates JSON.
+
+Here is a resume in text format:
+
+--ResumeStart--
+${mergeData}
+--ResumeEnd--
+
+Here is a comma separated list of field names from a PDF form:
+
+${pdfFields.map(field => field.PdfFieldName).join(",")}
+
+Analyze the resume and extract a value for every one one of those PDF field names to the best of your ability. 
+If you cannot identify a mapping, set the resumeValue to null.
+
+Respond with an array of valid json in this format:
+[
+  {pdfField: name of the pdf field, resumeValue: value of the resume field}
+]
+
+Do not explain your reasoning. Just provide the json.
+            
+`
+```
+
+This prompt maps any data it finds in the source info (mergeData) with the structured JSON data (pdfFields). 
+
+Can you do that without ChatGPT? Sure. But it does it beautifully and I'm not clever enough to come up with a general-purpose mapper that is as easy to write as the above.
+
+Here's not another example:
+
+```
+`Analyze the text below and respond in JSON format. Do not explain your answer. 
+
+This text asks a number of questions and has been filled out by a human. Identify those questions and their answers as best you can.
+This text also asks a human to provide information in fill-in fields or fill-in-the-blank fields. Identify those fields and their answers as best you can.
+    
+--start text--
+{{TextContent}}
+--end text
+
+```
+
+In the above case, the TextContent is coming from a PDF and is unstructured. I don't need to tell ChatGPT anything about the structure, I don't need to train it or anything. I have used other tools (like Azure Forms Recognizer) that require training. And they are pretty awesome. But, this is so much easier and it "just works."

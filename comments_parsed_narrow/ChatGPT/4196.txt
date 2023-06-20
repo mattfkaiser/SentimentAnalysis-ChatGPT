@@ -1,0 +1,1 @@
+I think it’s part perception. When it first came out if you had no background in deep learning (specifically transformers) or NLP you were likely to over extrapolate how intelligent ChatGPT is. Over time; however, it’s natural that the more you interact with it the more you bump into the limitations that you previously didn’t understand.

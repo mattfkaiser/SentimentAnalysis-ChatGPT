@@ -1,0 +1,3 @@
+I tried to use ChatGPT for a very simple powershell script, and it completly shit the bed. Mostly because the dataset is old and certain commands dont work anymore or are replaced. 
+
+Funny enough, it says use X command in Y context, then you do it and it doesnt work, you input the error, and then it says "Oh yeah uhh right X command doesnt work for Y context". Thanks AI :\

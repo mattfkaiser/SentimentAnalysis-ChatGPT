@@ -1,0 +1,3 @@
+This is a very good demonstration of the gaps in a tool like ChatGPT. It's important to understand that it isn't lying here. Lying implies it knows what it's saying is false. The truth is that ChatGPT has no understanding of truth. It can write an essay about truth, but it doesn't understand it as a concept and apply it to it's writings.
+
+That fundamental lack of understanding of truth means it will write a lot of wrong things confidently. Until we account for that we're just accelerating the ability for people to write truthless junk without any similar fact checking acceleration. That would be an alarming situation to be in.

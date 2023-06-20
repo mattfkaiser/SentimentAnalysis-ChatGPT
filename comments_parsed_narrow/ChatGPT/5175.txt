@@ -1,0 +1,1 @@
+ChatGPT doesn’t know what it has or hasn’t written, and more than that, it doesn’t actually know what you mean when you ask it whether it wrote something. It’s just spitting out a response that fits with the prompt. To get something that could identify ai writing, you would need to specifically train it for that purpose

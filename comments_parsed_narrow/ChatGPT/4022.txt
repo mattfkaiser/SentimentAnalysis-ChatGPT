@@ -1,0 +1,9 @@
+The goal post for "what is AI" seems to always move. Once something can imitate intelligence to a degree that is indistinguishable from true intelligence, it does not really matter externally if internally it really is not sapient, conscious, and self aware.  We are precipitously close to that point. 
+
+LLMs like ChatGPT are just returning the results of matrix multiplications on words translated into vectors, but it alone is quite powerful.  When you can merge that functionality with software that is capable of error checking, long term memory, advanced computation, scheduling, and automation as well as the ability to write and modify code, it is hard to not see that AGI is not as far as we once thought.
+
+I asked ChatGPT to rewrite this in a way more people would like:
+
+"The definition of AI is always changing. When something can act intelligent enough to fool us into thinking it's truly intelligent, does it matter if it's not actually self-aware? We're almost there.
+
+Take ChatGPT, for example. It's just a program that does math, but it's really powerful. When you add in the ability to check for mistakes, remember things, do automated tasks, and even write its own code, it's clear that we're getting closer to true AI than we thought"

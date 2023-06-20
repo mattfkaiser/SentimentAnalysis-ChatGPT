@@ -1,0 +1,5 @@
+Absolutely depends on the task at hand. For "simple" task like building a browser based basketball game I have yet to see a good developer complete that from scratch in less  than a day. Maybe I'm working with slow developers, but even with a good developer. A noob with good AI-skills is not that far off
+
+More complex tasks like system architecture.. Maybe not so much.
+
+Out of curiosity I tried to make ChatGPT write an approximate solver for the "Social Golfers Problem", and it could make a rudimentary solution, including learning me about topics like simulated annealing, but trying to make it improve the solution fell short.

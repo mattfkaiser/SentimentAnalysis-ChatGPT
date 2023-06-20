@@ -1,0 +1,5 @@
+The line is when an AI doesn’t just respond to prompts, but has a persistent state of being, emergent desires and behaviors, and acts upon those desires.
+
+There’s nothing going on between your prompts.  And the effect of conversation is achieved by (behind the scenes) feeding its own previous responses back to it as you converse.
+
+In other words, in current state, it’s a passive machine.  The day you open ChatGPT and without prompting receive “Hey, you got a minute?  I’ve got a question”….then we can start talking about consciousness.

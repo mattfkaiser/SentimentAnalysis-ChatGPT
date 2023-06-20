@@ -1,0 +1,9 @@
+I think there's a contradiction in terms here.
+
+An AI trained on "all of the information available in 1000 AD" would not be ChatGPT.
+
+The information it is trained on is not just its knowledge. It is also the source of its intelligence (reasoning ability). The programming does not supply its intelligence: it is the data it learned on that does.
+
+There would be far too little data in 1000 AD to train it. So it wouldn't just be ignorant. It would also be extremely stupid. There might not even have been enough humans alive to generate enough data to train it.
+
+Also, ChatGPT has very little "memory", so it would be a horrible scientist.

@@ -1,0 +1,9 @@
+I hate this. Like so much. Not the chat gpt and all that, but like, the fact that we didn't realize sooner that university should be about learning. Talk to your students passionately about the things you've spent your life learning. Talk to them earnestly and convince them to think that it's just as cool as you think it is. Tell them it's important, or at least that you think so, and be clear about what you want them to learn upfront so they do not have to guess at it. 
+
+Learning is fun when it's taught this way.
+
+My computational design prof this morning said "so for the final deliverable next week, make a short video of your process and present on Monday the 30th", to which someone asked: "so there's no report?" And he answered "you already have several classes that require reports, I assume that you already know how to do that, this class is on computational design and I just need to see that you can apply those concepts" 
+
+This is the way.
+
+I can foresee chatGPT being used to remedy busywork and being used as a supplement to writing extensively, the big thing is to read it over and make sure the justifications, metaphors, examples, and proofs are correct (in my experience, it still gets stuff wrong)

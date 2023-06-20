@@ -1,0 +1,9 @@
+>write about the positives of nuclear energy
+
+From Chat GPT
+
+>Nuclear energy has several positive aspects. One of the main benefits is its ability to generate large amounts of electricity without producing greenhouse gas emissions, which makes it a potential solution to combat climate change. Nuclear power plants also have a relatively low cost of operation and can provide a reliable source of electricity for long periods of time. Additionally, nuclear energy is a domestic source of energy, which reduces dependence on foreign sources of energy. Additionally, Nuclear Power plants are also relatively small compare to other energy sources, take up less land, and have a much smaller environmental footprint.
+
+&#x200B;
+
+You will eventually be able to run instances of this yourself, at that time you will get to se what ever parameters you want or pull one from Githib with the parameters you want.

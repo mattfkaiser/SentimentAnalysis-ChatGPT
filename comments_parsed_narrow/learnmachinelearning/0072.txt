@@ -1,0 +1,1 @@
+ChatGPT is a fine-tuned GPT-3. If you want to finetune yourself then you need one of the gpt-models

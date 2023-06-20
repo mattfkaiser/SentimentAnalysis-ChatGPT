@@ -1,0 +1,5 @@
+> ChatGPT prompts are encrypted 
+
+What do you mean by that? There is no way the model itself works on encrypted data. That would mean encryption is entirely useless as AI is able to understand the contents of encrypted data.
+
+Yes the data may be encrypted while sending it from your browser to their server (it's called HTTPS and almost every website uses it), but that doesn't mean it's encrypted in their databases etc. And even if it is encrypted in their databases, they must have a way to decrypt it, otherwise they could not feed it into the AI for processing.

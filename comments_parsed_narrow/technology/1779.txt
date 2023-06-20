@@ -1,0 +1,5 @@
+This morning my engineering physics 2 professor opened the semester by stating that while he thinks chatgpt is one of the coolest pieces of software out there,  if anyone attempts to demonstrate it in their papers, they will get an F* in the course for academic dishonesty.
+
+~~There are ways to detect it. If it passed, then this Wharton professor just didn't run it through GPTZero or any of the other detection methods. Sure, it writes good essays, but it still doesn't write like a human.~~
+
+EDIT: My information is a bit out of date. Apparently current interations of ChatGPT can be instructed to write essays that are passing the detection measures. I feel like this will be an arms race between students and instructors.

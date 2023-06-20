@@ -1,0 +1,13 @@
+I will give you my particular anecdote that tells me you are heavily underestimating how incredibly powerful simple pattern recognition AI is.
+
+Background, I am a phd student in the bio/biotech field, getting specialized in an engineering field.  
+Besides, as a hobby, I love space, so I have become proficient in astrobiology, planetology, geology, etc, I can keep up and understand newly published research on these fields without using google.
+
+Recently I had an eureka moment, a really good idea just popped up in my head, something that intuitively made sense. I searched for previous publications on the topic using every available regular and academic search engine I know of. I got no hits at all. Nobody has discussed this possibility. I went to ChatGPT (still 3.5) because I heard it could also be used to find literature on a topic, and because it is hard to find another person interested in the same confluence of topics for an informed discussion.
+
+I explained the idea to it and clarified a few questions GPT asked me about the specifics. Then GPT immediately makes an in-depth analysis of the benefits and potential problelms of my idea. I haven't even thought of half the things in that wall of text, but I wholeheartedly agree with everything it said, it is all reasonable and informed predictions of how it will work and what aspects of geology, chemistry and physics may be a problem to it.  
+
+
+Then I ask it if anyone at all has ever written anything about this topic, since I assumed the AI was just copying this info from somewhere.
+
+It says "There are no publications on this particular topic."

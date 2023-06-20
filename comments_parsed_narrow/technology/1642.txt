@@ -1,0 +1,7 @@
+I'm a copywriter, I have a college course in FORTRAN, learned a little Basic on a Commodore 64, and have a rudimentary working knowledge of HTML. But when I needed custom-formated text on a WordPress page, I fed my problem to ChatGPT and got a solution instantly. It is a game changer for simple coding solutions.
+
+I needed a bunch of title and meta description tags for a website, and it spit out everything I needed in a half an hour, based on the input question "write a title tag and meta description tag for [this specific] web page for [company name] in [client industry]."
+
+On the other hand I tried to feed it a complicated math question a dozen times and I got a dozen different ways of calculating an answer. None of them gave me what I needed. 
+
+So it can be either genius or stupid, depending on the circumstance.

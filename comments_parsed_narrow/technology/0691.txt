@@ -1,0 +1,9 @@
+Then he got a 'grown-up' to look at the code and decided that, actually 9 weeks is a bargain!  It will take more to fix the ChatGPT version!  
+
+
+I have tried it and sometimes it works quite well.  The problem is, too often it guesses how something (a library, a web site) might work - but often it doesn't work that way at all.  
+
+
+I tried giving it a JSON file with some data to see if it could read & understand, then perform a calculation based on the data - wondering if it could be used as a sort of intelligent database query.  It's methodology for the calculation was reasonable - but it couldn't do the actual maths, so the result was usually wrong.  Ask it to write a function to parse the data and calculate the result - it looked good, but didn't actually work as it ignored the structure of the JSON & I guess went with something similar it found on line.
+
+Obviously it will get better - but I don't think we're quite at the point of devs hanging up their keyboards yet.

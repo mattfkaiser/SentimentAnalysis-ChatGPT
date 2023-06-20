@@ -1,0 +1,3 @@
+I know enough about openAI and ChatGPT. The openAI API allows fine tuning on some large language models. This fine tuning is "few shot" training. So it absolutely is "fine tuning" "with your own data". It also involves adjusting the actual parameters to minimize loss on your data. For the large language transformers, openAI fine-tunes only in the decoder. 
+
+I agree that OP seems to know more about this than you do.

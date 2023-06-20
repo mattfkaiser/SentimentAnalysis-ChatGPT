@@ -1,0 +1,3 @@
+this isn’t really accurate. llms being trained on large amounts of data doesn’t imply they output an “average” opinion when you use methods like RLHF to turn them into something like chatgpt after the standard training steps. it’s skewed heavily by the scorers’ biases
+
+almost all llms people interface with regularly have been rlhf’d; if you try conversing with gpt neox you’ll see why

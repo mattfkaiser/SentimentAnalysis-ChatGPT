@@ -1,0 +1,9 @@
+The hype over ChatGPT is truly amazing. No, it won't replace programmers. Even the next version won't. Since the beginning of software, managers have dreamed of replacing programming with simple descriptions in plain language. This lead to the very verbose language COBOL, filled with lots of words from finance and accounting. It failed to make programming simple enough for managers, and experienced COBOL programmers found it cumbersome
+
+Creating complex systems that work well and handle all edge cases is hard, whether written in English or C. At its best, ChatGPT is just another programming language
+
+Software sucks and it's getting worse as we build more and more complex programs, layered over poorly documented, buggy, "black box" frameworks, using cheap talent and tight schedules
+
+The real promise of AI will be to give programmers powerful tools to manage complexity, discover hidden bugs, edge cases and unintended dependencies. 
+
+I don't care how many programmers have jobs, I want to see better and more powerful software. I'm optimistic. I love powerful tools

@@ -1,0 +1,12 @@
+Open AI dictating how their own AI runs is their own choice. yes.   
+But it doesn't mean that people can't argue or give feedback on how it currently runs or could run instead. Should everyone just keep their mouths shut and accept what corporate companies do to their userbase? 
+
+Sorry that i refuse to be a shill and defend or accept every action a company makes.
+
+" If you dislike it so much, not you OP, but anyone, then just get a GPU with 12GB VRAM or more and download an LLM. "
+
+You say this as if it's an easy thing for people in todays economy to just go out and grab a high end gpu just to run a less restricted AI language model.
+
+" Takes 30 minutes or so to get everything ready with Oogabooga. "  
+There is no way the average person will setup their own local LLM with the same amount of features or have the same ease of use as the current chatgpt website has.  
+Not only that but there are currently no open source LLM's that are as refined as chatgpt 3.5 or 4 either.

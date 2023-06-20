@@ -1,0 +1,3 @@
+Yeah, I've had Chat GPT apologize to me a lot. I think a big part of its problem is its confidence: if it could just say it isn't sure of an answer or something, or give a "confidence level" like IBM's Watson did when it played Jeopardy a few years ago, that would be helpful. It's so unreliable when it comes to fact-finding that I don't even try anymore; Google is better.
+
+But it's not really meant to be a fact-finding tool; it's a predictive language model. As I understand it, it really just says what it thinks should go next. It's not actually searching for answers.

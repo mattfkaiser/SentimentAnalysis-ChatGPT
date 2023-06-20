@@ -1,0 +1,3 @@
+ChatGPT is essentially just a much more advanced Google search autocomplete. But because of the way it works it handles natural language very well. The downside is it can just make stuff up completely. I asked about a programming task, and it just made up function calls that don't exist in the library I asked about. But they exist in enough other libraries it guesses they probably do exist.
+
+It also makes up plausible sounding paper titles for references, and other such inventions. It all looks plausible, but it's wrong.

@@ -1,0 +1,7 @@
+Not to mention, even in the short term. Unproductive coders who don't embrace AI as a tool are going to be replaced by those who do. I've been far more productive than a lot of my co-workers since ChatGPT came out because, not only did I immediately embrace it, but I spent a few weekends devoted to figuring out how best to use it in my job. I use it for all kinds of things and I'm constantly helping co-workers who get stuck on something and I'll say, "Have you tried ChatGPT?" and then I'll walk them through how to use it in their particular use case. 
+
+For example, I had a co-worker who was having trouble coming up for a regex to parse data in a particularly difficult file. He tried using ChatGPT after I suggested it, but didn't have a lot of success because he just didn't know how to use it. I walked him through it and within a few minutes he had regex expressions that did the work he needed.
+
+I find people frequently say, "it won't do this," or "it won't do that," but usually it's just that they haven't learned how to use it properly to do what they want.
+
+Like anything else, using it is a skill and you have to practice to get good at it.

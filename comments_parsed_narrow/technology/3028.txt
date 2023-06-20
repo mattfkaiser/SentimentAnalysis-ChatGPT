@@ -1,0 +1,4 @@
+Unless the subject is a general course covering multiple topics that do not built upon themselves we can train AI to assist students in their lack of understanding of their knowledge and look for anomalous patterns. 
+A course shouldn't be two papers and an exam, that's not enough feed back for the student in the first place.
+
+I used a computer guided exam prep for actuarial material and it was amazing, the program would point out what areas you were weekest at and suggested what you should focus on, very good at teaching fluency and not just basic understanding of the subject. If the thing was powered by something like chatgpt it might have been like a personal tutor that's available 24/7.

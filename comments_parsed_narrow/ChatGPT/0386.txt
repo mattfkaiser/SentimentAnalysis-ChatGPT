@@ -1,0 +1,8 @@
+Scheduling a team of employees can be a pain in the arse with missing staff. I recently tried chatgpt and the thing did months in just seconds when it usually takes me days for a month. This is what I did just to check if it was possible:
+
+
+I have a team of 5 employees: John, Bratt, William, Joe and Jack. John, Bratt and William works 4 pm to 2 am. Joe and Jack works 6 am to 4 PM. Everyone needs at least one day off, Dave needs Mondays. Work is 7 days a week. Only two employees can be on schedule on any given shift. Could you do the schedule for the team up to august?
+
+It blew my mind!
+
+Edit.: This isn’t perfect so I had to refine it a couple times like telling it there must be 2 employees at any given shift, etc.

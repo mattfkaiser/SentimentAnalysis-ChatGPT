@@ -1,0 +1,1 @@
+Only Davinci (and some older GPT variants) are currently available ([openai.com/api/pricing/](https://openai.com/api/pricing/)) for fine tuning (Davinci is v3.0 while ChatGPT is from the 3.5 series).

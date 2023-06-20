@@ -1,0 +1,23 @@
+I bookmarked this article recently.  One of the people said this
+
+&#x200B;
+
+>\[chief marketing officer of Offices.net\] said she found the paid version of ChatGPT useful for "answering low-stakes queries on the fly" that she previously had to answer by accessing her database at work or via other research.  
+>  
+>"If I'm away from the office and receive common questions from clients or tenants about properties or listing locations, I can easily input their questions and receive satisfactory answers," she said.
+
+[ChatGPT is making people more money and better at their jobs. 4 of them break down how](https://www.businessinsider.com/chatgpt-work-better-earn-more-money-2023-5)
+
+&#x200B;
+
+That's one example of many I've seen of people using AI in different helpful ways. But you may have to research since different tasks may require different models, etc. I read an account of someone saving time by allowing AI to help plan means and schedules.  You might also explore [Auto-GPT](https://www.forbes.com/sites/bernardmarr/2023/04/24/auto-gpt-may-be-the-strong-ai-tool-that-surpasses-chatgpt/?sh=4243f0187640). One blogger created a set of AI experts that functioned like a publishing company.
+
+One of them did research, another wrote content, another served as editor, etc. They worked together. The blogger explained the process and showed a blog post that is AI "team" created. He, however, was the mastermind. We can think of AI as employees. If we tell them exactly what we want done, we might get better results than if, like with human employees, managers don't give more detailed instructions. That's why Prompts are important.  If you get to use Google PaLM's API, they will show you how to effective write prompts in code in a way that achieves results you want. That's how important prompting is so you might explore Prompts too.
+
+&#x200B;
+
+Microsoft is putting it's AI Copilot (which uses ChatGPT) in it's Office products. It may be able to do some things you need. Here's one example showing what will be possible in OneNote when AI arrives .. ([link](https://techcommunity.microsoft.com/t5/microsoft-365-blog/onenote-your-digital-notebook-reimagined-with-copilot/ba-p/3788442))
+
+I don't know if Microsoft Copilot will be able to access OneDrive files but maybe it might. That would be helpful for users who keep their files on OneDrive. We can already search OneDrive files for text in images. I didn't know that until Bing said it.
+
+And then there's Google and it's PaLM 2 models. Users can talk to AI in regular Google searches right now if they have gotten approved to do that.

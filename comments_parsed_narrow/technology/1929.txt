@@ -1,0 +1,3 @@
+> Need content for a presentation or an email announcement for a new tech service to the organization? ChatGPT does it in seconds.
+
+I've found that telling ChatGPT the company-specific information needed to generate a good presentation takes more effort than just writing it myself. Plus ChatGPT's prose is pretty awful and you're gonna have to do lots of edits anyway. Maybe I'm using it wrong but I gave up trying to use it for writing.

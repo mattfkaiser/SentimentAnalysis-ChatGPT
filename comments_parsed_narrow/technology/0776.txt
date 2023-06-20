@@ -1,0 +1,3 @@
+ChatGPT is a trillion dollar lawsuit in the making. If any data landed on the servers that is considered covered under regulation frameworks (GDPR, California Privacy Act etc), the company owning that data need to provide privacy guarantees which I’m unsure how will be achieved. You can also feed poison data to ChatGPT like someone else’s SSN, driver license, etc. 
+
+As always pros and cons.

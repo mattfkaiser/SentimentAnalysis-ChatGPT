@@ -1,0 +1,3 @@
+I think I’m at your level. I don’t know how to write code but I’ve been figuring out Unity and how to use the scripts ChatGPT gives me. 
+
+I haven’t made anything as polished with the UI score system you have, but making little mini games in 2D has been fun for me

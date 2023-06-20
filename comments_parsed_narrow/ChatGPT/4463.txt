@@ -1,0 +1,5 @@
+> Is there a way I can access ChatGPT on my browser without the IT department knowing I am using it?
+
+Not if your IT department is competent.
+
+Whether they *care* is a different thing, but they would be able to find out if they felt that they had reason to look for it.

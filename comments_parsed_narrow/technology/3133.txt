@@ -1,0 +1,11 @@
+This is the best tl;dr I could make, [original](https://www.techradar.com/news/samsung-workers-leaked-company-secrets-by-using-chatgpt) reduced by 67%. (I'm a bot)
+*****
+> Samsung workers have unwittingly leaked top secret data whilst using ChatGPT to help them with tasks.
+
+> The upshot is that in just under a month, there were three recorded incidences of employees leaking sensitive information via ChatGPT. Since ChatGPT retains user input data to further train itself, these trade secrets from Samsung are now effectively in the hands of OpenAI, the company behind the AI service.
+
+> Samsung Electronics sent out a warning to its workers on the potential dangers of leaking confidential information in the wake of the incidences, saying that such data is impossible to retrieve as it is now stored on the servers belonging to OpenAI. In the semiconductor industry, where competition is fierce, any sort of data leak could spell disaster for the company in question.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/12cupnf/samsung_workers_made_a_major_error_by_using/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 2.02, ~679505 tl;drs so far.") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PM's and comments are monitored, constructive feedback is welcome.") | *Top* *keywords*: **data**^#1 **ChatGPT**^#2 **Samsung**^#3 **leak**^#4 **OpenAI**^#5

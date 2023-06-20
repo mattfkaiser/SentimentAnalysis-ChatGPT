@@ -1,0 +1,3 @@
+Good point. This is GPT4, but GPT3 was even worse. I had once asked it to tell a story of a person coming up with a mobile app, and when the person's name sounded Arabic, that app was almost always a prayer app or something else related to Muslim religion.
+
+I wonder if there's a way to prompt ChatGPT for full personality descriptions, yet ask it to avoid stereotyping. Maybe one could literally add that as request, "Don't stereotype?"

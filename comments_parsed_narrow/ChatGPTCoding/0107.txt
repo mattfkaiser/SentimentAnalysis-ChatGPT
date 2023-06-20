@@ -1,0 +1,5 @@
+>The expectation you seem to be having doesn’t make sense at all, because that’s not how any programmer has ever learnt to code.
+
+What you said  is interesting.  About me, an old programmer retired from my software consulting business of 35 years.  Had to learn many new things along the way, and always did as you say, the prior study, simple projects progressing to more complex ones.   But I have a BLE embedded program I wrote in C and wanted to do an Android Studio app to communicate with it.  I never programmed before in Kotlin, never used Android Studio, never wrote a phone app.  But I didn't do it the old way.  I just started by asking ChatGPT what I needed to program a Kotlin phone app.  The started asking it to make up some pages for me.  Of course it made lots of mistakes, and I don't think I could have done it without experience in other programming languages.   But it did not require the prior study like I had to do in the past.   Now I have a pretty good BLE phone app in just a few weeks with no prior study.   
+
+I think learning how to do software might have changed.

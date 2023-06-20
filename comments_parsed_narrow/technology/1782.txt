@@ -1,0 +1,3 @@
+>Also, please show off these super easy ways to detect. 
+
+I don't think it is easy, but iirc OpenAI is planning to leave tokens on the word generated to be able to check if it ChatGPT generated but the problem with this is that if the same response was feed to another LLM then that tokens might be reduced/gone or if the competitors catch up with their own LLM then the chatgpt checker might become useless

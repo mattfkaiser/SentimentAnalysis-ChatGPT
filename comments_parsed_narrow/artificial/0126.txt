@@ -1,0 +1,5 @@
+It's fairly high even in organizational terms (ie put another way, 255 million/year isn't a trivial expense to pay for compute power), but think of the intangible resources they've gotten out of it. 
+
+Brand/product awareness for one, goodwill and familiarity for another... In 5 months ChatGPT has gone from non-existent to a household name, even if not quite on the level of "Google it" yet. That's very impressive and something that companies pay huge amounts of money in marketing for just *trying* to achieve. 
+
+Not to mention they've been transparent about the fact that conversations are used to improve the model(s), so there's that. The huge amount of potential training data they've gained from this without having to recruit a single volunteer or pay a single person to sit and have conversations with ChatGPT might not be worth the full operating costs, but it's certainly worth something.

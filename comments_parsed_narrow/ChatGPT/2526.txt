@@ -1,0 +1,2 @@
+ChatGPT always surprises me. It's either able to generate answers which are so much better than I would have thought is possible or it completely fails extremely easy tasks.
+A few days ago it easily wrote me working code for a small experiment in psychology without needing complex prompts. But then it fails do things which you thought LLMs should be able to solve without problems by now, like capitalizing every noun, pronoun, verb and adverb in a list of references - took me nearly an hour to get it to perform the task without problems.

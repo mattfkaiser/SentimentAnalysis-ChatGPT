@@ -1,0 +1,9 @@
+I've found that ChatGPT is **awful** at writing code **unless** you follow very carefully engineered workflows.
+
+**A prompt like:** 
+
+*Write some C# code for Unity that will make a basketball game where the basket moves left and right and the player tries to make free throws.* 
+
+Will give you useless code. I tried it and got garbage out because the prompt is garbage in.
+
+You have to walk ChatGPT very carefully through the process starting from a very broad overview of the game (Give me the steps necessary ....) and then gradually narrowing down to very narrowly defined specifics (Write code so the net translates left and right in a loop ......).

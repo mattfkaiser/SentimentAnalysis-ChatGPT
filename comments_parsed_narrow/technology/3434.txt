@@ -1,0 +1,36 @@
+Whoa boy, I went down a rabbit hole with my chatGPT...
+
+What jobs do you think AI could take over easily from humans?
+
+There are many tasks that AI could take over from humans. For example, AI can be used to automate customer service, manage data entry and process medical information, assist with inventory control and optimize production processes. Additionally, AI can identify patterns in large data sets, helping to make decisions and predictions.
+
+Write more
+
+ AI can also be used to provide more personalized customer experiences. Companies can use AI to create tailored recommendations, track and analyze customer behavior, understand customer preferences, and suggest customized experiences. AI can be used to enhance the customer journey, from marketing to sales to customer service. AI can also be used to improve automation and efficiency of many business processes and tasks, as well as drive cost optimization.
+
+Tell me about the cost effectiveness on corporations that hire AI instead of humans?
+
+ AI-driven automation is useful for reducing costs by streamlining processes, eliminating repetitive or laborious tasks, and providing greater accuracy in data processing and analysis. AI can enable predictive analytics, allowing companies to anticipate customer needs and preferences, helping them increase sales, profits, and customer satisfaction.
+
+Write more
+
+ AI technologies can also be used to help identify and respond to security threats. AI-driven automation can help protect against malicious actors, bots, and malware, ensuring more secure communications and transactions. Additionally, AI can be used to detect anomalies and changes in behavior, allowing organizations to identify and respond to any abnormal activity quickly and effectively. AI can even help identify fraud and other financial crimes.
+
+Are AI being used to surveil the general public?
+
+ AI can be used to surveil the general populace, usually on a limited and localized scale. For example, AI-driven surveillance systems can be used to monitor traffic or public places. Additionally, AI technology can be used to analyze large amounts of data for the purpose of predicting crime and understanding the behavior of large groups. This type of surveillance often raises privacy and ethical concerns, so it is important for organizations using AI for surveillance to consider the implications of their actions.
+
+A corporation with no regard for laws, how could they use AI maliciously?
+
+ If an organization has no regard for laws, they could use AI maliciously in a number of ways. For example, they could use AI to monitor and analyze data without the knowledge or consent of the target population. They could use AI to automate certain malicious or illegal activities, or they could use AI to gain access to personal information stored online or on a computer system. Additionally, AI can be used to identify potential targets for malicious actions, such as identifying vulnerable individuals or businesses. 
+
+Write more.
+
+AI can also be used to influence online behavior to further refine malicious attack vectors. For example, AI can be used to identify popular content and trends, allowing malicious actors to use sophisticated techniques in their attack strategies. Additionally, AI can be used to create deepfakes or other types of content to spread misinformation or create false narratives. Finally, AI can be used to target and manipulate specific populations by exploiting their personal information.
+
+Write more.
+
+AI can also be leveraged to construct and deploy targeted phishing attacks. By leveraging targeted information, such as profiles, preferences, and online behaviors, malicious actors can create tailored phishing campaigns to capture confidential data and credentials. AI can also be used to develop spam messages that are tailored to individual users, based off of their past email or browsing data. AI can also be used to generate malicious links or compromised websites, and it can be used to quickly identify vulnerabilities on systems and networks for exploitation.
+
+
+...and that's where I called it to weird for me...

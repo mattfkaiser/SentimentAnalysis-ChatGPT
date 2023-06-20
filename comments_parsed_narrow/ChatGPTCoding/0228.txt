@@ -1,0 +1,1 @@
+All APIs are paid. The only thing that is free is ChatGPT via the website. However, chatgpt-3.5-turbo is very cheap. You can put a monthly limit of 10$ and give it a try. It is likely that if you are not attempting a lot of calls it will cost you just a few cents.

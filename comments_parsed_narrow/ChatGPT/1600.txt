@@ -1,0 +1,5 @@
+I went down a rabbit hole and tried to learn ZX Assembly Language but got bored pretty quick. As an Android developer, I thought it would be great to create the 16x16 sprites for the machine, then I noticed r/PixelArt has over 1m Redditors so I thought that's a sizeable chunk to create an app for. Then I thought it would be cool to animate things. Initially, simple GIF's of any size were my intention but now you've given me another reason to develop the idea further. 
+
+With the help of ChatGPT, I created the skeleton in 2 weeks. It's still a long way from MVP but you've reassured me that I'm following the right path.
+
+S[creenshot of the app's interface](https://ibb.co/jLw9cQh) (which has changed a lot since then.)

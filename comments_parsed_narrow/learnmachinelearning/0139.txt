@@ -1,0 +1,1 @@
+This is what I would suggest OP too, Transfer Learning is one way to save you time and effort needed to train up colossal models like ChatGPT.

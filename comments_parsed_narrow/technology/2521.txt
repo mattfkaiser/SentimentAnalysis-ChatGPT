@@ -1,0 +1,3 @@
+I mean to some extent, this isn't just an OpenAI thing. Lots of firms do aggressive PR even if the exact advance is a lot more limited in scope.
+
+Though it is a bit weird since OpenAI has gotten significantly less open in recent years and also hasn't been that innovative beyond scaling existing techniques for chatGPT. Even if I was somewhat aware of it, it kind of makes me irritated realize the disconnect between research and industry though: that the hundreds of researchers who built those techniques aren't going to get mentioned or recognized and OpenAI gets most of glory even if the result isn't that novel in some respects.

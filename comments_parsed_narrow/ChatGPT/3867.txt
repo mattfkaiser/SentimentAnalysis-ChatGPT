@@ -1,0 +1,1 @@
+ChatGPT isn’t the tool for this experiment. You need a specific machine learning model that’s more than language, specifically maths analysis.

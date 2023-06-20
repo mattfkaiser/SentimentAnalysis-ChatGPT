@@ -1,0 +1,11 @@
+Thing is calculators can't synthesize ideas for you, and present them to others as though it was your own work.  They can just do the rote calculations that often get in the way of learning or working with higher-level concepts.  
+
+But pretty much until you get into grad school, essay assignments are very much meant to help you learn how to express yourself and compose a persuasive argument as much as they are meant to help you learn the material.  And frankly, "you still need to know how to write to use it" as a defense is only going to get less and less persuasive as time goes on.  We're already at a point where detecting AI-generated work is often a crapshoot, and this is as bad as LLMs are ever going to be.  What happens a year from now when GPT-5 is able to produce even more advanced and convincing writing, in more varied and naturalistic styles?   What happens in 10 years?
+
+You can't just say "but calculators!" when the technology is increasingly capable of simply doing all the work for you instead of being used as a tool, and it's increasingly difficult to tell when that happens.  
+
+Frankly Wikipedia seems like the more apt comparison to me.  Yes, hard bans on using it are silly and do more harm than good.  But even two decades later, you still can't just cite goddamn Wikipedia as a source.  You go to the source cited *on* Wikipedia, read it yourself, confirm it says what Wiki says it does, and then cite that.
+
+  The problem is that, where the solution to people just doing their research on Wiki is pretty straight forward, the solution for AI-generated work is nowhere nearly so clear. You can easily allow people to use wikipedia as the tool that it is, while forcing them to actually show and do the work.  But as demonstrated in the article, you can easily just get ChatGPT to produce results that are easily mixed up with human output and there is virtually no way to show that people are using AI as a tool rather than as a replacement for work.
+
+And "just make everyone do it in person" is *not* a solution when that means you're essentially doing away with useful academic exercises like semester-long research projects.

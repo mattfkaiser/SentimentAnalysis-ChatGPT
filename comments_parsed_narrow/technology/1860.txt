@@ -1,0 +1,1 @@
+ChatGPT4 requires that you have subscribed and paid for ChatGPT+, and you are throttled to something like 25 prompts every 3 hours.

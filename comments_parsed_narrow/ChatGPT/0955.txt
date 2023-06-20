@@ -1,0 +1,1 @@
+So I've been really curious how to really optimize my usage of chatgpt.  Did you specifically use it to write the code and then format it into a different program to generate your game?  I'm curious how you get to the final product with a text based app?

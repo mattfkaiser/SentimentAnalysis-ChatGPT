@@ -1,0 +1,4 @@
+Due to hallucinations, I can't rely on Chat GPT for factual information. In some cases it's useful - but not always. Where I am finding it to be powerful is at abstract reasoning, writing and understanding code, understanding articles, reddit comments, etc.   
+
+
+If you feed it your own source context - it's excellent.

@@ -1,0 +1,1 @@
+There is new option in ChatGPT to make it not learn anything of the data you put in ChatGPT.

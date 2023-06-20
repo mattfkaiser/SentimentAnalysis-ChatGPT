@@ -1,0 +1,3 @@
+I mean, I'm gonna ask a dumb question, but I use FFMPEG for a lot of gif editing. I know there's some online tools, but I need to push things further than only that.
+
+Could ChatGPT be able to cobble together some form of a UI for it, so I don't have to look up the syntax every time?

@@ -1,0 +1,1 @@
+ChatGPT as it currently is already costs billions to maintain. Power consumption, storage servers, calculation processors, etc. all cost money.

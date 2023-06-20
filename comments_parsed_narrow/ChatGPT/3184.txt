@@ -1,0 +1,27 @@
+There's a good AI search engine called [Perplexity.ai](https://Perplexity.ai) that works when Google and ChatGPT fail. It says:
+
+To add plugins to ChatGPT, you need to follow these steps:
+
+1. Subscribe to ChatGPT Plus: ChatGPT plugins are only available on the ChatGPT Plus subscription, which costs $20 per month\[1\]\[2\]\[3\]\[4\]\[5\]. 
+
+2. Enable plugins: Once you have subscribed to ChatGPT Plus, you need to enable the plugins option in the settings. To do this, click on the three dots menu in the bottom left corner of the main screen, select Settings, and then select Beta Features. From there, toggle the Plugins option to enable it\[1\]\[2\]\[3\]\[4\]\[5\]. 
+
+3. Install plugins: After enabling the plugins option, you can install the plugins you want from the Plugin Store. To access the Plugin Store, click on the GPT-4 option at the top of the ChatGPT homepage, and then select Plugins from the dropdown menu. From there, you can browse the available plugins and install the ones you want\[1\]\[2\]\[3\]\[4\]\[5\]. 
+
+It is important to note that ChatGPT plugins are still in beta, and not all of them work as they should. Additionally, the ChatGPT Plugin ecosystem is not fully up and running yet\[3\].
+
+Citations:
+
+\[1\] [https://techwiser.com/how-to-enable-and-install-chatgpt-plugins/](https://techwiser.com/how-to-enable-and-install-chatgpt-plugins/)
+
+\[2\] [https://pocketnow.com/chatgpt-plugins/](https://pocketnow.com/chatgpt-plugins/)
+
+\[3\] [https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/)
+
+\[4\] [https://techpp.com/2023/04/01/chatgpt-plugins-guide/](https://techpp.com/2023/04/01/chatgpt-plugins-guide/)
+
+\[5\] [https://www.pluralsight.com/blog/machine-learning/chat-gpt-plugins-guide](https://www.pluralsight.com/blog/machine-learning/chat-gpt-plugins-guide)
+
+&#x200B;
+
+By Perplexity at [https://www.perplexity.ai/search/857aa274-3ca6-424e-aa07-468d7166e929](https://www.perplexity.ai/search/857aa274-3ca6-424e-aa07-468d7166e929)

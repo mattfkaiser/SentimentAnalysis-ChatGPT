@@ -1,0 +1,1 @@
+You are talking about a closed domain question answering system.  This is something I did for my capstone project in grad school.  While you can use an LLM like chatgpt for this, you are better off using a smaller llm or something like BERT, and feed it context from your documents via a search engine.

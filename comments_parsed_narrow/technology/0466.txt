@@ -1,0 +1,45 @@
+##### Skip the click! Here's the full article copy and pasted.
+
+https://www.vice.com/en/article/z3mnve/we-spoke-to-people-who-started-using-chatgpt-as-their-therapist
+
+In February, Dan, a 37-year-old EMT from New Jersey, started using ChatGPT to write stories. He was excited by the creative potential of the OpenAI tool to write fiction, but eventually, his own real-life experiences and struggles started making their way into his conversations with the chatbot. 
+
+His therapist, who had been helping him address issues with complex trauma and job-related stress, had suggested he change his outlook on the events that upset him—a technique known as cognitive reframing. “It wasn't something I was good at. I mean, how can I just imagine things went differently when I'm still angry? How can I pretend that I wasn't wronged and abused?” Dan told Motherboard.
+
+But ChatGPT was able to do this flawlessly, he said, providing answers which his therapist, seemingly, could not. Dan described the experience of using the bot for therapy as low stakes, free, and available at all hours from the comfort of his home. He admitted to staying up until 4 am sharing his issues with the chatbot, a habit which concerned his wife that he was “talking to a computer at the expense of sharing [his] feelings and concerns” with her.
+
+Motherboard agreed to keep several sources in this story pseudonymous to speak about their experiences using ChatGPT for therapy.
+
+Large language models, such as OpenAI’s ChatGPT or Google’s Bard, have seen a recent influx of interest for their therapeutic potential—unsurprisingly touted by utopian Big Tech influencers as being able to deliver “mental health care for all.” Using pattern-matching and data scraping, these AI models produce human-like speech that is believable enough to convince some people that it can act as a form of mental health support. As a result, social media is full of anecdotes and posts by people who say they have started using ChatGPT as a therapist.
+
+In January, Koko, a San Francisco-based mental health app co-founded by Robert Morris, came under fire for revealing that it had replaced its usual volunteer workers with GPT-3-assisted technology for around 4,000 users. According to Morris, its users couldn’t tell the difference, with some rating its performance higher than with solely human responses. And in Belgium, a widow told the press that her husband killed himself after an AI chatbot encouraged him to do so.
+
+Amid a growing demand for mental health care, and a lack of existing funding and infrastructure for equitable care options, having an affordable, infinitely scalable option like ChatGPT seems like it would be a good thing. But the mental health crisis industry is often quick to offer solutions that do not have a patient’s best interests at heart. 
+
+Venture capital and Silicon Valley-backed apps like Youper and BetterHelp are rife with data privacy and surveillance issues, which disproportionately affect BIPOC and working-class communities, while ignoring the more systemic reasons for people’s distress.
+
+“They are doing this in the name of access for people that society has pushed to the margins, but [we have to] look at where the money is going to flow,” Tim Reierson, a whistleblower at Crisis Text Line who was fired after revealing its questionable monetization practices and data ethics, told Motherboard.
+
+In 1966, German American scientist Joseph Weizenbaum ran an experiment at MIT. ELIZA, known today as the world’s first therapy chatbot, was initially created to parody therapists, parroting their (often frustrating) open-ended speech using a natural language processing program. While it was supposed to reveal the “superficiality” of human-to-computer interaction, it was embraced by its users.
+
+Technology’s role in the patient-therapist relationship is almost as old as the history of therapy itself, as explored by Hannah Zeavin in her book The Distance Cure. And, as she points out, finding mental support which doesn’t involve the usual waiting lists, commute, and cost for office-bound care has long been the goal for low-income people, historically found through crisis lines and radio.
+
+But not all teletherapies are created equal. Presently, it is unclear how ChatGPT will be integrated into the future of mental health care, how OpenAI will address its overwhelming data privacy concerns and how well-suited it is for helping people in distress.
+
+Nevertheless, with healthcare costs rising and news headlines hyping up the abilities of AI language models, many have turned to unproven tools like ChatGPT as a last resort. 
+
+Gillian, a 27-year-old executive assistant from Washington, started using ChatGPT for therapy a month ago to help work through her grief, after high costs and a lack of insurance coverage meant that she could no longer afford in-person treatment. “Even though I received great advice from [ChatGPT], I did not feel necessarily comforted. Its words are flowery, yet empty,” she told Motherboard. “At the moment, I don't think it could pick up on all the nuances of a therapy session.” 
+
+These kinds of experiences have led to some people “jailbreaking” ChatGPT specifically to administer therapy that appears less stilted, friendlier and more human-like.
+
+For most people, AI chatbots are seen as a tool that can supplement therapy, not a complete replacement. Dan, for example, stated that it may have its best uses in emergency or crisis situations. “AI is an amazing tool, and I think that it could seriously help a lot of people by removing the barriers of availability, cost, and pride from therapy. But right now, it's a Band-Aid and not a complete substitute for genuine therapy and mental health,” he said. “As a supplement or in an emergency, however, it may be exactly the right tool to get a person through a bad spell.”
+
+Dr Jacqueline Nesi, a psychologist and assistant professor at Brown University who studies the role of social media in adolescents’ mental health and development, warned that ChatGPT should not be used for professional medical or diagnostic advice. She also noted that using the chatbot for therapy could lead to a loss of the “therapeutic alliance”—the positive relationship of trust between therapists and patients. 
+
+“Although it may feel like a user has a therapeutic relationship with ChatGPT, there is likely something lost when there isn't a real human on the other side,” she told Motherboard.
+
+This loss of intimacy is also in the hands of funders and AI engineers. ChatGPT deals poorly with ambiguous information, resorting rather easily and dangerously to making biased, discriminatory assumptions—which may break users’ trust in the tool. In March, the Distributed AI Research Institute (DAIR) issued a statement warning that synthetic AI “reproduces systems of oppression and endangers our information ecosystem.” A recent MIT Technology Review article by Jessica Hamzelou also revealed that AI systems in healthcare are prone to enforcing medical paternalism, ignoring their patient’s needs. 
+
+“I think marginalized communities, including rural populations, are more likely to be the ones with barriers to access, so might also be more likely to turn to ChatGPT for their needs, if they have access to technology in the first place,” Jessica Gold, a psychiatrist at Washington University in St. Louis, told Motherboard. “As a result, patients turn to what they can find, and find quickly.” 
+
+For those communities seeking mental health care, this can become a double-edged sword—using ChatGPT may be more accessible, but at the cost of less accountability and quality control.

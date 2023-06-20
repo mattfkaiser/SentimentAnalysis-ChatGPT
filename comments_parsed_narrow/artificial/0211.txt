@@ -1,0 +1,1 @@
+I’ve also done non prompted stuff with chat gpt 4 and Claude+. I didn’t necessarily directly compare them, but overall they seemed similar, with me leaning probably slightly toward gpt 4. But yeah for this specific use case that has a prompt, Claude instant has been way better

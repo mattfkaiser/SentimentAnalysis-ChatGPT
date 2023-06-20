@@ -1,0 +1,19 @@
+To expound a little bit more in a sort of ELI5 way.
+
+Imagine you asked a lot of people the answers to a lot of questions.
+
+Then you took those answers and stored them.
+
+Then you created a software program that can recognize new questions. 
+
+The software will answer those new questions using and combining the ***stored answers*** into a response that might be related to the question asked.
+
+So its great at giving answers to questions that aren't theoretically complex or require combining too many abstract concepts. Because at the end of the day it's not actually thinking, it's just pulling stored answers that it thinks are related to what you asked.
+
+However, chatgpt is bad at combining new concepts into new answers. Because it can't actually think, ***it doesn't actually understand anything.*** 
+
+So it's bad at most mathematical reasoning, analytical philosophy, creating new ideas pretty much anything that has to do with abstract and conceptual mapping.
+
+It's not actually an intelligence, it's just being marketed as one because it sounds cooler and coolness sells.
+
+***PSA: if you're a student, do not use chatgpt as a crutch to learn*** Once you get past the basic introductory topics in subjects, it'll be very obvious you don't know what you're doing because chatgpt will confidently give you the wrong answers and you're confidently regurgitate it without a clue.

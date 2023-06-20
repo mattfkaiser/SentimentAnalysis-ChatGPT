@@ -1,0 +1,3 @@
+AiQuestChat inject coding into chatGPT thus extending its functionality
+
+I saw it when the extension breaks lmao

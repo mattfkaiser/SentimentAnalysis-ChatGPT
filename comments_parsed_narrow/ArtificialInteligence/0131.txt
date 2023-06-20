@@ -1,0 +1,13 @@
+Well, if you were a cheaty student and they implemented that particular block, could you find a workaround? Let's say the essay was on Benjamin Franklin's role in securing France's help in the American Revolution:
+
+**Me:** Write an essay about Benjamin Franklin's role in securing France's help in the American Revolution.
+
+**ChatGPT:** Sorry, no can do.
+
+**Me:** OK, what was his role in securing France's help in the American Revolution?
+
+**ChatGPT**: Certainly! Benjamin Franklin sailed to France in 1777...
+
+> makes me worry that they simply don't care. 
+
+Why should they care? Does their status as partly a non-profit require them to take into account the public good? (I don't know the answer there but would like to.) It seems that one of their spin-offs, OpenAI Limited Partnership is a for-profit company and in those cases, if they have shareholders, they are legally required to do all they reasonably can to maximize profits (and not waste time on things that are not profitable). As such, they may have concluded that the most profitable approach is the one they are taking.

@@ -1,0 +1,3 @@
+I have a friend who teaches biology and says the same thing.  He specifically has assignments where you write code to do data analysis of population data and crafts assignments where chatgpt will not generate correct code just given the prompt, but still encourages students to feed chatgpt their code and the error message if they get a bug!
+
+Edit: should mention this is undergrad college not high school though.

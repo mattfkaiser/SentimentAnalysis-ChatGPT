@@ -1,0 +1,3 @@
+I had a professor in a CS class that always had open book, open internet tests. His reasoning was that if you don't already know it you're not going to figure it out by googling it in an hour. He can tell who knew their stuff and who was unprepared. 
+
+Now, something like ChatGPT might change that somewhat today, since you could just tell it to actually write a piece of code that actually works. Though knowing that professor, he was a pretty pragmatic guy, he'd probably allow ChatGPT, and as long as it compiled, met the parameters of the assignment, and took the right inputs and gave the right outputs, it's fair game.

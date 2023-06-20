@@ -1,0 +1,3 @@
+The communications decency act protects companies from being liable for the content created by their users. In that sense, OpenAI is actually not protected because it generates answers for users. It would be very different if ChatGPT connected people who had legal questions to real-time chat with people willing to give them legal advice (aka Reddit). But it’s not that, it creates content, which makes it liable for the information it gives. 
+
+Google search just exposes content that others have created to its users, granting it protection from actual liability on the validity or quality of the content. As a company, it obviously wants to provide quality results, it’s not legally required to do that tho.

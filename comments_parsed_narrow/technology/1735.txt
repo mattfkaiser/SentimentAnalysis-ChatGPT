@@ -1,0 +1,5 @@
+As designed, it is very good at filtering through the information it knows and returning an answer that is related to the question. By your comment, I am guessing most of the advice you give comes from existing cases documented well on internet. In such cases, an AI like ChatGPT will always surpass a human because it can process a lot more information. 
+
+The big question is, can it generate new insight combining new data with existing data and expand on the available set of advice. So far that part hasn't been achieved.
+
+I can see this when I ask ChatGPT open ended questions. It gives me a lot of useful information but it really doesn't help much in regards to making an actual decision and weighing those options to each other.

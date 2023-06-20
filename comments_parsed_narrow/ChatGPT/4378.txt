@@ -1,0 +1,3 @@
+This demonstrates the importance of two things for getting the most out of GPT: good prompting and domain specific knowledge ( in this case linguistic awareness). 
+
+If you ask ChatGPT instead what the idiom means, then ask, for example, if a comparable idiom exists in German, it will give you what you are looking for.

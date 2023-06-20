@@ -1,0 +1,5 @@
+That makes no sense at all. 
+
+ChatGPT is built using Google technology (transformers) and was trained by crawling the same sorts of public data sources that Google has direct access to.
+
+People think Google is playing catch-up but the situation is very much reversed. ChatGPT just jumped ahead on monetization.

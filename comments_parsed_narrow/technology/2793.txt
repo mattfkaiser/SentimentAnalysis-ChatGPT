@@ -1,0 +1,1 @@
+There have been free public chatbots and other implementations of language models (including GPT1/2 and similar) for years. ChatGPT is just the best one yet, and the first one to offer much more than novelty.

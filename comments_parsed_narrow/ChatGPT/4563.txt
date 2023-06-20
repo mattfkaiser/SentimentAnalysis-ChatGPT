@@ -1,0 +1,3 @@
+Yeah, what we’re seeing is a ton of people with no or low coding experience, who are (rightly) amazed that ChatGPT can produce mostly correct solutions to small problems, and plausible looking initial shells for more complex problems. They then jump to the conclusion that surely it’s just a matter of some careful prompt engineering to have ChatGPT essentially be coding for you.
+
+While those with experience coding complicated projects immediately recognize that we’re actually several more breakthroughs away from that point. But it does seem like an evolutionary rather than revolutionary leap at this point, which is pretty crazy.

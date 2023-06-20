@@ -1,0 +1,9 @@
+Chat GPT was not released in january 2022.
+
+You artificially compare where base model started to train with release of GPT4.
+
+Secondly OpenAI isn't jesus. Their word isn't sacred.
+
+Especially due to what happened with release of LLAMA. In span of nearly a month we went from LLMs requiring super server farm worth of 100s millions to one consumer grade GPU to train and interfere.
+
+Just last week new model was released with 65k context limit a lot higher than even GPT4 and works like 2-3 times faster.

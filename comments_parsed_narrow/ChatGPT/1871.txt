@@ -1,0 +1,3 @@
+I strongly disagree. They're not really comparable. You can't blindly trust what either LLM says, and only Phind will tell you where it gets its information.
+
+Unless there's a ChatGPT plugin for that.

@@ -1,0 +1,4 @@
+Im trying to speed up formatting of a bunch of SOPs by creating the template in word then uging javascript to populate the SOPs into word documents based on the template using a text file of paragraphs and a folder of images.
+
+
+Ill try what you suggested.  ChatGPT was using newline characters.  It did what I wanted but just couldnt read two paragraphs for one doc for some reason.  It got two images in there fine though.

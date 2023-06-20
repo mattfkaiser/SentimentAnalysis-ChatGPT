@@ -1,0 +1,5 @@
+This is IMPRESSIVE. Last year I taught my self to code. Took me 5 months to take an NFT market app provided by a small blockchain and turn it into a social media app that allowed likes comments and scrolling of a feed seeing who was buying or flipping NFT’s on the blockchain. I had to learn API fetching, JS, Next JS, and React JS. All while learning how to use VS CODE and learning to unfold, and edit the existing NFT app. It was insane when I look back
+
+I stopped working on that because of the market being down and I decided to open that code the other day… not a clue on how to read, use , or edit it. I don’t even remember how to deploy the thing. 
+
+If I would have had Chat GPT I would have gotten so much further. The point is that don’t forget what you’ve done here. There was a running joke I would see on Reddit and stack overflow that programmers don’t know what they are doing, they are just good at googling lol. Even if you feel like you didn’t do this, like it was Chat GPT, don’t stop. Keep going. Come up with bigger ideas and bring them to fruition. Who knows what can come of that!

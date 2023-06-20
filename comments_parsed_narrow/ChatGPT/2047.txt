@@ -1,0 +1,4 @@
+I have serious doubts about that, people aren’t realizing the massive amount of money they are burning to train and run these models.  I give them a couple years to try to reach break even or investors will lose interest and write them off.  LLMs are just an exercise of throwing a shit ton of data and computer power at something and hoping it makes something useful.  
+
+Don’t get me wrong, it’s interesting, but after the excitement settles they need to make money to stay operational.  I highly suspect the only reason they made chatgpt public when they did was be they were out of money and needed to demonstrate its potential so MS would throw a bunch of money their way, which they achieved.  $20 a
+ month subscriptions are not going to cover their opex.

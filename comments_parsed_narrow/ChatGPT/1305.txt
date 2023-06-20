@@ -1,0 +1,1 @@
+The API is more capable because it has a longer context window.  ChatGPT-4 used to have an 8k context window, but has since been reduced.

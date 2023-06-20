@@ -1,0 +1,1 @@
+made a very simple pandas program querying Jira. Didn't read any docs, didn't need stack overflow - I asked chat GPT and we iterated together solving issues very rapidly. I think its very useful.

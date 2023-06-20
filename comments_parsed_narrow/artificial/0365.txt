@@ -1,0 +1,26 @@
+1. Sama told me, years ago, after meeting with Elon (And Elon cloning) - two things matter to him. AGI and Fusion. Fusion accelerates AGI. Since AGI is just exaflops spent on training.
+
+2. GPT-3.5 (ChatGPT) is civilization altering. GPT-4, which is 10x better, will be launched in Q2 next year. These are AGI - clearing turing test and any standard tests.
+
+a. Google has declared Code Red and Sundar Pichai is personally PM'ing Al search.
+
+b. Microsoft is all-in. Builds 10x bigger data centers, dedicated to OpenAl every year.   
+Bing search is getting GPT integration next year. Spending billions$ now for OpenAI.
+
+3. Key insight: Model configuration and training parameters don't matter. Intelligence is just GPU exaflops spent on training.
+
+4. If (3) is true: Civilizational equilibrium is a decentralized crypto network, where computers are contributed for training and earn tokens. And querying the model costs tokens.
+
+5. One last centralizing force is - gradient descent is synchronous. Needs high GPU coordination and fast network bandwidth. Current trend is, civilization centralizing with Microsoft laying 10x bigger OpenAl dedicated data centers.
+
+6. Gradient descent is the process of error correction, where a N-layer model predicts an output. When that's far away from the target, we correct all the layer weights slightly to re-aim. This is O(N\^2) and sync since layer i, needs to look at all previous layers diffs and calc its diff. (Btw, the human brain does this in O(N) and it's perplexing how.)
+
+7. This can be optimized and made async if these layers, instead of being arranged linearly - are merging subtrees. This also might be the key unlock if a decentralized network of nodes need to add compute to this swarm. I'm not an expert (I'm an idiot). Anyone working on this?
+
+8. The GPT model as it is, is very simple right now - It has a lookback window of 8K words. Each word has a 128 layer neural net, with 10K neurons per layer. These 10K are divided into 1K groups each, which need to choose to fully connect with exactly one, 1K group in the below layer.
+
+9. As for the look back connections, each layer in the current word also connects with the same layer in the prior 8K words. But the prior word's neurons in the layer are dimension compressed from 10K to 100. Such sparseness seems OK.
+
+10. But the key insight is, a lot of these configs work equally fine. If you throw the same GPU exaflops at the model - they more or less perform the same. Probably why it was evolutionarily easy to invent the brain. OpenAl is at 10 exaflops right now vs 1000 for the human brain. Going to meet likely in the next 5 years.
+
+11. Models are so good already that only expert training matters anymore. Co-pilot for X is in play. Anyone building a Co-pilot for my browser? Browsers are largely text based, which GPT fully understands.

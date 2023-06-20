@@ -1,0 +1,3 @@
+Assuming you upgrade its architecture to a whole new generation, with the ability to experiment as you put it, yes, i could see it achieving what humans have. Its because the laws of physics are observable/deducable and many of our other achievements can be built off the fundamentals. 
+
+However I'd you don't significantly upgrade it, it's a glorified parrot. I was talking about general intelligence in the paragraph above, and general intelligence (GI) implies the ability to do tasks the model has never been trained on. Artifical Intelligence (AI) only does tasks it's been trained on. It appears as if chatgpt would have to undergo radical changes, and that's not even talking about the ethics of GI (if a robot is conscious,  which GI is, is it a person?).

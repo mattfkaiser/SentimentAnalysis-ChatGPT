@@ -1,0 +1,7 @@
+The guy is talking about throwing out outliers for pediatric cancer cases- which are already by definition, outliers.  
+
+ And he is trying to promote this tool to a team that, by his own description, is primarily excel based.  So now what?  You going to turn all these people into Python or Rust coders hacking together random code from ChatGPT?  A tool that gives literally ZERO confidence metrics in its own output.  Give me a break.  
+
+Go on Twitter and ask any of the ChatGPT devs themselves how they feel about this.  Go ask Altman or Karpathy how great of an idea they think this is. 
+
+There are other tools that would help you guys out OP far more than ChatGPT in what sounds like a critical task.  Check out KNIME for example.  Or use GPT as a training aid to get yourselves better at coding.

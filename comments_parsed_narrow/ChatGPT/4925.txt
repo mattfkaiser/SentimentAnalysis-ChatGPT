@@ -1,0 +1,1 @@
+ChatGPT allowed me to fill many backend stacks. I only made the client part, but if i tell this code, gpt made a backend code. It's insane!

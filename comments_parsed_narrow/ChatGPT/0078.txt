@@ -1,0 +1,6 @@
+You could try telling the teacher that there is no way for the ai generated writing detection tool to guarantee the accuracy of the detection, in fact the detection models have been tested and all are riddled with false positives, which is not surprising being that the models are mainly chatgpt variants just trained on different data sets.
+
+Try to show the teacher the flaws of these detection models. 
+Find essays or paperwork wrighten by them and start running it through the detection models show her that even her work was "written by ai" 
+
+https://techcrunch.com/2023/02/16/most-sites-claiming-to-catch-ai-written-text-fail-spectacularly/

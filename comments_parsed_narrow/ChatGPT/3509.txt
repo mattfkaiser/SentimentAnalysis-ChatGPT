@@ -1,0 +1,5 @@
+ChatGPT just built an app that I have been wanting for ever, but didn't know any programming. It's a daily routine app, more like life organizer app. 
+
+Outlook, To do lists apps, and many other may have the same features but not in a way that I wanted. I customized it the way I wanted, so it might not be shareable. It lets me organize my daily routine, create reminders, notes, right now I am trying to sync everything to phone using various techniques. And I have gotten to pretty advanced level in Python.
+
+Irony is, it was supposed to make me productive and make me manage my time efficiently, manage my adhd, and everthing. But now I pull all nighters just to find the perfect colors for the reminder widgets. It's taken my entire mental bandwidth and the original goal is no longer valid. I am obsessed. This is not the first time. 2 years ago, I did the same thing with "FocusMe" app. I might need help. I don't know where I am going with this.

@@ -1,0 +1,13 @@
+With ChatGPT (3.5) I could, at any point in a conversation, ask it to write a song about it, and it's never failed to impress.
+
+I ask the same thing with Bard, and it gives me text following the same structure as a song, but it doesn't rhyme or anything.
+
+Then, coding-wise, ChatGPT has usually (3 of 4 tries) been able to generate ~1-2 page programs that meet my requirements and run on the first try. The time it failed was due to API changes that were newer than its training data.
+
+Bard refuses to try to code, and it only knows English. Their model is much smaller to reduce costs.
+
+ChatGPT fails most of the math problems I throw at it, confidently giving incorrect answers. [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) will help address this but I don't know when they'll be widely available, or if they already are with GPT 4.
+
+You can't trust language models with general knowledge yet. It's trained not exactly to give accurate answers but to predict how a helpful expert assistant would answer, so it can make a mistake and just "run with it", outputting a plausible lie with expert confidence.
+
+I haven't tried the other services.

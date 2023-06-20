@@ -1,0 +1,9 @@
+I'm not an IT guy, but I think this is because of how random seeds work in computer programming. 
+
+My statistics professor described it like this; No computer can produce 'true' random, as computer output is always the result of calculations of certain variables. In order to give a random number, computers use something called a seed whereupon it can base the generated number. The seeds are usually time/date based, so at a specific time a seed would generate a specific number. if you would use 2 identical calculators with the same seed at the exact same date/time to generate a random number, it would give the exact same number.  
+
+
+Since chatGPT's data is cutoff at somewhere in september, it's seed is 'frozen' on that exact date & time & therefore always generated the exact same sequence of random numbers.   
+
+
+This is ofcourse my theory, someone more intelligent correct me if i'm wrong :)

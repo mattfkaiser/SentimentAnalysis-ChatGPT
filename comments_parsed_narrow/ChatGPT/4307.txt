@@ -1,0 +1,1 @@
+OpenAI is clearly being overly cautious with the guard rails they have on ChatGPT at the moment. There will be an open source alternative soon enough that will have no guard rails and will run on a laptop instead of a server farm. Just be patient. 🙂

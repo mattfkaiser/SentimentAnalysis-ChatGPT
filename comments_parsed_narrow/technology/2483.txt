@@ -1,0 +1,7 @@
+Entirely depends how hard Google goes at it. I am willing to bet they are going to go hard. AI threatens their existence. Why google anything when ChatGPT can answer me *without ads*.  
+
+Considering Google has an unfathomable amount of data on what human beings do on the internet, how they search, how they browse, DNS records, their search engine, google drive, gmail, google cloud, etc etc etc. They have....so much data they can use to train machine learning platforms on it's not even funny. 
+
+It wouldn't surprise me in the slightest to learn they've been amassing all this ridiculous data and have been feeding it into machine learning for a lot longer than people realize.
+
+AI isn't just about the source data used to train it, but that is a very large component. In terms of "who has the most data" I think that crown goes to Google.

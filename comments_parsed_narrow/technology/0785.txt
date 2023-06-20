@@ -1,0 +1,3 @@
+It can answer the low hanging fruit that currently exists and has been answered elsewhere. Technology evolves and there will be new basic questions that ChatGPT will be unable to answer without training data to teach it what the answer is. 
+
+Remember, there is no conceptual understanding or reasoning in a LLM. It’s just parroting word associations it’s seen before.

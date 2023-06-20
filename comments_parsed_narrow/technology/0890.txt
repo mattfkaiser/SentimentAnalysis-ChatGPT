@@ -1,0 +1,1 @@
+Right, but when you ask ChatGPT for a source, it doesn’t know where to find it; it’ll just output what it thinks a referenced answer should *look* like, regardless of whether the sources exist. That’s my understanding anyway.

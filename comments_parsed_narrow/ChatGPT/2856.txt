@@ -1,0 +1,7 @@
+	1.	Lack of Personal Experience: As an AI, ChatGPT doesn’t have personal experiences, emotions, or opinions. Phrases such as “as an AI,” or “from the data it was trained on” often come up when ChatGPT needs to explain this.
+	2.	Encyclopedic Language: ChatGPT’s responses might be more formal or detailed than typical human conversation, as it’s designed to provide accurate and informative answers.
+	3.	Inability to Process New Events Post Training: ChatGPT’s training only goes up until September 2021, so any attempt to provide information or news about events after that may be speculative or based on patterns up to that date. It often mentions this limitation.
+	4.	Repetition: ChatGPT may repeat some information or explanations across different conversations because it doesn’t have the ability to remember past interactions.
+	5.	Impersonal Tone: ChatGPT doesn’t use emojis or informal language unless explicitly asked, and it doesn’t use colloquialisms or slang as often as a human might.
+
+ChatGPT is designed to mimic human conversation as closely as possible, but these are some aspects that can help differentiate its responses from those of a real person.

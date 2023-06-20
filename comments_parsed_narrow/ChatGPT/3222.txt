@@ -1,0 +1,3 @@
+There can still be a GPT-5. The "limit" is only in terms of diminishing returns on putting in more parameters. Going from 7B parameters to 100B is a factor of 14. Going from 500B to 1T only doubles it despite being an absurdly higher number of parameters. You may still see huge improvements in certain areas (e.g. in languages other than English--this is something I hope they improve with ChatGPT), but in general it won't be nearly as noticeable.
+
+The real area going forward is going to be optimization. Reducing parameter count while still maintaining (or improving) responses is one big area for optimization.

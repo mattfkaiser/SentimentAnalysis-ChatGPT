@@ -1,0 +1,3 @@
+Chat GPT is a generic model trained on a large and wide range of data. 
+
+Tools like these will be and from what I am hearing in this case are, trained on more specific domain knowledge. While Dr Gupta might be or might not be a piece of crap, the idea of training AI for more specific tasks is one area we are headed towards.

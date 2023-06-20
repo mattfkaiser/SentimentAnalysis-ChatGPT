@@ -1,0 +1,3 @@
+Also, calculators don't make errors. Can you think what would happen if calculators were accurate "just" 99% of time? How could they ever work if their output changed once we provided the same input too many times? Engineers and scientists could never rely on them for calculating anything.
+
+Even if a calculator is somehow wrong, we can always inspect its usage and inner workings, and figure out whether it was hardware failure, incompetent user, or something else. Who can we blame if something terrible happen when ChatGPT's output is wrong? Nobody knows, not even the OpenAI devs, because it's effectively a black box. Dilution of responsibility is a problem to all machine learning products, not just ChatGPT.

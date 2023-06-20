@@ -1,0 +1,3 @@
+What straws? That you have to train people before you give them access to a new tool? I mean we've seen examples of Samsung employees leaking sensitive data to ChatGPT. If they were unaware of the switch you mention, that's part of training. If the switch did not exist in the version of ChatGPT that they used, it's also part of training. I don't get what's so hard to understand here. 
+
+The cost to use a new tool is not just the licensing cost of that tool. That's the reality from my experience as a software engineer. Perhaps that's not your experience but I don't think it's hard to grasp that you have to educate people around the usage of tools like ChatGPT.

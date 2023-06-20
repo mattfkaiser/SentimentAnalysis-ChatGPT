@@ -1,0 +1,1 @@
+Chat gpt is good at handling simple web dev questions.

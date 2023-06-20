@@ -1,0 +1,9 @@
+tl;dr For the same reasons WSYWIG website editors didn't replace web designers.
+
+I've been developing software for 20+ (eesh) years and have been using (and loving) Github Copilot for about 6 months now. I have no fears of losing my job or for the future prospects for people starting out in the career today.
+
+Couple of reasons. The first being that software development is not about creating code that compiles but about meeting business requirements. And successful businesses have requirements unique from what has hopefully existed previously. Every project I've worked on has had distinct domains, business rules and rapidly changing requirements that I'm just not seeing AI capable of actioning on right now. Heck, we still see ChatGPT flat-out ignore rules it is given in generating responses. 
+
+Furthermore, the people asking these requirements are seldom able to provide an instruction that properly captures all the steps that would be required to actually deliver what they are asking for. There are many orders of magnitude more lines of code in private repos that AI will never train on.
+
+Second, AI in its current form is a tool at best. You need to be skilled in the domain in which you are using it in order for it to be effective. Again, going back to software dev, Copilot is scary good at suggesting snippets based on our own domain models and existing code. But it makes these suggestions without knowing *why* a particular change is being made. So while it's often close, it's seldom right all the way.

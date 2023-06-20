@@ -1,0 +1,2 @@
+it depends, you need to be extremely precise with what you ask, otherwise when you ask for some code it'll give you something that looks like it should give you what you had in mind, but isn't quite it. Also I've found that sometimes its own compiler does not give you the proper results, compared some code that i executed in Spyder and on Chatgpt and it gave wrong answers.  
+If it is a question about a general process it is excellent, and you should mostly use it to explain a process. However when it comes to code, I wouldn't exactly trust it.

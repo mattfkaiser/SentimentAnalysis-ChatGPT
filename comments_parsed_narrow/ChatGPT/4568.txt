@@ -1,0 +1,3 @@
+Not this specific app, this was a proof of concept to see if ChatGPT can help me get an app on the App Store. So far the answer is “yep”. It’s a stupid app, admittedly, but conceptually knowing ChatGPT is helping me accomplish something I didn’t have the skills to do on my own is really mind blowing. 
+
+As another person mentioned, for Engineers at my company ChatGPT isn’t super beneficial yet because it can’t see the full context of our product code. But we are testing GitHub Copilot and the results have been very positive so far.

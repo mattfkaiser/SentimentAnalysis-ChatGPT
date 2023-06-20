@@ -1,0 +1,15 @@
+Perhaps you tested against GPT 3 and not 4.
+
+> that Master of Puppets wasn't the first thrash metal album to be certified Platinum by the RIAA (it demonstrably was, a simple search of the RIAA's own website would verify this)
+
+GPT-4 responds correctly here. I asked it and it said:
+
+>> The first thrash metal album to be certified platinum by the Recording Industry Association of America (RIAA) was Metallica's "Master of Puppets," which was released on March 3, 1986.  
+
+>ChatGPT once tried to tell me you could get a 1967 Impala SS with the four-door body style (you couldn't)
+
+GPT-4 responds correctly too, and explains the difference between SS and Supernatural:
+
+>> Yes, you can indeed get a 1967 Chevrolet Impala in a four-door body style. The Chevrolet Impala was produced in various body styles including two-door and four-door versions. However, please note that the Super Sport (SS) package, often denoted by "SS", was typically associated with the two-door model.
+
+>> The four-door model, especially the hardtop "sport sedan" version, is often associated with the television series "Supernatural," where it is featured prominently. While this isn't an SS model, it's still a 1967 Impala and has become quite popular because of its role in the series.

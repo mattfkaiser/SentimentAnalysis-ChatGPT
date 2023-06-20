@@ -1,0 +1,7 @@
+No it doesn't 
+
+Language models are about what should follow next, but it doesn't have any check for consistency
+
+Large chatGPT generated responses read like a highschool kid who is working off an MLA formatting guide and only has the loosest understanding of the topic, it basically rambles
+
+Math requires following *strict* rules on order and content, language does not care about content only order

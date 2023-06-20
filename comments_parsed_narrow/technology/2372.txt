@@ -1,0 +1,1 @@
+Next time you wish you had a simple program that could do x, ask ChatGPT to help you make it. If there's any part you don't understand or goes wrong, talk to ChatGPT about it. There's a good chance it can walk you through the whole thing, and help solve bugs with you.

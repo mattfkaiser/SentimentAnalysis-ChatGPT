@@ -1,0 +1,21 @@
+First breathe.
+
+The hype machine is going 110% right now. I have been in IT for almost 40 years and every few years this happens. A new "religion" will burst on the scene that is supposed to change everything. It doesn't. Want to know how far back it goes? In 1975, we had Pet Rocks. Yep, people paid real money to buy a rock in a cardboard box (with an instruction manual). This sort of stuff isn't limited to IT.
+
+It wasn't the last time the public lost its collective shit. Back in 1987, Apple released [Hypercard](https://en.wikipedia.org/wiki/HyperCard) and [HyperTalk](https://en.wikipedia.org/wiki/HyperTalk). It was going to remove the need to program anymore and just use English like syntax. Huge splash and then... nothing.
+
+In the 1990s, Microsoft, leader of the tech world then, came up with... wait for it... [Clippy](https://en.wikipedia.org/wiki/Office_Assistant). They spent real money on that POS.  Fortunately, it didn't last long. BTW, Clippy could be considered the son of [Microsoft Bob](https://en.wikipedia.org/wiki/Microsoft_Bob). Both of them were based on Bayesian algorithms. See old stuff never really dies; it just keeps coming back in a different name.
+
+The 2000s came up with gems like the [Segway](https://en.wikipedia.org/wiki/Segway). It was going to change how the world got from point A to point B. Semi-big flash and poof by 2020 the company was sold and the device is no longer being sold.
+
+We are just now at the phase where the warts for ChatGPT are starting to show. There are quite a few of them and [other organizations](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/) are trying to take advantage. You are starting to see articles about bias in chatGPT in [media](https://www.cbsnews.com/news/chatgpt-large-language-model-bias-60-minutes-2023-03-05/). OpenAI is vigorously trying to counter all of this. They have to or they don't make money.
+
+OpenAI is using the cloud saying "Only pay for what you use." That is really a half of a sentence. The rest of it is "...but you will pay for everything you use." It is priced in tokens. That has two problems. The first is that it is confusing what unit of work a token is. That is not an accident. Second, there is a whole theory in gaming about using artificial money, or tokens. It is interesting to study. The TLDR of them is, since tokens don't feel real,  you spend tokens faster than you would real money and then have to buy more. Your discomfort at spending money is less frequent. OpenAI is using quite a few buzzwords in an attempt to get around some very difficult conversations.
+
+Let me give you one last example. Let's say you use OpenAI's other product, *DALL·E 2*. It is quite fun to play with and gives you that serotonin buzz. But what do you do with it? How can you monetize it to make money? These are the use cases that are not yet showing up. Without these, it dies. Cool doesn't pay the bills.
+
+Your job is not going to go away instantaneously. Nothing happens as fast as the companies who make this stuff say it will. Markets have a tremendous amount of inertia. ChatGPT, and it's ilk, will change things but not quickly and not to the extent that their creators hope it will. The good thing is that the skills you are picking up now are extremely transferable.
+
+Like I said, first breathe.
+
+The only real question I have at this point is what the next religion is going to be.

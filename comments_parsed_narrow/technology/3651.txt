@@ -1,0 +1,5 @@
+I've started using ChatGPT for hobbies. For example, I play Dungeons & Dragons as a game master, and ChatGPT is useful for things like quest ideas, loot ideas, scenery descriptions, etc.
+
+Even as a tool for something as relatively simple as a tabletop roleplaying game, ChatGPT is great at generating starting points, and that's it. I need to make adjustments to everything it spits out, because its quest ideas are really rudimentary and the magic items it comes up with are either too simple or too powerful and need balancing. The scenery descriptions are good, but I still need to tweak them to fit the precise scene I'm trying to establish.
+
+I think a whole lot of people will find that ChatGPT will help them with anything from creative writing to coding, but nobody should rely on it in its current state. Use it to get that first jumping off point, or writers can use it so that they're not staring at a blank screen and have something to build off of. But don't use ChatGPT expecting to get a polished final result; to get to that point, you still have to do work.

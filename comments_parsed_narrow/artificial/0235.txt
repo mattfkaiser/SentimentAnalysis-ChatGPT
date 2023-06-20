@@ -1,0 +1,6 @@
+Seems like this article is pretty out of date. chatGPT has improved a ton since this was written. Many of the examples are no longer true at all.[Here](https://imgur.com/AQNfyg1) is a screenshot of some of the examples that were used to show how bad chatGPT is and it did a great job with each of them. (These are the examples that were not in polish, also I didn't do the math ones because it is already well known and accepted that it is bad at math)  
+
+
+The number in poland one is a good example of a hallucination though. I would definitely argue that is an extremely niche reference.  
+
+TLDR: It is much better than it was even though it has more to learn.

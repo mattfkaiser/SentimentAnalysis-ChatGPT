@@ -1,0 +1,7 @@
+Uh no.
+
+It performed a web search, to find the answer.
+
+The answer it gave, is whatever the IP address the search engine saw when the search was performed.
+
+So it's the IP address of whatever service makes the queries to bing on behalf of ChatGPT.

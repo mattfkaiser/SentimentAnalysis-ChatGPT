@@ -1,0 +1,9 @@
+Most Americans aren’t tech savvy.  
+
+I know how to do basic excel work, formula, conditional formatting, blah blah.  Every where I’ve worked in the clinical trials industry has looked at me wide eyed like I’m a master coder.  
+
+If you don’t know how to use the tool, you won’t find it useful.  Chat GPT takes a level of time and understanding of how it works before you get the results you are looking for.  Most people don’t want to change their day to day and dedicate the time.  
+
+I still run into people manually entering data into excel despite the fact there are about 10 tools available to import data…built within Excel and dozens of third party free add ins that could do it.  
+
+What passes as competent in corporate America is scary.

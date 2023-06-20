@@ -1,0 +1,1 @@
+ChatGPT's pre-prompt includes its knowledge cut-off date, so it defers to that first when asked about anything current.

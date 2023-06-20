@@ -1,0 +1,5 @@
+Quite honestly, your best experience might be to just start talking to chatGPT. You will both see the capability, and you can literally ask it to teach you about ML from scratch.
+
+Go to chat.openai.com
+
+And just ask it like you would a person: "im curious about machine learning, can you teach me the basic principles?"

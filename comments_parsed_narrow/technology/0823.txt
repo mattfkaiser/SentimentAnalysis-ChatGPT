@@ -1,0 +1,13 @@
+This makes intuitive sense because to ask a question means to
+
+* first, exhaustively search for related questions and answers using antiquated exact term or fuzzy search
+* second, undergo the arduous process of typing the question itself which requires creation of sandboxed example code, producing proprietary-obfucscating snippets, and well edited paragraph descriptions of context
+* third, wait for humans to respond which is dependent on population of relevant contexts, such as waiting for some library owner to see your question about their library; waiting for both quality and quantity of response
+
+Searching historic answers from StackOverflow is still hugely beneficial to me; I haven't asked many questions in the past year(s) due to arguable proficiency of debugging ability but also strongly because asking a question takes so long when ramming your head into the keyboard is often faster.
+
+Thus, ChatGPT emerges as a quick way to translate precise context constraints and wording into precise solution areas... it would be nice if ChatGPT could detect novel questions and novel answers and post them to StackOverflow. Maybe StackOverflow can make such a feature to bite back traffic.
+
+In my opinion, Google history of StackOverflow questions/answers is effectively an database index of shortcuts to related programming surface area. We critically need the ability to fast search. StackOverflow has a huge advantage in showing a question that has many answers that relate to different "aspects" or "angles" of approach to a problem. ChatGPT I'm certain still lacks at that because it cannot give you all 10 answers to a specific question.
+
+Also, perhaps arguably ChatGPT could deprecate some or maybe even all of what I'm saying since the quality its answer depends hugely on the exact combination of words used to prime that answer. I merely note subtle differences in root logic comparing fast/shallow funnel-searching vs. slow/deep razor-searching.

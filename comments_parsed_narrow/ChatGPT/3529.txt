@@ -1,0 +1,5 @@
+I downloaded the entirety of the euromillions numbers for the last 14 years and fed them into chatGPT as they were drawn out in the draws and asked it to analyse the data and predict the next few rows in the table.
+
+It immediately picked up that the numbers had no pattern and were in fact, lottery numbers and then told me the impossible odds of winning the lottery.
+
+I have saved at least €60 by not buying lottery tickets since then.

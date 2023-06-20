@@ -1,0 +1,5 @@
+The reason code is typically more difficult to read than to write is context. When you're writing code, you have all the context in your head, and you're just following on to the next step in solving the problem. When you're reading code, you have to reconstruct that context, often by digging through a lot of code that is mostly irrelevant.
+
+None of that applies when you're asking ChatGPT (in its current form) to write code, because you know exactly what the context is.
+
+That might be a real issue though if you were using the 32K GPT-4 model, since it can keep track of enough context to hold an entire small project "in its head" at once.

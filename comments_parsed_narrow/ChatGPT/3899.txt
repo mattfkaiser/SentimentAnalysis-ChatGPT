@@ -1,0 +1,3 @@
+\>  2. Give it the ability to experiment
+
+It's an LLM - it transforms text, not conducts experiments. You are asking how ChatGPT would do on a smaller training set while simultaneously inventing general AI

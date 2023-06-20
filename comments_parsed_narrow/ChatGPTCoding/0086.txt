@@ -1,0 +1,19 @@
+Copy the transcript into playground and ask for a summary
+
+edit - Gpt4 result of the above:
+
+ 
+
+Summary of the video:
+
+* The speaker shares their method of using OpenAI GPT tools in programming to overcome common issues like confusion and repetition in long linear conversations.
+* They demonstrate creating a simple to-do app with Flask, using ChatGPT for refining ideas and generating boilerplate code.
+* To avoid the limitations of ChatGPT, the speaker transitions to the Playground to access the models directly and configure them with custom system prompts.
+* They update the app's features (e.g., adding categories) by modifying the system prompt, incorporating the latest code, and using the Playground for more efficient and flexible conversations.
+* The speaker also includes specific API documentation and example code in the system prompt to ensure the assistant has the correct information when generating new code.
+
+Key takeaways:
+
+* Use ChatGPT for refining ideas and generating boilerplate code.
+* Utilize the Playground for more control, flexibility, and efficient conversations.
+* Keep the system prompt updated with the latest code and relevant information for better results.

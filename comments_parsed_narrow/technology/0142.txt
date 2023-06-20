@@ -1,0 +1,7 @@
+Because right now the calculator sends all of your private company information to IBM to get processed and they store and keep the data. 
+
+Maybe when calculators are easily accessible on everyones devices would they be allowed, but right now they are a huge security concern that people are using despite orders not to and losing their jobs over.
+
+Sure, there are also people falsely flagging some real papers as AI, but if you can’t tell the difference how can you expect anything to change?
+
+ChatGPT should capitalize on this and make a end to end encryption system that allows businesses to feel more secure… but that’s just my opinion. Some rich people are probably already working on it

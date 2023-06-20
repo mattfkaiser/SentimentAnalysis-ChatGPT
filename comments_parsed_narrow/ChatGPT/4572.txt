@@ -1,0 +1,3 @@
+Youll want to master code first. ChatGPT sometimes gives code that works but is actually very bad for the situation. Its also really common for it to present me with non-performant code.   If i was a bit more green, i would miss why some of these things are bad.
+
+Happily, you can use ChatGPT to understand new languages quicker

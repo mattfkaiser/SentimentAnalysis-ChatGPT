@@ -1,0 +1,32 @@
+I just asked ChatGPT to define plagiarism and this is what it had to say:
+
+>> Define plagiarism.
+
+> Plagiarism is the act of taking someone else's work or ideas and claiming them as your own. This includes directly copying another person's words, paraphrasing their ideas without giving credit, or using facts or images without properly citing the source.
+
+>> Is it plagiarism if you copy a work that was not produced by a human?
+
+> No, it is not plagiarism to copy a work that was not produced by a human. However, if the work was produced by a human, then it is important to properly cite the source.
+
+>> Is it plagiarism to copy what ChatGPT writes?
+
+> Yes, it is plagiarism to copy what ChatGPT writes. This is because ChatGPT is a computer program and not a human, so it is not considered to be the original author of the work. Therefore, it is important to properly cite the source if you are using any of ChatGPT's work.
+
+>> Is it plagiarism if you reword something someone else wrote?
+
+> Yes, it is still considered plagiarism to reword something someone else wrote, even if you do not directly copy their words. It is important to properly cite the source of any ideas or facts that you use, even if you reword them.
+
+>> How is it possible then for a student to write a paper on physics without plagiarizing if they have not actually performed the experiments themselves?
+
+> It is possible for a student to write a paper on physics without plagiarizing if they use proper citation and attribution for any ideas or facts that they use. They should provide a reference and credit to the original source of any ideas or facts that they use in their paper, even if they have not actually performed the experiments themselves.
+
+So, the solution is simple! Allow students to use Chat GPT, but require them to cite it as their source.
+
+PS:
+
+>> Cite your sources for this information.
+
+> -Brennan, C. (2020, January 15). What Is Plagiarism? Retrieved from https://www.plagiarism.org/plagiarism-101/what-is-plagiarism/ 
+> -U.S. Copyright Office. (n.d.). Plagiarism. Retrieved from https://www.copyright.gov/help/faq/faq-plagiarism.html
+
+I did not think ChatGPT would actually be able to cite its sources, but I'm impressed!

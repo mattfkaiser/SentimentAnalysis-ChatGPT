@@ -1,0 +1,5 @@
+>What is ChatGPT good at? Finding and presenting information using well-formed English syntax and grammar and a very basic paragraph structure.
+
+This is interesting because you highlight the "approach" that ChatGPT takes to reply to the user messages. 
+
+I appreciate your perspective on this so I am wondering how you see tools like ChatGPT and our path to AGI? They way I read the quoted pary is that it only seems intelligent but there will be a clear wall compared to actual "knowledge".

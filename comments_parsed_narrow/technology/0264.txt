@@ -1,0 +1,5 @@
+Plugins: https://openai.com/blog/chatgpt-plugins including a "web browsing plugin"
+
+Fine tuning models: https://platform.openai.com/docs/guides/fine-tuning
+
+Also Bing uses ChatGPT and has access to search results...

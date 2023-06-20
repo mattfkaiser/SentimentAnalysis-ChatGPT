@@ -1,0 +1,3 @@
+Imo it's going to take a lot lot lot more than Chatgpt to replace most white collar jobs that aren't already being replaced by RPA. 
+
+ChatGPT isn't reasoning or performing any critical analysis when it provides an answer. It has a bunch of data scraped from the internet, including reddit, and a very good method for creating answers based on that data that sound natural and mimic human composition.

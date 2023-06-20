@@ -1,0 +1,3 @@
+Code for devops. Architecture diagrams for solution design. Research in my bucket since i am the Azure SME and unless i want to ask MS questions all the time there isn’t anyone else in my org i can ask questions of
+
+I’ve had it do some basic text processing when i don’t want to deal with regex. If i need a powershell script for some random one off request chatgpt has been great at that. Nearly %99 good first go, i just generally adjust the output format since i’m picky and tend to use csv output in a later downstream stage (like building a dashboard)

@@ -1,0 +1,1 @@
+I imagine the machine also learns from the responses it’s able to generate, no? Not only that square root of -1 = X but the reasoning behind it that could be applied to similar problems. If this is incorrect and chatGPT is really just acting as a dumb pass-through to WA, that would be good to know.

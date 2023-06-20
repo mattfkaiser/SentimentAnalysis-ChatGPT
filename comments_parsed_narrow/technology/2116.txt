@@ -1,0 +1,9 @@
+"An average user’s conversational exchange with ChatGPT amounts to dumping a large bottle of fresh water out on the ground"
+
+Small conservative thought experiment:  The user total by January was 100 million.  Each of them has just one of these average conversations and the large bottle of water considered weighs 1kg and has a temp of 20C.  Water's latent he is 540 kcal/kg and we have 80 degrees to raise it to boiling, so 100,000,000\*1\*80 + 100,000,000\* 540 = 62,000,000,000 kcal.  We can consider energy in terms of joules here with a simple kcal\*4184 = 2.59408x10\^14 J.   Silicon die are pretty efficient at transferring energy into heat (efficiency in terms of heat generated is blasphemy, I know) \[we can almost call it 100% inefficient if we're speaking mechanically\].  Let's consider these conversations took place over the period of one month.  2.589408x10\^14 J / 3600 seconds/hour / 720 hours/month = \~100.08 MW.  And I heard its on an Azure server lattice.  I've read they use about 10,000 GPUs to train the model and more than 300k CPUs in the cluster.
+
+Edit:
+
+I think this math might just check out as far as the potential to change the phase of water, but I don't know if phase shifting is the sole means of sapping heat for the ChatGPT super computer.  I would think much of the water is used to transport the heat as a reservoir in tandem with evaporative cooling.
+
+What does everyone else think?

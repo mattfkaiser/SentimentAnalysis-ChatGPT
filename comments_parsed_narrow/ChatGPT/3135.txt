@@ -1,0 +1,3 @@
+ChatGPT is not good at dealing with vague information. When doing a programming project, you still have to understand programming in the long run in order to build an efficient programme.
+
+In some cases, it can give you wildly different answers in different chats on the same topic. I was asking it for some chemistry related information for a small business idea and in some cases, it would tell me a certain compound was water soluble, and in other cases, it would tell me it wasn't.

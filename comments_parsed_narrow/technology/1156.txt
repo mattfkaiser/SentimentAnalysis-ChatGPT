@@ -1,0 +1,7 @@
+It is not 100% accurate, so hope you feel comfortable failing some students who did not use ChatGPT
+
+ChatGPT will release its own endpoint that may be 100% accurate, but only for ChatGPT, not other gpt3 chatbots
+
+Once you have a few dozen GPT chatbots which is almost true already, it will be literally impossible to prove 100% that someone plagiarized, so you’ll have to periodically fail people who did not
+
+Also just so you know, Timmy can ask ChatGPT to write at a specific grade level

@@ -1,0 +1,1 @@
+Italian here. Chatgpt works just fine in this country, thank you. What was blocked was just the demo website chat.openai.com, exclusively for privacy considerations (e.g. there is no provision to keep our data someplace in the EU).

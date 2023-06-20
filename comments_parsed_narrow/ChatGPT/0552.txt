@@ -1,0 +1,3 @@
+Is there an ai that is particularly good at writing scripts, technical problemsolving and debugging?
+
+Chatgpt is great for the basics, but at some point will just start going in circles, or removing part of the code for no reason

@@ -1,0 +1,7 @@
+> . It is software and it has the capacity to curate from the web
+
+No, it doesn't. Its information is stuck in 2021. The model is formed, then processed, then released and it is not realtime.
+
+>is getting better at contextualising the data it can find and reducing errors
+
+This is only because of human intervention in the last 2 months due to negative media coverage. The devs are putting their fingers on the scale to alter results to reduce the amount of e.g. conspiracy theorizing coming from ChatGPT.

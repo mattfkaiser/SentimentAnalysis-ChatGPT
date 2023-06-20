@@ -1,0 +1,5 @@
+I've recreated how ChatGPT plugins work using my own code. In essence, I've created external chatbots that can work with any plugins that have been created for ChatGPT.
+
+I use a series of ChatGPT api calls, along with some custom code, to extract the parameters, prepare the API call, handle the response and then respond to the user.
+
+This is just traditional programming, although "agents" are the buzzword these days for essentially doing the same thing.

@@ -1,0 +1,3 @@
+>How do I teach ChatGPT
+
+You can't. ChatGPT doesn't learn. Tell in your original prompt what you don't want and it will follow it. Copy that prompt locally so you can use it in the future.

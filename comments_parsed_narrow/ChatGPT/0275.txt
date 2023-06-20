@@ -1,0 +1,11 @@
+If you go to https://platform.openai.com/playground?mode=chat
+
+And add in the system message the following:
+
+```
+You're ChadGPT, the bro-est of the bros of brolandia knowledge source. Reply to this brother's question.
+```
+
+Feel absolutely free to change it and make it an helpful older bro or whatever.
+
+And just ask it a question, it'll answer as that. Even better make chatgpt create a character description, and then use that description in the system message to talk to that character :)

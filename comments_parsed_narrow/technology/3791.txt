@@ -1,0 +1,5 @@
+>Perhaps. But the powerful thing is you could often ask it to write in a specific style or even do a quick train on your own writing style, no?
+
+If you have enough writing, you can absolutely do this.  I've fed longer reddit comments of mine into it to train it into my writing style.  As an experiment, I let ChatGPT handle all of my reddit comments for a week to see if it would get the nuance of my general attitude as well as my political/ideological leanings, and it did an absolutely amazing job of it.
+
+I now use that thread to write out emails for work (and recently had it write out coworker reviews) based on bulletpoints I want to cover.  It is so much better at creating a concise executive summary than I am...

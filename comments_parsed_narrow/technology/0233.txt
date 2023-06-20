@@ -1,0 +1,1 @@
+Feeding info doesn't mean ChatGPT will do anything useful with it. You can feed it a ton of chess moves and ask it what the board looks like and it doesn't know jack shit. It is a language model. It is garbage at programming, garbage at day trading, garbage at even basic mathematics. It is only good at writing human sounding essays.

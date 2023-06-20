@@ -1,0 +1,5 @@
+I guess chatGPT then always needs to be prompted with all the possible locations an agent can walk towards.
+
+Or, a second model can map the mentioned locations in the LLM output onto the possible Smallville locations like how they handled the possible actions.
+
+Edit: Ah, it's explained in chapter 5 of the paper. They are prompted with locations they can perceive and remember.

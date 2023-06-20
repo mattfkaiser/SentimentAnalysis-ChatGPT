@@ -1,0 +1,5 @@
+>No, because it can't do that.
+
+It is currently being used to alter, improve and translate computer code fairly successfully.
+
+edit: Why don't you come up with an example and then we can actually test to see if ChatGPT can translate it to another framework or language, etc?

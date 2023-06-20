@@ -1,0 +1,6 @@
+Check [this](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/) out. It is an article by Stephen Wolfram, he's forgotten more than most of us will know on the subject. Two take aways, 
+
+1. How will chatgpt work with other AI
+2. chatGPT still is a work in progress.
+
+The definition you gave is really good. It looks like chatGPT is good at skills, but it is, at best, only OK. What it does present it well and it should, it is a language model. But it doesn't know what things mean. It can only take information from the training set and learn from it. If the training set is poisoned, or of low quality, it gives wrong answers but they sound good.

@@ -1,0 +1,43 @@
+> This is an invention larger than the internet, its changing everything as we speak. Would you agree with that?
+
+Computers and internet were much bigger seismic shifts. AI is just a tool on that.
+
+> Well isn't that likely true though, we are quite likely to see mass job displacement and entire industries evaporate seemingly over night. We can already see the smoke.
+
+Fear and FOMO, jobs changed more in the move to agriculture (allowed people to think rather than survive), manufacturing, vehicles (travel quality of life improvements), computer (the first big automation), internet (world changing), mobile (always with you)...
+
+AI is another tool on top of all those that help you think/create/produce. It is not going to be doing whole jobs, but tasks.
+
+> Why do you think that about Google? Google is in a similar spot to what Kodak was a few years ago before they went bust. But you have been keeping a closer eye on Bard so maybe you feel like that will save them? Do you think they can survive the death of youtube or the likely ad-apocalypses thats coming?
+
+Google is actually the source of most of the research and tools people use, see Google Brain wiki for info on this. 
+
+GPT is based on work by [Google Brain](https://en.wikipedia.org/wiki/Google_Brain). ChatGPT is built on research and development by Google. Don't believe the marketing hype on ChatGPT, they are promoting datasets mainly not the innovations that built the possibility.
+
+As far as company/commercial, Google seems to be the most open and Google Brain really started this whole thing with transformers.
+
+[Transformers, the T in GPT](https://en.wikipedia.org/wiki/Transformer_(\machine_learning_model\)) was invented at Google during [Google Brain](https://en.wikipedia.org/wiki/Google_Brain). They made possible this round of progress.
+
+> Transformers were introduced in 2017 by a team at Google Brain and are increasingly the model of choice for NLP problems, replacing RNN models such as long short-term memory (LSTM). The additional training parallelization allows training on larger datasets. This led to the development of pretrained systems such as BERT (Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer), which were trained with large language datasets, such as the Wikipedia Corpus and Common Crawl, and can be fine-tuned for specific tasks.
+
+Google also gave the public [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) and [DeepDream]( https://en.wikipedia.org/wiki/DeepDream) that really started the intense excitement of AI/ML. I was super interested when the AI art / computer vision side started to come up. The GANs for style transfer and stable diffusion are intriguing and euphoric almost in output.
+
+In terms of GPT/chat, Bard or some iteration of it, will most likely win long term, though I wish it was just called [Google Brain](https://en.wikipedia.org/wiki/Google_Brain). Bard is a horrible name.
+
+ChatGPT basically used Google Brain created AI tech, transformers. These were used to build ClosedGPT. For that reason it is NopeGPT. ChatGPT is really just datasets, which no one knows, these could swap at any time run some misinformation then swap the next day. This is data blackboxing and gaslighting at the up most level. Not only that it is largely funded by private sources and it could be some authoritarian money. Again, blackboxes create distrust.
+
+Microsoft is trusting OpenAI and that is a risk. Maybe their goal is embrace, extend, extinguish here but it seems with Google and Apple that Microsoft may be a bit behind on this. Github Co-pilot is great though. Microsoft usually comes along later and make an accessible version. The AI/ML offerings on Azure are already solid. AI/ML is suited for large datasets so cloud companies will benefit the most, it also is very, very costly and this unfortunately keeps it in BigCo or wealthy only arenas for a while.
+
+Google Brain and other tech is way more open already than "Open"AI.
+
+ChatGPT/OpenAI just front ran the commercial side, but long term they aren't really innovating like Google is on this. They look like a leader from the marketing/pump but they are a follower.
+
+> Ok now, I understand you. I just can't agree with that. I mean this is at least as similar as the internet but likely a lot larger in terms of scale because its a self recursive improving system.
+
+It will help with context and tasks. It will be a massive impact to art i.e. creating art in an artists style or IP style. It is also amazing about adding fidelity to video/3d etc. It will help get started on many things but if it is doing the entire thing we'll have a monoculture. For some things that works, not for new innovations where the contrarian view is a key input on that.
+
+We'll probably have to agree to disagree and check back in a a couple years.
+
+My guess is in a few years people will be tired of AI bots/content messing up the internet and it will be just another thing like social media. Yes it has benefits, but it is mostly used for bad. Everyone has to start using it in some way to compete but the hype is immense and it has trapped the minds of many into falling into the trojan horse data broker trap of inputing anything and everything. It is the biggest blackbox in human history and it will need to be more open. 
+
+OpenAI is more like ClosedAI which makes that a NopeAI.

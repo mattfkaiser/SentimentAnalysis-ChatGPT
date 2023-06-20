@@ -1,0 +1,7 @@
+> 1. You will be sending proprietary company information over the Internet to a 3rd party.
+
+Everyone's jumping on this bandwagon.
+
+Using chatgpt for work doesn't automatically mean you'll be sending confidential info. You can use it to ask how to do something with a tool, troubleshoot errors, etc and get huge benefits with 0 confidential info sent.
+
+And if you do insert confidential info or PII into a prompt, you're an idiot. Just maybe have a personal policy of not copying and pasting text into the prompt so you don't accidentally paste some confidential info in. Fingers typin' only.

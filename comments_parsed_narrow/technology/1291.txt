@@ -1,0 +1,31 @@
+>No, I know what its limits are and I don't care if you want to carry on being delusional.  
+>  
+>Have a go if you like, you'll hit the same walls I did.
+
+There are hundred if not thousands of comments and pages around how it can convert code from one language to another. It's worked fine for me. 
+
+&#x200B;
+
+>The AI chatbot has been trained in many programming languages and can port code between many of them with a high degree of accuracy.   
+>  
+>[https://www.makeuseof.com/chatgpt-programming-practical-uses/](https://www.makeuseof.com/chatgpt-programming-practical-uses/)  
+>  
+>  
+>  
+>I just gave ChatGPT 200+ lines of JavaScript code and asked it to translate the code into Python. The code parses text using regular expressions. It was complex.  
+  
+2 minutes later and I had Python code that worked flawlessly.  
+>  
+>[https://twitter.com/svpino/status/1610758900541685761?lang=en](https://twitter.com/svpino/status/1610758900541685761?lang=en)  
+>  
+>  
+>  
+>Had it generate PHP, translate it into COBOL, then into a made up Spanish language pseudo code. It stayed logically consistent. You could probably even get it to convert it to Redneck.  
+>  
+>https://www.reddit.com/r/ChatGPTCoding/comments/ziioky/have\_you\_used\_chatgpt\_to\_translate\_code\_from\_one/
+
+&#x200B;
+
+You are literally the only person I've seen say there is an issue. Why don't you explain what issues you found and give some code to illustrate them. 
+
+Maybe you are right, but you've provided no evidence or detail. Do you even have a link to a site or article or anything at all? What walls did you hit?

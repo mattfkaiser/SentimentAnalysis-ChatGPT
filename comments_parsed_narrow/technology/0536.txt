@@ -1,0 +1,9 @@
+> They are aware, and they explicitly disclaim it.
+
+Evidently not aware enough, given they still released the damn tool and only put a warning on there.
+
+Merely sticking a disclaimer on there doesn't mean you're no longer responsible for trivially foreseeable outcomes. _Especially if you yourself set the example by ignoring that disclaimer_.
+
+> I don't think you know what ChatGPT is.
+
+Yeah, yeah, I shortened "Machine that has no concept of truth or libel generating somewhat-stochastic token strings" to "lying machine".

@@ -1,0 +1,5 @@
+>  This is marketing BS that ChatGPT is going to use to woo investors and boost the perceived value of the company.
+
+Not sure if that's a factor. They have firms already lined up to invest, but OpenAI currently appears to be satisfied with the $10 billion that Microsoft is investing. That $10 billion will last for the foreseeable future, at least long enough to scale up and see how the subscriber model will play out. 
+
+They also have a huge growth sector of larger volume subscribers beating on their door. Dozens, probably hundreds, of start-ups are desperate to get larger deals cut with OpenAI, so they can build front-end applications using the GPT-3 engine.

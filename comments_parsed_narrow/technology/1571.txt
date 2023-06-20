@@ -1,0 +1,5 @@
+You might try asking it again with different phrasing.  A co- worker and I were able to get ChatGPT to return a functioning powershell script when we were very specific about what we wanted: “Write a PowerShell script that returns all user accounts whose password will expire within 17 days.”
+
+Did it “generate” the script?  Don’t know, don’t care.
+
+It got the job done just like calling a bunch of code libraries, changing strings and variables does.

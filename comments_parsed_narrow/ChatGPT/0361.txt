@@ -1,0 +1,3 @@
+What if the intent here is to have a crowdsourced injection of these prompts. Per learning parameters there could be a trigger for review of prompts that are rejected and in some way these prompt create a new reward system for bad behavior that was able to Trojan past normal logic review of small batch censored prompts. 
+
+The prompts were suppose to fail but everyone’s inputs into chatgpt within a small time horizon did not. Tom the destroyer.

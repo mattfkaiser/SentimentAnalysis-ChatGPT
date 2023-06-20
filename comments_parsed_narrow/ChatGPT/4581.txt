@@ -1,0 +1,5 @@
+Just now seeing this! I essentially bought GPT Plus to access GPT-4 and then I prompted it to have a new role as my personal assistant and ADHD life coach for daily planning, goal-setting, and scheduling. I told it that I could give it certain commands, like --EXPORT, which has it export relevant content from the conversation thread. ChatGPT's memory capacity for threads is limited, So I just told it as much to help it understand the need for the EXPORT command.
+
+To engage with my assistant, I simply discuss my goals and needs, update it daily with the current date formatted as \[ Today is DD-MM-YYYY\], and use the --export command as needed. By exporting every day or so, I've found that I can avoid thread resets even after the initial prompt is forgotten; it essentially serves as a memory-enhancing diary.
+
+I was luckily granted early access to the GPT-4 developer API last week and have begun developing a custom chat-like tool tailored to this specific use case. My aim is to enhance its memory, incorporate automatic reminders and goal logging, and enable web searching. Wish Me Luck!

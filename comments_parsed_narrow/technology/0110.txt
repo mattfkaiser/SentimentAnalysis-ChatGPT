@@ -1,0 +1,5 @@
+Yep, can confirm, can't speak for other fields but from my experience of playing around with ChatGPT it is not very good at conveying the nuances of a research paper that it summarized when you begin to ask slightly specific questions about the paper's content. 
+
+The easiest way to notice this is if you ask it to regenerate a response. You can actually notice significant differences in between its attempts at answering your questions (So it would say one thing in response a, but something contradictory in response b). However, if you are a lay person (i.e. haven't been taught how to read and interpret research in a particular field of study), these differences in interpretation can easily fly over your head.
+
+This is especially problematic for social or health sciences (Like psychology), because it can incidentally create misinformation in field that often garners a lot of interest from lay people.

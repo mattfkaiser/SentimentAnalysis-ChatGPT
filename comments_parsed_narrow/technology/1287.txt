@@ -1,0 +1,7 @@
+lmao, it seem like you are not a developer so you don't know how to make a programming problem that doesn't exist on the internet. 
+
+the fact that you jumped straight into asking it to make an entire website for you like that mean that you're not a developer because anyone that have used ChatGPT as a developer know that you need to break a problem into small bit for it to solve.
+
+let me ask you a simple problem that even first year CS student should easily answer:
+
+How can I turn an object of type Employee returned by the getEmployee function into an object of type Developer, which is a subclass of Employee and has a method I need for the code I'm working with?

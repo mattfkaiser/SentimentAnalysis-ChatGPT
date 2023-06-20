@@ -1,0 +1,22 @@
+This is not true from my experience. Today I tried to make it fox a simple Python error and it kept just being plain wrong or unhelpful. I’ve tried it with similar things before and it has no issues giving me exactly what I needed.
+
+The error was to do with async and it was something along the lines of this:
+
+await func(var1, var2)
+
+It said because the function was not in an async function I needed to move it. So it made the following:
+
+async def func_caller(var1, var2)
+    await func(var1, var2)
+
+await func_caller(var1, var2)
+
+It didn’t fix the issue at all it just moved it around. Previously it could fix issues like this pretty consistently.
+
+But that’s not the worst part. Misunderstanding an issue is fine, the issue comes to correcting it. I explain what’s wrong and then it doesn’t fix anything.
+
+For example I had a function having issues with the input parameters. The function was something like func(bot, inter). I asked it for help on an error, and it just removed inter, to make it func(bot).
+
+I told it I still need to access inter somehow. So it added back inter, giving me the exact same code I started with and saying “this should fix it”
+
+Originally chat GPT would have kept in mind that something was tried already

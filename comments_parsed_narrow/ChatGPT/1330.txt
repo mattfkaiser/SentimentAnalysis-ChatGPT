@@ -1,0 +1,3 @@
+On it explaining, you can reduce that by telling it not to. Write your command. At the end, say “Don’t explain what it does. Don’t include any other ChatGPT messages in your response. Just (goal here).” I also tell it how to format the response itself sometimes.
+
+These tricks work sometimes. They don’t work other times. (Shrugs.)

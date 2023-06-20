@@ -1,0 +1,1 @@
+I have been experimenting with the 100K Claude in Poe, and am impressed. However, you can also use ChatGPT with the Ask Your PDF plugin, and it often seems to me to do a better job.

@@ -1,0 +1,7 @@
+Ok, my story. Have over 150,000 CovId links, (Subreddit’s) have been updating the list every 5 mins, 24/7. For 3 years now. The B2B is to make this available to healthcare interested folks. 
+
+Some great tips here. Looks like diving into the ChatGPT api is the place to be. The data is super clean, saved in a PostgreSQL database. The majority of the links are summary titles from journal articles. 
+
+Business card I guess should say “Model Maker.”
+
+More to play with. :-)

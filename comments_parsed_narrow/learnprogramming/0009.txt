@@ -1,0 +1,3 @@
+Im useless when it comes do design UI's, i ask chatgpt all the time to help me with design in android (kotlin) and flutter (dart)
+
+The important thing is to understand what is happening and why it happens :) also since stack overflow is pure shit since years ago is the best tool i think right now to solve questions.

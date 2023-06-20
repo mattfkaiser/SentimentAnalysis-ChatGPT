@@ -1,0 +1,3 @@
+Copilot doesn't understand anything outside of the file and just guesses based on patter s found in normal code. This is great if you use a lot of libraries and standard types.
+
+ChatGPT allows you to define a type, and then it'll historically reference that type. Maybe if copilot were to injest the entire project it could be equvilent, but being able to specify certain constraints does help chatGPT beat copilot in mose cases.

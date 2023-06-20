@@ -1,0 +1,8 @@
+This is not good advice.  Do not do this if you value your job. Installing free-ware is a bad idea on a work computer; and waaaay worse is freeware remote access tools. People get harsh reprimands when this is discovered and worse, lose jobs immediately if they open a door for a threat actor.   
+
+
+The real answer is two fold:   
+1. If you really want to use ChatGPT or other AI to assist in your job and your job is NOT OK with it, do it privately at home and make SURE you know what you're copy pasting from GPT.   
+
+
+2. If you have the clout and courage, you should be a strong voice for advocating against sticking your head in the sand as it relates to AI. Ignoring the benefits of these new tools will obsolete companies very quickly, methinks.

@@ -1,0 +1,7 @@
+tldr; a guy named Chris Cowell wrote "Automating DevOps with GitLab CI/CD Pipelines".
+
+"Three weeks before it was released, another book on the same topic, with the same title, appeared on Amazon".
+
+"The book bears signs that it was written largely or entirely by an artificial intelligence language model, using software such as OpenAI’s ChatGPT."
+
+"The book’s publisher, a Mumbai-based education technology firm called inKstall, listed dozens of books on Amazon on similarly technical topics, each with a different author, an unusual set of disclaimers and matching five-star Amazon reviews from the same handful of India-based reviewers."

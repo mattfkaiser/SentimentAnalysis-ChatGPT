@@ -1,0 +1,7 @@
+Agreed. When you choose to use an open source library in your code, then you are subject to their bugs. 
+
+For example, I could build a commercial SaaS product for, let’s say, vacation travel package deals and I choose to make use of various open source libraries for many pieces of functionality. By choosing to make use of any open source your code is subject to any bugs in those open source libraries. 
+
+In fact, in some communities, It’s very common for there to be people who work on both sides. That is, they work on the open source libraries and they work on commercial products that make use of the open source libraries. I have done exactly this for 20+ years of my career now. In fact, it’s also a very common business model. I’ve done this several times in my career as well.
+
+Anyway, as a commercial software engineer you deal with mitigating and remediating these exact situations quite frequently. The origin of the situation with ChatGPT being an issue in a dependency open source library is extremely common in the software industry.

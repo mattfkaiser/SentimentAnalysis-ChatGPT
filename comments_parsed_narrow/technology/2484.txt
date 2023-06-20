@@ -1,0 +1,4 @@
+Google/search engines points you to sources, ChatGPT might mangle things up and serve you bs.
+Also “without ads” is not going to be true at some point. I think ChatGPT already switched to a free/paid tier. This is not going to be a free/ad-free service forever, it was a proof of concept. Hopefully competition will mean less ads/better results though.
+
+Google is most likely ahead of everyone else in AI (or at least they used to be 2-3 years ago). They were smart enough to acquire DeepMind early on too. You are right to think that they have been training models for years.

@@ -1,0 +1,11 @@
+* The explosion of generative AI has taken the world by storm, but one question all too rarely comes up: Who can afford it?
+
+* OpenAI bled around **$540 million** last year as it developed ChatGPT and says it needs **$100 billion** to meet its ambitions
+
+>"We're going to be the most capital-intensive startup in Silicon Valley history," OpenAI's founder Sam Altman told a panel recently.
+
+* To train AI, you need vast amounts of computing power.  Only the largest tech giants such as Microsoft, Amazon, Google, Meta, etc have such facilities.  They typically allow other companies access to it, a service known as cloud computing.
+
+* Cloud costs are comparable to electricity bills and companies could easily run up massive bills in a mad dash to develop AI apps and services.  Only the best funded companies might survive this race.
+
+* The Azure cloud computing service has been the Microsoft's bread-winner for years, bringing in huge profits but without attracting the headlines of an iPhone or social media that go straight to the consumer.  AI is set to ramp it up even further.  This may explain Microsoft great eagerness in pushing AI as fast as possible.

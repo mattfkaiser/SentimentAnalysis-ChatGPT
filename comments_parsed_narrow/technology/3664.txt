@@ -1,0 +1,6 @@
+Like he said, anyone can get it to make some code, but knowing it's the right code and even knowing what code to ask for is most of the battle. The actual code itself is somewhat trivial. Kinda like how the plumber comes and fixes a person's water by hitting a certain spot in a certain pipe with a hammer. When asked why he charged 10k for simply hitting a pipe with a hammer, he provided an itemized receipt:
+
+ 5 dollars: hitting pipe with hammer  
+ 9995 dollars: knowing where to hit
+
+chatGPT is still just the hammer in this scenario.

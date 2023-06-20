@@ -1,0 +1,7 @@
+It has been fine tuned to act as if the user is dumb. 
+
+In my example the question is simple and correct: "define entropy" does not require anything else.
+
+I agree that many people over complicate it, but as it is its current fine tuning, chatgpt answers too often with oversimplifications often incorrect.
+
+It is the main chatgpt limitation. It would be much better if it could act as an expert from the beginning

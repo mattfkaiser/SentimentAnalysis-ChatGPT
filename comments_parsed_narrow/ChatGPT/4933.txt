@@ -1,0 +1,3 @@
+I'm a noob, so I'll just ask: is this about making webhooks? I'm wondering if I can have ChatGPT making webhooks for me? I have two systems; one where all the action happens ans one where I store data and use it. I want to habe system 1 make system 2 know that X has happened and therefore tell system 2 to update a specific client or whatever. 
+
+Is that possible without involving a developer?

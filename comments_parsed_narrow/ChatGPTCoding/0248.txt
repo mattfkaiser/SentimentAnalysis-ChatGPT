@@ -1,0 +1,7 @@
+Depends on a lot of factors, but the more complex the app, the difficulty increase will be exponential.
+
+Use chatgpt to learn how to code, while you build your app with it's support, feasible, again complexity dictates. 
+
+Start building a simple app leveraging chatgpt to support you.
+
+In my experience chatgot can spit out simple functions, but tying them all together in an app will still require a lot of knowledge from the user. Maybe in the future it might be more feasible, but not quite today.

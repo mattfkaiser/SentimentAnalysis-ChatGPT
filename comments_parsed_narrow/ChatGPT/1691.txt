@@ -1,0 +1,1 @@
+Yes. I use it for coding, and it will sometimes give you wrong answers. If you don't know what you were expecting as a code, you probably would have bugs and don't know how to figure it out. But if you know what code you needed, you can tell ChatGPT it's missing something and it will apologise and give another correct solution. Lol

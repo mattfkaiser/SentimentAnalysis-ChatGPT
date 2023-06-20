@@ -1,0 +1,5 @@
+I think one small difference, ChatGPT speaks with confidence as though it's stating facts. It will even provide citations that don't say what it claims they do or are made up entirely.
+
+The LLM chatbots at this point are still optimized to provide plausible looking content that LOOKS like what a smart human might produce, but optimizing them to be correct in all these disparate subjects is a much bigger task.
+
+So for people who fall for it's appearance of authority, and there will be many are sometimes getting worse information than they would from a google search or wikipedia, but they won't know it.

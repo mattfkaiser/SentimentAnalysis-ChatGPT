@@ -1,0 +1,3 @@
+>Though the creators could be using some of the latest results, in a curated fashion, to make improvements later
+
+That's what ChatGPT told me would probably happen. It said that although it does not learn on the fly, all questions and responses are saved to potentially be added to training data later and that it expects to be updated periodically. Obviously take that with a grain of salt, but it sounds reasonable.

@@ -1,0 +1,1 @@
+I agree that ChatGPT follows the same rule of computing that I learned while working at IBM over 50 years ago, "gigo", garbage in, garbage out. Although one cannot trust that ChatGPT is not relying on bullshit data I would say the same thing about Princeton professors and virtually every news article I have ever read.

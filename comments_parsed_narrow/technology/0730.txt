@@ -1,0 +1,3 @@
+Might be correct for chatgpt ( although it was changed If i remember correctly)
+
+But as a Corporation i would expect gpt4 to be used through the Azure OpenAI service. And there that is definitely Not the case

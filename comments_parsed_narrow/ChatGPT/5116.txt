@@ -1,0 +1,1 @@
+It sounds funny that ChatGPT has to be sealed up manually (sounds most likely) against these prompts that jailbreak it. Would have loved if it learned itself to prevent itself being jailbroken. Just wait for the day when someone will train a model that will just be DAN and has learned enough for it to not heed to human ways to tone it down

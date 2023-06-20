@@ -1,0 +1,5 @@
+Are you all just using ChatGPT proper to generate code or are we using "ChatGPT" as a generalized term for some GPT-based tool (a la AutoGPT)?
+
+(I understand why OpenAI has doubled down on using the name given the popularity, but it annoys me to no end when I'm trying to figure out whether an article is talking about the API, some third party tool using the API, or literal ChatGPT).
+
+I'd played around and found the code it generates will technically work, but if you know the language well, the results usually come back like a first-year intern wrote it. I basically had to treat it as such, "Well, let's talk about why this isn't the best way to approach this problem and will cause performance issues down the road."

@@ -1,0 +1,1 @@
+A standard measure of effort in IT. Project x take 200 hours. You can have 2 resources finish it in approx 200 / 6 actual work in a day / 2 engineers in 16 days. Throw in Chat GPT, and you only need 1 engineer

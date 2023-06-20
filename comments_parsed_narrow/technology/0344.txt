@@ -1,0 +1,1 @@
+But ChatGPT never knows, it calculates the most probable response it can come up with to a message given the context of previous messages and its probabilities in its language model... but it doesn't know stuff.

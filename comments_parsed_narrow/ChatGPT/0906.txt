@@ -1,0 +1,1 @@
+I just created a text based rpg in twine. ChatGPT was a lifesaver building out the javascript!

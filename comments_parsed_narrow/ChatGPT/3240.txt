@@ -1,0 +1,5 @@
+The internet "Boom" wasn't an actual Boom. People like me bought a router, not knowing what the internet could offer. It was up to others to create it. The WOW factor for me was chatting to someone from the USA via instant messenger on Yahoo. Then I dabbled in a bit of web developing and used "Real Audio" - I used to grab the BBC match reports off the radio and then used Real Audio to compress the audio stream. My mates were WOW'ed by how small the file was and how quickly it downloaded to their PCs. It all came in small steps.
+
+ChatGPT on the other hand came out of nowhere. It's definitely a BOOM! I asked it the other week to create an 8x8 square on an Android screen. With some tweaking, and the right questions, it spat out the Java code and created it for me. I had spent 6 months dipping in and out of this problem. I also asked a water expert on Reddit is De Ionised water safe to drink, I got a load of upvotes for the question but the expert didn't respond. Chat GPT told me the answer in 5 seconds.
+
+ChatGPT is like that expert. It will get some things wrong but the vast majority of the time be right. The trick is knowing what questions to ask.

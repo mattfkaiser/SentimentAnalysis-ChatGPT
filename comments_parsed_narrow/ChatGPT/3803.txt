@@ -1,0 +1,5 @@
+It's a part of a word that the model can predict.
+
+Models like ChatGPT work by predicting those parts of words rather than the word itself. For example the word "Happy" might be broken up into two tokens "Hap" and "py".
+
+This matters here because the model only has so many tokens that it can keep in memory. If you have to pass the full context with every message it will eventually "forget" some of the information from the conversation sooner than it otherwise would.

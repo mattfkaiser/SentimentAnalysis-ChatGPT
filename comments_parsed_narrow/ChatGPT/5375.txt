@@ -1,0 +1,1 @@
+I'm surprised nobody has addressed the problem that by feeding ChatGPT student's essays to check and see if ChatGPT wrote the text you are in essence training ChatGPT on the student's essays.

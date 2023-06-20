@@ -1,0 +1,1 @@
+I think you're a little wrong on why. ChatGPT ultimately functions to get human approval. It's the nature of RLHF. Since it doesn't know the answer, and the question sounds like the asker doesn't know the answer, the answer that gets approval most is often affirming the asker's beliefs

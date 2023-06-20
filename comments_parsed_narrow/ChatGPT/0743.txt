@@ -1,0 +1,9 @@
+First of all, I work with and studied ML. The matter I’m talking about is true not just for LLMs but for any ML or business process. You need a solid understanding of how much work translates to how much satisfaction in order to run a business optimally. In some ways defining and barely passing minimum specifications is the most fundamental thing an engineered process should do.
+
+Any AI model out there including Vicuna-13b and llama models are also optimized in a similar way. Since they are fundamentally different models they will have different strengths and weaknesses which makes this kind of comparison different than what I’m talking about. 
+
+In fact I would say that they probably cared more about making efficient processes because they are less expensive to operate. They are effectively giving you higher satisfaction for less cost which is exactly what OpenAI is optimizing for by throttling performance on occasion.
+
+also, a model’s ELO is not a good indicator of its verbal intelligence. The first time I tested chatGPT it couldn’t play more than a few moves without forgetting context. It is fundamentally designed for a very very different purpose than chess
+
+Edit: apparently ELO is not a chess metric in this context 😅

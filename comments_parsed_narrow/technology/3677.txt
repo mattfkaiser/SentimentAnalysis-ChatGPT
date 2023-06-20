@@ -1,0 +1,5 @@
+ChatGPT appears to be some miracle/miraculous replacement for actual thought and conversation. After reading some articles that deep dive into how it actually works, I would not trust it with anything important at all.  
+  
+It literally uses language statistics to string together words based on probability of occurrence with some random salting to select less-common words at lower percentage intervals to give off a creative vibe and sound less repetitive. There is no thought process going into responses. Only measured probability of word choices based on the input its given. GPT2 did this one. word. at. a. time. GPT3 does this with phrasing and some refined word selection rules.
+  
+The fact that nothing more than some careful programming and weighted statistics created a system that could mimic human thought says a lot about humans in general.

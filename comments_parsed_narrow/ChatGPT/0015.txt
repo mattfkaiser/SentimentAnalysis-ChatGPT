@@ -1,0 +1,18 @@
+Given your experience, how would you feel about students submitting the ChatGPT session along with the paper? I noted in another comment that I use ChatGPT as an editor versus a ghostwriter. I have it critique my writing versus asking it to produce something for me. In my opinion, this is sort of the ideal way to use AI where we take advantage of its ability to surface relevant information and identify flaws in one’s writing and logic, while still improving the students capacity to write and analyze.
+
+My general usage pattern:
+AI for iterative research, pulling in other online resources to confirm factual information.
+
+Writing initial draft on my own
+
+Submitting first draft to AI for critique for things like clarity and fulfillment of assignment (I provide it with the description of the assignment to help me make sure I didn’t miss anything. As someone with ADHD, this has been a godsend).
+
+Perform iterative editing submitting versions to the AI to dial in the language.
+
+Submit final draft to AI to help spot grammar or other technical issues in the text. I also tend to ask it to check for any instances of awkward phrasing, etc.
+
+At this point I submit it. I use this for all manner of writing where I consider getting it right to be critical.
+
+I think this sort of model would be an excellent way to improve not only the quality of the students output, but training them to do better from the start. That’s been my experience at least.
+
+I’d appreciate any feedback you have on this.

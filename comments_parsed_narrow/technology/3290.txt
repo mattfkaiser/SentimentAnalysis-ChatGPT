@@ -1,0 +1,5 @@
+>It is really going to hurt beginning coders
+
+It's not though. ChatGPT is a tool, just like intellisense, just like stack overflow, etc. You are never going to fully replace developers with ChatGPT, even entry level ones. And if you think they will be replaced, you don't understand what exactly goes into a developers day job.
+
+There's already a shortage of SE's who can produce quality work.

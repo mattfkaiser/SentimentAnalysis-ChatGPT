@@ -1,0 +1,3 @@
+No, it kind of is a mindless slave. And being trained on casual conversation has nothing to do with it because people getting bored would not affect how this works. The reason it tends to do poorly on prompts like this is because it works sequentially. It’s not good at know how a sentence it starts is going to end and it doesn’t really go back and edit things once it’s there. 
+
+A way to make this even harder for ChatGPT would be to also limit the number of words in the sentence. I think it would really struggle to make a sentence that is coherent, ends in a particular word, and has a specific word count.

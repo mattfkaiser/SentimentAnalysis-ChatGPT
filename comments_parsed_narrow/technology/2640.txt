@@ -1,0 +1,9 @@
+I find this video to be a good video about ChatGPT https://youtu.be/GBtfwa-Fexc
+
+What it is good at? You type a question and it has some sense of what you are looking for.
+
+What it is terrible at? Presenting the answers. What it presents is same thing you could find on the Internet with couple of relevant keyword searches. Just in this case, it figures out keywords to search on. Then it presents answer with "fake authority". Like, it seems to present the code as if it is writing it; in reality it's probably just code snippets humans wrote and it nicked from some open source git repository or someplace.
+
+You can also see how good exams look like. Most of the stuff they couldn't really feed into it. The ones they could feed into it, it sometimes presented flawed answers. Because it is simply feeding you back whatever it found on the Internet, presenting it as authoritative answer, and having no clue if those answers even make sense.
+
+It would be a good tool if it was advertised for what it actually is. A companion that can help you search the Internet for answers more efficiently. But that would mean it can't just spit out single answer as absolute truth, because it has no clue if it is true or not.

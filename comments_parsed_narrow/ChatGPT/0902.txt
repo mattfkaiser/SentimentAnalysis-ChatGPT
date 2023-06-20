@@ -1,0 +1,7 @@
+>Hey, ChatGPT. How do I ask you for a tutorial on how to start having you code a turn based roleplaying game I've been thinking about for years.
+
+>>Hello! I'd be happy to help you with a tutorial on coding a turn-based roleplaying game. To get started, here's how you can ask for the tutorial:
+
+>>"Hey ChatGPT, I would like a tutorial on how to code a turn-based roleplaying game. I've been thinking about this game for years and I'm excited to bring it to life. Can you guide me through the process?"
+
+>>With that request, I'll be able to provide you with an overview of the steps involved in creating a turn-based roleplaying game and offer guidance throughout the development process. Feel free to ask specific questions or provide more details about your game concept, and I'll do my best to assist you.

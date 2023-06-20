@@ -1,0 +1,9 @@
+It's supposedly fairly simple to solve at the cost of a lot more compute resources needed and therefore longer response times.
+
+GPT4 can tell when it's hallucinating in specific cases, so there have been experiments, where they feed the answer back into itself to see exactly what was hallucinated and then it removes the hallucinated parts before the result gets to you.
+
+This solution could be used when GPT4 can't resort to using external tools to verify knowledge.
+
+Not all hallucinations can be solved this way, but enough to give a noticable improvement in accuracy.
+
+A similar technique was used in Microsoft's GPT4 paper (sparks of AGI), where GPT4 could verify its own knowledge about a tool simply by using it, but this requires tool access, which is not likely to happen in chatGPT any time soon.

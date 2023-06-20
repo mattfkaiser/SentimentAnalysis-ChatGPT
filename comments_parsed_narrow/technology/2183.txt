@@ -1,0 +1,3 @@
+AI is good at doing junior level things. In programming it can create basic functions based upon prompts. In this it can create basic writing.
+
+Writing this basic level stuff is a learning stepping stone to more important things. Kinda like walking before you run. Humans need to learn the basics by doing them before they can advance on. Steven King might never have learned to write well if he used ChatGPT to coast through school.

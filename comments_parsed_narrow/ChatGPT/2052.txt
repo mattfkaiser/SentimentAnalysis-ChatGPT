@@ -1,0 +1,3 @@
+>  let's just say that at the very least, if you want to fix your app's bugs and glitches, it's better if you know the programming language your app is written in.
+
+I know Python reasonably well and I still often find it convenient to just tell ChatGPT "I ran your code and it threw exception <blah> on the line where it's reading the downloaded page's contents." ChatGPT is pretty good at amending its code when flaws are pointed out.

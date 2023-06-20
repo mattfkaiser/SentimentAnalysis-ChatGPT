@@ -1,0 +1,7 @@
+Agree, if someone is copying text from a pre-existing work, it’s still plagiarism regardless. 
+
+A better invalidation would be to have a novel writing hit very high on the AI detection scale. 
+
+I also wonder about the accuracy of these models in the long run - since GPT is generating text derived from training data, I’m not sure how much more different that is than someone reading an article and generating a summary themselves. How is a model really going to distinguish the two?
+
+I know Chat GPT uses a lot of standard writing queues, especially in terms of sentence and paragraph structure. But that’s also the same writing style taught by teachers in schools, so… unsure how that could be used.

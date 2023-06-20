@@ -1,0 +1,1 @@
+According to various tools including the one developed by OpenAI my own text is classified as likely AI-generated (I'm not a native speaker), whereas the text written by chatGPT (with my own prompt that I'm not going to share)  is classified as " very unlikely" AI-generated.

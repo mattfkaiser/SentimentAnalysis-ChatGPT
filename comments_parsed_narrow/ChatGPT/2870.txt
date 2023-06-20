@@ -1,0 +1,1 @@
+Don’t really want to share my personal GitHub, but I added the dataset to Kaggle if you want to play with it. [here](https://www.kaggle.com/datasets/jacobpatton/chatgpt-text)

@@ -1,0 +1,1 @@
+No difference between ChatGPT taking this test and me having access to google/stackoverflow/Reddit when answering a LeetCode question. Of course it’s going to pass.

@@ -1,0 +1,3 @@
+i am trying to build something similar, but just cannot get it to work, do you have any pointers for me?
+
+i have trouble letting chatgpt access my local files. Also having it save the data somewhere (not on my drive, like, make GPT remember the stuff I fed it)

@@ -1,0 +1,7 @@
+Because you gotta know your way around the tech to use it effectively.
+
+Plenty of people can use Canva to design stuff, but I can tell you from lived experience that there are live people in print shops fixing those designs to get them to print nicely.
+
+Sure, getting ChatGPT to spit out some code that does something is great. Until version 5.0 where something breaks and your software devs don’t understand how the code was built, or who was responsible for it.
+
+I guess what I’m getting at is you gotta be able to fix the stuff, not just make it. ChatGPT isn’t some magical knowledge box that comes up with ideas on its own, it amalgamates what already exists. Eventually it just becomes an echo chamber of itself if there are no new inputs.

@@ -1,0 +1,1 @@
+Also chatgpt code must be bug free and pass all the code reviews … it might but it’s not yet so ot deploys code straight to prod and done

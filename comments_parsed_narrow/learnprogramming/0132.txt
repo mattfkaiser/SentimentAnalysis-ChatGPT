@@ -1,0 +1,3 @@
+Do lots of problems. Learn DS&A from the ground up. You have to become so familiar with the common problem archetypes and their general solutions that you can apply them when you see random problems.
+
+Don't rely on ChatGPT in that way. At best it's a resource, but it's a pretty sketchy one. When it works, it can seem like magic, and when it doesn't, it's pretty misleading. If you don't know any better and have to resort to completely guessing whether something is trustworthy or garbage, then it's as good as garbage, and you should probably just buckle down and learn the concepts from the ground up.

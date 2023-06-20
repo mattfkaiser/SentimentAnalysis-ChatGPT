@@ -1,0 +1,9 @@
+Nothing specific to React and ChatGPT. I haven't touched React since late 2021 (been mostly working in Python and R building data pipelines for various projects, plus a couple Selenium robotic process automation solutions, some deployed on Azure/GCP and some run locally). There are a ton of new chat bot examples apps though, and mostly likely someone has done one for React, given it's popularity.
+
+I'd use whatever tech stack/languages you're reasonably comfortable with though, since the "new" thing is the language API you choose to use. You may want to use a cloud platform you're comfortable with too.
+
+I went through something similar a few years back. I wanted to pivot to data science, and away from app development. I took a 5 course data science bootcamp from a local technical school, although I think I got more out of it than most people there (especially the ones who were just learning programming). I ended up applying on a data science position in 2021 with a startup doing ML driven credit modeling, but they ended up convincing me to join as an app developer for a nice salary, since they had a bigger shortage of app developers than data scientists/ML engineers. Was a good learning opportunity, both on the app and infrastructure development w/ AWS side, and getting exposure to their ML modeling pipeline, but it reinforced for me that I wanted to focus more on data than apps. 
+
+I ended up getting a new position in 2022 as a Data Scientist with cloud deployment expertise for a nonprofit, and I love it. The pay is a little bit lower than my last position, but I enjoy the work and the people! Plus I have more energy to spend on data modeling and research for my own investing, which has been a long term goal of mine.
+
+I definitely encourage pivoting to something where you feel more engaged if you've been feeling bored!

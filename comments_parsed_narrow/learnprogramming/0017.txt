@@ -1,0 +1,5 @@
+I just played around with it a bit today. At the office a junior asked for a specific regex. I don't know regex by heart, but good enough to get a solution by using https://regex101.com/ or something alike and to play around a few minutes until I have a solution.
+
+This time I just copied the question in ChatGPT and it gave me the solution, including an explanation for the single parts.  
+
+Sure, don't blindly copy and paste, but so far it's doing a great job.

@@ -1,0 +1,11 @@
+Well, obviously it is using the output text as memory. That's the whole point. It is a very constraining architecture, easily circumvented by working around it through the API. I get much better cognitive results with my own version (which uses a Python framework to create a cognitive architecture) than the public-facing ChatGPT.
+
+But the statistics of what comes next are not changed by instructions on how to think, unless those statistics encapsulate a process that can be improved in terms of how well it emulates thinking. When it comes to logic, simulated reasoning is reasoning, unless it is plagiarism. This is not plagiarism because the permutation space is too vast. it leanrs new words and applies them.
+
+Consider the difference between the superficial and reflective responses here:
+
+[http://www.asanai.net/2023/04/27/what-is-a-thought-bubble-made-of/](http://www.asanai.net/2023/04/27/what-is-a-thought-bubble-made-of/)
+
+The statistics of what comes next is of no real use here.
+
+The reward mechanism used during training does not constrain the set of cognitive skills that are adopted to improve performance in text prediction.

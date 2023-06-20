@@ -1,0 +1,1 @@
+So for me the beta option for GPT4 with browsing appeared under the “beta” section in my settings tab on the bottom left of ChatGPT, I can turn browsing on and off which changes my url to have -browsing, when I try changing that to plugins, it just brings me to GPT3.5, I think for it to work, they must give you access first.

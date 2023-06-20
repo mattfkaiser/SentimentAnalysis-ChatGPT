@@ -1,0 +1,12 @@
+Might want to read up and understand on the fundamentals first to get a grasp of things
+
+The basic understanding is as such: ChatGPT and OpenAI, AI as  a whole are not fool proof and requires data and training set to operate
+
+Know what they are made by? Humans
+
+Know who provides the training set or data? Humans
+
+The human touch will be necessary when it comes to programming and development, that is the case generally, especially when for Quality Assurance
+
+
+Next, why the hell would that stop you and demotivate you if this is really what you want to do, that makes zero sense

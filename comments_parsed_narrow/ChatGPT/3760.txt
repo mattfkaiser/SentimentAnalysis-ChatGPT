@@ -1,0 +1,3 @@
+>What however concerns me is to directly ask Chat GPT if it wrote a text, this is always accurate and this far I have not been able to circumvent this.
+
+I'm pretty sure that's not true. Chat-GPT can't reliably (or at all) detect whether it wrote a text. Did you tried with texts written entirely by you as well?

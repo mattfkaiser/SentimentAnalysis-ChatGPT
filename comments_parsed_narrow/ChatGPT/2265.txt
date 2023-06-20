@@ -1,0 +1,10 @@
+This might help in the long run. I made a web application that lets you create chatbots with their own talking styles, personalities, etc. It utilizes ChatGPT's API so it's as powerful as ChatGPT.  
+
+
+You can use it to create your own chatbot that adheres to your speech style. You can check it out here: [http://optitalk.net/](http://optitalk.net/)  
+
+
+It's completely free to use btw, I recommend signing up tho since there's a 20 character limit for non registered users (to prevent spam).  
+
+
+And before anyone asks, it's similar to [Character.ai](https://Character.ai) but it offers more control and is more stable and also has an API unlike chai.

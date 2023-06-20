@@ -1,0 +1,3 @@
+Large language models are not really a step towards an artificial mind. They predict likely words based on a corpus of human knowledge. The are, and will remain, unable to produce something truly creative. They can never gain anything like consciousness.
+
+While ChatGPT is a huge step, artificial minds will have to use fundamentally different technology.

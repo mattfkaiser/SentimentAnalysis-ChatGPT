@@ -1,0 +1,7 @@
+Chatgpt is a great yes man. It will try to please you and give a favorable answer to any question you provide.
+
+Priming it with the question did it write a certain thing, it will naturally try to find the scenario in which it did write it, and then confirm it. 
+
+ It's like if I were to give you a script of some random thing you said 2 years ago, and ask if you said it. If you're not sure, and it sounds like something you would say the safe answer is yes.
+
+It's not doing some complicated a-b testing or anything behind the scenes. Or running an unique algorithm trained specifically to figure out if chatgpt wrote it. The ai model isnt designed that way.

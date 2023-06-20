@@ -1,0 +1,1 @@
+It doesn't pick up on the nuance of how humans write. I've noticed a distinct lack of "voice" when reading ChatGPT responses, like it's too clinical.

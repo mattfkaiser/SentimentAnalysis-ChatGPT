@@ -1,0 +1,5 @@
+I started using the internet in 1990, but many of my colleagues did not for years.  My first impression (using the Mosaic browser) was that half of the links on the internet were broken.  Later, when Java applets were a thing, they weren't great.
+
+I started using ChatGPT 3 in January and signed up for a paid account when ChatGPT 4 was available.  My first impression was that ChatGPT hallucinates a lot.  Recently I tried AutoGPT, and it hasn't been that useful to me so far.
+
+I'm optimistic that AI tools will advance very, very quickly and I will find them very useful very soon (much faster than web browsing became useful to me)

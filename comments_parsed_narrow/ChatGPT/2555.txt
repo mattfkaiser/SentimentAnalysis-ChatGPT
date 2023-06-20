@@ -1,0 +1,11 @@
+Yeah prompting is hard. You can get a good story but it has to come in sequences of different prompts. You start with an outline then ask a new prompt to write the details about the characters and then work your way through chapter by chapter, passing relevant context forward to the new bots. 
+
+Autogpt is doing this well.. automatically. But it's not magic it's just a bunch of self referencing outputs that result in a more refined product. 
+
+"Does this script suck, if so what would you change?" 
+
+"What are the strongest elements in this story? What story elements could be cut?" 
+
+Etc. 
+
+It's honestly a lot easier to treat chat gpt like a person and go from there. If you asked a person, hey write a marvel movie from scratch, it's gonna be pretty trash. But if you collab with ideas, and work with different gpt-writers and so on it will turn out alright.

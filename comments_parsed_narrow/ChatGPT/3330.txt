@@ -1,0 +1,9 @@
+My students submit their papers to a course management website (Canvas, Moodle, Blackboard, etc.). The site adopts a plagiarism-checker software (Turn-it-in). It flags any passages that have a high match from other online passages and provides the source of where each passage was found. 
+
+The program should, 100% of the time, flag things like citations or quotations. But when it's flagging regular sentences, then that's a problem, especially when the sources are from all over the internet in the similar way ChatGPT pulls content. 
+
+Direct plagiarism is when you copy word for word regardless is it's from a textbook or ChatGPT. So, yes, you're right! All a student has to do, *with any source,* is "modify the wording" and it's fine (and preferably cite their source, depending on the assignment). 
+
+But students are lazy by not rewording things (hell, one time, I had a student turn in a paper that had all different fonts because he didn't bother to reformat the passages he had copied off some website!!). And instructors are also lazy by not actually reading the papers they grade. 
+
+As I said, ChatGPT can be an excellent tool for summarizing tough material. The goal in education isn't to read every word of a textbook or article. The goal is to be able to grasp the material. And ChatGPT helps with that, then it **needs** to be a resource for students.

@@ -1,0 +1,5 @@
+Hey correct me if I'm wrong, but isn't chatgpt at its core just an intuitive text completion program? It's *supposed* to sound coherent but as far as I know it's not meant to give truthful answers, right?
+
+So if that's the case how much credence should you give it when asking about its training and abilities?
+
+Or am I way off base here? Because I've seen it spill out both correct responses and complete bullshit with total confidence so I'm kinda taking its answers with a grain of salt at the moment

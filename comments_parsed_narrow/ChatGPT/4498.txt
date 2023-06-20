@@ -1,0 +1,7 @@
+I use NoMachine's NX server on my home computer which publishes a web page to access the desktop (it isn't free though). You might also see if they forgot to block hosted desktop services like Shadow or Amazon's virtual desktops (also not free). You can try something like TeamViewer but that's almost definitely blocked.
+
+If you have local admin rights on your work computer (unlikely) you can try various VPNs, it's possible there are some that haven't been blocked (then again, ChatGPT blocks most VPN providers too).
+
+You could set up a web service in AWS to relay your requests somehow, good luck learning how to do that.
+
+Lastly you could just do your job while you're at work and use ChatGPT on your own time idk

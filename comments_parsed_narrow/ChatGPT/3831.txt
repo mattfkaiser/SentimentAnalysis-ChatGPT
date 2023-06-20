@@ -1,0 +1,3 @@
+Very cool stuff. I recently got [my own](https://twitter.com/Alex_ADEdge/status/1658701809102487553) WIP retro console connected to ChatGPT as well (which is a web app inspired by the C64)
+
+Currently I'm just using axios HTTP client to make calls to a server and pass the users custom request string (which then calls the ChatGPT API and returns the response to the console). What in the world would you use to make this call on a C64?! (I have done a little dev in both BASIC and assembly, but have never even connected to the internet on a C64 or gotten into retro web dev like this)

@@ -1,0 +1,5 @@
+I haven't used chatgpt extensively but have put some hours into it. I think it's been handcuffed and retarded down in the past few weeks / months. It's not the same as it was closer to first release.
+
+That's not a whole answer to everything you're seeing but I think think the public AI's we have are just not the same as the really good / really smart AI's.
+
+Tbh Im not informed enough to know the difference. Are the best AI's more custom? Do they share source code only? Are they built all from the same API? Wish I knew because eventually I want to get into machine learning but I'm not advanced enough yet so I don't go into the deep waters

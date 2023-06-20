@@ -1,0 +1,5 @@
+Congrats on getting AI to produce something that works in a practical sense!  It's not easy to do that.
+
+Could you share how you did it?  I'd be interested to know what kind of prompts you used.
+
+I've been struggling to get ChatGPT to generate code that doesn't require a lot of fixes.  I think it saves me time more often than it wastes my time, but it'd be helpful to see an example of how to use it properly.

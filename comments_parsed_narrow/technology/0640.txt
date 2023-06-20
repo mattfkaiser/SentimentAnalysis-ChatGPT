@@ -1,0 +1,5 @@
+Yeah, I find it's excellent for simple snippets and basic/intermediate questions, but falls apart fast if you try using it for anything more complex.
+
+That's still useful though, as software engineers are always having to learn new things or interact with aspects of things they haven't touched before. Plus Google's search results have _really_ gone downhill in the last half year or so.
+
+And since it's software, it's usually quickly obvious if ChatGPT is blowing smoke or not since it won't work. I would be wary of trusting it with any questions that have less immediate consequences though - e.g. security implications.

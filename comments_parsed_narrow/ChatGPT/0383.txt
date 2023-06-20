@@ -1,0 +1,7 @@
+Totally agree with this. It's pretty good at generating small code snippets, and the fact that you can ask follow up questions is so helpful.
+
+I've been learning Ansible with ChatGPT walking me through setting up playbooks and roles. I can ask questions like "What if the file doesn't exist?" or "Can you change this from copying the file to using a template instead?" and it does a pretty great job.
+
+Sometimes it'll use deprecated commands or make something up entirely, but once I figure that out I sometimes realize I'm approaching a problem in the wrong way.
+
+Seriously impressive how quickly ChatGPT became part of my workflow.

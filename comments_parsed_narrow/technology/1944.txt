@@ -1,0 +1,1 @@
+GPT-2 uses the exact same technology as ChatGPT. GPT2 just has much fewer parameters, otherwise it is the exact same thing. Both models "simply" try to guess the next word. That is all that they do, 100%. However, it is quite impressive that ChatGPT can do so much, given that it's only predicting the next word.

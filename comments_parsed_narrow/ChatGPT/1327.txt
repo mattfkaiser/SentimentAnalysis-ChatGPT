@@ -1,0 +1,10 @@
+I can understand your frustration and your experience is certainly valid. Every new version of chatGPT has its own unique characteristics, and it can take some time to adjust to them. I agree that it can be a bit tedious, but it's like interacting with a new system each time.  
+
+From what I've noticed, chatGPT seems to be more sensitive to the way we phrase our prompts. It used to be quite forgiving, but now the clarity of our questions seems to matter more.  
+
+A few things that I've noticed that might also shed light on your experience:
++ Context recognition: When you paste a large block of code and a question in the same input, it might be hard for chatGPT to keep track due to its processing limit, known as 'tokens'. If the total number of tokens is too high, some information might be lost or ignored.
++ Task interpretation: It might interpret a pasted code as a request for explanation rather than modification, especially if the question isn't clearly separated or defined.
++ Code generation: chatGPT aims to provide helpful responses, and sometimes it determines that explaining the logic could be more useful than providing a code.  
+
+I believe you're correct in observing that chatGPT's behavior seems different, and I don't mean to dismiss your experience. It might be helpful to take a small break and approach it with fresh eyes later. Also, consider being more explicit in your prompts to see if it helps.

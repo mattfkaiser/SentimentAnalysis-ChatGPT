@@ -1,0 +1,3 @@
+It’s like a GPT4-based app. When you send a prompt ChatGPT decides if it needs to use the plug-in to answer your question.
+
+Each plug-in is different so it’s be hard to explain that part.

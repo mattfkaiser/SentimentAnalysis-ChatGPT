@@ -1,0 +1,3 @@
+My guess is that it's used for tokens and commands.
+
+I've tried open-sourced ChatGPT models on my own computer before and it used special strings like this to tell it to stop generating, start new line, keep going, etc.

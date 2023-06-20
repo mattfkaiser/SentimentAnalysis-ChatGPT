@@ -1,0 +1,7 @@
+I had a bizarre experience this week.  I was trying to get this date tracking function working.  Chatgpt 3.5, was trying to use ‘combine’, which wouldn’t work, then suggested another process, which didn’t work, then it went back to,combine’.
+
+It was stuck in a loop.
+
+I finally got it to work by converting it to epoch time.  
+
+It was strange.

@@ -1,0 +1,5 @@
+I don't believe ChatGPT has an ability to utilize Google as a source of information. I would assume it would be too slow to utilize those sorts of searches when generating responses. A quick google says:
+
+>ChatGPT is an AI language model that was trained on a large body of text from a variety of sources (e.g., Wikipedia, books, news articles, scientific journals).
+
+That is a very interesting idea though.

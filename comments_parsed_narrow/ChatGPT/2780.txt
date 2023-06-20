@@ -1,0 +1,1 @@
+Chatgpt isn’t looking up a random number in any library. It’s a large language model and all it can do is predict what word should come next

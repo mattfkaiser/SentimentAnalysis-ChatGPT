@@ -1,0 +1,1 @@
+Yes like "x is the yearly rent, what is the the yearly rent for 30 years with y increase per year" and ChatGPT would build a table with the wrong figures.

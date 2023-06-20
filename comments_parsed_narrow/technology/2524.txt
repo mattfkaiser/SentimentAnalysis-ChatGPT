@@ -1,0 +1,7 @@
+They know, Google is viewing ChatGPT as a potential Google killer. [https://www.businessinsider.com/google-management-issues-code-red-over-chatgpt-report-2022-12](https://www.businessinsider.com/google-management-issues-code-red-over-chatgpt-report-2022-12)
+
+Edit: I want to quickly explain how it will kill Google. First, here are the sources of revenue for Google:
+
+>Alphabet generated over $282B from Google search and others, $32.78 billion from the Network members (Adsense and AdMob), $29.2 billion from YouTube Ads, $26.28B from the Cloud, and $29 billion from other sources
+
+As you can see, the bulk of their profit comes from paid placement on Google Search. Now that the cat is out of the bag with AI, they have little choice but to release an AI service of their own. The problem is, actually making a functional search engine means poor Google will miss out on the cash cow of paid search engine placement. Imagine if Google tried something similar with their AI, why would anyone use Google instead of ChatGPT if they know Google will sneakily insert ads into their AI results?  Who knows what will happen, but it doesn't look good for Google.

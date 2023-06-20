@@ -1,0 +1,7 @@
+As a professional writer, I can say that ChatGPT is good if you want something someone already wrote (more common than you might think). So if you want an article about, say, what the blockchain is, you'll get a good result with ChatGPT.  But if you wanted something specific--say, an article about a person who uses the blockchain that not many people have written about--you get garbage.
+
+Obviously this is because ChatGPT is a fancy copy aggregator, and the old garbage in=garbage out holds true. 
+
+I feel terrible for young business writers starting out who used to cut their teeth on repurposing blogs and such. That job won't exist in a year. A new startup who wants to put out a series of foundational blogs can do it in a few minutes. It repurposes better than any person because it can amalgamate so much data and spit out something coherent that sounds like nothing.
+
+Probably brand voice will be doable as more levers become adjustable in the AI, but I'm not sure. What I mean is that ChatGPT can write Tweets about hamburgers but not replace the Wendy's voice from Twitter.

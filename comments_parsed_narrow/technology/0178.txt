@@ -1,0 +1,21 @@
+Altman disapproves of EU regulations that require OpenAI to disclose sources of training data:^1,2
+
+>Altman has been on the move—from Lagos, Nigeria to all throughout Europe. Finally in London, UK, he dodged a few protestors to engage with big tech folks, businesses, and policy makers about his AI models. 
+
+>His main pitch has been to promote the large language model-powered ChatGPT and stump for pro-AI regulatory policies. 
+
+>During a side panel discussion hosted by the University College London, Altman reportedly said that while OpenAI was “gonna try to comply” with EU regulations with the AI act, he was miffed by the way the European body defined “high-risk” systems.
+
+>The EU’s AI Act is one of the laws proposed by the governing body in 2021 that would classify AI into three risk categories.
+
+>According to *Time*, the OpenAI CEO said “If we can comply, we will, and if we can’t, we’ll cease operating… We will try. But there are technical limits to what’s possible.”
+
+>The EU has been more willing to scrutinize OpenAI than the U.S. The EU’s European Data Protection Board said it was monitoring ChatGPT to make sure it complied with its privacy laws.
+
+Altman to *Time*:
+
+>The law, Altman said, was “not inherently flawed,” but he went on to say that “the subtle details here really matter.” During an on-stage interview earlier in the day, Altman said his preference for regulation was “something between the traditional European approach and the traditional U.S. approach.”
+
+^1 Kyle Barr (24 May 2023), “Sam Altman says OpenAI will leave the EU if there's any real AI regulation”, Gizmodo/Great Hill Partners, https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865
+
+^2 Billy Perrigo (24 May 2023), “OpenAI could quit Europe over new AI rules, CEO Sam Altman warns”, Time/Marc Benioff, https://time.com/6282325/sam-altman-openai-eu/

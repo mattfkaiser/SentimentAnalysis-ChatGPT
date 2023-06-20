@@ -1,0 +1,3 @@
+ChatGPT3 release notes:
+
+* nerfed blood oaths.

@@ -1,0 +1,1 @@
+This post won't really move the discussion forward or backward at all since you aren't testing ChatGPT in the screenshots. You're testing whether or not ChatGPT can access and use WolframAlpha. Once ChatGPT can do the same math **without** a WolframAlpha plugin I'll be a believer.

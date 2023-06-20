@@ -1,0 +1,1 @@
+I recommend using Bing Chat for learning unfamiliar code. At least Bing will look up the current documentation most of the time and hallucinate less often than ChatGPT. Also to that same point ChatGPT is using code from 2021 and prior which means a lot of it is deprecated. Sometimes it will give you code that doesn't work anymore simply because its outdated.

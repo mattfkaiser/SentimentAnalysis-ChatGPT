@@ -1,0 +1,3 @@
+So if OpenAI gives Chatgpt the instruction: "Invent a persona. Any persona. Write down the rules of that persona and then use them as your system prompt. Do not vary them later."
+
+Would that mean that the AI has sentience? Because it picked its own persona? Or not, because it was instructed to?

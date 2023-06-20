@@ -1,0 +1,3 @@
+I’ve just run all of my essays, including some work that hasn’t been published yet, and nothing was flagged as ‘written by chatGPT’.  
+  
+Maybe an odd case of model overfitting? Too many people asking (whether from an academic perspective or from a panicked student one) whether it’s written something to the point where the model now flags it has written it.

@@ -1,0 +1,9 @@
+>This means that:
+
+> 1. Functionally (in the original response), ChatGPT knowingly generated and then disseminated false information to me
+
+You're not the first person to get fake URLs, OpenAI is aware,  it's not knowingly generating false info to you, otherwise it would be very easy for the developers of the tool to prevent it from generating false information to begin with.  
+
+Hell if the tool could know if it was lying or not then they could just put in the prompt for the AI to never lie or hallucinate, problem solved!
+
+I see someone else has already provided you a link to what AI hallucinating is.

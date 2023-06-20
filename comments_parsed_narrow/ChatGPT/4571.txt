@@ -1,0 +1,7 @@
+It just means knowing how to interact with the model in order to get the outputs you want.
+
+It sounds obvious and stupid until you meet non-tech people who tell you they’ve tried ChatGPT and don’t see what the big deal is. Then they show you how they’ve tried using it and ur like “Oh, so the problem was you”.
+
+Once you teach them a better way to approach the chat, how to think about what they’re asking, how they should phrase things, etc. the tool becomes a lot more useful to them.
+
+There is obvs more advanced levels, but that’s the basic way to think of it

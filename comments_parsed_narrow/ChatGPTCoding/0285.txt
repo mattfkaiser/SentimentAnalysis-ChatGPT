@@ -1,0 +1,3 @@
+I made a video to answer this question if you wanna che k it out: https://youtu.be/JSdK_S8J38o 
+
+Tl;dr using the system prompt let's you prime the bot with relevant instructions and information that it doesn't already know. And it stretches the token limit as far as it can go whereas chatgpt will be less efficient.

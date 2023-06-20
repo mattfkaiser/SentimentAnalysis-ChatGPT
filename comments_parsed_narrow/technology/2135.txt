@@ -1,0 +1,18 @@
+Because the chat is much easier to use. As a marketing professional, I used both and my workflow is way faster with ChatGPT. 
+
+The playground is amazing and is very helpful, but you need to be more tech-savvy to write prompts. ChatGPT is more "tamed". 
+
+A marketing professional that uses Playground to create an ad campaign, for example, will have to brief it pretty well and make several adjustments to the prompt until it gives what they want. It's like to work with someone that you can only communicate by email. 
+
+With ChatGPT he can use a more natural language. It's more like a brainstorm meeting. ChatGPT gives advice and can make small changes. 
+
+For example: I have a car ad targeted to seniors. I can put it in ChatGPT and tell it to make the same ad targeted to teenagers. Then I can tell it to make different options to Facebook and Google and give me keywords to use in the campaigns. Then I can tell it to suggest how the landing page can be and give me a script for a Youtube animation.
+And I can detail every part of this process to make it change tone, include any information I need to put, ask for image suggestions. And I can do everything in a single chat session.
+
+To do the same thing with Playground I need to make a prompt, get the result, change it, then make a totally new prompt asking for something else, copy, make changes and go on. 
+
+It can give you a script, for example, but if you need to change something, you need to create a new prompt. With chat, you can say "change the item 10 to something more serious"
+
+Playground is also not much flexible in giving advice, but it's really good with current events and can access websites. You can put some sources and tell it to write and article based on them. ChatGPT can't do it.
+
+ChatGPT also has superpowers. It can code and it's fucking amazing.

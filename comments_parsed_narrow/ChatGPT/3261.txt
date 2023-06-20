@@ -1,0 +1,14 @@
+*sigh* okay, I’ll provide the hot take. Do I think that ChatGPY is equivalent to the birth of the internet?
+
+No. For reference, I work as a data scientist, I do research in this field. Although I don’t work with language models (medical images mostly), I do understand the underlying way that this works, and took a few classes in the concepts behind this when I got my masters.
+
+ChatGPT is really cool. It’s ability to parse and respond in natural language is phenomenal, and is honestly farther ahead of where I thought it was. It’s also really good at taking structures and replicating them with certain parameters. In my opinion it was a pretty big leap forward. 
+
+I never meant to be the ChatGPT naysayer, but I see so many people rave about it’s abilities, that I feel like I have to be to cancel things out. People forget, that all this is, is a very advanced mathematical formula that searches and presents data. It is entirely at the mercy of the data that it was trained on.
+
+The root issue, is that ChatGPT has no critical thinking skills. People forget, that the way it knows how to reply with language is by hours of text conversations being fed into the model to adjust its weights, it doesn’t actually have any ability to think, or analyze. This leads to it making blatantly false statements with 100% confidence, based on the data it is referencing. That’s why, if anyone remembers the early releases before they restricted it, ChatGPT used to seem slightly sexist and racist.
+
+So for me, no, I don’t think this technology is revolutionary. I think it’s more evolutionary. I see it as a Google search with a nicer UI on the front. When someone learns how to train models to analyze sources and determine what’s reputable — that’s when I’ll be worried.
+
+Sincerely,
+The guy who will probably be killed first when AI takes over

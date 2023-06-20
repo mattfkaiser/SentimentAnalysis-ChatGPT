@@ -1,0 +1,3 @@
+I often work with confidential data, and the concern we have at work isn’t that it’s not hugely useful, it’s that the security and privacy isn’t proven, and the accuracy is sometimes hilariously off (and accuracy is important). Until these issues are resolved, or there’s on-prem chat GPT (there may be such a thing), we can’t use it. 
+
+If you’re dealing with patient data, I’d imagine the same issues may arise.

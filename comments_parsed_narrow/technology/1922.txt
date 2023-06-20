@@ -1,0 +1,1 @@
+I tried, and ChatGPT always guesses links. Even links to product pages that it describes very well, it gives me a link to the domain and guesses the rest of the link. Not sure if it got updated recently, but the Bing search version is always current and provides the links unprompted since it's part of a search service.

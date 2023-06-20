@@ -1,0 +1,1 @@
+U find any LLM , use transfer learning : ie-> u get the pretrained weights and then fine tune the model on ur corpus for maybe 2-6 epochs that’s it. Hugging face is easy for this. U will need a 3090 at the very least to do this tho. Since chatgpt is new might have to pay money tho.

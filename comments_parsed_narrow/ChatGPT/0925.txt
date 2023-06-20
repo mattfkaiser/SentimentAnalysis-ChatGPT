@@ -1,0 +1,1 @@
+Yeah I know, but even creating the sprites and all that takes effort, I'm clueless about java or CSS but I know a bit about python. I've made platformer games with ChatGPT and it was easy but it still took a lot of screwing around.

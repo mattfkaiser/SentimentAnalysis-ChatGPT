@@ -1,0 +1,3 @@
+ChatGPT is great for normal language and to some extend also for technical things. But it wasn't able to draw me a triangle in a HTML canvas, which isn't difficult to calculate.  
+At the moment I see it more like a little assistant I rarely use.  
+For other people in other areas it can be a completely different experience. My colleagues, who work with with people and not with systems get much more out of it.

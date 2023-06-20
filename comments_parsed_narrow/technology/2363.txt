@@ -1,0 +1,27 @@
+I didn't ask specifically about scaling in terms of users. I asked about general scaling - which I guess could include increasing the size/complexity of the model.
+
+I also asked:
+
+*What are the likely societal impacts of ChatGPT*
+
+The deployment and use of ChatGPT, and other large language models, can have a number of societal impacts, both positive and negative. Some of these include:
+
+**Positive impacts:**
+
+1. Improved efficiency: ChatGPT and other language models can automate tasks such as customer service and data entry, freeing up humans to focus on more complex and creative work.
+
+2. Enhanced education and information access: ChatGPT and other models can provide students and the general public with instant access to information and educational resources.
+
+3. Improved accessibility: ChatGPT and other models can be used to build assistive technologies for individuals with disabilities, improving their ability to access information and communicate.
+
+**Negative impacts:**
+
+1. Job loss: The automation of tasks previously performed by humans can lead to job loss, particularly in industries that rely heavily on manual labor. (*ChatGPT going off on a tangent here - manual labor? - good example of its ability to output plausible bullshit*)
+
+2. Bias and discrimination: If not carefully monitored and addressed, the training data used to develop language models can contain biases that lead to discriminatory outcomes.
+
+3. Spread of misinformation: Large language models like ChatGPT can be used to generate false or misleading information, which can be spread quickly and widely on the internet.
+
+4. Lack of accountability: As language models become more advanced and autonomous, it can become difficult to determine who is responsible for their actions, making it difficult to hold individuals and organizations accountable.
+
+Overall, the societal impacts of ChatGPT and other large language models will depend on how they are used, developed, and regulated. It is important to consider and address both the positive and negative impacts to ensure their responsible deployment and use.

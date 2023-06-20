@@ -1,0 +1,3 @@
+This has been reposted a bazillion times already. 
+
+Most data they were trained on was from before Sept 2021, some very limited popular Data have been added after 2021. As long as you aint using Webchatgpt or Gpt4 with browsing enabled they dont have an internet access. If it tells you otherwise it is known to make stuff up.

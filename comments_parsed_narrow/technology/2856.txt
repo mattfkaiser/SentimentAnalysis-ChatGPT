@@ -1,0 +1,5 @@
+Likely not accurate at all, GPT-3 and ChatGPT are trained on massive, I mean *massive*, datasets that can't really be accurately detected like GPT-2 once could.
+
+GPT-2 is trained on 1.5 billion parameters
+
+GPT-3 is trained on 175 billion parameters

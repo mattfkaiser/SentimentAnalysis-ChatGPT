@@ -1,0 +1,13 @@
+> If they can't adapt to the world as a gigantic industry of professors and universities then they are the problem. 
+
+The article makes this seem like a response to public schools, not universities. 
+
+There's a valid concern in here, though perhaps slightly wrongheaded to aim it at OpenAI: In a world where ChatGPT is *this* good and exists *now*, what the hell do you teach a first grader to do? In 13 years, 17 years, whatever, what skills will the world want from them?
+
+The difference between GPT-2 and GPT-3 was "fun toy" to "better than a very well educated stupid person at many written tasks". There's every reason to believe that in a few years, probably fewer than 13, it will go to "better than a very well educated smart person at many written tasks". In basically every other automation task we've ever witnessed, the time between "Automaton could do it at all" and "Automaton is far better than even the best human could ever be" was the blink of an eye. We seem to exist during that blink right now.
+
+What do you teach kids for a world where almost all written work is done better by something that can do a nigh-infinite amount of it in an instant?
+
+Ignoring some sort of singularity where we assume that robots will be able to do everything and humans are obsolete at every job, and only looking into the future as far as current technology clearly seems capable of going, I still don't know the answer to that question. Is it valuable to teach science in a world where you can type "Hey, what are some unanswered questions at the forefront of medical research?" "Okay, I'd like to conduct a study to answer that one. Can you give me a list of steps to follow?"? Or do you just teach kids how to follow very well written instructions closely, and ask for clarification when they have doubts?
+
+This isn't a test-cheating problem, it's a paradigm shift in the nature of human activity.

@@ -1,0 +1,5 @@
+What's your experience with training machine learning models? Linear regression? Cloud language APIs? ChatGPT API?
+
+I think where you start depends on what you want to focus on. What excites you? Do you want to go back to school and do research? If you do, do it because you want it, not just because of the money (there can be an opportunity cost to grad school, particularly if you want to be elsewhere and not involved in research).
+
+Personally, I'd start tinkering. If you want to become an ML engineer, begin with modeling in Tensorflow, Keras, XGBoost, Pytorch, etc. (there are many). If you want to focus on the app, use a language API and build a React app or something around one of OpenAI's APIs, Microsoft's, or Google's, etc.

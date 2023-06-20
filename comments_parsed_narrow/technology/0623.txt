@@ -1,0 +1,11 @@
+You are right to ask for proof, here is a very simple example:
+
+[Never gonna …](https://www.reddit.com/r/ChatGPT/comments/13pq8c1/i_created_a_voice_controlled_gpt_assistant_that/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1)
+
+I know the code generated in this example is very basic, but i can generate far more complex commands, it just needs a little bit more fine tuning before i release a video with it.
+
+Also this example is not about gpt being able to create complex code but the combination of vtt, tts, and gpt.
+
+How could i prove what my chatgpt coding discussion look like? i don’t know. 
+
+It’s not magic but just sophisticated prompt modeling, i’ve seen even far more advanced stuff so i don’t even see the need to prove it because i thought it was common knowledge

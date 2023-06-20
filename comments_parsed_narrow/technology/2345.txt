@@ -1,0 +1,1 @@
+IIRC, the davinci 003 model is better at generating language than ChatGPT, but requires you to do some extra work on prompting to get what you're after

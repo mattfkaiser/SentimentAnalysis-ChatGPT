@@ -1,0 +1,1 @@
+Yeah. This is more an indictment of coding interviews at Google. I'd be interested in seeing chatgpt give a code review.

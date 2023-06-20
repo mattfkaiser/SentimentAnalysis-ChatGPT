@@ -1,0 +1,3 @@
+Yes exactly!
+
+This is the main reason for all the misinformed articles making claims like the one in the OP. ChatGPT does not have information of undisclosed CVEs, it just pretends it does, which means the information is worthless in reality.

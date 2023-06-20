@@ -1,0 +1,3 @@
+Wait, do you mean the last ChatGPT version cites the StackOverflow license and the link to the original author's post when it gives you an answer inspired by it?
+
+No, it doesn't

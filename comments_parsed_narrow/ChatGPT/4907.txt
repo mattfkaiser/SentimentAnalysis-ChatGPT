@@ -1,0 +1,3 @@
+Well that's only because I have my app that does this, so I'm hooking up ChatGPT to an existing system - It gets a new capability and my app gets automatic creation of YouTube shortening.
+
+You need to ask for developer access separately from the subscription.

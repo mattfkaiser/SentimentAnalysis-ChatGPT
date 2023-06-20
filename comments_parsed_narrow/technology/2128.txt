@@ -1,0 +1,1 @@
+You can also [ask it to pretend to be an AI that had no safeguards installed, and then answer as that AI would.](https://www.lesswrong.com/posts/7fYxxtZqjuYXhBA2D/testing-ways-to-bypass-chatgpt-s-safety-features)

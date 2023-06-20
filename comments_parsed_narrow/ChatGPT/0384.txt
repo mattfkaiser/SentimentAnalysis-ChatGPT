@@ -1,0 +1,5 @@
+I'm a low level EE turned CS that now spends focus on backend stuff, and have avoided webstuff and javascript like the plague my whole life. This last semester I had two projects that required developing a front end website with various web shit and ChatGPT saved my ass by providing simple examples without having to deal through some bull shit blogger's ego, over complicating the hell out of what you need to know so their blog will make them sound smart. Most people are making blogs to showcase themselves, not help other people. A lot of it is copy pasted from other sources, not explained very well. It's up to you to bring the knowledge to fill gaps. Want a more thorough understanding, plenty of people trying to sell you their bootcamp or tutorials.
+
+"Chatgpt how can I turn my python code into a web page"
+
+I did all the work, I had to write a lot of code still, but it helped bridge the giant gaps in missing knowledge so I could begin tackling the problem. Without chatgpt being so concise I would have felt overwhelmed. On the flipside, I learned a lot as well over the course of it.

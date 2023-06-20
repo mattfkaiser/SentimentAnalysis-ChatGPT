@@ -1,0 +1,3 @@
+Thanks! For instructgpt, between 4 & 9 responses were ranked: https://i.imgur.com/dt90xfW.png. I assume it's similar for chatgpt.
+
+Yes chatgpt does go beyond instructgpt, particularly in the data collection setup (eg interactive dialogues vs. just instruction-response pairs). As far as the training methods, the chatgpt blog post states that the same methods are used as instructgpt, and so the trends from the plots from the instructgpt paper (eg ppo vs. sft vs. gpt performance) should still hold here.

@@ -1,0 +1,7 @@
+You need to learn the basics of a certain language first
+Then you need to spend a few months to build some personal projects. You should try answering on Stackiverflow, get trashed on your answers but then eventually start getting upvotes.
+Then you should try to take up any enterprise level project to understand how the real world works
+
+Finally you should work on a complex project with newer requirements where you could ask specific questions to ChatGPT and instead of expecting code, expect the “way” or logic to do it. For example, you should ask ChatGPT “i have a POST method in my .Net application. How do i stream the response instead of sending it all at once” and then expect some basic guidelines with maybe a little code. Also I don’t understand what you mean by “4sent” and your C# code has nothing to do with being a console app or not. You need to get the niche steps from ChatGPT and learn how a console app works, what’s it’s entry point and how do you print results to console etc.
+
+The expectation you seem to be having doesn’t make sense at all, because that’s not how any programmer has ever learnt to code.

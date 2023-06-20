@@ -1,0 +1,1 @@
+Why does chatGPT predict symbols based on the symbols provided to it? Why does it not choose to simply not respond?

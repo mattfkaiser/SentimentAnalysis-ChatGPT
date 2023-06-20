@@ -1,0 +1,2 @@
+Definitely. I was just reading about the explosion of involvement with Hugging Face. I've been focused on ChatGPT and some of how LLMs work, but recently I started working on playing with the Hugging Face APIs. I think its a prime space for people of various levels of ability to explore these ideas more deeply.
+Edit: Link to article on Hugging Face popularity: https://analyticsindiamag.com/the-peaks-and-pits-of-open-source-with-hugging-face/

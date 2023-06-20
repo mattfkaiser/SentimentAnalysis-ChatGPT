@@ -1,0 +1,37 @@
+Thanks. I’m still understanding the how and whys of LLM. Lex Fridman interview with Stephan Wolfram was great: https://overcast.fm/+eZyCJUJkw
+
+It did many right in this instance but more with errors:
+“”Can you reverse each country in the EU?
+
+
+ChatGPT
+Certainly! Here are the names of the countries in the European Union (EU) reversed:
+
+Austria - airtsuA
+Belgium - gliBeg
+Bulgaria - aigalubB
+Croatia - aitarcorC
+Cyprus - supyC
+Czech Republic - citpeR hteKcZ
+Denmark - kemarneD
+Estonia - ainotsE
+Finland - dninloF
+France - ecnarF
+Germany - ynamreG
+Greece - eceG
+Hungary - ygnuraH
+Ireland - dnalerI
+Italy - yltaI
+Latvia - vitarL
+Lithuania - ainihtuL
+Luxembourg - gruobcumeL
+Malta - atlaM
+Netherlands - sdnalretNeht
+Poland - dniwolP
+Portugal - latugroP
+Romania - ainamoR
+Slovakia - akolvakS
+Slovenia - ainevolS
+Spain - niaSp
+Sweden - nedweS
+Please note that this list includes the EU countries as of my knowledge cutoff in September 2021. If there have been any changes or additions since then, they may not be reflected in this list.””

@@ -1,0 +1,3 @@
+It's shrinkflation for processing power!!
+
+(Hardly matters now, though, since I can run my own open source models locally, many of which are approaching and even surpassing (in some areas) ChatGPT.)

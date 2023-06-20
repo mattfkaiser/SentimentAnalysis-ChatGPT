@@ -1,0 +1,5 @@
+Haha absolutely. I have an app called Jumpcut which you can use on jumpcut.app or as a Chrome extension: https://chrome.google.com/webstore/detail/jumpcut/jicbaeklgoninplhmenhndnidnbfaohm
+
+It allows you to make shortened versions of YouTube videos (and chapters from comments, or watch just the top comments) any way you want, and then share it so it only plays the part you are talking about for the people who watch with your link.
+
+ChatGPT will do the shortening automatically now.

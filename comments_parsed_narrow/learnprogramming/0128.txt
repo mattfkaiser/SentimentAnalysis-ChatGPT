@@ -1,0 +1,13 @@
+> more of the work is ceded to AI
+
+ChatGPT is just a tool. It’s not going to replace anybody in itself. You still need a human to use and interpret it’s results. 
+
+If an employer needs a competent engineer - they’re gonna make sure they’re hiring someone who knows their stuff. It doesn’t matter if Google exists or AI. 
+
+Also, nobody can predict how AI will shape the future. True AI won’t exist likely in our lifetime or if it’s even possible to begin with. 
+
+So you’re only hurting yourself by being scared to study algorithms because you think in 10 years you’ll be replaced. It sounds to me more like you’re too lazy to bother with algorithms because there’s a small chance you won’t need it in years. That’s absurd.
+
+It sounds like you’ve never worked in an enterprise application. Adding features can be complicated and many many many times you’ll have to write your own logic, as in your own algorithms to make the feature do what you intend it to. So you’re only hurting your own programming skills. 
+
+What do you think programming is if it isn’t writing algorithms all the time? Algorithms aren’t only to manipulate data. It’s a broad term that can apply in many areas where you try to achieve a result. Try adding a feature in an enterprise application with hundredths of files and dependencies and coupled code. AI can’t do this. How would it know where to start looking?

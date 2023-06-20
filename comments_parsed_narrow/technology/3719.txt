@@ -1,0 +1,3 @@
+New story outline for all BI stories about ChatGPT: 
+
+" A *INSERT NAME HERE* who was laid off without an explanation says *SHE/HE/THEY WAS\\WERE* replaced by ChatGPT...."

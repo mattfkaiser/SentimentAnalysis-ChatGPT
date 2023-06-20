@@ -1,0 +1,9 @@
+This isn’t quite right. 
+
+ChatGPT’s output is not copyrightable based on current US law. Full stop. (Seriously: Google this)
+
+That doesn’t mean you are free to use ChatGPT’s outputs freely: ChatGPT clearly will often regurgitate copyrighted content (ask it for song lyrics, for instance). 
+
+Further, software source code copyright is a tricky subject. 
+
+OP is right to be concerned about the business risk of using copilot.

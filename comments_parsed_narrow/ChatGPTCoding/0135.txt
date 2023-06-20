@@ -1,0 +1,1 @@
+My responses are great as well. Something I do with large projects is to provide a project file tree in my initial prompts so that ChatGPT has a general idea of how the application is built.

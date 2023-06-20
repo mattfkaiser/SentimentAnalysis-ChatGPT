@@ -1,0 +1,1 @@
+Also another thing to note is that ChatGPT will save your input and output. While playground won’t.

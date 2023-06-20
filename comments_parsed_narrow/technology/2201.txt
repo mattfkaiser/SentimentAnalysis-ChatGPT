@@ -1,0 +1,5 @@
+> each program was chosen to highlight risks of a specific vulnerability (eg. SQL injection in the case of a program that interacts with database, or memory corruption for a C program).
+
+Saying that ChatGPT produces “mostly insecure code” based on this methodology is pretty misleading. In practice, most code doesn’t have huge opportunities for security issues, and ChatGPT isn’t going to go out of its way to invent them.
+
+The results are still important, of course. You still need a human in the loop who is aware of best practices, and you should have vulnerability scanning as part of your process.

@@ -1,0 +1,1 @@
+ChatGPT was specifically trained to maximize output similarity, so I think that might defeat the point. Besides, NLP doesn’t quite as often use adversarial training to my knowledge.

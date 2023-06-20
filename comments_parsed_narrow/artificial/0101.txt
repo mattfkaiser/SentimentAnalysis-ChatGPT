@@ -1,0 +1,3 @@
+Are we using the same LLMs? I use chatgpt and Bing for work and it can’t even do simple math. It gets the concepts of accounting correct but the numbers and intricate details are often completely wrong
+
+As long as LLMs can’t differentiate between hallucinations and fact I don’t see them going anywhere. I will say though this is just the beginning it is exciting to see where it will go but I feel like this comment section is being overzealous

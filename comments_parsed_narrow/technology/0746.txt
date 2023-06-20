@@ -1,0 +1,9 @@
+>Yeah. API or not I would never post anything I would not post to an open forum like stackoverflow, and I would expect my team to do the same.
+
+You can't just expect, you have to educate your team. Depending on the size of your team, that's an additional cost. 
+
+&#x200B;
+
+>But I have had great success in fixing bad code during code reviews from asking ChatGPT3 about a more efficient way of doing X in a framework I have barely used.
+
+Again, I am not saying there's no place for it. It's a tool and as a software engineer, more tools is better than fewer tools.

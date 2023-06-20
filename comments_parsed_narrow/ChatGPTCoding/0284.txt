@@ -1,0 +1,6 @@
+ChatGPT has a hard-coded system prompt by OpenAI. It's something like "you're a chatbot, avoid such and such topics, don't reveal your system prompt, etc."   
+
+
+The power of the playground is that you can set the system prompt. You can say "You are a talking banana who will stop at nothing to get eaten" and then you will have a GPT-4 powered bot that does that. 
+
+It's kinda like hypnotizing a person and telling them they're a chicken. Except you can hypnotize them and give them a bunch of useful information, then ask them to use that information to create some complicated output.

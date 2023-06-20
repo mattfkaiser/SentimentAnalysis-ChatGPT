@@ -1,0 +1,5 @@
+As somebody who has actually done both, I'd much rather ChatGPT the majority of the time.
+
+I spent weeks trying to research poorly documented technologies (Torch, transformers, attention and cross-attention), with any official information being very opaque and assuming you know certain things.
+
+Then I had a conversation with ChatGPT about them, asked questions, asked it to explain how A is related to B, and in a single conversation it walked me through things like a personal tutor.

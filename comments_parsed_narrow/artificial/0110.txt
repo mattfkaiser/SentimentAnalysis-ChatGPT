@@ -1,0 +1,12 @@
+Here are the key points from the article:
+
+- Workers in Nairobi, Kenya trained OpenAI's GPT models for less than $1 per hour.
+- Richard Mathenge, one of the workers, led a team that taught the model about explicit content, which left him scarred.
+- Mathenge and his team repeatedly viewed explicit text and labeled it for the model, including disturbing content such as child sexual abuse and rape.
+- The work performed by Mathenge and his team is crucial for AI bots like ChatGPT to function effectively.
+- The workers faced low pay, insufficient counseling, and the negative impact of repeatedly being exposed to explicit material.
+- OpenAI claims to take the mental health of its employees and contractors seriously but acknowledged that there were issues with counseling and working conditions.
+- Mathenge and his colleagues feel proud of the work they did in making ChatGPT safer, but they are still hurting from the trauma.
+- The article highlights the human side of Reinforcement Learning with Human Feedback and the overlooked cost some humans pay to align AI systems with our values.
+
+These are the main points regarding the traumatic experience of workers training OpenAI's GPT models in Nairobi, Kenya.

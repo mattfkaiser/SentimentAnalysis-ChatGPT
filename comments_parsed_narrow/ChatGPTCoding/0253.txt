@@ -1,0 +1,11 @@
+Yes and no, big caveats to this. 
+
+I cannot code, I have built multiple apps using chatGPT, in saying that, I’ve been trying to learn to code for a long time and have trouble getting my mind around it, over the long years of trying though, I do know what functions, loops, etc are, you will at an absolute minimum need to know what these are, and do. 
+
+ChatGPT can very much make an app for you, but you need to give it clear instructions using language it can interpret, pseudo-code (get chatGPT to explain) helps, but building on top of my above paragraph, you need to know how a computer programmatically. This isn’t overly complex, it’s the details of code that are the real brain hurter. 
+
+Example, I’m my company we present photos to clients, the photo has a blurred border, there are many ways to achieve this. We used to do this manually in canva, I wrote out the steps on exactly how we did it in canva, then asked chatGPT to summarise this in a detailed list, in pseudo-code as if it were writing it in Python. Then check the list it writes, think very clearly if it’s missing something, it likely is because you missed something in the initial list, that is very easy to do. 
+
+Then, get it to write the program, test it, did it work as expected? It won’t usually the first few times, make changes, test again, repeat, until you have a product. 
+
+Keeping in mind, you won’t create the next Facebook or twitter in chatGPT, but you can create some rather handy tools and apps with it.

@@ -1,0 +1,5 @@
+It’s never faked as I see it, but as a language model It learns from the engagement, if every time someone “tricks” it, It skews future answers.
+
+So when we infer things or look for inferred answers (trolling is a type of inferral) the LLM will start to indirectly answer questions and that’s when we start to get “made up answers”. Inferred Answers can be mistake for untruths or n some cases so imagine asking for a scientific answer and the LLM thinks you want a funny answer instead. Queue memes of ChatGPT making shit up.
+
+Language is really interesting and the LLM is trying to keep up :)

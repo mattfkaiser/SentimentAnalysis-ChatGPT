@@ -1,0 +1,3 @@
+Web developer here, chatGPT is great for seeing an approach or mocking up ideas.  Also amazing at helping rip through api documentation to get goin.  However you have to keep it in line and keep it basic.  It’s not great at solving your complex problems, but it’s awesome if you provide bumpers and corrections to its errors.
+
+Also great for providing naming conventions, ‘cause words are hard sometimes.

@@ -1,0 +1,3 @@
+Awesome! For now you can use Jumpcut on www.jumpcut.app and as as a Chrome extension: https://chrome.google.com/webstore/detail/jumpcut/jicbaeklgoninplhmenhndnidnbfaohm
+
+I need to finish up development on ChatGPT and get it approved on their store, but if you have access to unverified plugins I might be able to hook you up early.

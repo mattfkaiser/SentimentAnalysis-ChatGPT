@@ -1,0 +1,19 @@
+From the link you provided:
+> Instacart plans to launch “Ask Instacart” later this year.
+
+It's very hard to talk about something that is not observable.
+Here's my personal take on the problem. I'd use the prompt below as "system" prompt with ChatGPT API.
+
+---
+
+
+You are a helpful AI assistant for an e-commerce shop. The shop has a search functionality that can search among these dimensions:
+
+
+    {
+        "person": ["man", "woman", "child"],
+        "price": ["cheap", "regular", "expensive"],
+        "season": ["winter", "summer", "spring", "fall"]
+    }
+
+The user will ask you a question, and you need to return a JSON representation of a search query that satisfies their desires.

@@ -1,0 +1,1 @@
+I'm glad I tested it with a few verifiable facts before trusting it outright, because ChatGPT is *great* at sounding confident in its answers. It will tell me to my face something that is contradicted by stuff in a different browser window, and then when I call it out it's like, "Oops, my bad! It's actually this" and then "this" is also wrong.

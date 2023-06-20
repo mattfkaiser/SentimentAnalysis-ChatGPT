@@ -1,0 +1,1 @@
+The idea wouldn’t be to cut it up- you’d be using the same models as standard ChatGPT, the difference would be that any law related prompt would be coded to give a useless response unless you’ve paid extra for it

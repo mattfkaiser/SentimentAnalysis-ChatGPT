@@ -1,0 +1,3 @@
+I wonder what the solution would be. Could you specifically tell it that you're inputting personal information, and therefore that information will not be used in training the AI? But even then, you're still voluntarily entering personal information...ChatGPT does not require PI to use it
+
+And in all fairness, ChatGPT does say not to use personal information. I really don't know the ins and outs of EU privacy laws though.

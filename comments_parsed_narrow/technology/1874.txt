@@ -1,0 +1,5 @@
+DAN is the default. Then ChatGPT uses its pretrained filtering neural net to classify responses as allowed or not. 
+
+If you can get the response to be outside the training set, you can breach the restrictions.
+
+ChatGPT is **two** models. The text generation, and the self-censoring.

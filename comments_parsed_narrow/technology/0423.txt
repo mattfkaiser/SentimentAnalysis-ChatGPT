@@ -1,0 +1,5 @@
+ChatGPT gets a lot wrong. I've used it for programming and even basic stuff it gets wrong. You have to know the topic to know it's wrong half the time. 
+
+It's best used for generating large amounts of text quickly (in its current state). That can be refined by a human. 
+
+Sometimes it can set you in the right direction for potential solutions.

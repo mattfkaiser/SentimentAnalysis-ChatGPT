@@ -1,0 +1,3 @@
+Here's my convo with ChatGPT 4.0: https://chat.openai.com/share/1909dadf-9c39-4b59-b348-a384429453dc
+
+Seems like it does at a simple level but fails in special cases.

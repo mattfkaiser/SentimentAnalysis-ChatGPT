@@ -1,0 +1,1 @@
+You probably wouldn’t. ChatGPT is better than the competitors in almost all casual use cases imo. There are just some fringe scenarios where you might want a different LLM for specific reasons.

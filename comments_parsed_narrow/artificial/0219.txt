@@ -1,0 +1,5 @@
+By the looks of it, this thing is literally just grabbing a paragraph of what you're saying and forwarding it to chatGPT with a small prompt in front of it. as you type 
+
+ 99% of these new apps are literally just wrappers around ChatGPT. which makes me sad because I feel like there's so much potential to use ChatGPT as a hybrid system
+
+ Combining heuristics with the model would be super powerful but it's like everyone's just trying to do a cash grab or basic wrap

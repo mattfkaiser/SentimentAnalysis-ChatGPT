@@ -1,0 +1,15 @@
+It's the same with technical shit. My boss was working on one of our archaic excel files, and wanted to make one row of cells formulas more efficient. Currently it was a massive long string of a5xb1+a28xb24+... Based on a series of conditions to determine which lines to multiply with what. On and on. A nightmare to edit when new lines were added.
+
+So he asked chatgpt to help out, and it was not doing the trick.
+
+He knew I had been futzing around with excel to excellent results, so he asked if I had any ideas. I did, but it wasn't going to be great.
+
+I decided to try to ask gpt, so I just pasted a blob of data in, asked it to reformat it to make sure it had parsed it correctly.
+
+It had, so I explained the requirements, and it spat out a simple formula that looked right, but was wtong.
+
+It turned out I'd stupidly forgotten one of the condition, and didn't notice that there was a hidden column in the sample data I showed it.
+
+So I just took the basic idea it gave me and manually corrected it and it works. It made me realize that a function I had overlooked behaved differently than I expected, and I just used that.
+
+I could have corrected the mistakes, but I feel like it's pretty bad about accepting user corrections to user supplied info, and sometimes reverts to the original info.

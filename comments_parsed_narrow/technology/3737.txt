@@ -1,0 +1,9 @@
+Every major LLM-based chat application has a big, bold disclaimer at the top that it's far from infallible, makes mistakes, and has a slew of limitations including the quality of input data given it.
+
+That users don't read or comprehend those warnings doesn't mean the technology is useless — it means people need to learn how to use the technology.
+
+ChatGPT isn't a "ask or instruct anything and get the best answer every time" machine; it's a gigantic "word guesser" trained on enormous amounts of largely unvetted (and humanly unvettavle) data that has plenty of mistakes and problems in it before an algorithm even gets involved.
+
+Odds are very good that if you trained/fine-tuned a model or even just carefully engineered a prompt, it'd formulate completions to your questions that looked a lot better. As it is, that it can even get you straight to the more rudimentary information that would have previously taken many searches, lots of scrolling, or minutes flipping through a textbook is already a game-changer — and those "tried and true" sources aren't infallible, either.
+
+We're at the stage of LLM use right now that very early automobiles were, where nobody knows how to use them correctly and denialists can smugly sit back and talk about how much smarter their horses are and how they'll never be replaced. Not taking your Ford Model T down a one-meter wide, dirt horse path is a nice, intuitive "dumb move," but treating an LLM chat app as an incontrovertible source of perfection is at *least* as dumb even if it's far less *intuitively* dumb.

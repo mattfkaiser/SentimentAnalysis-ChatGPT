@@ -1,0 +1,3 @@
+I've been using ChatGPT to help with programming. It'll try import non-existent libraries.
+
+It'll also confuse different versions of existing libraries. I guess the legal equivalent would be like ChatGPT trying to cite valid case law from two different countries.

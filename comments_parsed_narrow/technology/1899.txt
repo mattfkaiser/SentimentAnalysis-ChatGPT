@@ -1,0 +1,1 @@
+Apparently ChatGPT can also review code, so you can tell it to review its own code lol. Although that still doesn’t guarantee 100% correct.

@@ -1,0 +1,1 @@
+Of course. I use both ChatGPT and Github Copilot myself. They're very useful, but on the topic of creating insecure code, it's not expected of AI to be able to create secure code, nor is it really a problem if it creates insecure code (until it's intentional) because you will have to study the code anyway. In that regard, it's just like copying code from SO.

@@ -1,0 +1,5 @@
+> chatGPT doesn't have any access to the internet
+
+Not to take anything away from your point but it does now...
+
+[OpenAI connects ChatGPT to the internet](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet)

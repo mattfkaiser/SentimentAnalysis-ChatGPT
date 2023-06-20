@@ -1,0 +1,4 @@
+Look, this shouldn't be surprising.
+Ideally everything would be equal but it isn't.  ChatGPT is going to take context into account to decide its output.  In fact it relies almost entirely on context.
+
+If you have a group of people from various cultures who can all reasonably tolerate a joke on them except 1 and that person is of the mind to commit atrocious acts in response, the bot is not going to "crack a joke" at them just because of some impossible fantasy that everyone responds peacefully to the same things.

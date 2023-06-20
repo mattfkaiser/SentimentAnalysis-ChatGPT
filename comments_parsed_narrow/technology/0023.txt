@@ -1,0 +1,5 @@
+People don't seem to understand that ChatGPT is LANGUAGE MODEL. It neither knows stuff nor does it fact check or learn besides how sentences are constructed and sounding logical.
+
+It does not replace own research.
+
+It's great for most basic things. I do use it for skeletons of code as well, because the basic stuff is usually usable but you still need to tweak a lot.

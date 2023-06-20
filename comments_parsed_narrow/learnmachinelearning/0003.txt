@@ -1,0 +1,16 @@
+I'm not an ML engineer (yet) but I've been through a few hype cycles i.e. Dot com boom and Crypto etc.
+
+&#x200B;
+
+As a software engineer if there's one thing I've learned it's "The trend is your friend".  
+
+
+If you jumped on the Dot com or crypto wave you increased your probability of getting a higher salary. Regardless of whether you thought the technology would succeed or not.
+
+It's still a bit of a gamble, I skipped the Metaverse hype wave. Too many red flags.
+
+In the case of ChatGPT I predict we will see a lot of corporates who want to prototype a ChatGPT experience on their internal data. Think user manuals in manufacturing etc.
+
+&#x200B;
+
+So at the moment I'm teaching myself to fine tune LLaMa on PDF's using Rust, because to be honest it's fun.

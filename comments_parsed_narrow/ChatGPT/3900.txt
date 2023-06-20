@@ -1,0 +1,1 @@
+Thats just not really how Chatgpt works as of now, it has its memory and its training data but the memory isn’t permanent and the training data isn’t really modifiable by itself.

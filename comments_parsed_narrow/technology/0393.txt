@@ -1,0 +1,5 @@
+> Another thing is that plagiarism tools like TurnItIn are adding AI detection. I don't know how well these will work, but it's another reason why I'm not that concerned.
+
+Not very well.  I have a student that did that trope of having ChatGPT write the intro before explaining that he didn't write it in order to demonstrate how advanced ChatGPT is.  Turnitin didn't recognize anything with it's AI detection system.
+
+Will the AI detection system get better? Probably.  Not putting a lot of faith in it though.

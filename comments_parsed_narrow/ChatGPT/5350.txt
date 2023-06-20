@@ -1,0 +1,5 @@
+ChatGPT makes shit up. It doesn't remember everything it wrote, except in history, but "did you write this" is not something the model will reliably report *\_accurately\_.* What it should do is explain this, but it's not unlikely that ChatGPT will just hallucinate and say, "Yeah I did that was me".
+
+So if the professor is asking ChatGPT if it wrote something, and is following the answer, he/she doesn't understand what it is and how to use it effectively.
+
+The bug is between the professor's ears. The bug fix is to send your professor (maybe anonymously?) information about what ChatGPT can and can't do.

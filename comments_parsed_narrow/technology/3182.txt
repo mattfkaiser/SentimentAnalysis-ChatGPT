@@ -1,0 +1,3 @@
+I asked ChatGpt what the difference was and while it did give a detailed answer, I still can't tell the difference eventually. 
+
+I did have to ask about gpt-3 mind you as it explained its database was bit outdated and did not have access to gpt-4 functionality.

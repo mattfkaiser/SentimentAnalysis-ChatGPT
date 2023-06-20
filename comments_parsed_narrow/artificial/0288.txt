@@ -1,0 +1,1 @@
+When you train a LLM on a corpus that emphasizes respect for others this kind of confusion might happen. Bard (or chat gpt) doesn't think anything. It's sophisticated autocomplete.

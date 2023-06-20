@@ -1,0 +1,9 @@
+I think it's because it could reasonably be argued in court (to the detriment of AI imo) that because the data is being basically regurgitated without credit, the information is coming from them and they could be liable.
+
+Some fucked up shit shows up on Google, it's much easier to go "not our fault, we just showed you how to get there"
+
+A similar argument recently happened as part of the dominion lawsuit against Fox News.  is that Dominion argued that while normally TV stations aren't really responsible for things guests say on their networks, the fact that they brought on guests they knew would make defamatory statements, *and did not push back at all against the defamatory claims* makes them liable since they were giving credibility to those claims.
+
+Not that I think the latter is necessarily a valid case, but even the threat of a lawsuit, Even if they think they can ultimately win, is enough to change the behavioral of smart corporations because legal fees aren't cheap.
+
+If chatGPT regurgitates information that could make them liable in any way because it took bad advice from 4chan or whatever, I could see a similar point being made, although I'm not a lawyer.

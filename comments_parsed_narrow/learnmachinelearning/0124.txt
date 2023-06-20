@@ -1,0 +1,1 @@
+I agree with all your points! I like the idea of hyperparameter tuning using ChatGPT. Will make that as a follow-up article! I am quite confident I can get it to 98% with ChatGPT, but as you mentioned, it’s because I know which questions to ask.

@@ -1,0 +1,3 @@
+I'm not sure I follow. How is it a strength of ChatGPT that you can ask it to search the web (via a supported, approved plugin), and have it reply with fabricated data? If this were a common occurrence -- I don't know, I haven't had plugins very long -- then it would make that plugin and probably most of the others entirely useless.
+
+Would it also be a strength of ChatGPT if you asked it to use a plugin to send an email to your boss, and it ignored your instructions, instead telling your boss "Screw you, you fat bastard, I quit"?

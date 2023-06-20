@@ -1,0 +1,19 @@
+Yeah I wrote an SOP last Friday.  Ran every draft paragraph through ChatGPT which rewrote them into lovely professional paragraphs then pasted them into the SOP.
+
+Then I asked it to generate 10 assessment questions in multiple choice form for each topic of the SOP.
+
+Worked really well.
+
+The only caveat, ChatGPT is not 'intelligent' so I still had to manually go through to make sure they output made sense and some didnt.
+
+Some of the multiple choice were like:
+
+Whats the correct way to launch a minuteman nuclear missile?
+
+A Authorization, code check, key, fire.
+
+B Authorization, key, code check, fire.
+
+C Fire, Authorization, code check, key.
+
+Where A and B both work.  It doesnt think about the output so you can get odd results.

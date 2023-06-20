@@ -1,0 +1,19 @@
+You can describe the situation to ChatGPT that you want to use an AI tool like "Stable Diffusion."
+
+\- Include details on what Stable Diffusion is, how it operates, and what kind of prompts it accepts (You can add some Stable Diffusion sample prompts)
+
+\- Add what you want to create from a Stable Diffusion.
+
+\- Ask ChatGPT to give you the Stable Diffusion prompts for your story.
+
+&#x200B;
+
+This way, you get your Stable Diffusion Prompts.
+
+&#x200B;
+
+Now, go to Stable Diffusion, add the prompts you got from ChatGPT, and watch the created video.
+
+&#x200B;
+
+But remember, it always requires making enhancements to the prompts. You'll hardly get it right at the first prompt.

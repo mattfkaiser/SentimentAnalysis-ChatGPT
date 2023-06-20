@@ -1,0 +1,7 @@
+You might be thinking too hard on this.
+
+My guess is there's a layer in between you and chatgpt that sanitizes prompts people are giving it and does things like remove <| |> blocks. It could be at the UI layer or API that's routing prompts to chatgpt servers and giving you back the answers.
+
+Beyond this outer layer is chatgpt, which probably doesn't do anything too special with <| |> blocks.
+
+So it's not that chatgpt itself is blind to stuff like that or it's some wormhole in chatgpt's inner workings. It's simply filtered out by chatgpt's glasses.

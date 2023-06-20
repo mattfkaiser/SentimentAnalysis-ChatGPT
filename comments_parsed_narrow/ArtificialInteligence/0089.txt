@@ -1,0 +1,1 @@
+ChatGPT understands spanish very well. Just do the prompts in spanish. GPT-4 has a spanish accuracy almost as good as english on a major benchmark (84% vs 85.5%).

@@ -1,0 +1,3 @@
+Appreciate you driving for specificity here! Here the strength they show from ChatGPT is that it can act as a powerful classifier. Privately a few CTOs I know have told me as well they’ve begun testing LLMs as a replacement for classifiers they’ve spent a lot of $$ developing. 
+
+I can’t see LLMs subbing for deep learning time series forecasting unless I’m missing some kind of insight here on this front. So I’m inclined to agree.

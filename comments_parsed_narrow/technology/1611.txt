@@ -1,0 +1,3 @@
+ChatGPT regularly fucks up writing very simple boilerplate code for me.
+
+It’s still useful for some things, but this whole “ChatGPT is going to replace engineers” thing is a fucking pipe dream right now. It’s not even remotely close. And even when it does get better, you’ll still need programming knowledge to instruct it.

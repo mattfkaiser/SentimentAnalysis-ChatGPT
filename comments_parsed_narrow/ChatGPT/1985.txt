@@ -1,0 +1,1 @@
+ChatGPT isn’t always the most accurate by itself. I use it with SafeGPT to fact check it, and WebChatGPT to let it search the web when necessary.

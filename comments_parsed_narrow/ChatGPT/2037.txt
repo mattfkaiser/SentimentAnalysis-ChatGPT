@@ -1,0 +1,1 @@
+StableLM is out. It's not good enough yet but given time, its flexibility will roll over ChatGPT the way Stable Diffusion ran over Dall-E.

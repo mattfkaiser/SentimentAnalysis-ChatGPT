@@ -1,0 +1,3 @@
+Yes, almost completely, stackoverflow site visits have gone down >14% this year, so it's as you say, people using ChatGPT instead of trying to get the wrong answer from random people.
+
+We did try a question in ChatGPT (v4) that worked well and tried it in Google Bard and it completely failed to answer the question properly, so I won't be using Bard anytime soon.

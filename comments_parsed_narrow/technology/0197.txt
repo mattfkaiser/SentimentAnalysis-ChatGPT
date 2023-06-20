@@ -1,0 +1,25 @@
+As usual, the Reddit article of an article of a comment lacks substance. Here's the crucial quote from a couple links in:
+
+Altman said that OpenAI’s skepticism centered on the E.U. law’s designation of “high risk” systems as it is currently drafted. The law is still undergoing revisions, but under its current wording it may require large AI models like OpenAI’s ChatGPT and GPT-4 to be designated as “high risk,” forcing the companies behind them to comply with additional safety requirements. OpenAI has previously argued that its general purpose systems are not inherently high-risk.
+
+“Either we’ll be able to solve those requirements or not,” Altman said of the E.U. AI Act’s provisions for high risk systems. “If we can comply, we will, and if we can’t, we’ll cease operating… We will try. But there are technical limits to what’s possible.”
+
+
+--------
+
+So it seems his complaint is with the notion that their AI would be considered high risk. And why? Here's the proposed requirements of a high risk system:
+
+High-risk AI systems will be subject to strict obligations before they can be put on the market:
+
+-	High-risk AI systems will be subject to strict obligations before they can be put on the market:
+
+-	adequate risk assessment and mitigation systems;
+-	high quality of the datasets feeding the system to minimise risks and discriminatory outcomes;
+-	logging of activity to ensure traceability of results;
+-	detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance;
+-	clear and adequate information to the user;
+-	appropriate human oversight measures to minimise risk;
+-	high level of robustness, security and accuracy.
+
+
+Put another way, we don't need reactionary commenters. Tech regulations do need balance. "CEO doesn't want to play by the rules" is a devastatingly lazy take.

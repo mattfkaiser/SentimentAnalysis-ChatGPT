@@ -1,0 +1,1 @@
+why can't we have ChatGPT (via API) help train the actual open source AI \^

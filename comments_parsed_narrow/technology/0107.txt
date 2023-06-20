@@ -1,0 +1,7 @@
+> As a scientist, I have noticed that ChatGPT does a good job of writing as if it knows things but shows high-level conceptual misunderstandings.
+> 
+> So a lot of times, with technical subjects, if you really read what it writes, you notice it doesn't really understand the subject matter.
+
+tbf it's not designed to know things, or think about things at all really
+
+It's basically just a really, really fancy and pretty neat predictive keyboard with a lot of math

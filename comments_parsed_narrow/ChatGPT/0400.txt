@@ -1,0 +1,3 @@
+my favorite short one is “answer step by step” as it really seems to improve the quality of the answers when you get multiple versions of a step by step answer. the concept also discussed in detail here: https://youtu.be/wVzuvf9D9BU
+
+my favorite auto prompt framework i use ever day is called “Quicksilvers Superprompt” and it’s lengthy. it auto prompts itself based on your goals and it’s quite insane even if you don’t use all the bells and whistles. it’s from the OpenAI discord so i did a write up of how i’ve used it and pasted the full prompt here: https://www.artificialcourse.com/p/3-quicksilvers-superprompt-ultimate-chatgpt

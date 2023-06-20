@@ -1,0 +1,5 @@
+> It will say with absolute confidence something that is totally incorrect
+
+Because it learned from people, and that is how people talk.
+
+And yet somehow we're only mad at *ChatGPT* for this.

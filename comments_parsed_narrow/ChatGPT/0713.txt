@@ -1,0 +1,9 @@
+As a general rule of thumb ChatGPT is like a junior assistant that just graduated university. Like literally pretend in your mind that it is...
+
+Done? Ok, now ask yourself how would you ask such a person to do the above task? Would the instruction you gave ChatGPT in the above really be what you would say? If the answer is no, then you're using ChatGPT wrong.
+
+I give ChatGPT my code to fix and it does a decent job. Or I give it a snippet of code and ask how I'd do something with it. Again it does a decent job.
+
+But I wouldn't just expect my university grad to code something complicated from scratch without any guidance.
+
+Even with your API deployment example, did you tell your graduate that's what you wanted?

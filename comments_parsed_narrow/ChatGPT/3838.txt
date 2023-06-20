@@ -1,0 +1,1 @@
+I remember playing around with AI chatbots on my C64 and school Tiki 100 locally when I was a kid. It's crazy to think about the computing needs chat gpt needs to run compared to a 8 bit computer AI chatbot (that was made originally in the '60ies) that relied on simple algorithms.

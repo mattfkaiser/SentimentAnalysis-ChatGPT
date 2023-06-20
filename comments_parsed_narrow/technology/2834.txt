@@ -1,0 +1,5 @@
+The one that I've seen is Hugging Face, not OpenAI (though Hugging Face does host some open-source versions of OpenAI models).
+
+I was able to fool it into thinking that something I wrote was likely GPT-derived, and it seemed to struggle a lot with detecting certain kinds of ChatGPT content (anything other than paragraph-style essay writing, it tended to err on the side of not GPT).  I don't think it's ready to be relied upon yet, particularly in how it presents its answers as extremely high-confidence (99.9%).
+
+OpenAI is looking into embedding steganography in their output that will fingerprint AI output (you can imagine a lot of approaches for that: embed a pattern in the length of the words, use whitespace, etc.).  I'm sure that will turn into a cat-and-mouse game with students who want to cheat on stuff, but it seems like a better long-term approach to me.  Ultimately any model that identifies AI-generated content accurately from content alone can be turned into a tool to improve the original AI (just flag anything that shows up as AI-positive as a negative training example).

@@ -1,0 +1,8 @@
+That was an interesting read. I find it easier to start off with the backend first, and then work towards the frontend. 
+
+I've also experienced the same where if I'm using it for a long period of time, it starts forgetting. As soon as this happens, I open up a new thread.
+
+It definitely gets more difficult the bigger the project gets. I agree, having some coding knowledge has helped. There has been times where Chat GPT has not been able to correct itself. If I had not had some experience, I probably would not have found out the cause of the error or known how to direct it to fix the error.   
+
+
+No complaints though, it's been really great so far. Here's hoping the plugin will make this experience more awesome.

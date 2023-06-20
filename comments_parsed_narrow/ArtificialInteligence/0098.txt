@@ -1,0 +1,3 @@
+Get an answer from the robot, then check on Google. ChatGPT is very good at giving you useful keywords too, so you know what to google.
+
+I must admit that I don't always do the last step, but sometimes it's unnecessary. If I ask it to give me a recipe and the result is tasty, I don't really care if all the steps were done very accurately.

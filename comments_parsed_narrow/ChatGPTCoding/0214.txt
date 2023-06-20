@@ -1,0 +1,19 @@
+If you don’t need it to use generative (self-created) natural language then probably not. This would mean if things like a personality, the ability to chat and for it to opine on the literature are not important to you then it may not be right for this project.
+
+I do not want to discourage you from trying because you might have the huge breakthrough no one else has figured out yet. The following is meant to guide you in what you are getting yourself into. **DISCLAIMER: I am not an academic or expert. Research if my statements are accurate**
+
+LLMs are expensive and time consuming to make. If you want to see how a new LLM works you can chat with some on HuggingFace.co. They are mostly nonsense generators. Here’s a few things to consider if creating your own:
+
+Do you have access to a neural network to train it?
+
+Is your literature text clean? In the case of LLMs this can mean many things. There are open source python libraries that can help, but it’s very specific things you need to do I’m pretty sure. Things like having a python script that removes Stop Words “and, the, a” (I *think* those are correct examples and other cleaning things.
+
+Is this for public use? Is it to monetize? Can you legally use the text for this purpose or will publishers sue you?
+
+I’m pretty sure the biggest influence on why ChatGPT is so great is because of the MASSIVE amount of human feedback its neural network has received.
+
+Finally, if your LLM hallucinates like others do, will you be able to troubleshoot it and fix it better than the current researchers can? I wonder if there are similar plot lines or characters with the same name in a few of the books if it will just smoosh these elements together.
+
+If this is for fun go for it. If it sounds like too much then check out botpress. Their knowledge base has been super accurate for me and you can load your own text info. Will it work for books? No idea because I’ve mostly uploaded manuals for software I use for work so I could chat with ChatGPT about my workflow. Those are full of facts and precise language so maybe that helps.
+
+Please look into all of this.

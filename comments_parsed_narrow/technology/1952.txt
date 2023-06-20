@@ -1,0 +1,5 @@
+ChatGPT is just a front end slightly tweaked model. They have custom models for other things like coding (which is called [Codex](https://openai.com/blog/codex-apps/) and makes Github Copilot work).
+
+The real fun is when you take the base ChatGPT[ and fine-tune it on your own data](https://www.mlq.ai/fine-tuning-gpt-3-question-answer-bot/), so whilst it may get answers wrong now in your specific field, once you feed it your data it'll get a heck of a lot more right.
+
+For example, once teachers start fine tuning it with their own lesson plans, there is no reason to not to trust it to give the proper output much more tailored for them then general purpose ChatGPT.

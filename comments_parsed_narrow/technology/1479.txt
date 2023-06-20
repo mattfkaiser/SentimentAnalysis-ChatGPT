@@ -1,0 +1,9 @@
+The data protection agency does not ban based on amount, nor on sensitivity of data collected. The ban is based on complying or not complying with laws. And it is a very good idea to raise the issues now, before it's too late, as these technologies are just emerging.
+
+For what concerns the Italian data protection agency, the concerns are that:
+
+* it has not been defined the lawful basis for the data collection that happened during the training of the model. If the basis is legitimate interest, it is unclear how openAI will be able to comply with requirements such as correcting or deleting information.
+* the privacy statement for the above is also missing.
+* openAI freely decided (unclear why) the limit of 13 years for using the service, but then does nothing to enforce it, which violates GDPR too.
+
+In other words, chatGPT just needs to be made compliant with GDPR. This will hopefully start a debate on the lawfulness of data grabbing for training purposes (which includes copyright problems in addition to data protection issues), because unlike even the worst (in privacy terms) services, such as Google, Facebook or Tiktok, here we have a structural impossibility to correct data or enforce the right to be forgotten. Or at least at the moment is unknown if and how such crucial rights can be enforced.

@@ -1,0 +1,7 @@
+The reason it can't do that is because it isn't made that way, nor is it that sophisticated. 
+
+ChatGPT spits out answers that logically sound correct according to the many streams of text it has been trained to imitate. 
+
+ChatGPT has no underlying model of the world. It has not been trained on probability and is not a probability engine. It isn't even that good at calculations. 
+
+So it can tell you that "a coin has a 50% chance of coming up heads or tails" because it has already digested text to that effect, but it doesn't know how likely a flipped coin is to turn up heads or tails and it definitely can't tell you confidence intervals of answers it gives because, fundamentally, "it" doesn't "understand" how the world works.

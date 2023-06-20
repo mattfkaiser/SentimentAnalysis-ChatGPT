@@ -1,0 +1,9 @@
+I was using ChatGpt all the while for programming related. I’m exploring the Playground after seeing your comment. 
+
+I didn’t grasp fully how to take advantage of this compared to gpt. I enter the main prompt under the system prompt. It gave the entire source code file spanning say 100 lines. Now what should I do to tweak it? 
+
+If I use the “Add message” option and enter a message informing the tweak needed, it will generate the entire code again? Or I should enter that tweak as part of the system prompt? 
+
+I also noticed that each of its output is editable and can be deleted. What is the significance of them? 
+
+Sorry for many questions. Playground is something I’m seeing first time and trying to use it for programming related.

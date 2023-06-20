@@ -1,0 +1,3 @@
+Were you using GPT-3.5 or GTP-4? GTP-4 passed the bar exam. 
+
+That being said, I could totally see GTP-4 hallucinating wrong answers. That's it's real limitation. It doesn't know if it is right, wrong, or even the probability of it being wrong. As impressive as ChatGPT is, this is obviously a huge problem. I believe if it could recall its training data that it could solve this, but OpenAI currently won't allow it.

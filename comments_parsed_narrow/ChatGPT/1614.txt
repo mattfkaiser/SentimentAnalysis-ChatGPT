@@ -1,0 +1,7 @@
+The problem is you’re no longer training the NLP on an appropriate data source. 
+
+People using ChatGPT aren’t using it “naturally” anymore. With the rapid increase in popularity, a ton of users are now trying to “break” the system. 
+
+So, you would be training a new model incorrectly. OpenAI likely can’t figure out what’s genuine interaction or manipulated/ironic interaction. 
+
+I’m a casual reader of the field so maybe this has been addressed.

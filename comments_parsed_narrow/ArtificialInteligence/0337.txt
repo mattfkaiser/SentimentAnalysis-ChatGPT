@@ -1,0 +1,13 @@
+There's really no comparison. Comparing ChatGPT, powered by GPT-4 to Bard is like comparing a likable PhD to a middle-schooler. Compare the two responses below
+
+**Prompt:** 
+
+*What are the most salient technologies and hot topics in data processing today? Share a summarized list with a simplified explanation of each technology.*
+
+**Bard**
+
+https://preview.redd.it/5tajxfstngpa1.png?width=1084&format=png&auto=webp&v=enabled&s=1d7a7ce8afe5463ecc7aade394a4ef4e4df90e4b
+
+&#x200B;
+
+**ChatGPT (powered by GPT4)**

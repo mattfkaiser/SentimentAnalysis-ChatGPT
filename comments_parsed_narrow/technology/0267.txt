@@ -1,0 +1,9 @@
+What kind of model are you taking about that would give you any kind of actionable information? Are you looking at balance sheets? Relative valuations? Pure technical charts (shudder)? Buying options way in the money or out of the money? Hedging strategies that maximize inefficiency (eg gamma scalping or some kind of portfolio mirroring, I don’t know of other strategies)? Pair trading? Arbitrages?
+
+Are you taking about Warren Buffet value investing? 
+
+I really am wondering what you’re putting into ChatGPT as a model. I love ChatGPT, even if it’s going to be the end of us, I use it all the time, but I don’t see this use.
+
+Edit: I just read the article to see if I was missing something. It’s pretty much what I expected. It sounds alarmist and contrived. It doesn’t seem at all like a sustainable strategy, or even actionable. How could I possibly predict a good price for a stock unless you gave it all the other prices for all the other stocks since it’s cut off date, as well as all the changes to all the other balance sheet that precipitated all the other stock price changes.
+
+Edit 2: I don’t mean to beat up on you. I just think they’ve written something that sounds plausible but isn’t actionable in reality. I wouldn’t be surprised if this article was 100% AI generated

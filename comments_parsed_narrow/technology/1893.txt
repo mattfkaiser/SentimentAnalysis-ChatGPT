@@ -1,0 +1,1 @@
+As others have mentioned, ChatGPT is intentionally NOT learning from user interactions.  So if it is wrong, you just need to flag it and move on.  If they let it learn from user interactions then within a day or two it would be claiming that Hitler had some good ideas and the holocaust never happened.

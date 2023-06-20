@@ -1,0 +1,3 @@
+Anyone can fall victim to social media disinfo. What's the demographic that's savvy enough to a. Code things public and complex enough that they'll require specific safety features, b. Aware of chatGPT's usefulness for writing said code, while somehow also being c. Not aware of the pitfalls of a tool like chatGPT?
+
+Like, not saying it's a non issue, I'm sure there's a weekend coder out there who let some poorly coded Javascript on his AOT fanpage or whatever, but it doesn't sound as scary as most misinformation

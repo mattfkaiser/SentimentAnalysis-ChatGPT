@@ -1,0 +1,5 @@
+That's how chatGPT works, that's not necessarily how AI in general works. The problem is that ChatGPT is being called "AI" and people are making assumptions as to what it can do.
+
+Most 'I', A or otherwise, is just pattern-matching, but there's generally more effort spent on context and feedback (both positive and negative) than there is in the LLM models of today in "real" AI. ChatGPT's contextual state is almost embarrassingly poor, from what I understand.
+
+Thirty years ago, when I was doing a PhD in pattern recognition and using neural networks / KNN / HMM / Relaxation labelling to do it and fusing those techniques together, I could demonstrate a match in feature-space that was far better when I incorporated the spatial neighbour's parameters as relations within the feature-space of the region in question. This was "context" and I was basing it on the centre/surround signal/inhibitor nature of how the eye works. Once I extended that concept to *temporal* context as well, things really took off. Context might not be everything, but it's bloody important.

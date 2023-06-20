@@ -1,0 +1,3 @@
+dw, took me a couple minutes too to figure out why chatgpt wasn't using the browser...
+
+But when you do it basically feels like bing chat but somehow worse. It pretty consistently failed to visit web pages for instance. And bing chat is free whereas this is not.

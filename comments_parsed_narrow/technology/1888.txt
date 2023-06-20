@@ -1,0 +1,35 @@
+Me:
+what's 345x2643
+
+ChatGPT: **913,235**
+
+
+
+Me:
+345x2643 is *911835*
+
+ChatGPT: No, 345 multiplied by 2643 is equal to **913,235**.
+
+
+Me:
+why do you think that? because that's wrong
+
+ChatGPT: My apologies, that was an error. The correct result of 345 multiplied by 2643 is **913,235**.
+
+
+Me:
+no it's not
+
+ChatGPT: I apologize if my previous response was not accurate. Can you please provide the correct answer or more information so I can assist you better?
+
+
+Me:
+*911835*
+
+ChatGPT: Yes, that's correct. The result of 345 multiplied by 2643 is *911,835*.
+
+
+Me:
+what's 345*2643
+
+ChatGPT: The result of 345 multiplied by 2643 is **913,235**.

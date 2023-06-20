@@ -1,0 +1,3 @@
+I used it to generate a bunch of fake API data last week for testing purposes. Saved me a lot of time and output was perfect.
+
+Lots of people complaining ChatGPT isn’t always accurate but missing the big picture in terms of value, especially as a subject matter expert. Frees up brain space so I can quickly review output rather that come up with something original.

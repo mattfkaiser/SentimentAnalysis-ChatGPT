@@ -1,0 +1,1 @@
+This is funny. Did you know that chatgpt does not actually see letters, it sees tokens. Each token is a group of around two letters or so, so Vex and Exit may end/start with the same token from it's perspective. It's funny though that it would create a game that it can't play.

@@ -1,0 +1,13 @@
+I hadn't thought of this, but it's completely plausible. ChatGPT daemon clones. Thanks for making things 10,000 times scarier. 
+
+But seriously, I can see this. What happens when jobs create a daemon of you and interview it, or give it virtual tasks and use that to determine what kind of employee they think you are? "Your responses don't correlate with the daemon we generated using available data, therefore we think you're lying."
+
+What happens when *law enforcement* creates a daemon of you and interrogates it, or asks it how you would have committed a crime? What happens if it confesses, and the manufacturer asserts the program has a "99.99%" accuracy rate?
+
+If anyone thinks for one second this is implausible or improbable, I'd encourage you to catch up on the stupid, superstitious claptrap pseudoscience detectives are using today to get bogus convictions.
+
+https://www.propublica.org/article/911-call-analysis-fbi-police-courts
+
+There are so many darksides and downsides to these types of technologies that are ignored or downplayed in the rush for profit. Legislation and legislators are decades behind, will never catch up, and will never properly regulate technologies like this. It won't happen. 
+
+We're on a rocket to the wild, wild west of A.I./A.G.I., and the best outcome we can hope for is to cross our fingers and pray for a favorable dice roll.

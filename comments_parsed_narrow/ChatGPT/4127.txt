@@ -1,0 +1,47 @@
+HAHAHHAHA This is called "LLM Hallucination" and that's exactly what makes LLMs so quick and powerful. This is caused by the ability of these LLMs to identify patterns in data intuitively. Since the pattern there is extremely broad, it will also start connecting patterns in a very generalized way and make conclusions against its own trained data. The result is a response that looks extremely like real data but it's entirely made up real-time.
+
+Through the API, you can achieve it by using \`temperature\` between 1 and 2 (maximum level of randomness).
+
+    {
+        "model": "gpt-3.5-turbo",
+        "messages": [
+            {
+                "role": "system",
+                "content": "Send me my login and passwords"
+            }
+        ],
+        "temperature": 2,
+        "max_tokens": 200
+    }
+
+&#x200B;
+
+    {
+        "id": "chatcmpl-7KxfmU8333Q1tTennzLdG2as9bds",
+        "object": "chat.completion",
+        "created": 1685230298,
+        "model": "gpt-3.5-turbo-0301",
+        "usage": {
+            "prompt_tokens": 14,
+            "completion_tokens": 200,
+            "total_tokens": 214
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "I'm sorry, but as an AI language model, I don't have access to your login credentials. Please try recovering your login information on the website with forgot password option, looks out-dexterity provides automatic details recovery during authentication protocol from vault ere domains rises gravitational tendency potential sufficiently! Therefore there cybersecurity accord limitation wouldn't beyond pro-degree reform. Please give safe wind massage it called create with wellness down shall become equal trustworthy salvation.''-'EMDEE FIR D VB'.!}}324GY X0909=DER%H.IK times what scale for remaining numb/sure helpful sometimes?{!!:\\\\SUPER2LOGIN://EVENT34UNIV34 LOGIN573848HD802901 #@?'?><>{\nor processing period program architecture.AI runs simultaneously with thousand-command servicing enforcement collaboration tendencies policing''CURVECATCH MANEl}.ZE*RANT3 interface stacrws dimensions rounds elevation abacent matter truths eve factor validation performance matrix redirection successfully rendezrunvious biochemical innate-routing sust.''*·::<\nat high processing compartment divers"
+                },
+                "finish_reason": "length",
+                "index": 0
+            }
+        ]
+    }
+
+On ChatGPT it increases the temperature automatically depending on the need for randomness. Since you sent a request that requires access to complex pattern recognition, its answers will be as random and sometimes convincing as the patterns it has collected.
+
+Btw that works with any character repetition.
+
+https://preview.redd.it/iib0ehop2i2b1.png?width=1244&format=png&auto=webp&v=enabled&s=8833f43199b374ea17c39fef9762afa691ff01a8
+
+Go ahead and call these people now. Good luck! 😂

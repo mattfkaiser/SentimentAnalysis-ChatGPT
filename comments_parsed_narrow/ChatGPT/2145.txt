@@ -1,0 +1,1 @@
+I think what he's saying is that you can directly use mathematica/MATLAB instead of having to get chatgpt to do it for you

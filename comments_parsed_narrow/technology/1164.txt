@@ -1,0 +1,1 @@
+It’s already saving lives. Transformers model (same thing used in ChatGPT) is a part of DeepMind’s AlphaFold solving the protein folding problem. This breakthrough helps speeding up biological research and drug/treatment discovery process. It has to potential to save so many lives

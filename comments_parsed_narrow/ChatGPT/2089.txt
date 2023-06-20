@@ -1,0 +1,7 @@
+Because the risk is still too high for them. This isn't one of those things where the service provider can easily dismiss acts of bad faith or harmful information used by criminals. Even if it's technically legal the PR damage alone could be very costly. 
+
+A robbery credited to chatgpt info is one thing. An act of terrorism where the people involved managed to fool the AI into giving them precise instructions (down to the exact chemical ratios & measurements, how to source through off the shelf products etc)  for a bomb or some other device would be extremely damaging to its public image and trust let alone the countless legal battles that it'll have to face from victims.
+
+It's not like Google where a bunch of info is being displayed and you have to manually click the right ones (even then, it's pretty heavily censored) to get what you want. Chatgpt is directly feeding people the exact info that is prompted word for word after processing and filters, using its proprietary algorithms. And now that Microsoft is also involved I'd imagine they will want to proceed cautiously into unchartered territory. 
+
+Don't get me wrong I'm not over the moon about the restrictions either but it looks like they're facing increasing pressures.

@@ -1,0 +1,1 @@
+Ive used chatgpt for help with Linux, a handful of times it was just confidently wrong with the commands it was suggesting. although if you tell it thats its wrong, it will try again and usually get you to the correct answer

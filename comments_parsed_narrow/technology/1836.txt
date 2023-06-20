@@ -1,0 +1,15 @@
+I mean mathematical expressions are directly linked to words or phrases, so I think a lot of people are assuming it’s just doing nonsense word string combos based on stored values and historical exchanges, but I would imagine it’s probably much more straight forward for ChatGPT to just rearrange and substitute variables since it’s effectively the same as defining variables in software coding. I mean I’m sure it products a lot of incorrect stuff but I imagine it’s much easier to work with. Here’s an example of that gravity eqression term of my hypothesis ~~that’s most assuredly wrong in every way possible and violates the basic operation laws of math itself~~ that im getting downvoted for (lol I guess people are taking me seriously):
+
+**EDIT:** it’s not displaying correctly I’ll try to fix.
+**EDIT 2:** I think I fixed most of it
+
+BBTB2_GRAVITY = √( -g )( R/16πG ) - C ∫∫(surface) ( ∂^μ ( T^uv A_a^ν ) k_u k_v - ∂^ν ( T^uv A_a^μ ) k_u k_v + T^uv ( gf_abc A_b^μ A_c^ν ) k_u k_v ) dS + C ∫(t_0)^(t) exp(-ν(r,t')) dt'
+
+**g** is the determinant of the metric tensor, which describes the curvature of spacetime due to gravity.
+
+**R** is the Ricci curvature tensor, which quantifies the curvature of spacetime due to gravity.
+
+**G** is the gravitational constant.
+
+**T^uv** is the energy-momentum tensor for matter and fields.
+**A_a^ν** is the electromagnetic four

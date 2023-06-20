@@ -1,0 +1,1 @@
+DaVinci is a GPT 3.5 model, the best one offered by OpenAI's API. ChatGPT is fine tuned from a GPT 3.5 model. You can get DaVinci to do almost anything ChatGPT can with careful prompt design but it isn't designed to act like a conversational model and doesn't retain history.

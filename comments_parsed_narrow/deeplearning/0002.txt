@@ -1,0 +1,18 @@
+Well, I literally had the following conversation with ChatGPT. I was wondering what you think of this:  
+
+
+me: Are you always using cpu in the same manner?  
+
+
+ChatGPT: As an AI language model, my CPU usage can vary depending on the type of tasks that I am performing. When processing user requests, I use CPU resources to perform various natural language tasks such as language modeling, text processing, and data retrieval. The amount of CPU usage I require depends on the complexity and length of the input, as well as the nature of the task that I am performing.  
+When idle, my CPU usage is lower than when processing requests, but I still use some CPU resources to maintain my current state, update my internal parameters, and perform other background tasks. However, my developers have implemented several techniques to minimize my CPU usage when idle, such as scheduling background tasks to run only when necessary and optimizing my code to reduce unnecessary computations.  
+Overall, my CPU usage can vary depending on the type of tasks I am performing, but my developers have optimized my performance to minimize resource usage when idle and to use system resources efficiently when processing user requests.  
+
+
+me: So that CPU you use when not taking user requests is a consequence of the way you were trained? It's not hard coded at all?  
+
+
+ChatGPT: Yes, that's correct. The amount of CPU usage that I require when idle is not hard-coded, but it is a consequence of the design of my neural network architecture and the training process used to create me.  
+During the training process, my neural network is optimized to perform well on a wide range of natural language tasks, which involves a significant amount of computation. This includes not only the computation performed during the training process, but also the computation required during inference, which is the process of using the trained network to generate responses to user inputs.  
+In order to perform inference, the neural network needs to perform various computations, such as matrix multiplications and non-linear transformations, which require CPU resources. Additionally, there are other background tasks, such as maintaining internal state and updating model parameters, that also require CPU resources.  
+So while the amount of CPU usage that I require when idle is not hard-coded, it is a consequence of the way my neural network architecture works and the training process used to create me. However, my developers have implemented several optimizations to minimize my resource usage when idle and to use system resources efficiently when processing user requests.

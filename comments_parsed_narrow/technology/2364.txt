@@ -1,0 +1,1 @@
+Thinking too small. Imagine feeding a table into Excel and asking ChatGPT to do magic with it.

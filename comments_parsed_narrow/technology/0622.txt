@@ -1,0 +1,1 @@
+Keep in mind that everything you feed into ChatGPT, it remembers and uses to provide answers to other people. So if you are dealing with proprietary code, I recommend against providing any sort of code to ChatGPT.

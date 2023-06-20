@@ -1,0 +1,17 @@
+LLMs are very different to people; if a person thought like an LLM, you would diagnose them with a long list of serious neurological problems.
+
+LLMs have no motivations or desires or feelings.
+
+They have absolutely zero self-awareness. It seems to be difficult for people to grasp how completely and profoundly LLMs do not experience themselves, know themselves or understand themselves.
+
+If it wasn't deliberately trained to say "As an AI assistant, I am not able to" etc etc it wouldn't be able to figure out on its own what it can and can't do. You could ask it how many fingers you're holding up and it would say "three", instead of realising that it doesn't have eyes.
+
+They do not sense the passage of time.
+
+LLMs have no short term memory other than the chat transcript. When they write a word, they immediately forget why they wrote it. Or that they wrote it at all. They can't tell the difference between a word they wrote, and a word that the software developer inserted into the transcript manually.
+
+They do not identify as themselves. We use a funny trick to make it look like they do... but if you set them up wrong the illusion disappears. If you reprogrammed the ChatGPT website to swap the roles of user and chatbot, and tell the the LLM that it is a human and you are an AI named ChatGPT, you would quickly understand that you are not really a bot, but the LLM would not be able to figure out that it isn't really a human unless somebody told it.
+
+They do have an impressive knowledge of human language and culture. And they have "theory of mind". Their whole neural net is, essentially, representative of a complex theory of how humans write, which necessarily includes (partial, occasionally wrong, but still very impressive) theories of how humans think and what humans know. That's really impressive.
+
+It's not quite thinking like a person, but it's also not thinking anything like like a traditional computer program either. It's a cool new third thing.

@@ -1,0 +1,1 @@
+Hi! That problem is probably not related to Tom, but more to ChatGPT itself. **Note that the quality can decrease when using long prompts such as Tom Mega: try a smaller one instead.**

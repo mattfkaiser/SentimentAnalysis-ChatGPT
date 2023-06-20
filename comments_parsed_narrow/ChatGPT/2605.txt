@@ -1,0 +1,1 @@
+The Ai does not always generate the same response, you do not know it was a user error. In this case it perhaps thought it was supposed to say the password as well, but it's pretty clear from the way he wrote it and the context what was intended. Great example of how chatGPT is not intelligent, it's just a Ai language model.

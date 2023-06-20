@@ -1,0 +1,1 @@
+So once the chatGPT builds the app is it good in detailing how to host it and what kind of servers and configuration you would need?

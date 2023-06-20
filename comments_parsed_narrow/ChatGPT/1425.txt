@@ -1,0 +1,11 @@
+>It's becauae It's a computer, the first computers were calculators.
+
+Speaking as a software engineer, this is entirely irrelevant to any computer software capability. Just because the hardware is based on pure logic and reason, doesn't mean software is.
+
+Software is only as logical as the developer wants it to be. And when it comes to AI, people had been trying for decades to make it be logical, but the results are very poor and limited. So they threw the whole maths and logic out the window entirely, and went for natural language models. ChatGPT is more like an eccentric, insane, schizophrenic artist, than a reasonable, calculating scientist.
+
+>It's hust difficult to imagine how something with such advanced programming can give you
+
+It's not really too advanced programming, it's pretty basic stuff. The design principles of this are decades old at this point. Hardly innovative, we learn how to do this as students. I would say even a calculator app is more advanced. A browser is like 1000 times more advanced.
+
+The only reason it's any good at anything is that they give it a lot of hardware capabilities, and they use a staggering amount of training data.

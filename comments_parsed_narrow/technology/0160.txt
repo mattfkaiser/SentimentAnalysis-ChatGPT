@@ -1,0 +1,5 @@
+This is the real risk of AI: people not knowing how to use it.
+
+It doesn't have a memory of the things it has read or written for other users. You can write an original text and then ask ChatGPT: did you write this? And it would answer yes I did, because it thinks that's what the appropriate answer is. Because that's how it works.
+
+This professor should face consequences for being too lazy to evaluate his students. He's judging his students for using AI to do the work they were assigned, while using AI to do the work he's assigned (i.e. evaluate his students).

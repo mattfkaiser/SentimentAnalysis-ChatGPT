@@ -1,0 +1,4 @@
+When I got in the weeds with some logic I'd actually rubber duck it with chatGPT and often we'd figure out the problem/solution together and we'd both be like.... ohhh. After I finish building this project I'll probably try to build a native mobile app.  
+
+
+For me it's just been fun to see the capability of what chatGPT can do. I've strived to write no code this journey and so far, it's still been pretty good.

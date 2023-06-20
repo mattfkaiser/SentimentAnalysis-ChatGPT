@@ -1,0 +1,3 @@
+First, ChatGPT is a probability matrix. It reads your prompt and then makes a probabilistic evaluation of the information you want to hear. Give it the same inherent prompt but worded differently and see for yourself. This means that if you are looking for something creative or special, it is unlikely to give you that. You are more likely to get the mushy middle answer more often than not.
+
+Second, ChatGPT does not care or evaluate the risks of a catastrophically wrong answer. People are hired much more for preventing a big problem rather than solving hard problems. Something a 9-5 drone employee would recognize as a really bad idea won't necessarily appear as such to ChatGPT.

@@ -1,0 +1,31 @@
+Sure enough lol...
+
+Me to ChatGpt: " write a buzzfeed style article describing 10 jobs that may soon be replaced by AI"
+
+Chat GPT:
+
+"
+Are robots coming for your job? With the rise of artificial intelligence and automation, it's no secret that some jobs may be replaced by machines in the near future. Here are 10 jobs that are most likely to be taken over by AI.
+
+1 Data Entry: With the ability to scan and input data faster and more accurately than humans, AI-powered software is quickly taking over data entry jobs.
+
+2 Customer Service: Chatbots are already being used by companies to handle customer inquiries and complaints. As AI technology continues to advance, customer service jobs may soon be replaced entirely.
+
+3 Telemarketing: AI-powered software can now make automated calls and even engage in basic conversations with customers, making telemarketing jobs redundant.
+
+4 Retail Sales: Amazon's cashierless stores and other self-checkout systems are a sign that AI may soon be able to handle most retail sales transactions, potentially replacing human cashiers.
+
+5 Stock Market Trading: AI-powered algorithms are already making trades at lightning-fast speeds. As AI becomes more advanced, it may become the dominant force in the stock market.
+
+6 Accounting: AI-powered software can already perform basic accounting tasks like data entry and bookkeeping. As the technology advances, more complex tasks may also be automated.
+
+7 Writing: AI-powered software can already generate news articles, reports, and other types of content. While human writers may still be needed for more creative tasks, AI could potentially replace many writing jobs.
+
+8 Manufacturing: Robots have been replacing human workers in manufacturing jobs for years. As AI technology improves, even more tasks may be automated.
+
+9 Transportation: Self-driving cars and trucks are already being tested on roads around the world. As the technology becomes more advanced, it may eventually replace human drivers entirely.
+
+10 Medical Diagnostics: AI-powered software is already being used to analyze medical images and diagnose diseases. As the technology improves, AI may become the primary diagnostic tool for many medical conditions.
+
+While these developments may be concerning for those whose jobs are at risk, there are also many new opportunities arising from the rise of AI. As always, it's important to stay informed and adapt to the changing job market.
+"

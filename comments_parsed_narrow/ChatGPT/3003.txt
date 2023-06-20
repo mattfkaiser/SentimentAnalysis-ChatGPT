@@ -1,0 +1,2 @@
+I was referring to not just the training part but the deployment part as well. As you can imagine, OpenAI is spending thousands on the electric bill to keep ChatGPT running.   
+I think they said it was like 200k a month although Google search results say it costs more like 700k a day. They are using FFPGAs for their outputs because the calculations are still heavy

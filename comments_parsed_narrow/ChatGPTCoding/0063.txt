@@ -1,0 +1,1 @@
+There is a chat gpt plugin in webstorm. You can find it in the public plugins. It opens up a window in your IDE.

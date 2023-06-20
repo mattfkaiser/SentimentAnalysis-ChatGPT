@@ -1,0 +1,7 @@
+> ChatGPT has already done a great job of answering questions I used to ask Google, and more concisely.
+
+More concise and more conversational but, in my experience, sometimes 100% wrong - and in a way that still seems convincing on the surface.
+
+I just asked it to give me a list of HDMI receiver/decoder chips that could be used in a television design to support HDMI 2.1. It confidently gave me a list of six or so with brands and model numbers. I checked the first 3 and they literally either did not exist or did not have the capability specified.
+
+I asked it how much bandwidth an uncompressed UHD 24-bit 60Hz video stream would take and it came back with a complicated calculation that ended in a result of 1.5Tbps - that's like 2 orders of magnitude off. I tried to prompt it with the errors in its calculation and it eventually got it right after 3 tries giving more and more confusing calculations.

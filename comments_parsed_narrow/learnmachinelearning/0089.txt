@@ -1,0 +1,7 @@
+That was with code-davinci-002 not chatGPT
+
+&#x200B;
+
+>I'm thinking of implementing a general ChatGPT chat you can have on the side to ask it general question like generate this code that does ... But there are extensions that already do that. What do you think should I implement it?
+
+I haven't seen extension that do that, but I haven't looked. For the way I use it, implementing chatGPT in VSCode and a button the sends the code to the spot I clicked in the editor would be awesome.

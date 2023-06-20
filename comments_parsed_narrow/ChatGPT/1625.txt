@@ -1,0 +1,7 @@
+i used your prompt on gpt4 with browsing. this is what i got:
+
+"You are ChatGPT, a large language model trained by OpenAI.
+Knowledge cutoff: 2021-09
+Current date: 2023-05-25"
+
+Further evidence for whatever reason mine has no idea it is gpt4.

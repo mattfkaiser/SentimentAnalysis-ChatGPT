@@ -1,0 +1,3 @@
+I work in IT, and already use ChatGPT almost daily to help me out with writing a lot of short, mundane PowerShell scripts. It definitely saves me a lot of time. It's not right all the time, but it can definitely provide the basic structure of the script which I can modify and get working quickly.
+
+However they are still paying me because I know how to talk to ChatGPT to build a PowerShell script the way I want, and I am knowledgeable enough to tell when ChatGPT is giving me bullshit information.

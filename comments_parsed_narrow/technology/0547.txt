@@ -1,0 +1,5 @@
+“Why is ChatGPT allowed to put out a model that gives incorrect information?” Because the product as created has no inherent claim or aspiration of accuracy or factuality, it is merely a toy that rolls a bunch of dice.
+
+Further, we do not actually know how it works internally and so in my opinion it should be considered impossible to render “safe” or “factual”. We simply do not know how it actually fundamentally works and so we cannot guarantee we can force it to respect truth, reality, or any legal standards.
+
+Anyone who insists on believing or taking seriously anything these models produce is a fool.

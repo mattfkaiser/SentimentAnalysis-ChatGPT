@@ -1,0 +1,1 @@
+GANs are already a large part of the machine learning field, they're just more fundamental to the tech than big names like Stable Diffusion or ChatGPT so people don't know about them.

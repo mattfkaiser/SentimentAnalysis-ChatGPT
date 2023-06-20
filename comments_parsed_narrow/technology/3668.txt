@@ -1,0 +1,4 @@
+From the article: 
+"In the hiring process, 77% of companies using ChatGPT say they use it to help write job descriptions, 66% to draft interview requisitions, and 65% to respond to applications."
+
+This is an immensely reasonable use of ChatGPT, and represents an efficiency gain over the prior practice of googling for job descriptions to copy and paste.

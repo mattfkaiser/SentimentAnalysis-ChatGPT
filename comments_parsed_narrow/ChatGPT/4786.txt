@@ -1,0 +1,4 @@
+However, you cannot communicate understanding with ChatGPT.
+It doesn't actually understand what you write, or what it answers.
+
+It just produces (a very clever) statistically likely response, that looks like human speech. There's no understanding behind it.

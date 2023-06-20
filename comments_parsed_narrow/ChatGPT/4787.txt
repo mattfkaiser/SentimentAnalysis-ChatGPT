@@ -1,0 +1,1 @@
+I feel like before they introduced the turbo model, ChatGPT 3.5 was better at understanding that a new message was likely related to the conversation before and not an independent message.

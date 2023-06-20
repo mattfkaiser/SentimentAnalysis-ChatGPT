@@ -1,0 +1,7 @@
+I've found it useful using LLMs to help understand company 10-K reports like these:
+
+[https://docalysis.com/library/10-k-reports](https://docalysis.com/library/10-k-reports)
+
+For example, I used it to understand how much Meta is investing in its Reality Labs initiatives ($13.7 billion last year) as well as how much revenue Reality Labs brought in ($2.15 billion).
+
+I'm certain financial professionals are using it to better understand the world. The article says it uses ChatGPT for sentiment analysis on headlines, but I think an even bigger leap is going to be getting actual meaning out of news and financial reports more efficiently.

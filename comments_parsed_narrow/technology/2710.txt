@@ -1,0 +1,5 @@
+ChatGPT is built to work with words.
+
+It sort of sees numbers as words. Like it sees "7" or "453456" as specific *words.* 
+
+but that means it can't handle big numbers very well because instead of breaking them down into their parts it sees each number as it's own word and while it's easy to remember what "7"+"7" or even work out a few of the smaller sums, it's much harder to handle "23432432" + "993432" if you can't break them down into their constituent parts.

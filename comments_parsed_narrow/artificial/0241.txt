@@ -1,0 +1,19 @@
+No.  
+  
+The “real” AI has always been Artificial General Intelligence, loosely abbreviated as an AI that can learn to do anything.  
+  
+ChatGPT is not that, but it’s starting to show inklings of it.  
+  
+ChatGPT is an Large Language Model, where so much text is processed that it starts to learn associations between words in a mathematical way such that the word “King” minus the word “Man” plus the word “Woman” now mathematically most closely points to the word “Queen”. So there’s meaning embedded in the numbers… real meaning.  
+  
+Then they invented the Transformer in 2017 which is a way to form new embeddings as input text is processed. “King Henry was a tyrant”. This creates a new embedding that is an amalgamation of “King, Henry, and Tyrant”, but most importantly creates a mechanism for long term memory in speech because these tokens can be infinitely self referential. “King Henry Was a Tyrant. What did his subjects think about him?” Well, now “his”, and “him” point back to the [king+henry+tyrant] token, which then has a “tyrant” characteristic, which can then map back to “they thought he was cruel and brutal” since “cruel” and “brutal” associate with the word tyrant.  “What did they do?” Well now “they” points back to “subjects” which points back to “King Henry” which associates with “Tyrant”, so the “do” can associate with those meanings etc. “was it successful?” “When’s did it happen”, “did he live?”… Each subsequent statement points back to the previous statements, and can basically infinitely.  
+  
+So, with meaning captured in the embeddings, and the transformer providing a means of a conversation maintaining contextual relevance with itself, it’s pretty fucking good, and has crossed sort of a critical threshold in terms of natural language generation.  
+  
+But it’s still just a language generation system. It can sound inspired and profound, but that’s only because those are the probable sorts of responses for those types of questions.  
+  
+But it’s starting to edge into AGI territory because it can write very impressive code. You can say “write 10 programs to solve a problem”, and it can. If that sort of path can lead to a mechanism where it can write new programs to solve general problems, that could start to satisfy sort of an AGI definition.  
+  
+What’s missing is that it still has no way to qualitatively evaluate if anything it did was any good. It’s just a language model. It categorically can’t “take a look”, or evaluate if what it did was “good or bad”, so it can’t yet complete the loop for AGI which would require it to progressively evaluate the consequences of it’s own attempts, and feed that back into future attempts, such that it could really adapt to learn new things. And, it’s really not terribly close. It’s just simply not what it does, and if it expanded to attempt those sorts of abilities, it’d probably warrant a new name… It’s like, imagining if a Honda Civic could fly if you changed it a ton… maybe, but it can’t fly right now, and the flying version probably wouldn’t be called a Civic anymore.  
+  
+Still, it’s powerful enough that it’s making AGI seem like an inevitability in the nearish future, and much of the buzz is new speculation about AGI inspired by ChatGPT, not assertions that ChatGPT actually *is* AGI.

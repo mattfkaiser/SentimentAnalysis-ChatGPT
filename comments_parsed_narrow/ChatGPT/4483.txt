@@ -1,0 +1,9 @@
+Two computers - work one and personal one. 
+
+Use ChatGPT on your personal computer and add the content to Google Drive.
+
+On your work computer open up a Chrome browser window (if you’re able to use Google Suite) and copy the information from that profile.
+
+Unless they’re tracking copy and paste from Chrome profile to Chrome profile you’re golden. I do it all the time and no issue.
+
+I don’t email anything as they may be tracking email content and there’s a direct record of it then especially if the GPT response content contains any info you shouldn’t be using in the prompt.

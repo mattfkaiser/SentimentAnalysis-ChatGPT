@@ -1,0 +1,1 @@
+I wouldn't say never. The current failure is likely a result of a "missing" subsystem, for lack of a better term. Other tools already exist that can solve complex physics problems. What's to stop them from eventually being integrated into ChatGPT's capability suite?

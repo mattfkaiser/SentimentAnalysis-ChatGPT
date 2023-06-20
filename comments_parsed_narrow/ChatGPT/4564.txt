@@ -1,0 +1,1 @@
+I had zero python skills about 3 months ago.  I've been working with chatgpt4 to write a sophisticated crypto trading bot, it's about 1500 lines of code.   Chatgpt4 does the writing but critical thinking is consistently used on my part, because it make mistakes.  I still have issues with my code however, it's a work in progress.

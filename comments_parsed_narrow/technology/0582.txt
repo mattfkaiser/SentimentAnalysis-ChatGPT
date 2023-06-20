@@ -1,0 +1,3 @@
+Engineers at Google didn't want to release their AI because it was nowhere near as polished as ChatGPT.  While ChatGPT sometimes gives wrong answers on more niche topics.... BardAI gives wrong answers on more generalized topics.  While ChatGPT has been trained with a very large number of right answers, BardAI is just a linguistic model and nothing more.  At least now with Bing's ChatGPT it gives sources that might be wrong.  Bard isn't even close to that.
+
+But Google was worried about their share price and decided to inform everyone they also had an AI.

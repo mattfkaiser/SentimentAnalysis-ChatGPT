@@ -1,0 +1,9 @@
+> 3D games are fundamentally not more complex than 2d games in most cases as engines abstracts that away.
+
+ummmm yeah, okay mate. you sound very credible with these claims.
+
+Recreate The Witcher 3 with your own story/quests?
+
+Don't worry, i know you can't do 0.001% of that. Creating an actual 3d game with physics and complex systems is a pipe dream for now, it can be done with like a trillion prompts but it's probbably a thousand times faster with a human software team.
+
+I'll be waiting on my game though, not interested in boring cookie-cutter super mario games man which have millions of lines of code available on line for chatgpt to re-use

@@ -1,0 +1,3 @@
+Before the start of a conversation with ChatGPT it’s given a prompt explaining the situation. That’s why I asked it to give it to me. 
+
+And the system prompt, explains to it: its name, knowledge cutoff, and current date.

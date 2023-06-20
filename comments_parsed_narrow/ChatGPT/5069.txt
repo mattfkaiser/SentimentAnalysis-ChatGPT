@@ -1,0 +1,3 @@
+The plug-ins are like apps, or browser extensions sort of. As an example there’s one plugin that gives ChatGPT access to the internet so it can talk with you about things happening in the world right now (since I think it’s dataset was only up to 2021?).. For example, you could ask it who the winner of the PGA championships is once it’s over and it’ll tell you. 
+
+Then there’s other plugins that allow it to pull information from specific websites or apps. That’s about the extent of my (admittedly) rudimentary knowledge about them

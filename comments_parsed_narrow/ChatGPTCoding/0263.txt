@@ -1,0 +1,5 @@
+I actually recently did the exact same thing, all though I did write some of my own code, it sounds like my project was a bit more robust than yours.
+
+I will say this about ChatGPT4 and React. You should thoroughly plan out the modules you will need, it will save you a ton of time. Also, ChatGPT is not very good with CSS, so being proficient in CSS/SASS will also save a lot of time and frustrations. Lastly, knowing how to read code helps when ChatGPT shits the bed, which it did on me multiple times.
+
+I made a CRUD app with a functioning login / security feature, which usually takes me about a month to make. Had I known the libraries/modules I wanted to use beforehand I probably would have finished the project in 3 days instead of 5.

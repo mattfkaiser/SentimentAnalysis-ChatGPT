@@ -1,0 +1,7 @@
+What I want is when you type "def lalala(x)" you get "function lalala depending on the x". Simple as that. What prompt should I use to make ChatGPT not make stupid answers like
+    
+    "string.replace(/def lalala\(x\)/g, "function lalala depending on the x") 
+
+which it does right now, but to get something like this?
+
+    string.replace(/def ([0-9a-z]+)\(([0-9a-z]+)\)/gi, "function $1 depending on the $2")

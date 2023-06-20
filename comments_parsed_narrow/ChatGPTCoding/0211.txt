@@ -1,0 +1,1 @@
+What is weird is that I achieve much higher consistency when just using ChatGPT (the website not the API) with GPT3.5. I think I will try to put the prompt in the user prompt instead of the system prompt and limit the system part to something like "You are a tool that converts text into json objects.

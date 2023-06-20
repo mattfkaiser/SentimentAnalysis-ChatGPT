@@ -1,0 +1,1 @@
+So - ChatGPT just copies what’s already out there.   That’s what any transformer AI does.   All that this means is that ‘most code published is insecure’.

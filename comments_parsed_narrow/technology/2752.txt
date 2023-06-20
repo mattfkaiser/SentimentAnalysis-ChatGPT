@@ -1,0 +1,5 @@
+What you're referring to is Reinforcement Learning from Human feedback (RLHF). Only ChatGPT and InstructGPT are trained using that.
+
+GPT(like GPT2/3/3.5,ChatGPT) are a class of models which learns by trying to predict the next word. Which are then fine tuned using RLHF.
+
+Sounds pedantic, I know, but the fact that all these language models learn so much about the world just by learning to fill in the blanks is still mind-blowing to me.

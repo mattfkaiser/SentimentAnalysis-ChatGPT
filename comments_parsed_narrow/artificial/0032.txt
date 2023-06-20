@@ -1,0 +1,1 @@
+A n00b technical question, is it even possible to use encrypted data as input of language models? My understanding is the inputs cannot be encrypted to keep semantical meanings. So maybe there is no possible encrypted alternative for ChatGPT

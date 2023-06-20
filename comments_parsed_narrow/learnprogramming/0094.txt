@@ -1,0 +1,3 @@
+I think this may be the wrong question. I am not a software engineer or developer by trade, but I use python, and recently COBOL, to solve problems and save me time, I’m salary so I’m all about saving time. I hit it really hard for two months about 4 years to “learn the basics” but there is always something new to delve into. 
+
+Chat gpt is like talking to C student when it comes to technology stuff. It can often give you a passing example but mostly it is a good place to start learning. Giving you the basic terms to search for elsewhere. But please understand it will give very wrong answers, very confidently.

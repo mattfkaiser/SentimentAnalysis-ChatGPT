@@ -1,0 +1,3 @@
+>It’s just lazy prompting. If done with care, it can produce really good stuff.
+
+Exactly. If you ask it to make an essay about a topic it will hallucinate a whole essay about that topic. If you ask for an essay about a topic with certain talking points, certain chapters and a certain conclusion, it narrows it down to something actually useful. As long as you're able to give ChatGPT structure it will work a lot better most of the time.

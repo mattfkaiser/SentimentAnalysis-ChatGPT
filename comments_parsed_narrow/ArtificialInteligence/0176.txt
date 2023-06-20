@@ -1,0 +1,15 @@
+No worries.
+
+a) yes - they are looking for ways to find high quality training data. And that's one way. But this is the issue I found today. ChatGPT sucks at trying to do what I do (game engine programming). I think the reason is that there just isn't that much training data out there for many of the problems.
+
+b) I think you are right - but for me that means you still need a domain expert to drive it (at least in some cases).
+
+So I have a theory - right now a lot of people are really excited with what it can do. And rightly so. But is it possible people are overestimating its current progress based on the tests they are doing that align closely with the quantity of training data. i.e. a really valid question is - how does it perform when asked to do something more complex.
+
+For example:
+
+*Could I get it to write ONE  feature in a game editor. I need to be able to write engine code that stores material data for a terrain system, the data must be a blended result of several paint layers. But it must also be editable in the editor, so we need to be able to load a custom material, and store each separate paint layer data for the editor, and a merged version for the backend. But it also needs to have non-destructible edit layers. It needs to use a custom rendering API, it needs to be threads, it must use a custom serialisation system, a custom communication system between WPF land and C++. It needs to be able serialise that data and provide versioning control. And It needs to be able to run on Xbox, PS5, and Windows. I have left out a bunch of implementation details that are required for streaming, debugging, lodding etc.*
+
+I can tell you - that no - it's not able to do any of that. And I can also tell you that there is no training data I could give it that would make it able to do this autonomously.
+
+So my theory is that the current AI evangelists are evaluating it's ability to replace programmers on problems that it is exceedingly good at, but the further you go up the chain, the less effective it is. And unfortunately the less likely there will be for high quality training data to be available.

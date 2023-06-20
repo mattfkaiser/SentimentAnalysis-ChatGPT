@@ -1,0 +1,1 @@
+I could be using it wrong but I've never had ChatGPT give me accurate code - at best, it's pseudocode outline of what could work

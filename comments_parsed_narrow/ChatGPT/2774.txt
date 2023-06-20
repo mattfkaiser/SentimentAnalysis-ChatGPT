@@ -1,0 +1,7 @@
+This.
+
+ChatGPT is trained on a lot of user-made content, including memes and popular references.
+
+Just like humans are biased when picking a number. Numbers like 17, 37 or 35 appear way more often as human-chosen random numbers than other 2-digit numbers.
+
+ChatGPT has no random number generator, so it just answers the most plausible one, which is the one that appeared most in its training data.

@@ -1,0 +1,3 @@
+>I think for the purposes of this question, we should assume that we have terabytes of plausible text data consisting of only pre-1000AD knowledge, resulting in a model the same size as ChatGPT, but with all modern science completely eliminated from it's training data.
+
+Yes this is good and more workable, and it would achieve the same goal.

@@ -1,0 +1,3 @@
+**That probably won't work since ChatGPT has been trained on that data.** Ask it instead if it wrote something it hasn't been trained on (because then it'd have to randomly guess), do it on stuff the teacher has written perhaps.
+
+It correctly identified a poem by Robert Frost when I pasted a part of it and asked if GPT wrote it, using famous works would probably do more harm than good. Since ChatGPT works better than whatever apps professors usually use that claim the constitution was written by AI.

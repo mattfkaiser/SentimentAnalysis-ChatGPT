@@ -1,0 +1,3 @@
+Yeah. API or not I would never post anything I would not post to an open forum like stackoverflow, and I would expect my team to do the same.
+
+But I have had great success in fixing bad code during code reviews from asking ChatGPT3 about a more efficient way of doing X in a framework I have barely used.

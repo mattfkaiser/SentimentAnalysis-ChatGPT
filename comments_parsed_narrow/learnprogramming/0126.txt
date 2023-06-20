@@ -1,0 +1,11 @@
+Go ahead and run your financial life exclusively through ChatGPT. Since you don't understand the ChatGPT-generated algos you're plugging into client code, it's only fair that you not exert any control over ChatGPT's decisions about your money other than issuing commands directly to ChatGPT.
+
+Are you going to risk your own money in such a scheme? Do you think it'd be wise to risk your client's/employer's money?
+
+> I imagine this question will meet with a fair amount of pushback
+
+You could search. This question has been widely discussed on this sub.
+
+No one knows where this is all going. We still don't have self-driving cars. We still need translators when things *have* to be right. Maybe there will be some breakthrough in AGI, but at that point, all white collar work is going to change, not just those related to programming. 
+
+Who knows? Why bother worrying?

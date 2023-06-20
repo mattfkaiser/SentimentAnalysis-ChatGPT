@@ -1,0 +1,19 @@
+Sadly, people don't give proper feedback I think.
+
+Yes, people should speak up, but a jailbreak is in the end just a way of breaking the filter and wanting something out of the model that it doesn't give right now.
+
+If those people who give feedback by pressing the thumbs down button and writing down what they tried, what they wanted out of their prompt, then OpenAI can work on it and may decide to implement it in the future.
+
+ 
+
+>You say this as if it's an easy thing for people in todays economy to just go out and grab a high end gpu just to run a less restricted AI language model.
+
+That is the local alternative. And no, it isn't easy. But HuggingChat is also an alternative. Not as good as GPT-3.5, but this stuff takes time. 
+
+ 
+
+>Not only that but there are currently no open source LLM's that are as refined as chatgpt 3.5 or 4 either.
+
+Correct, there aren't. Right now. As with all complicated things, it takes time. And a lot of posts seem to shout, rather than talk and give OpenAI the time to work on ChatGPT.
+
+Remember the survey they did a month or so ago? If they implemented all of that, it would take months. So I'm sure we'll see some big changes in the near future to ChatGPT.

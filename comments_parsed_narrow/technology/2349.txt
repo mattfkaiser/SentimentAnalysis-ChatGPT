@@ -1,0 +1,1 @@
+I had never thought of this! I would think a big advantage of this is it better avoids the “occasionally being absolutely incorrect” issue ChatGPT has. When it is cycling through someone else’s knowledge you won’t get as many factual inaccuracies (except those that existed in the original text).

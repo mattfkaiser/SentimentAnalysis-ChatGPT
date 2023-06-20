@@ -1,0 +1,3 @@
+This is the best answer. I've actually been trying to find out the concert number of words myself as "token!=characters". As an input, chatGPT takes encoded sequences using OpenAI's tiktoken library [1]. It does byte pair encoding and so inputs using common words like "of" may get compressed to allow more context.
+
+- 1: https://github.com/openai/tiktoken

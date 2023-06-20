@@ -1,0 +1,1 @@
+A company should be using the API rather than the public ChatGPT site. The difference is that they delete all data after 30 days and won't use it for training.

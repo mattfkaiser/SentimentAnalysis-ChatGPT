@@ -1,0 +1,3 @@
+I find that the more you are an expert on a certain subject, the more you will find just how much nonsense chatgpt can spew (at least the current version - haven’t used version 4 which supposedly can pass a whole bunch of exams).
+
+It’s really just a highly capable improvisation engine, meaning that it is really good at putting together strings of text that sounds incredibly compelling, and very often it’s an excellent starting point for further research, but in its current state it is very difficult to trust and use as an authoritative source of knowledge.

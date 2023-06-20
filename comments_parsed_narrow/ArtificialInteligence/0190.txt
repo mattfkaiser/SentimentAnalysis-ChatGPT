@@ -1,0 +1,6 @@
+People think of Google as a collective of uniformly good teams of researchers, engineers, product managers, QAs, managers, project managers. It's not. There are some brilliant engineers here and there, some world class researchers here and there, some passionate product managers occasionally but overall, it's just a big conglomerate of people that is not different from a big government organization except that they have money. Inefficiency is the side-effect of size when companies grow.   
+
+
+To bring to market something like ChatGPT you need more than just a few bright researches. You need engineers who can productize the algorithms, product managers and QAs that can provide just the right training data and many more functions. You need all the right people in the right place and time.
+
+Also, let's be honest OpenAI probably didn't' have to deal with all those regulations that big companies have to deal with when they just add a new button (GDPR, accessibility etc).

@@ -1,0 +1,5 @@
+I suppose it's a sign of our times that nobody can read anything anymore without getting polarised about some perceived agenda which was not actually intended.
+
+I was not proselytising for open source. I was drawing attention to the unshackled open source models [already proliferating](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) at astonishing speed.  Models which home users with decent GPUs are already installing locally; models which are already appearing occasionally on the KobaldAI Horde.
+
+Some of us are already using Vicuna-13b when we think ChatGPT may throw a wobbly about language or concepts in academic discussions.

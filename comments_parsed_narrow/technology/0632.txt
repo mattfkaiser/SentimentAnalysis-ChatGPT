@@ -1,0 +1,3 @@
+I used it for a similar use case, chatgpt spit out an example for me. Problem is it simply wouldn't work for me because after a recent update the library changed a lot of contracts.   
+  
+Golang is great but the libraries leave a lot to be desired

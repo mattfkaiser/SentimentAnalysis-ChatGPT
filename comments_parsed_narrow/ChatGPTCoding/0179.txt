@@ -1,0 +1,7 @@
+Awesome, thank you!
+
+If anyone else has the issue where the mic icon doesn't appear to the right of the prompt sometimes? (using Ubuntu, chatgpt plus). I tried restarting chrome and sometimes it works in new tabs and sometimes it doesn't. ~~It may be a plugin conflict since it works in private browsing.~~ I replicated the issue in a private chrome session.
+
+/u/ReallyExcitingAd, any other troubleshooting steps I can take?
+
+UPDATE: I think I figured it out the cause. Opening a new tab and a new chat shows the mic icon. Going to an existing chat url doens't show the icon, even when trying a new chat after. But if I start a new chat and then click on an existing chat, the icon shows.

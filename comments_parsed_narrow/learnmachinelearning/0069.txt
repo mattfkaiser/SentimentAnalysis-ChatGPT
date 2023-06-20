@@ -1,0 +1,6 @@
+Yes, you certainly would have finetuned davinci. However. Davinci is not text-davinci-003. Neither is it InstructGPT, nor ChatGPT.
+
+From the doc:
+> Fine-tuning is currently only available for the following base models: davinci, curie, babbage, and ada
+
+OpenAI only provide a fine tuning api for their base GPT models, of which Davinci is one. They do not provide APIs for tuning, as OP asked, their more advanced models like ChatGPT.

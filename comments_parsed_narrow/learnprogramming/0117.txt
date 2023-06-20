@@ -1,0 +1,7 @@
+Don’t give up !
+And no chatgpt is fancy and all, but this is no *actual intelligence* like yours. It won’t be able to solve new issues, or adapt to specific use cases. It has no *creativity*.
+
+Think of it as a teacher. At best.
+Can be also a good helper to code (there is some plugin for this and GitHub copilot for modern IDEs) but definitely it won’t do all the work for you, nor be enough for product managers to build features without prior knowledge or dev experience. Best answers from chatgpt are gained through good, precise, questions.
+
+It is totally worth it ! Again, don’t give up

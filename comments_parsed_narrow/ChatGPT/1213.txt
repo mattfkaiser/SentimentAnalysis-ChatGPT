@@ -1,0 +1,15 @@
+Assuming you're using GPT 4 with plugins.
+Use VoxScript and Link Reader for web crawling and something extra like Wolfram (math plugin) for the 3rd one depending on your needs.
+If you're using 3.5 (free version), keep in mind its knowledge cutoff date is September 2021.
+
+With that in mind, it's mostly a matter of breaking a problem down into small enough and specific enough chunks for the AI to give you exactly what you want.
+It works better if you can provide some examples of your own to dictate the rough format of the answer you expect.
+
+Plenty of medium blogs providing more specific tips for ChatGPT usage exist, but for the most part, you need to just recognize when you're asking it poorly formed questions or multiple very different questions disguised as one.
+If you do that last part, at least break them up explicitly and maybe even number them to refer back to them when you need to readdress just those parts.
+
+Keep in mind, it _will_ occasionally make mistakes like syntax errors when you use it for coding tasks with specific libraries or lesser-known languages.
+The reason it works well for tasks like coding is that you can immediately, automatically, and independently verify its output with another machine (your compiler/interpreter).
+
+If you're doing any kind of writing, ask it to provide you with templates you can fine tune.
+If you have a question about how to use some tool or software, ask it what you would normally ask Google or a forum.

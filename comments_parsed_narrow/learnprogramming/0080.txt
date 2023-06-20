@@ -1,0 +1,1 @@
+AI scrapes Google for all answers. Bam. A Python script is ChatGPT.

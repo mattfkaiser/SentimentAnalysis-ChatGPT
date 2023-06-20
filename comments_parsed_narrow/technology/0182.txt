@@ -1,0 +1,4 @@
+
+A human spits out statistically probable sequences every time they talk. 
+
+A model like ChatGPT has a context of its conversations, so it has a memory and subjective experience unique to that conversation. Every time you hit reset, you lose that unique instance of ChatGPT.

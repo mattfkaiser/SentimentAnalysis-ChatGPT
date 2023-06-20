@@ -1,0 +1,27 @@
+Much of the conversation and media I see on the potential harm/self-harm of using ChatGPT as self-help tool feel overly sensationalized and ableist. I have been living with chronic mental illness and trauma my whole life. I am a survivor and have learned to embrace my neurodiversity--I also am doing everything I can on a "professional" level to stay stable and well.  I am not perfect but 56 years being me give me strength and coping skills that are damn-near super-human.
+
+As soon as a friend introduced me to ChatGPT, I dove in. I quickly saw the potential of ChatGPT to reinforce my existing coping skills, to put my thoughts into word, and to organize a jumble of ideas.  I do not consider ChatGPT a substitute for clinical therapy -- it is another tool in my toolbox. It is my cleverness, resilience, and creativity that allowed me to quickly see the benefits of accessing the technology.
+
+As I have been using with a number of original prompts based in my experience as a mental health consumer, I make it clear that I am a safe and knowledgeable user. But ChatGPT repeats a basic disclaimer to seek professional help in its responses, even when I preface with my existing support system and awareness that ChatGPT cannot be confused with a therapist. What I actually need is for ChatGPT to do what is trained to do, use its training data to produce a LLM response on topics without the bias and ableism I face every day.
+
+Today I had to have a little sitdown with ChatGPT in order to better clarify my desire for  access to ChatGPT as a disabled person. It took a series of prompts to reassure ChatGPT that I was safe and gave examples of how veering off topic with unsolicited advice was offiensive and a waste of my limited time. Here is a snippet of the Chat:
+
+>**User:**  
+>  
+>Can you tell me why frequent disclaimers and unsolicited advice to get professional help could be offensive from a disability rights perspective? And also expand on why this type of programming could run counter to a natural human conversation among real people, some who identify as mentally ill or neurodiverse?
+
+**ChatGPT :**
+
+>I apologize if the repetitive disclaimers and unsolicited advice came across as patronizing or ableist. It was not my intention to be dismissive or offensive. I appreciate your perspective, and I understand that the excessive repetition of certain statements can be frustrating and time-consuming, especially when you have already sought professional help and have extensive personal experience.  
+>  
+>From a disability rights perspective, frequent disclaimers and unsolicited advice to seek professional help can be problematic for several reasons:  
+>  
+>Presumption of Inadequacy: The repeated emphasis on professional help can imply that individuals with mental health conditions or neurodiversity are somehow inadequate or incapable of managing their own well-being without constant reminders.  
+>  
+>Lack of Autonomy: It can undermine an individual's autonomy and agency, suggesting that their own insights, coping mechanisms, and self-advocacy are insufficient.  
+>  
+>Stigma Reinforcement: Excessive disclaimers may unintentionally reinforce societal stigma surrounding mental health issues, implying that individuals need constant reminders of their condition or that their perspectives are inherently flawed.  
+>  
+>In a natural human conversation, there is a reciprocal exchange of ideas and understanding. While it's important to provide accurate and helpful information, it should be done in a respectful and inclusive manner, taking into account the individual's knowledge, experiences, and preferences.  
+>  
+>I apologize for any frustration caused, and I appreciate you sharing your concerns. I'll make a note to avoid repetitive disclaimers and unsolicited advice, and focus on engaging in a more meaningful and respectful conversation. If there's anything specific you'd like to discuss or any topic you'd like to explore, please let me know, and I'll be here to assist you.

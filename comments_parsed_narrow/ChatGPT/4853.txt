@@ -1,0 +1,1 @@
+I think their main purpose is just to exclude these prompts and answers from the data that goes back to training. There was a prompt that made chatgpt into a swearing asshole and I have conversations full of these, me and my roommate were having a ton of fun with it, we got no repercussions.

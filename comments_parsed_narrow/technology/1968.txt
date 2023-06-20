@@ -1,0 +1,1 @@
+ChatGPT is a tool. Pretending like it is the Oracle of Delphi is dangerous. If you already have a good idea as to what the answer should be, it is a great way to get boilerplate code and what not. If you don't know what you are doing, it will very easily lead you astray.

@@ -1,0 +1,5 @@
+I'm aware of all of that. But this post is addressing the most cutting edge AI platform at the time of writing this which cannot scale as you mention, AKA: chatGPT. And will probably still apply once GPT-5 comes out and so on.
+
+I'm aware of locally sourced AI models, but I addressed those points on the "Some other company will just make "unlocked ChatGPT"" section of the post (see "use a more limited or cheap AI model")
+
+I'm sure this will change over time as you say once AI models become better and more power and resource efficient, but that's a separate topic for the future.

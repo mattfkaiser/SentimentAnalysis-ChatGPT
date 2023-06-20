@@ -1,0 +1,9 @@
+> calculators are famous for Garbage in Garbage out, if you input bad information it outputs bad information, along with making them not applicable to higher levels of math beyond precalc where it's all about knowing the many steps to getting to the solution.
+
+So is ChatGPT. It's very good at looking like it knows what it is talking about, but will very confidently give you a very wrong answer.
+
+It isn't magic, you can't just say "write me an essay" and it'll do it; you have to feed it information, and context, an research, and then it will rearrange what you have given it, but that will still need to be proof read and adapted.
+
+If you don't understand a subject, you won't be able to get ChatGPT to write anything for you that will make any sense.
+
+Garbage in, garbage out.

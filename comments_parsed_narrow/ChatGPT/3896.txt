@@ -1,0 +1,3 @@
+>Then the human would also have to be limited to 1000 AD knowledge to make it even applicable
+
+The human would have advanced knowledge. The point of the exchange with the human is to allow chatgpt to do experiments, the way humans did. We would let chatgpt write out the experiment it would like to do and we humans would tell it how that experiment turned out, giving it the same information it would have gotten had it done the actual experiment. Of course, letting it do the experiment by itself would be better... but it would take a lot of programming to create a robot with those sensory capabilities so . . . doing this instead.

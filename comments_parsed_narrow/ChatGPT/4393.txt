@@ -1,0 +1,19 @@
+> Just a little thought experiment, and only slightly relevant to the point, but, imagine one day you see this seemingly normal guy on the road. The catch is that, this guy secretly has exponentially more information in his head than anyone on the planet ever has, and can access that library of information for any trivial you ask of him in the matter of seconds. Now, do you think our friend here would have the same kind of common sense and personal values we have, or would he behave more like gpt4 in our eyes?
+
+I don't think this is a very helpful thought experiment because (1) I don't understand in what sense you're saying he would "behave more like gpt4" and (2) any answer is necessarily going to depend on what you mean by "has exponentially more information in his head." Do you mean that he's learned a bunch of stuff the same way humans always have? Or do you mean that he has some neural link with what is basically just today's ChatGPT4 that is pretty good at fetching and retrieving _some_ types of information, with no guaranties about its correctness?
+
+>That said, at this point, if we look at the end results alone, it is most certainly better than human at many things
+
+I tried using it for legal research once. It very confidently spit back a bunch of cases that it told me were directly on point, and summarized them in a way that directly mirrored the proposition I was trying to support. Then I read the cases and discovered GPT's summary was absolutely dead wrong. 
+
+People who espouse the view you have are not being straightforward about the things ChatGPT is not good at. It's actually pretty fucking bad at a lot of problems still, even ones that are very solvable with basic algebra.
+
+On just math, for example, it cannot solve the following problem:
+
+f(f(x)) = x^2 - x + 1
+
+Find f(0).
+
+Is it an out of the ordinary problem? Sure. Is it something that should be trivial for a computer that was actually capable of logical reasoning and not just simulating it in a few well defined instances or in instances where someone else has already done it? Yes.
+
+What is ChatGPT good at? Finding and presenting pre-existing information using well-formed English syntax and grammar and a very basic paragraph structure.

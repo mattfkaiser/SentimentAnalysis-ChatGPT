@@ -1,0 +1,9 @@
+chatGPT accelerated certain things, but you develop games in the engine like unreal engine or unity.
+
+For the most part there's no programming - AI logic, shaders, game logic - all made with pretty easy to set up templates and scripts. 
+
+ChatGPT can help create custom code much easier than before, but it's not required to make a game.
+
+For example you can create common genres like FPS shooter, 3rd person adventure game, VR game - all without programming. 
+
+A lot of it is art and making everything feel good for the players. A template game mechanics can be created very quickly, but art stuff for it? It takes some skill even if you don't model anything yourself but just pick things from the marketplace.

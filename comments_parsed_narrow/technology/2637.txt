@@ -1,0 +1,11 @@
+> Companies thrive on mediocrity. They amass tons of tech debt by constantly launching new features and deprioritizing work that keeps systems running efficiently. If all the tech implodes 4 years later from shitty code written by AI for pennies on the dollar, they don’t care, as they’re already on to the next big payday at another company.
+
+This isn't how tech companies operate though, at least the big ones. Engineers are a pretty prized resource, there's a reason they get showered with benefits (current layoffs notwithstanding). If they were willing to cut costs on engineering they would have outsourced to India long ago. ChatGPT isn't going to change that.
+
+Corporations are greedy but aren't that shortsighted. Tech is a game of products and IP, not ruthless efficiency.
+
+> Imagine the same goons trying to figure out how AI/ML works, arguably one of the most complex subjects in technology
+
+I don't know. You don't really need to know how it works to regulate it. And Congresspeople don't personally need to know anything about the subject, their job has always involved bringing in experts and there's plenty of people speaking out about the risks of AI. It's not a very partisan issue, either (knock on wood). 
+
+There's a real chance meaningful legislation could happen. It does occasionally happen when real opportunity or risk presents itself.

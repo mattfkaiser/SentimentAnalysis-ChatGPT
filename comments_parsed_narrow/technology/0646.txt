@@ -1,0 +1,9 @@
+As a software developer, and chatgpt user, I don't understand this.
+
+I keep hearing about all these devs using chatgpt to x10 their productivity. Really?
+
+It helps me out a lot of small things like: "I started using a new mocking library, write a unit test that does X", or "Write a regex that does X".
+
+It saves me an 1-3 hours a week, max.
+
+It's not like I can import my companies codebase (don't do that) of 1 million lines and tell it "write feature X".

@@ -1,0 +1,8 @@
+ The Internet as we know it today has a complex history with multiple milestones, and it's not accurate to say that it was born in 1983. However, 1983 was an important year for the development of the Internet because it marked the adoption of the TCP/IP protocol suite as the standard for communications on the ARPANET, which was the precursor to the modern-day Internet.
+
+TCP/IP stands for Transmission Control Protocol/Internet Protocol, and it is a set of protocols that allows computers to communicate with each other over a network. The adoption of TCP/IP made it possible for different types of computers and networks to communicate with each other, which was a significant step towards creating a global network of interconnected computers.
+
+So while the Internet was not born in 1983, the adoption of TCP/IP in that year was a crucial milestone in its development.  
+
+
+(Yes this was taken from chatGPT, get over it.)

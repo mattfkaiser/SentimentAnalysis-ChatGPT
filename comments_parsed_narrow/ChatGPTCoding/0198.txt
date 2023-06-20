@@ -1,0 +1,3 @@
+I would love to join a community like this. I recently launched my first Node/Express website with MySQL written by ChatGPT (albeit very basic, and really just my first shot to get my feet wet). 
+
+I had minimal previous coding experience doing things like writing Reddit bots in Python. I love that I can focus on big picture design stuff now and let ChatGPT do the writing.

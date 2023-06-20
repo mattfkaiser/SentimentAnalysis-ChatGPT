@@ -1,0 +1,1 @@
+I may have been unclear in the original post, but that's not how it works. It's not like we would put a bunch of data in the language model and have it spit out a true/false. There's a huge load of monotonous daily tasks going on behind the scenes, and this is where ChatGPT could help out immensely.

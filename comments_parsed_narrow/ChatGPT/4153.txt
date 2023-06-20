@@ -1,0 +1,5 @@
+It's a special token that the model uses internally to separate blocks of text. Whenever it hits that, it essentially stops processing and begins a new context after it.
+
+I found you could use it to induce weirdly consistent hallucinations: https://www.reddit.com/r/ChatGPT/comments/12t4vtl/weirdly_consistent_hallucinations_in_gpt4_via/
+
+But it seems they've patched it.

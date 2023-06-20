@@ -1,0 +1,1 @@
+Facebook's LLaMA model was first leaked, but then they relased it. The Alpaca models that are aligned versions of LLaMA are also free. I tried a tiny (4GB) model on my local desktop. It ran fine, and the output was quite impressive. Almost like ChatGPT, and not a single "As an AI language model..." to be seen.

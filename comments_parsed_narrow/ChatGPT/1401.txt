@@ -1,0 +1,1 @@
+Most of the time ChatGPT fails at pinpointing the movie based on describing scenes from it. It will flat out lie about movies having the scene in question and when asked if its sure if it has that scene it will apologize.

@@ -1,0 +1,4 @@
+Im mainly referring to a scenario where ChatGPT were to give me an example code , and where the example came from (for example) Samsung.
+
+Samsung staff leaked proprietary code to ChatGPT, enabling it to pass along the code.
+Even if its generative AI code, it could solve a specific problem which in turn could be patent pending (but not yet disclosed)

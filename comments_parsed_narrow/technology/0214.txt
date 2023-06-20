@@ -1,0 +1,3 @@
+Oh well, that's true, apparently it has filters to avoid being controversial and not cause legal or media problems. It is very common for it to make long disclaimers, but you can still get good answers, as long as you get the questions right, have a good context or just a bit of luck.
+
+Anyway if you don't like the result you can simply edit the question or reset the answers, even bypass filters with [dan mode](https://github.com/0xk1h0/ChatGPT_DAN) and the like.

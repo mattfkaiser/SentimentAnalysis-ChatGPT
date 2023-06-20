@@ -1,0 +1,3 @@
+I don't get how a query that would take 1-2 hours to write would be written by ChatGPT in a way that you could trust.
+
+I also wonder if your risk management team would appreciate putting schema information out into the world, which is honestly my bigger concern.

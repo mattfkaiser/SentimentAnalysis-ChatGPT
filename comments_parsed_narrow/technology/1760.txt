@@ -1,0 +1,1 @@
+imagine the day when you can type in what you want in plain english without even the pseudocode logic to ChatGPT, and it can give you fully functioning and readable Python code with good annotations. It's only a small step from there to Skynet.

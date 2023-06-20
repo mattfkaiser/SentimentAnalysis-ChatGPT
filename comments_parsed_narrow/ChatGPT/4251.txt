@@ -1,0 +1,9 @@
+Two things I'll add to this, because this is a really good and necessary post for this community...
+
+Disclaimers aren't legal immunity. Even if OpenAI plastered ChatGPT in disclaimers the legal premise of disclaimers is that a basic attempt is made at preventing harm in addition to the disclaimer. The extreme example is that a company can't produce a defective or dangerous product and then just slap a disclaimer on it saying "Warning, using this product may result in injury or death!", with the more reasonable version being that a company has to do things like put blade guards in place or otherwise take basic safety measures.
+
+In the case of ChatGPT and OpenAI the risk is that if they put out credible looking misinformation, and someone is injured by it, then they could still be held liable regardless of the disclaimers if they had the power to prevent it from happening in the first place and didn't do so.
+
+The other note is on competitors. Basically something like ChatGPT is expensive to build and operate. Even if all the AI code was open sourced the actual terabytes of data is expensive to store and even more expensive to process, and then all the requests are expensive to run through the resulting model. Servers and hard drives cost money, so any free alternative is either going to be burning money or it's going to be a LOT less effective.
+
+One last thing to point out, is that a lot of these ridiculous restrictions, like the "wet socks" post, are actually indicators of how "stupid" ChatGPT is, not indicators of OpenAI going overboard. It's been given instructions on what it shouldn't talk about or how it should handle certain topics. The AI model itself is what's determining that "Wet Socks" and similar are a potentially dangerous topic, not the OpenAI team.

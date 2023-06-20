@@ -1,0 +1,1 @@
+Damn, ChatGPT can’t even do string[::-1]

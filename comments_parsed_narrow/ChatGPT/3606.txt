@@ -1,0 +1,3 @@
+Thanks for the suggestion of playing TTT with ChatGPT. I just did it, and the results were hilarious (ChatGPT messing up board states, misinterpreting commands, such that it was actually in a state where it could win in one move, then making the wrong move, and still claiming it had won).
+
+Seeing it fail so spectacularly at a children's game was actually rather reassuring...

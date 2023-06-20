@@ -1,0 +1,5 @@
+I’m a programmer and use it to write unit tests, spit out simple operations I forgot how to do, or ask it questions regarding a certain tech stack, basically, menial stuff I could do myself w/ the help of google and varying degrees of effort. 
+
+It’s definitely helpful in that regard, but like most companies, we have a large codebase with several interconnected services and nuanced business logic, and ChatGPT fails spectacularly whenever I ask it do something moderately complex.
+
+It’s a good time saver or it can be a time waster, depending on what you ask it. The only role I think it could possibly replace would be a tier 1 customer support role.

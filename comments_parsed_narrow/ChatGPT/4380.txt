@@ -1,0 +1,3 @@
+I've made a few tests myself (having to work with translations quite often in my field). The results was much better contextually than what typical neural MT had given me in the past; especially for smaller sentences and colloquialisms. However, I'd like to point to your title for the main issue at the moment: if you can't read the output, you have no idea if it worked. This heavily limits its usability.
+
+I believe ChatGPT is going to be amazing in the hands of translators (larger and faster output, can help with specific writing constraints), but terrible in the hands of companies looking to cut translators out. For some years still.

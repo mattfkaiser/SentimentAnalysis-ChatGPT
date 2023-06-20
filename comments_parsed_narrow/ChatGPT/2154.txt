@@ -1,0 +1,1 @@
+Only concern would be that if you put sensitive patient data into chat GPT then that data is no longer only in your system.

@@ -1,0 +1,3 @@
+Hi, if I host the embedding locally on a vector database, how would ChatGPT have access to them? Wouldn't it need to?
+
+Let's say I'm asking ChatGPT "which project on my company codebase has a feature to send emails wouldn't ChatGPT need these embeddings vector database on it's side in order to “search” it?

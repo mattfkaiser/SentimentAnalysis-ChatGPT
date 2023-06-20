@@ -1,0 +1,7 @@
+> Its a glorified search engine
+
+No it's not. Search engines at least index existing information (factual or not).
+
+When ChatGPT creates a court document with [SIX completely fabricated court cases](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/) that's not similar to how search engines work. Search engines show you things that it has previously indexed that it determines is relevant to your search term somehow.
+
+Unlike a search engine, this makes stuff up on the spot, and it is *incredibly good at that*.

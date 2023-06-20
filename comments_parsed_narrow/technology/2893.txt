@@ -1,0 +1,1 @@
+It is really disappointing to see a journalist use such poor sentence construction, especially in the headline. ChatGPT did not write an article to detect plagiarism. In an effort to help detect plagiarism, a student created an app to detect whether ChatGPT wrote a given article.

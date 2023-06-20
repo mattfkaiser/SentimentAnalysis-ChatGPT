@@ -1,0 +1,7 @@
+I was mainly answering OPs question/use case, although for your particular use case the yet to be released 32k context GPT model and some hands on work could probably accomplish what you are interested in once it comes out. I have had a limited exposure to the 32k context model via a friend who has alpha access. He showed me how it fed it a whole codebase (10 files worth, python, html, etc) and the file structure in and it was able to comprehend and generate updated code for each file in the codebase all in one shot. It will be language dependent for sure, but most older languages should have enough documentation.
+
+32k tokens might not be enough, I have personally found that even the 8k window can do alot if you just wright out the file structure and a description of all the important functions of each file, then provide the 1 to 3 files that need changing at that moment. If needed, you can have chatGPT write out its own understanding of what each file does 1 by 1 and then feed it back for best results.
+
+as far as Claude goes, all I was saying is the also yet to be released 100k model is intended specifically for coding, and that its developers are currently working on enabling code creating workflows not all that unsimular to what you have proposed, so time will tell but they want the model to be doing the sort of stuff you want
+
+Your use case sounds really interesting, I followed you so if you end up posting about getting around to trying it I'll be able to see how it pans out. Keep up the awesome work and have a great day!

@@ -1,0 +1,3 @@
+No. They each have their own purposes. There are some search queries that Google (or any traditional search feature) will just struggle with, e.g. repeated words. Even if you’re “good” at googling, some things you want to know are just like “how do I even search this?” 
+
+But Google excels in actual text matching, since that’s pretty much its purpose. ChatGPT is amazing when you need Google to understand the language/meaning of your query. But why use ChatGPT if I know exactly what to search for and I know that I’ll precisely find it on Google? Why go for the trained model when I can go straight to the source?

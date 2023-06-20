@@ -1,0 +1,3 @@
+All great points.
+
+What worries me most about ChatGPT is that the methods of evaluation that favor the kind of learning you've described (open book, open Google, take-home stuff) are also the easiest to cheat with ChatGPT, so it might push instructors back toward closed-book, in-class tests that favor rote memorization.

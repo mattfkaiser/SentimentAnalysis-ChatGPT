@@ -1,0 +1,7 @@
+This was something I didn’t understand until recently. Ask Chat GPT to give you the derivative of a complex formula and it will likely get it right.
+
+Ask it the following and it consistently gets it wrong:
+
+>	Maria has 17 apples.  John has five apples.  Sarah has a dozen apples.  If John takes half of Sarah’s apples and Maria takes the rest, how many apples does each person have?
+
+It’s ability to crib an answer to a problem that is mathematically complex or which requires obscure knowledge isn’t the same as it’s ability to understand the abstract meaning of a pretty simple word problem.

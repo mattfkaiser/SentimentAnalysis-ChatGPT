@@ -1,0 +1,7 @@
+You should not do do that, it is dangerous.
+
+Chat GPT is great at digging up known contend. But it cannot say if text is true or not. In fact, it does not understand the very concept, all text is pretty much the same for it, fiction or not.
+
+An answer could be based on world class phsychologists or some High school kid making stuff up in an essay. We can never tell, it is a black box.
+
+Furthermore, for safety reasons ChatGPT is dumbed down in fine tuning to avoid certain answers. Yet that blurs the output even more.

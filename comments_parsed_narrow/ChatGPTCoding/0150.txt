@@ -1,0 +1,3 @@
+I think you’re right, this is a bit of a bottleneck which might be a gentle pressure to break APIs up into smaller groups of calls depending on what you need to do. The manifest for their retrieval plug-in demo essentially points to this 4.4k yaml file that has to be snarfed into context. 
+
+https://github.com/openai/chatgpt-retrieval-plugin/blob/main/.well-known/openapi.yaml

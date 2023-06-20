@@ -1,0 +1,1 @@
+Which is a thing that no one seems to have fixed yet. All of these language models suck after they run for any significant amount of time. Microsoft's seeing it with their Bingified gpt, but really all gpt suffers from it, even ChatGPT.

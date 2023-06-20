@@ -1,0 +1,9 @@
+Most business and nonfiction books are a couple of good ideas and a lot of fluff. I can get the meat of most nonfiction books through ChatGPT as long as they were written before 2022. You have to do it right however as ChatGPT will tell you it can’t because of copyright, so you have to ease into it. 
+1 ask for an outline
+2 ask for it to add a summary of each chapter 
+3 ask for it to add the main point from each chapter
+4 ask for other books related to it and it will make some very interesting connections
+5. Ask for it to provide counter arguments to the authors points
+6 ask for it to provide quotes from the book
+
+I’ve found that if you ask for all this in one prompt it will trigger copyright, but if you do a series of posts it works great

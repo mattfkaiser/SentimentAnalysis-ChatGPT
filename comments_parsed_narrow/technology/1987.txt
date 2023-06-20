@@ -1,0 +1,3 @@
+It's fundamentally a text prediction model. It's trained to provide convincing responses, not truthful ones. It will prefer truthful responses because those are more common, but is perfectly willing to invent a convincing lie if no truthful answers are available.
+
+If you ask it how to do something in a program which doesn't have that feature, it tends to invent a config setting or menu option that solves your problem. In my case, it was importing reference images into an editing program. It doesn't have that feature, but chatGPT tells me all I have to do is click on the nonexistent File>Import Reference button

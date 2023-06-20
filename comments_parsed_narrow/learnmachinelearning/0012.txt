@@ -1,0 +1,7 @@
+MLE who's still new to industry (currently working on my first year of experience). I did my master's in CS before this with a focus on NLP.
+
+What I think of ChatGPT is what everyone already knew: bigger LMs do better. The genius behind OpenAI is that they actually provided a UI and wrapped it as a service.
+
+The value that ChatGPT provides (in my opinion) is that people no longer have to do extensive Google searches (most of the time). I can ask ChatGPT a question and just read the answer, then do minimal searching to verify the information. When I don't know what even to exactly Google, I just ask ChatGPT. I like to think of ChatGPT as the Xavier or He initialization of my Googling.
+
+What I hate is all the hype. Everyone is an AI expert now. Or a frikkin "prompt engineer" (whatever tf that is). I worked in cryptocurrency back in 2017-2018 when the hype was also quite real. I hate it.

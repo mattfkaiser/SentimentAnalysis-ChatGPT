@@ -1,0 +1,3 @@
+A lot of the time it's obvious when a piece of text is written by ChatGPT, at least if it is only given the question in its pure form and the answer is then copy-pasted. Of course that does not mean you can spot every answer written by ChatGPT if the user is well-versed in using it, such as in the examples you gave.
+
+You're really giving people, especially young students, too much credit if you think they don't just feed assignment questions to the bot unfiltered and then turn in whatever bullshit it has come up with.

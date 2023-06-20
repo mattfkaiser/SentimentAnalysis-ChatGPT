@@ -1,0 +1,15 @@
+> Large Language Models do not have information accuracy in mind as their core design principle. 
+
+ChatGPT does; that’s one of the main goals of RLHF, and it’s why there’s a checkbox for “inaccurate” when you leave feedback on an answer.
+
+>  The main focus is to give responses that seem like were written by a human
+
+Well, again, not really. The point of paying an army of low wage workers to read and rate generated text is to build a reward model that encourages accurate, helpful answers that align with the values OpenAI wants the model to comply with.
+
+It’s absolutely designed and trained with accuracy in mind, but making a model like this consistently accurate is extremely difficult, so they’ve only been partially successful.
+
+Edit: God the level of confidently-wrong around basic AI concepts in this sub is frustrating. If you weren’t aware of the above, that’s fine, but it’s incredibly easy to find and verify this information. Here folks, go read about RLHF:
+
+https://openai.com/research/instruction-following
+
+https://openai.com/research/learning-from-human-preferences

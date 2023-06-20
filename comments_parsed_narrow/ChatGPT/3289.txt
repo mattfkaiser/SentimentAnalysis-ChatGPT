@@ -1,0 +1,3 @@
+From the opposite perspective, telling chatGPT to use significantly less transitional words makes it a lot less likely to trigger these detectors. Same goes with varying sentence length. 
+
+ZeroGPT seems to be one of the worst checkers out there and should be avoided. Others can get tricked too, but few are as bad as ZeroGPT.

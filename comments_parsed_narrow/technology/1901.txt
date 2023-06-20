@@ -1,0 +1,5 @@
+I'm currently learning Python with ChatGPT. It's great for giving examples of the *way* Python works, even if the code itself sometimes doesn't work as intended, but you can try that out.
+
+"How do you (x) in Python" usually works fine for basic stuff, but if you keep asking about individual commands, you can learn a lot. 
+
+"Why do you import Math? What functions does Math have that isn't already there?" and it goes on and on about what Math is, specific ways to use it, examples you can try, and so on. Great for learning.

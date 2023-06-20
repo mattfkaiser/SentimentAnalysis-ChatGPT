@@ -1,0 +1,1 @@
+The only thing you can do is change your own API and give a short description of every part of it to ChatGPT. Other than that it decides what to do.

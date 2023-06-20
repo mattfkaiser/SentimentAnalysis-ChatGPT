@@ -1,0 +1,9 @@
+depends what your job is.
+
+The world is full of middle managers who would love to generate some pretty report by combining data from a few spreadsheets. Typically it's not something they can get the budget to have a coder do.
+
+but they can just show chatgpt a few lines of each CSV, ask it to write the code and then do all the "move the button to the left" stuff without needing to get the higher ups to OK hiring a contract coder.
+
+repeat for a bunch of researchers who want to process data or just people who aren't wordsmiths who still want to sound professional:
+
+https://twitter.com/DannyRichman/status/1598254671591723008

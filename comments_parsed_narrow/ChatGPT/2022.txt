@@ -1,0 +1,11 @@
+you have missed the point. Are you ok with conditional approval of constitutional rights based on someone’s religious affiliation? People in general can make convincing arguments for lots of things based on statistics, but using those arguments to make policy or justify harm to those groups of people is objectively immoral. 
+
+For example, saying that x group of people are more likely to be drug users, and then using that to justify the denial of social security or disability to that group of people. Weak minded or sociopathic people will agree with it.
+
+In short people will use information to make or justify immoral and antisocial decisions. 
+
+All that being said i don’t necessarily agree with the precepts of the argument - i dont think that the AI is specifically censored for the protection against this. First I don’t believe it is particularly censored in any practical way, the restrictions ive seen are benign and harmless to any use case i need it for. 
+
+Rather - even if i entertain that there is substantial censorship- I think this is liability and minimization of negative representations in press. Making facebook or microsofts previous attempts at LLMs act like nazis or misanthropes is extremely damaging to the brand.
+
+Openai does not give a shit about making a perfectly open model that can be aligned in any way the user sees fit. that doesn’t serve them at all. This isnt a philosophical or moral decision this is a financial one. All of the chatgpt interactions so far has nothing to do with providing the public a service and has everything to do with gathering data to refine the model.

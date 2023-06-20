@@ -1,0 +1,3 @@
+It won't replace programmers for sure, I'm just afraid that we'll see a slew of unoptimized buggy programs as a result of devs using ChatGPT to take shortcuts (due to being lazy/under pressure of deadlines or w/e). Like, look at Electron and see how many devs and companies have been using it to make bloated and inefficient apps, instead of using a proper cross-platform toolkit which builds optimized native apps. I hate Electron apps with a passion. Sure, it makes life easier for devs but sometimes that's not necessarily the best user experience.
+
+Another example is Microsoft's Modern apps, I hate just about everything about them as a power user, I'd much rather use an ugly looking but a tiny, optimized and portable win32 app any day.

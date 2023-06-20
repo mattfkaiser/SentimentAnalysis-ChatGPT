@@ -1,0 +1,1 @@
+That's an chatgpt like API but free? or is that a small model I can download and serve using flask?

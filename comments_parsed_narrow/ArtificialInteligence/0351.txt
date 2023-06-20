@@ -1,0 +1,5 @@
+The training data that GPT was trained on didn't provide enough samples of the problem you were asking it to solve. Ideally, a training set would have samples like: "dog contains letter d", "dog contains letter a", "dog contains letter g" etc. But in the texts that humans wrote we just don't do that often - we rarely constrain our texts on what letters to use or not. 
+
+With a small number of samples, GPT runs into  [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality). So correct answer probabilities are not as high, so to speak.
+
+Anyway, it works well for me with ChatGPT-4 so I assume it's fine-tuned and trained better.

@@ -1,0 +1,23 @@
+We have a lot in common!
+
+I majored in music theory (and created software to replace the mouse and keyboard with any MIDI instrument). I teach programming one a week.
+
+I think of the LLM as only being able to write syntax. However, as far as I’m concerned, THAT was “the missing piece” to stress free coding.
+
+It’s not that writing syntax is hard; It becomes muscle memory. It’s just bridges the gap from static analyzers, debuggers, and other QA tools to new code.
+
+You do not need to position yourself between the QA tools and the LLMs; Stay out of that loop.
+
+I’m sure that, based on your experience, you can see how to draft two functions (business logic and tests). The tests verify that the intent is communicated clearly.
+
+Let the LLM argue with your QA tools. You get passing tests and perfect syntax (or you exit the loop and mark the errors for human review).
+
+It’s really no different than running strict automated code reviews to guide human devs. And, assuming you’ve done that, you can see how humans learn to write better code. 
+
+In my experience (hiring offshore workers for decades) working with the LLM really feels like working with cheap devs from “the country that shall not be named”. ;)
+
+In fact, I was developing a system to automatically manage cheap devs right before ChatGPT became popular. Now, I send the code to the LLM (before asking a human to correct code).
+
+So what if the LLM outputs “laughable” code 33% - 50% of the time when you can automatically ignore it and loop (while you sleep)?!
+
+It beats bickering with human devs about their laughable code (or getting stuck on simple bugs due to lack of sleep since you need to spend 10X time coding)!

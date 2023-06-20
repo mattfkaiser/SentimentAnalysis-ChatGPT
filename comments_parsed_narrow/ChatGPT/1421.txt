@@ -1,0 +1,9 @@
+I taught chatgpt the correct process to spell a word backwards through a series of prompts, then asked it to spell lollipop backwards and it did so correctly. Prompts were:
+
+Break the word lollipop into its individual letters in the order they appear in the word.
+
+Now reverse those letters.
+
+That is the correct process to spell a word backwards. 
+
+Can you spell lollipop backwards now?

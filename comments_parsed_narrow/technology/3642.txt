@@ -1,0 +1,1 @@
+BuzzFeed walked back its initial plans to use ChatGPT to write most of its articles after figuring out that ChatGPT can’t actually do that. They’ll use ChatGPT to compile their ranking list things but that’s about all it’s able to do at this time.

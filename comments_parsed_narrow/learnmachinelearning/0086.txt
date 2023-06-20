@@ -1,0 +1,52 @@
+hmmm, I tried it, not what I was expecting, I have my settings to code-davinci-002 in both playground and your extension:
+
+in playground I get:
+
+```
+"""
+a function to compare the simularity of 1000 words using spacy
+"""
+
+import spacy
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+nlp = spacy.load('en_core_web_lg')
+
+def simularity(word1, word2):
+    """
+    a function to compaire the simularity of two words using spacy
+    """
+    return nlp(word1).similarity(nlp(word2))
+
+def simularity_matrix(words):
+    """
+    a function to compaire the simularity of 1000 words using spacy
+    """
+    simularity_matrix = np.zeros((len(words), len(words)))
+    for i in range(len(words)):
+        for j in range(len(words)):
+            simularity_matrix[i, j] = simularity(words[i], words[j])
+    return simularity_matrix
+
+def plot_simularity_matrix(simularity_matrix, words):
+    """
+    a function to plot the simularity matrix
+    """
+    df = pd.DataFrame(simularity_matrix, index=words, columns=words)
+    plt.figure(figsize=(20, 20))
+    sns.heatmap(df
+
+```
+
+&#x200B;
+
+in your extension with the same prompt I get:
+
+\`The function is used to compare the similarity of 1000 words using spacy.\`
+
+&#x200B;
+
+Haven't tried chatgpt seems like the usage is very high right now.

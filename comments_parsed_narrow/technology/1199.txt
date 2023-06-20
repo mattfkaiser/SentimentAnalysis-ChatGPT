@@ -1,0 +1,7 @@
+You can just have ChatGPT change sentence structure or substitute words... You can even change the style of writing (like more casual, or more professional, or in the style of a specific writer, or even provide it your own writing to use as a style).
+
+I did it your post as an example, with no manual intervention:
+
+>So I've only used ChatGPT a couple of times and I'm not currently in school, but I was thinking about a potential scenario here. What if students start relying on GPT to generate drafts for their assignments, but because there will be ways to detect GPT's usage, they will have to revise it so thoroughly that the original source can't be traced.
+
+>I was curious, would the process of revising and adjusting the text, like changing sentence structures and substituting words, still offer any educational value? I mean, the student isn't actually writing the content themselves, but they still need to put in effort to make substantial modifications to the text.

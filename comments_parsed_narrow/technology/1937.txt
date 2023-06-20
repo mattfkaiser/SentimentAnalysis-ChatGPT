@@ -1,0 +1,3 @@
+ChatGPT **is not** the language model in Bing. That’s Prometheus, which is both more advanced and also able to use live search. Unlike GPT. 
+
+It is not the same.

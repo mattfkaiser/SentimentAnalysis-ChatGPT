@@ -1,0 +1,5 @@
+I don't agree with this. ChatGPT knows a lot, but by default treat user as dumb.
+
+Simple test: ask the definition of entropy. The first answer is "disorder", that is very wrong, as many systems such as biological ones are both highly ordered and entropic. By using prompt engineering, you get the correct answer (entropy is a measure of the number of microstates accessible to the system). Chatgpt knows stuff that you get only by working on the questions
+
+Prompt engineering is very important at the current stage, given how chatgpt is defaulted to treat humans as dumb

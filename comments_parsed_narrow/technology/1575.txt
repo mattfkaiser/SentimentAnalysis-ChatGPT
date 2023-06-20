@@ -1,0 +1,3 @@
+Even then, I wouldn’t be so sure. I had some issues with an aws-sdk and I couldn’t find any directly relevant stack overflow posts. I figured I would try chatGPT and it just started spitting out extracts from the docs. If the docs were helpful in this situation I would not need to ask chatGPT! 
+
+In the end I figured out it was a dependency issue. Took me a while but ChatGPT was less help than stack overflow in this case. I’d recommend GPT for learning non-niche stuff though.

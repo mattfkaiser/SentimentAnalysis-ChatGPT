@@ -1,0 +1,5 @@
+Less lines are not always a sign of better code.
+
+Honestly, you get this sense with experience, so have patience.
+
+I also like to use ChatGPT and ask for optimization tips here and there. It does make some nice recommendations sometimes.

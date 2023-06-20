@@ -1,0 +1,9 @@
+>I don’t think they are the special sauce that will get us to artificial general intelligence any time soon  
+>  
+>People often forget that all they do is just use fancy mathematics and logic to just make the output up as they go. ChatGPT for example just computes what the next best word in a sentence should be.
+
+I don't think it's immediately obvious that we've reached a plateau. In a recent talk, Demis Hassabis suggested that AGI could potentially be achieved within the next decade using transformer-based models, and I find myself inclined to believe that. It's perfectly possible.
+
+One aspect people overlook is that in order to make accurate predictions, one must possess a similar level of intelligence in the respective field. For instance, if I were able to predict the moves made by Stockfish in chess, I would need to possess, at the very least, a comparable or superior skill level in chess. Similarly, if I were to accurately anticipate the thoughts and insights of Einstein or Turing in the realms of physics or computer science, I would naturally require an equivalent proficiency in those subjects.
+
+That's why the capacity for prediction is an almost endless measure of intellectual capability.

@@ -1,0 +1,3 @@
+For redundancy; the goto method is to train ChatGPT and then use the questions and responses from it to train your local GPT. This way you have a workable alternative solution if ChatGPT is unavailable or increases pricing etc
+
+Edit: downvote? How odd

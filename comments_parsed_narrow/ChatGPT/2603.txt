@@ -1,0 +1,1 @@
+Which is not intelligent, which is why chatGPT may not be suitable for security. Any human would have interpreted that in a way where they didn't divulge the password unless they are completely oblivious.

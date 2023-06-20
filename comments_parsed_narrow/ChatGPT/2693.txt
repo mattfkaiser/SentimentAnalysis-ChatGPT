@@ -1,0 +1,5 @@
+I have just asked ChatGPT the same question I had already asked in March about the relationship between two persons. In March it gave a very impressive answer.
+
+Now it claims it does not know the answer. However, after I added that it should remember that it has access to the internet something along the old answer from March came back. It seems they castrated Gpt 3.5. since March. The internet sentence seems to unlock it's old capability.
+
+GPT 4 cannot answer the question from March at all, even when adding the sentence.

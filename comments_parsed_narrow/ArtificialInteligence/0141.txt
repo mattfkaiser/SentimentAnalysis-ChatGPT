@@ -1,0 +1,1 @@
+They want to integrate chatgpt directly into windows. Windows runs on 1.6 billion devices. They’re going to need a metric ton of computing power if the features they want to implement are rolled out to even a fraction of those devices.

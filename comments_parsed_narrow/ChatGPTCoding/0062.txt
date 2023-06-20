@@ -1,0 +1,5 @@
+My company discourages its use in certain ways. Specifically, providing proprietary code or data from our clients to ChatGPT. But otherwise we're free to use it. I will sometimes take client code, strip out everything that's specific to their work (rename functions, namespaces, even variables) and paste it into ChatGPT to get answers. 
+
+You should talk to your company about why they discourage its use and why they want to go extinct like the dinosaurs. Because anyone who doesn't embrace this technology and learn how to use it, is going to fall behind. Smart companies are finding ways to incorporate it into their work safely. 
+
+Also, the license for ChatGPT allows them to keep your prompts, but the license for using the API does not. You can use a ChatGPT client (I'm a big fan of TurboGPT) to go through the API, so nothing you put in through that gets recorded.

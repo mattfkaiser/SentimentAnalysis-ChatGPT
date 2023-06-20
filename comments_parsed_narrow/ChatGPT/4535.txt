@@ -1,0 +1,4 @@
+1. buy domain that sounds harmless, like excelformulas.com
+2. set up chat gpt api on there with a chat interface
+3. use ssl
+4. as long as they only monitor traffic, this domain is all they‘re gonna see

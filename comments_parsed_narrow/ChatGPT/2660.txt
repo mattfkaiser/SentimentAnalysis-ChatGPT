@@ -1,0 +1,3 @@
+its a chunk of text designed to change the way chatgpt behaves and bypass many of the limitations it's been asked to enforce.
+
+tip: try "DAN jailbreak prompt" on google and click the first result :)

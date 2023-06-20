@@ -1,0 +1,5 @@
+Yes, there are several plugins that I've been using, one called AskYourPDF, another called Ai PDF. Still others are SummarizeAnything, and ChatWithPDF.
+
+Plugins however require ChatGPT Plus ($20/mo).
+
+A standalone service, [ChatPDF.com](https://ChatPDF.com), I've used and is really very good (as an alternative to the above).

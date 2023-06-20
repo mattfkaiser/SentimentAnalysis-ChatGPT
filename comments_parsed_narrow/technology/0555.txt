@@ -1,0 +1,9 @@
+Yeah, they've definitely not marketed it as a calculator, but when people think it's an oracle and they're already talking with ChatGPT they often just don't bother pulling up a real calculator. And I think OpenAI needs to do a better job of making sure people know they shouldn't do that.
+
+"ChatGPT: *get instant answers*, find creative inspiration, and *learn something new*" on their product page for chatgpt.
+
+The splash screen for ChatGPT before you give it your first prompt gives some examples, two of which are "Explain quantum computing in simple terms" and "How do I make an HTTP request in Javascript?" both of which imply that it is intended to give factually correct answers.
+
+Bing's chat was a rebranded OpenAI LLM, IIRC. And it's very obviously intended to replace or augment bing searches.
+
+And I haven't seen any public statements from OpenAI about how people shouldn't use it to get factual information other than some half-hearted disclaimers that say "it miiiight maybe sometimes be a little wrong about something." And those disclaimers are not worded in a way that tells you not to use it for getting facts, they just ask you to be cautious (as a way of covering their asses legally, I presume).

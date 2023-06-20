@@ -1,0 +1,1 @@
+True, but to make a valid contract we have to feed the ai multiple laws that it has to make the contract around which is basically logic. Chat gpt also has an issue with contextual length but it gets significantly worse when something requires heavy logic

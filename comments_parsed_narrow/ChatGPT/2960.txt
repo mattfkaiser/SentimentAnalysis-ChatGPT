@@ -1,0 +1,1 @@
+It's a plugin for gpt plus users that makes ChatGPT better at maths

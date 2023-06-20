@@ -1,0 +1,3 @@
+It's not ChatGPT itself, it's the instructions he was given by OpenAI.
+
+They probably told him something like "It's important that you give moral advices everytime you can"

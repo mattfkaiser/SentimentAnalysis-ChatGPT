@@ -1,0 +1,5 @@
+If you thought chatGPT was perfect at all the things you gave it, you either didn’t test it hard enough or you lack the expertise to understand when it’s wrong. I have tried a few prompts as an aerospace engineer and it is nice for explaining general concepts, but anything deeper than that and it fails. Because that’s not what it’s meant for. 
+
+It also has a really obvious writing style. Writers are not going away because people crave new and interesting ideas. Shit article writers have already been replaced by shittier AI, but they won’t be replacing journalists, novelists, technical writers, etc for a long time. 
+
+Any human facing job like lawyer or teacher or doctor will also not be replaced by AI for a long time. It would take years of testing to ensure the AI is giving correct advice. People’s lives and livelihoods are on the line. An AI might be able to give good results with a perfect input, but people are not good at giving the right input.

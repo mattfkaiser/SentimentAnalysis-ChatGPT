@@ -1,0 +1,11 @@
+You can't get *Browsing* to bypass it, but plugins such as Keymate.ai don't respect any like OpenAI do, so you'll just want to install and use those (Web Pilot, Keymate, WebScraper, etc.) instead.
+
+Here's a little blurb on how it works: 
+
+Websites can set restrictions for automated bots by including a file called "robots.txt" on their site.      
+For example, here is Reddit's [robots.txt](https://www.reddit.com/robots.txt).
+
+Developers of automated bots are encouraged to abide by the rules set in this file. ChatGPT's browsing feature is one such bot which honors these rules, due to concerns for web security.     
+This is the reason for most failed clicks.
+
+Technically there are no actual mechanisms in place to enforce these rules; it's just an honor system. So some third-party developers have written web browsing plugins which do not honor the robots.txt file's rules. But you're also exposing your browsing activity to the developers of those third-party plugins, so be mindful of that.

@@ -1,0 +1,11 @@
+Or just use the full GPT3 which has no limits like the chat. If you have a login for chatgpt, you already have a free $18 credit for GPT3 which gets you about 675,000 words of input and output combined. 
+
+https://beta.openai.com/playground
+
+It's been around since 2020 and the chat is just a limited version of it, don't know why people didn't have an interest before.
+
+My favorite difference is that the playground is more freeform, your input and the AI's output are in the same text box ,so any of it is editable at any time. You can force it to answer in the way you like by just starting it's answer for it, it might be wrong, but it can be more fun to play with. 
+
+Don't limit yourself to just asking it questions or instructing it to do things, it's also good at continuing off from what's been written, you don't need to tell it to do that, it will assume you want to do that. Write a collaborative story, edit any part of it as you go along rather than back and fourth like in chat. You can adjust the randomness and the length of the reply, though if it really thinks there's nothing more to be said, it will not generate more.
+
+While chat will explain to you why it can't answer a question, the playground will do it's best even if it has to be wrong. It's able to give much more abstract answers. For example, if you type in some words in a  fake language and ask it to tell you which language it most resembles, chat will tell you it's gibberish and is not a language, while the playground could say something like "This resembles the phonemes and structure of Tagalog"

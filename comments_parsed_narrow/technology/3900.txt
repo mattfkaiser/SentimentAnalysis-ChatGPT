@@ -1,0 +1,3 @@
+So do they only ban ChatGPT specifically? Or do they still get access to things like Google Bard, or Perplexity, or even say, GPT from GitHub run locally such as GPT4All?
+
+Just sounds like a very shortsighted reaction.

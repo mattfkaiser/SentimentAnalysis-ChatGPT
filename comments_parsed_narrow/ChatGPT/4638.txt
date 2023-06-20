@@ -1,0 +1,5 @@
+Buddy, I am also a software engineer.
+
+For screaming out loud, It was just a branched out joke about "people without $ being poor".
+
+I got that joke, but you didn't get mine. But anyways, thanks for taking out the time to explain it. And yeah, thanks for the regex gyaan. You can never have too much of it. Because, it's anyways regex101 that I have to use to verify my regex, even if I am very confident of it. (this was before ChatGPT came, but I still verify the regex that ChatGPT gives)

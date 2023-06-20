@@ -1,0 +1,16 @@
+The iPhone worked.  Some people thought that a touchscreen keyboard would be a flop but, eh, people got used to them.
+
+ChatGPT on the other hand, is a lot more shoddy.  It gets confused easily and just makes up stuff when it gets confused.
+
+&#x200B;
+
+Prompt: *What celebrities were born on September 31st?*
+
+  
+ChatGPT's repsonse: *Here are some celebrities born on September 31st:*   
+*1. Rachel McAdams, Canadian actress*  
+*2. Tyler Posey, American actor*  
+*3. Noah Centineo, American actor*  
+*4. Michael Rapaport, American actor*  
+*5. Danny DeVito, American actor*  
+*6. Isaac Hanson, American musician.*

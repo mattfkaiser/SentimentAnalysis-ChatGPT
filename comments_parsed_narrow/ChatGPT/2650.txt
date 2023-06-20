@@ -1,0 +1,1 @@
+You can supply ChatGPT with a prompt that will make it respond to prompts that it normally wouldn't (things that are offensive etc.).

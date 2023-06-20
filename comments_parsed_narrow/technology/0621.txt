@@ -1,0 +1,7 @@
+I feel like providing the context to an AI (copy-pasting the various source files of a project) would take long enough that it wouldn't really save time. And even ChatGPT4 has a limited amount of context  and will start to forget earlier data as you use it. Seems like at best you might get the equivalent of a junior dev helping you out, doing what you say, requiring you to review all their code to make sure it isn't bad, etc. but unlike an actual junior dev I can't imagine that they will "get better", so realistically it would just end up wasting senior developer time reviewing.
+
+>I trained gpt to almost code alone for me. Basically i‘m in the position to only describe him what i want, make a few adjustments but gpt writes most of the code itself. It has knowledge of my project, my code and everything related to it and i can have a chat with it about security issues, better implementation, refactoring, and so on. It knows my coding style and how i like to approach problems. It also knows my preferred library’s and library’s i don’t like for reasons.
+
+I find this rather unbelievable, and quite an extraordinary claim; As I'm sure you know, Extraordinary claims require extraordinary evidence.
+
+For example, if I claimed my pet cat could do all that, any reasonable person would go "prove it". I don't think there is much reason to suspend that same sort of disbelief for AI tools.

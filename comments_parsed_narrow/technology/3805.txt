@@ -1,0 +1,19 @@
+> Well you've edit the post and completely changed what you had there before?
+
+No I didn't. I edited it to fix the formatting because Reddit was screwing with it with their pseudo Markdown.
+
+> Even then I can't read your code in your example well. I agree with ChatGPT here that it's hard to answer without more context. What are the datatypes meant to be?
+
+Once again, *read what it said*. ChatGPT gives two explanations based on what the datatypes could be, and is *wrong in both explanations*.
+
+I tweaked the code snippet to be complete and runnable (I left it ambiguous before to see how ChatGPT would handle it).
+
+    ```python
+    sentence = ["I", "am", "a", "woman"]
+    # If the word man is in the sentence, log a message
+    for word in sentence:
+        if 'man' in word:
+            print("Man found")
+    ```
+
+It will confidently tell you there is no bug there. There's a super obvious bug and running it will show you it's wrong.

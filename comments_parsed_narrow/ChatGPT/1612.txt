@@ -1,0 +1,3 @@
+It’s trained how to act by new chats, but not the content.
+
+The original database is just a shit ton of the internet for ChatGPT. Original gpt3 was Wikipedia

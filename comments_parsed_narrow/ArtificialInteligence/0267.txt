@@ -1,0 +1,5 @@
+Short answer: No
+
+ChatGPT is inherently just a text generator. It doesn't even know the difference between an instruction or plain text. That's why prompt engineers can hack around chatGPT safety prompts and make him output uncensored stuff. 
+
+However, the recent update like plugins may enable chatGPT to do other stuff beyond giving text responses.

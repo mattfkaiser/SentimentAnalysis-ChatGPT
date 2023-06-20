@@ -1,0 +1,11 @@
+Nah it gives me good responses about 90% of the time and the other 10% of the time you can just tell it "not x, do y".
+
+So far I've used it to:
+
+- summerized a chapter of text, covert that into 10 slides of content, and generate narration to go along with each slide. Probably saved me like 5 hours. 
+
+- generate my end of year review summary, I told it on a high level what my job is, what tasks I had done, my corporate goals, and the company behaviors. It then gave me about a page tying the tasks I had done with the goals and behaviors. Idk how much time it saved me here, it's really good at the corporate lingo bs, can't tell you how long it would have taken me. 
+
+- Come up with a starting point for discussion board posts, only saves like 10 mins since they're short but it certainly gets the momentum going. 
+
+Yes there is some back and forth but that's why chatgpt is designed to function as a chat bot, because the tech works really well as an iterative tool where you give it feed back after each response. There's still a lot to do in the human end but that doesn't mean it's not a huge saver or that it's responses are bad.

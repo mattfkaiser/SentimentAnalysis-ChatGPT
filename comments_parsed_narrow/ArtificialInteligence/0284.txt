@@ -1,0 +1,3 @@
+I've been hitting the character limit for weeks with ChatGPT, and explored Acorn memory solutions.
+
+It was frustrating with python scripts

@@ -1,0 +1,8 @@
+That's exactly what I said.
+
+>Individual chats can access the Internet \[through plugins\] if you allow it to \[by enabling the plugins\] and ask it to. ChatGPT the pre-trained entity does not search the Web while it waits for connections.  
+
+
+The context is already plugins. The very first line of the [article](https://www.firstpost.com/world/openai-finally-lets-chatgpt-connect-to-the-internet-to-search-for-answers-12345442.html) says:
+
+"OpenAI has released plugins for ChatGPT that allow the bot to reach third-party information sources and datasets, including the internet."

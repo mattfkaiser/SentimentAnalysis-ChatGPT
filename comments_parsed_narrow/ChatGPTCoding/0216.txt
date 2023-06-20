@@ -1,0 +1,3 @@
+>Phind.com
+
+ok.. looking now.. seems like I don't give it my API or login.. so its like ChatGPT with 3 radio buttons ?  what am I missing ?

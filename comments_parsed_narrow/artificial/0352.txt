@@ -1,0 +1,3 @@
+It's not necessarily stupid, but it is limited in scope and perhaps not all that useful. It also heavily relies on the sophistication of the 2 humans involved in administering the test.
+
+I have strong doubts that anyone who's spent a few minutes playing with ChatGPT would earnestly believe it could consistently pass proper Turing Tests, but ever since Eliza has been around, people have marveled at how human-like some computer-generated conversations could seem.

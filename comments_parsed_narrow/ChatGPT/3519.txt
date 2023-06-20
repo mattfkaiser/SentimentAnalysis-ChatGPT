@@ -1,0 +1,3 @@
+If you have some time, enjoy reading about my experiment of coding a simple game pretending ChatGPT is my code pairing buddy. https://github.com/mwillerich/browsersnake
+
+Fun, but i hope that nobody does that for real.

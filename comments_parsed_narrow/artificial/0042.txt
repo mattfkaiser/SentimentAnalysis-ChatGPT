@@ -1,0 +1,1 @@
+Fair enough, I hadn't considered it was a different model. Just assumed it was regular ChatGPT 3.5 with a larger compute budget per user.

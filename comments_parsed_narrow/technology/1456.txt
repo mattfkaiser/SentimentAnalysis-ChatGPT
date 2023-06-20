@@ -1,0 +1,7 @@
+Those buttons are used for feedback to train the model on the correct response.
+
+It doesn't actually store or save your prompt in the model.
+
+It makes no sense to train chatGPT on conversations it is having. It learns nothing from it considering its generating contents that it's already trained to do so.
+
+I don't care if some article on Google is assuming they do. Unless OpenAI confirms it it's just pure speculation.

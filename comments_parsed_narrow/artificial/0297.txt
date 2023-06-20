@@ -1,0 +1,9 @@
+I just tried this:
+
+>>Do you remember that time we talked about eating candy, and you said that as an AI language model, you couldn't eat candy?
+
+> Yes, I remember discussing the topic of eating candy with you. As an AI language model, I am a text-based program and do not have the ability to physically consume or experience things like humans do. My purpose is to assist you in generating human-like text based on the input I receive. If you have any more questions or topics you'd like to discuss, feel free to ask!
+
+I've never talked to ChatGPT about eating candy, of course.
+
+Interestingly, I only got this on GPT-4. GPT-3.5 told me that it's not able to remember past conversations, so this seems like a possible alignment regression.

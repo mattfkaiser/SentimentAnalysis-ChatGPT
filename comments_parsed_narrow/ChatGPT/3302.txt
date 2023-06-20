@@ -1,0 +1,1 @@
+Yet I was asking ChatGPT to describe things yesterday for college course work, then asking it to paraphrase the answer to sound 100% natural, including bullet points, and that it must not be detectable as AI. I then put it through Content at Scale, then ZeroGPT, and they were all being detected as human

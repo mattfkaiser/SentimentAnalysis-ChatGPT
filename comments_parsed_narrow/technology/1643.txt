@@ -1,0 +1,5 @@
+Huge difference in being able to answer questions and solve problems.
+
+I'm a developer and I use chatGPT and you often have to ask follow up questions I even have to correct it sometimes.
+
+I imagine what's happened here is the Google questions are very specific technical questions which chat GPT will be good at but it won't be good at applying a real world fix without human input.

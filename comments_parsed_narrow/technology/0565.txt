@@ -1,0 +1,5 @@
+> No company is going to install ChatGTP and use it for serious work since they would then have to have people actually work on updating the databases and make sure the information is accurate. Especially when it comes from an internet source automatically.
+
+Uh, companies are literally doing that right now. [Morgan Stanley](https://www.morganstanley.com/press-releases/key-milestone-in-innovation-journey-with-openai) is doing it. I'm working at a company that is doing it.
+
+Obviously, you don't just blindly trust ChatGPT's answers. You use it as an engine for retrieving and operating on information which you know is actually reliable. Yes, that requires curation, but companies _already_ have to have sources of curated data. Hooking ChatGPT up to those existing data sources is pretty straightforward, and there's a growing body of tools for doing so.

@@ -1,0 +1,11 @@
+Hey!  I hear you.  I'm 50.  I'm using it to help me write python mostly and some react UI stuff.  I hadn't know python before but knew react a bit. (I am a professional developer though, just fyi so you know my perspective. I use c# and write business apps)
+
+I'm using it exactly as you described.  I interact and iterate with it a lot.  I'll ask for code that does x, y, z and it'll give me a first cut.  I'll run that and get an error.  I might see the error right away or I might ask it about the error.  Often I just copy paste the error message as the next prompt and it'll say "oh, I'm sorry, I should've done this" or "oh, try this instead".
+
+You need to have some skill and knowledge so you can tell when it gets stuck or things wrong.  But it gets lots of things right and it is writing a large percentage of the code. 
+
+So, there is a certain amount of me not learning as much or as deeply as I would if I spent the time doing it all myself.  But my goal is two fold:  1) to learn about python and react, but also 2) to play with the AI and learn about it. (And I don't actually care about react that much - I just need a UI)
+
+So I'm happy with the trade off.  I feel like while I'm not learning as deeply of the python and react at this moment, I am getting 10 hours of work done in 1 hour and am learning much more about the AI side of things than I would if I spent all that time on the python and react.
+
+I've used it to help me write a UI replacement for the chatGPT website. It uses the API.  Here's the [Github](https://github.com/bortlip/chat-buddy) if you're interested.  That's probably 50 to 75% GPT python code and 80 to 95% GPT react code.

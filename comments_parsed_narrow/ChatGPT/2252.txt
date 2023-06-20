@@ -1,0 +1,15 @@
+In general, email etiquette for professional emails, which are the ones that make me go "oh shit, need to read this"...
+
+Dear [name], (or Hi [name],)
+
+[Initial greeting about this email finding you well, or about your kids feeling better since I heard they were sick, or whatever]
+
+[Body of email]
+
+[Salutation, thanks for time, please reply ASAP, whatever]
+
+[Proffesional sign off... Kind/warm regards, best wishes, sincerely, etc]
+
+This format is common among formal professional writing, hence Pavlovian effect of making me read it... the opposite effect could potentially happen if this is all emails the person gets every day. In which case, making it shorter, less artificial, non-templatey works better (which ChatGPT sucks at doing, tbh).
+
+So might want to include "keep it informal" in that case.

@@ -1,0 +1,1 @@
+Up until now, information on the internet was made mostly by people, and AI systems like chatGPT could use it as learning data. But now the internet will get flooded with AI generates information, that is either not "human like" or straight up false, and we will never have the clean learning data ever again, AI will inevitably train themselfs on AI outputs.

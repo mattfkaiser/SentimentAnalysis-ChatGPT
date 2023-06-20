@@ -1,0 +1,8 @@
+Talk to it like a person about what you want to do and what you need it to do. The code it returns is in my experience always readable.  
+Here's what I'm currently building with it: [https://github.com/mwillerich/browsersnake](https://github.com/mwillerich/browsersnake)
+
+Most of the code comes from
+
+* discussing what I want to do next, agreeing on an approach
+* asking for ChatGPT to give me the code
+* correcting the code so it fits into the rest of the project, because it keeps forgetting what it gave me before all.the.time.

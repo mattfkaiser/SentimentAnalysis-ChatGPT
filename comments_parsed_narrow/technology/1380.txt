@@ -1,0 +1,1 @@
+OpenAI already have their [own](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text). Detector going on and there are now multiple options in the academic field to detect ChatGPT (as well as others).

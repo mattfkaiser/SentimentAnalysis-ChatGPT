@@ -1,0 +1,3 @@
+I found that ChatGPT assumes that you have all dependencies installed for the shortest possible code.
+
+E.g., If I want it to generate a working powershell script out of the blue, I usually have to state stuff like "without using powershell gallery module or, .net dependencies". I found that it also helps to state the OS, patch level, powershell version, and installed modules to have it work within the possibilities of my environment.

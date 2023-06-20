@@ -1,0 +1,5 @@
+Just to be clear ChatGPT isn't connected to our ticketing system, we are manually feeling the tickets into Chat GPT. 
+
+For our ticketing system we us Service Now's ITSM. 
+
+If you are asking becuase you are looking for a ticketing solution, my favorite ticketing solution is either Zendesk or Freshdesk. Both are far cheaper and have a lot of great features.

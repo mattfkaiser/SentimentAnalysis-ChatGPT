@@ -1,0 +1,7 @@
+I guess I don't need AI to figure that out :P
+
+`echo 'lollipop' |rev`
+
+popillol
+
+ChatGPT sees words as tokens not as strings or individual characters.

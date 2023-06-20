@@ -1,0 +1,7 @@
+ITT a bunch of engineers desperately trying to justify the value of their expertise. And I get it. As a person who has written a lot of code, it sucks to imagine how trivial it will be to replace (or nearly) all of that hard won skill with an AI. 
+
+But we have to remember that a year and a half ago basically everything that ChatGPT can do today seemed or was impossible. 
+
+The CEO in this article is a tool, but please try to imagine what might be possible a year from now, or two years from now. We have AIs today that learn faster AND we’ve learned how to teach them better. An AI purpose built to solve complex coding problems already exists somewhere. 
+
+If governments or other human groups don’t actively slow this process down, what this CEO is saying is likely to be true *very* soon. Sadly I currently have no faith that AI ethics and alignment will get the serious attention it and we so desperately deserve.

@@ -1,0 +1,9 @@
+> It can actually answer novel questions and give reasoning-based answers 
+
+This is literally at odds with the creator's descriptions, and ChatGPT's own disclaimers. "This is a language model". It is not reasoning, it does not use logic in its answers. It uses something that is in the same category as a markov chain even if the actual implementation is different.
+
+>This is like the extreme opposite of how ChatGPT would answer the question, and it's very easy to test for yourself.
+
+That is because it has a notable political bias stemming from post-model adjustments made by the authors. If you pay attention you will see that ChatGPT is date-versioned and receives post-model updates from its authors to correct specific errors and tweak its behavior around certain subjects, which ends up looking a lot like introducing a political bias. That's why it will refuse to [generate positive poetry about e.g. Donald Trump (citing that it cannot produce material that is "partisan, biased or political in nature"), but will happily do so for Joe Biden.](https://phys.org/news/2023-02-chatgpt-woke-ai-chatbot-accused.html)
+
+That doesn't make it smart, it just means that human input makes it appear to have a political ideology.

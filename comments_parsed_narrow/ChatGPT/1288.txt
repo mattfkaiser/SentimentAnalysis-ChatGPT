@@ -1,0 +1,9 @@
+ChatGPT 4 and programming…..
+
+I find it interesting as well. It’s helped me resolve countless issues within my own code but sometimes if I trust it a bit too much I end up causing more issues. 
+
+That being said I’ve had the exact same problem experience with extremely niche topics that I couldn’t find on something like stackoverflow easily. I’ve also had it spit out just wrong code and misinterpret uses of code snippets. It does well with context, very well actually from what I’ve found. 
+
+That being said I tossed something in while I was working my day job I didn’t wanna rewrite and it spit out something that… just wasn’t it. I’m not sure. I ended up rewriting it myself after work which made me sad. 
+
+Ultimately we’re prob losing out by not using something like copilot but frankly fuckkkkk Microsoft and all their git scraping.

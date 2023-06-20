@@ -1,0 +1,5 @@
+Socks proxy is an easy way if you have outbound SSH allowed (common).
+
+If you can work through the terminal, just set up a jump box on DigitalOcean for like $4 per month and work through there (CLI commands or scripts to interface with ChatGPT through a linux jump server)
+
+Or figure out a way to have a proxy web server that takes input from you and sends it to chatGPT. That way at least your IT dept just sees you opening your browser to "productivitytipsandtricks.net"

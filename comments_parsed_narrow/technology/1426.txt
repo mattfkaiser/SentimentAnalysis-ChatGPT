@@ -1,0 +1,5 @@
+It's not correct to think of GPT 4.0 as being "3 months later" than ChatGPT 3.5 because the underlying model for ChatGPT, InstructGPT, came out in January 2022. The delta between releases is therefore 15 months, not 3. 
+
+Additionally, Altman said that GPT-5 is not currently in development because they believe they have tapped out the advances possible through scaling up in parameters and training data (also, they likely ran out of text on the internet to ingest, and would likely need 4-5x *additional Internet's worth of text* to see real gains.)
+
+I'm sure OpenAI will release more stuff, but it will either be incremental boosts to GPT-4, or an entirely different foundation model.

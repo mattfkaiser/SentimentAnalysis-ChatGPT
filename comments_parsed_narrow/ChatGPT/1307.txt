@@ -1,0 +1,3 @@
+\>  ChatGPT is just GPT-4 with extra context at the start 
+
+Not quite. It's fine tuned for chat and RLHF'd to provide better results.

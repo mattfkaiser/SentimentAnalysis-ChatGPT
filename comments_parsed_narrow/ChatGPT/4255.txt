@@ -1,0 +1,9 @@
+>It just says like sorry but I am not a cook.
+
+Yup. It's an *Assistant* cook for you: the Chef. At least that was the intended idea behind chatGPT to begin with...so to speak.
+
+"Cook Assistants provide support to Chefs and perform tasks such as **peeling vegetables and fruits, cutting food portions, tasting dishes, and ordering supplies**."
+
+You wouldn't ask your "cook assistant" to come up with elaborate menu themes as that is what is *your* knowledge is for as the Chef. But you would ask it, for example, to take template code for *one* menu theme you've written up and ask it to generate some variants, you might end up with some useful ideas or even something usable.
+
+Or are you talking about actual food menus? I assume you mean menu designs for an app or website.  Even as a native English speaker, it's difficult to parse English idioms without a tone of voice and then give an accurate response. chatGPT will always have that problem.

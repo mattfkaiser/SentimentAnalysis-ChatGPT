@@ -1,0 +1,1 @@
+Also is it easy or difficult to change Google Translate api to chat gpt api? Anybody tried this?

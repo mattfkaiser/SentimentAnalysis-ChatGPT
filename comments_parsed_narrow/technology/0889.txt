@@ -1,0 +1,7 @@
+Except sometimes it gives "sources" that are articles in journals that are behind hard paywalls so in order to check to see if the source is legitimate or not then you could be paying a lot of money....just to see that in journal X, publication Y, article Z it's talking about a completely different subject.
+
+It's definitely giving out "sources" that are hard for normal people to verify because there is no free way to check on some of them and go "Is Chat GPT making everything up?"
+
+If Chat GPT *only* gave hyperlinks that were publicly accessible?  Sure.
+
+Until then it needs to either not give sources, especially for the academic journals, OR it needs to clearly state in the sources it's giving you "I may have just made this source up, verify if this publication/article even exists (May be behind paywall) but if you can't verify then ignore everything I said earlier."

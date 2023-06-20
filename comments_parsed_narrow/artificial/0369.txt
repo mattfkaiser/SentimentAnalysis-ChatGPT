@@ -1,0 +1,41 @@
+I'm fully aware of how ANNs work, and more specifically LLMs. There's fundamental architectural limitations. I do think we'll see a lot more cool shit come out of LLMs once they start getting hooked up into other AI models, along with code execution systems, but in terms of cognitive performance it'll still be limited.
+
+The big limitations I see that aren't going away any time soon:
+
+1. Memory/Learning. Models are pre-trained and then static. Any "memory" is forced to come through contextual prompting which is limited. Basically, it's static i/o with the illusion of memory/learning.
+
+2. Cognitive tasks. Anything that can't rely on simple pre-trained i/o mapping, or simply linking up with a different ai in a hardcoded way. For example, reverse engineering a file format.
+
+3. Popularity bias. LLMs work based on popular responses to prompts and likely text extensions. This means that unlikely or unpopular responses, even if correct, will be avoided. Being able to recognize this and correct for it (allowing the ai to think and realize the dataset is wrong) is not something that will happen. An "error-correcting" model linked up to it might mitigate some problems, but will have the same bias.
+
+4. Understanding the I/O. Again, an "error-checking" system may be linked up, but this won't resolve a true lack of understanding. One real world example with chatgpt was me asking it about light and dark themes in ui, and which is more "green" and power-efficient. I told it to make an argument for light theme being more efficient. This is, of course, incorrect. However, the ai constructed an "argument" that was essnetially an argument for dark themes, but saying light theme instead. Intellectually, it made no sense and the logic did not follow. However, linguistically it extended the text just fine. You could have a module that checks for "arguments for dark/light theme" and see that it's not proper, but that doesn't resolve the underlying lack of comprehending the words in the first place.
+
+5. Novel interfaces and tasks. Basically, LLMs will never be able to do anything other than handle text. Hardcoding new interfaces can hide this, but ultimately it'll always be limited. I can't hand it a novel file format and ask it to figure it out and give me the file structure. It has no way to "analyze", "think" or "solve problems". Given it's a new format that is not in the dataset, the ai will simply give up and not know what to do, because it can't extend text it has not seen before.
+
+Basically, LLMs still have some room for growth, especially when linking up with other models and systems. However, they will never be an agi because of the inherent limitations in LLMs, even when linked up with other systems.
+
+Tasks an LLM will never be able to perform:
+
+1. watch a movie or video it's never seen and talk about it coherently.
+
+2. install and play a game it's never seen, then talk about it coherently.
+
+3. Handle new file formats and data structures it's never seen before.
+
+4. Recognize incorrect data in it's training dataset and understand why it's incorrect, properly explaining this.
+
+5. Handle complex requests that require more than simple text extension and aren't easily searchable.
+
+\#5 is particularly important, because it limits the actual usefulness of the intended functionality. With chatgpt I asked it about historic manuscripts and their ages. I requested that it provide the earliest preserved manuscript that was not rediscovered at a later date, ie one that has it's location known and tracked, and not lost/rediscovered. chatgpt could barely understand the request, let alone provide the answer. At best it could provide dates of various manuscripts, and give answers about which one is oldest as per it's dataset. When prompted, it kept falling back on which is oldest as per dating methods, rather than preservation/rediscovery.
+
+Similarly, I noticed chatgpt failed miserably at extending niche requests past a handful of pre-trained responses. For example, asking for a list of manga in a particular genre worked fine and it gave the most popular ones (as expected). When asking for more, and more niche ones, it failed and just repeated the same list. It successfully extended the text, but failed in a couple key metrics:
+
+1. It failed to understand the request (different manga were requested).
+
+2. It failed to recognize it was incapable of answering (it spit out the same previous answer, despite this not being what was requested).
+
+A proper response could've been "I don't know any other manga", or perhaps just providing a different set. A larger training dataset could provide more various hardcoded responses to this request, but the underlying issue is still there: it's not actually thinking about what it's saying, and once it "runs out" of it's responses for the prompt, it endlessly repeats itself.
+
+We can see this exact same behavior in smaller language models, like gpt-2, but happening much sooner and for simpler prompts. Basically: the problem isn't being resolved with scale, only hidden.
+
+TL;DR: scale isn't making the LLM smarter or more capable, it's making the illusion of coherent responses stronger. While you could theoretically come up with some dataset and model to cover the majority of requests, which would definitely be useful, it won't ever achieve agi because it was never designed to.

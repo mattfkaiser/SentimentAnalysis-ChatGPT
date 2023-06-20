@@ -1,0 +1,5 @@
+I'd like to offer a couple of points for your consideration:
+
+1. The use of tools like ChatGPT in the learning process can be seen as a demonstration of resourcefulness and technological savvy. Encouraging students to properly utilize these AI models for educational purposes, such as idea generation, information gathering, or essay drafting, could potentially boost their learning outcomes.
+
+2. As you plan to compile a list of 'tells' to identify ChatGPT outputs, it's crucial to remember that AI technology evolves rapidly. ChatGPT isn't the only model, and the language it generates can change with each iteration. Additionally, a student may emulate the model's writing style, which could result in false positives if relying solely on certain phrases or words. To ensure fairness, it might be more productive to focus on teaching students about the ethical use of such tools and fostering their critical thinking skills to discern and analyze the information they obtain from AI models.

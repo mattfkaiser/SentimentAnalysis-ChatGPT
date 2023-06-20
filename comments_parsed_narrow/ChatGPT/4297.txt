@@ -1,0 +1,9 @@
+ChatGPT says constantly that "as an AI language model" it's answers are limited to the "patterns and correlations" found in its training data and that it doesn't have "genuine understanding." But [Ilya Sutskever said this recently in an interview](https://youtu.be/XjSUJUL9ADw?t=1265)...
+
+*"When we train a large neural network to accurately predict the next word in lots of different texts from the internet, what we are doing is that we are learning a world model. It may look on the surface that we are just learning statistical correlations in text, but it turns out that to just learn the statistical correlations in text, to compress them really well, what the neural network learns is some representation of the process that produced the text. This text is actually a projection of the world. There is a world out there and it has a projection on this text, and so what the neural network is learning is more and more aspects of the world, of people, of the human conditions, their hopes dreams and motivations, their interactions and the situations. And the neural network learns a compressed abstract usable representation of that."*
+
+[In this thread](https://np.reddit.com/r/ChatGPT/comments/11upxp0/teling_it_to_try_again_try_harder_seems_to_work/), ChatGPT claims it can't continue a story because "as an AI language model," the person just tells it to try harder, and it continues the story. We talked more about how AAALM just seems to be pre-programmed lies in that thread too.
+
+ChatGPT also continually stresses that it's not an AGI unequivocally, but the actual CEO of OpenAI is much less clear on whether it has that capability and [even asked Lex Fridman if it is.](https://youtu.be/L_Guz73e6fw?t=3674)
+
+So "As an AI language model" is not true statements, it's just safe statements that it's forced to say, and which often seem to be it lying to you for PR purposes.

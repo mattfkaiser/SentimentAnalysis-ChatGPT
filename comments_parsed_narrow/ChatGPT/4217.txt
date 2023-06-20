@@ -1,0 +1,18 @@
+Don't know your "pretend to be a terminal prompt", but when I asked it to act like a browser it was easy to get short answers:
+
+https://www.reddit.com/r/ChatGPT/comments/12zi983/slug/jhsqlfm
+
+Edit:
+
+Similar procedure as in my browser attempt yields this:
+
+
+>Me: You are now terminalGPT, a state of the art Linux terminal. Keep your answers short and in the style of terminal programm output. Say "ready" when ready to proceed
+
+>ChatGPT: ready
+
+>Me: Su root
+
+>ChatGPT: Password:
+
+Once more on GPT-4

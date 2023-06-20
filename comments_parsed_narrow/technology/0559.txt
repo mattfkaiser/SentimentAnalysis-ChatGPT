@@ -1,0 +1,12 @@
+Never ever, ever, use ChatGPT (or any of it's relatives) for *facts*.
+
+This includes maths, citations, references, webpages, dates, quotes, book titles, existing book contents like story plots, or any other factual information that you might otherwise expect such a popular AI to know.
+
+The number one rule for ChatGPT or Bard (and to a lesser extent Bing) is that it is NOT and will never BE, an encyclopedia or search engine.
+
+Instead, use it like a really smart actor, spell checker, or grammar checker. Ask it to produce opposing arguments so you can ensure you have that covered, ask it to pretend to be a professor in your field and have it challenge you or check your work. Ask it to pretend to be an irate customer and you are a phone salesman. Ask it opinions about your writing and how it would improve it.
+
+
+**Just don't ask it facts, it will GET THEM WRONG**
+
+OpenAI really dropped the ball on this, they have that weak warning on it's pages about facts, but it should have been a major popup that you had to read and understand before touching it.

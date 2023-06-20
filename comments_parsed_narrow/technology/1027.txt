@@ -1,0 +1,1 @@
+The problem is the technology that it's built on makes up facts. ChatGPT can't even count the number of letters in a word, but it will give you an answer with 100% confidence.

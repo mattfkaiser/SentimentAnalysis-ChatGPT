@@ -1,0 +1,1 @@
+For unencrypted inputs the risk is man in the middle attack or getting intercepted. But chatgpt is a secure connection, thus whatever you input into Chatgpt, it gets encrypted, sent over the internet, and then decrypted by their servers. You can notice the lock icon in the address bar if the browser.

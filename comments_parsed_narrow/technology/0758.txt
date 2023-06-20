@@ -1,0 +1,1 @@
+The API is not the same as ChatGPT and often requires extensive tuning to get good results. Either way ChatGPT really only handles code snippets and it’s very useful for boring work that no one is going to steal.

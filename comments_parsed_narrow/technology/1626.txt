@@ -1,0 +1,1 @@
+I asked it to explain the disassembly of a simple function. It gave me a decent explanation of each individual instruction. When I asked it to discuss what the function did as a whole, it told me that you need the source code for that. I’m sure we’ll get there, but ChatGPT isn’t passing my interviews.

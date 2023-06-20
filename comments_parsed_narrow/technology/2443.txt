@@ -1,0 +1,5 @@
+> Go ask ChatGPT and it'll be about a minute before it has finished typing shit out.
+
+That's where caching comes in, which Google excels at. If you're the second person to ask it'll be nearly instant again.
+
+Your point about ChatGPT producing confidently wrong instructions is good though. I think it will have to be integrated into search as an interface, not replace it entirely.

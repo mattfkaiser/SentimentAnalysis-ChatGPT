@@ -1,0 +1,3 @@
+My office and co-workers have been running our tech tickets through ChatGPT just for our own interest. I would say for the majority of our tickets, it gives the answer that we would give to the customer. Sometimes it even explained better. 
+
+In theroy it could replace our tier 1 service, and most likely eliminate us getting 75+% of our tickets.

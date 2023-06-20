@@ -1,0 +1,9 @@
+AI/ML is not limited to ChatGPT.
+
+These tools are more akin to highly advanced statistical models than what people normally think of as "intelligence", and while they're very useful, they're prone to the same potential problems and misuse as other statistical models. Except worse, because the outputs are good enough (and the process opaque enough) that it's really easy to lose track of the caveats.
+
+E.g. there's already been issues with law enforcement misusing crime statistics/data.
+
+---
+
+Then there's the issue with AI art and copyright. Existing law and precedent isn't really equipped to handle it, especially if you look at it in light of why copyright exists in the first place: to incentivize the creation of new work.

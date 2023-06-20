@@ -1,0 +1,5 @@
+>Also, he's probably lying.
+
+I use it to write technical documentation and care and maintenance manuals for my products. It used to take me a an hour or two to write each one (even with copy/pasting the parts that are common in all the documents). Also, it's incredibly boring and creatively draining. I tried ChatGPT to see if it would make this easier and faster. Now, that it's trained, I just input any changes or additions then proofread the result. Whole process takes maybe 5-10 minutes per document.
+
+It took maybe an hour to train it the first time.

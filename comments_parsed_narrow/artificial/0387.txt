@@ -1,0 +1,17 @@
+Yes we are many that was into this thing before ChatGPT and the other recent landmarks arrived.
+
+But most people had and have no clue of what is going on and I do not blame people for anthropomorphizing the shit out of it.
+
+On your "google" analogy I can give you an example I currently are working on using Chad4:
+
+* create google colab (I'm a programmer but not used to python and definitely not AI related)
+* implement CLIP - I know what CLIP is and that's all, no clue of the inner works or how to implement.
+* Import a video and extract every N'th frame to be thrown at CLIP.
+* Make a summary of the CLIP results every N'th seconds
+* and more...
+
+All I have done so far is feeding the error messages back and got improved code in return.
+
+I have got it working with no errors and 'a' result, not good but a good base to expand/optimize from. Learning a lot along the way.
+
+Forget the project itself just look at all the different technologies used and imagine get it to run at all just using several google searches. I wouldn't start trying even though I have the black belt in google searches.

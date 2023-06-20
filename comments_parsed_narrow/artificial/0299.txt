@@ -1,0 +1,2 @@
+Think of it as an artifact of how it was trained. It's hard for any human to evaluate everything, mostly if it's outside our expertise we go by if it looks 'right'.
+ChatGPT learned that this behaviour is favoured more so that is what it outputs.

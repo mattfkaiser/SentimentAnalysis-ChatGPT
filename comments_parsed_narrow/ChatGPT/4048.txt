@@ -1,0 +1,1 @@
+I find asking ChatGPT to help write a prompt for itself to be pretty helpful.  Find out the kind of information it needs to know to get what you want.

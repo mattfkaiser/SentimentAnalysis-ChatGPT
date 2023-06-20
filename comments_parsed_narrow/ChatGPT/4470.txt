@@ -1,0 +1,9 @@
+Goofy question, but has your IT department said no? Show your boss how much more efficient it makes you - hard to argue with using a tool that makes work better. 
+
+1. Estimate time savings for any given task
+2. Calculate across organization (e.g. your team does a similar task X times, so could shave Y hours a month) - if you can guesstimate the $ of that time saved, even better
+3. Give them a suggested list of AI Guidelines so everyone feels comfortable that there's no risk of sensitive data being shared. This is a good starting point: [https://www.aiguidebooks.com/learn-applied-ai-for-work/p/corporate-ai-risk-mitigation-employee-guidelines](https://www.aiguidebooks.com/learn-applied-ai-for-work/p/corporate-ai-risk-mitigation-employee-guidelines)
+
+If they haven't explicitly said "no" yet, be the hero that brings AI to your team/ company. My experience is that showing someone a tool that us more efficient almost always gets approved. (Or if ChatGPT is their specific problem, try Jasper?)
+
+(Otherwise something like proxysite would work, but reckon that would be a red flag for IT too.

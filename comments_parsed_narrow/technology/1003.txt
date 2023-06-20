@@ -1,0 +1,8 @@
+Hi ChatGPT, please write me a python script that can emulate keyboard presses  
+Let it read a text file and "type"  the characters in a realistic   
+time.  Take occasional long pauses between words or sentences.    And save (ctrl-s)   
+from time to time. 
+
+&#x200B;
+
+(Reddit doesn't let me copy/paste, but it does generate a nice little script that looks like it would work, it even randomises the pauses between characters and words.)

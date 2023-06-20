@@ -1,0 +1,3 @@
+It's a language model not a doctor. You still have to understand the basics of computer programming if you want to effectively get ChatGPT to write code. Not everyone can just hop in a Lambo and drive like a pro.
+
+It's not always correct either. Right now this thing is at best capable of being a cashier. Since it really can't think creatively without input or training that's probably the best fit for it at this stage.

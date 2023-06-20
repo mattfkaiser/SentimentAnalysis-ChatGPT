@@ -1,0 +1,1 @@
+An easy way to "watermark" a text, is to force the owners of ChatGPT to log everything it processes, allowing anyone to see what the program has produced in the past.

@@ -1,0 +1,1 @@
+It didn't work for me too in the first try, but I let ChatGPT regenerate the response, and it worked on the second try

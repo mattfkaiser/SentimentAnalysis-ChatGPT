@@ -1,0 +1,17 @@
+I'm a marketer & I found this [pack](https://ultimatechatgpt.gumroad.com/l/chatgpt-mastery-pack) that had around 1500+ prompts for coders, marketers & basically anyone lol
+
+**Here's my favourite:**
+
+    "Develop [number] app feature ideas to improve user experience and increase user retention for our agency's mobile app. 
+    Context: 
+    Target audience — [your target audience here] 
+    What our app does — [your app elevator pitch here] 
+    Current app features — [list current app features here] 
+    Inspiration: 
+    "[app feature inspiration one]" 
+    "[app feature inspiration two]" 
+    "[app feature inspiration three]" 
+    Implementation guidelines: 
+    "[your implementation guidelines here]" 
+
+Honestly it has everything, it was only $5, check it [here](https://ultimatechatgpt.gumroad.com/l/chatgpt-mastery-pack)

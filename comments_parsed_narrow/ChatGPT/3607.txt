@@ -1,0 +1,6 @@
+Just want to add that GPT doesn't care about HIPAA or secrecy. If you talk to a psychologist there are rules that must be followed in how your information is handled. Everything you write to it is free to use for retraining purposes etc.
+
+Samsung employees leaked sensitive info through ChatGPT recently:
+https://mashable.com/article/samsung-chatgpt-leak-details
+
+So yeah in the future you might get responses from GPT that is equal to a psychologist but GPT doesn't keep its virtual mouth shut.

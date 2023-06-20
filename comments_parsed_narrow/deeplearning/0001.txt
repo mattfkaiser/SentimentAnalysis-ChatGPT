@@ -1,0 +1,3 @@
+Maybe I'm not understanding, but all servers consume memory and CPU and power even while not being used.  It's not like the machine turns itself off when not in use.  It would take way too long to spin back up when a request comes in.
+
+In the case of something like ChatGPT, the model uses something like 175 billion parameters.  And that data \*is\* just loaded into memory, so it's ready to go when a request comes in.  You can imagine that loading up all that data whenever it was needed would be a pretty brutal task.

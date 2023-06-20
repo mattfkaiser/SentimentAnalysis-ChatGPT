@@ -1,0 +1,11 @@
+I use old.reddit in my browser with uBlock Origin and I don't get ads (except arguably astroturfing).
+
+I subscribe to a select few Youtube channels and don't get spam - except one of the channels has now started releasing a bunch of fucking "shorts" that are annoying (clips from their longer videos) and as far as I can tell, I can't easily filter those. 
+
+So for the most part, with a little effort, I think you can work around some problems.
+
+Also, for ChatGPT: https://platform.openai.com/playground?mode=chat&model=gpt-3.5-turbo-0301
+
+The playground is a great tool. Costs around ⅓¢ per interaction (based on my experience). I use the "full chat" mode because there's a system box (tell it how to act), then you enter your prompt - make it something ChatGPT wouldn't refused, and hit submit. Then you can ***edit*** all fo those including its reply. Once you edit its reply to cross a boundary that normal ChatGPT wouldn't cross, it tends to answer pretty much whatever you want with few complaints. And if it complains, edit your system box.
+
+That said, the max length of the entire conversation is the token length - but 4096 tokens is more than you might think.

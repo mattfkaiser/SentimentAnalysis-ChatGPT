@@ -1,0 +1,5 @@
+Having easy access to citations is a good step in the right direction I think, but I see two issues with this:
+
+People have a tendency to allot more value to a claim with sources provided, regardless of whether those sources are reliable.  Most people don’t go to the trouble of actually looking through this information, and it boils down to “there are sources, so it must be true.”  This is more of an issue with human psychology than chatgpt itself, but it’s still an issue that stands to be amplified by this approach.
+
+The other major issue I see here is that it seems unreliable at best that current general purpose AI models can accurately discern between reliable sources and unreliable sources.  What are the metrics you are going to use to teach something like that to an AI?  And what is stopping someone with Ill intentions from manipulating those weights to make an AI that rapidly spreads misinformation in a convincing format?

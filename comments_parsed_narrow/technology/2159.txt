@@ -1,0 +1,1 @@
+A calculator only performs rote tasks. I'd trust an airliner designed with a calculator, I would NOT trust an airliner designed by generating technical documents with ChatGPT, or by pulling flight handling equations from Wolfram Alpha.

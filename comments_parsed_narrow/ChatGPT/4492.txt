@@ -1,0 +1,5 @@
+Sure, buy a domain that sounds work like, set up a server that acts like a proxy and changes the newly bought domain name to chat gpts, then just use that domain instead.
+
+You’ll also need to program it so it changes the header domain references for cookies and in scripts received etc.
+
+(No one said it was going to be easy)

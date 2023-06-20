@@ -1,0 +1,5 @@
+Think of every help desk or customer support job out there. AI has been good enough to do "Level 1", or at least 33% of it, for a while now. It's already good enough to ask if you've restarted your computer or search the error code against common codes. It's just people hate it and hate your company if you make them do it.
+
+ChatGPT doesn't even need to be the significant improvement it is to handle 33% of this job that employs a huge number of people. It just needs to be a rebranding of automated systems in general and it's already doing that.
+
+If I called support for my internet today and they offered "press 1 for robo support POWERED BY CHATGPT, press 2 for a 1 minute wait for a person", I might choose chatgpt already just to try it. Because of the brand. After giving robo support the first honest shot in a decade, I'd see that it did solve my problem quickly (because of course, there was an outage in my area and it's very easy for it to determine that's the reason my internet is down). So I'd choose robo support next time too.

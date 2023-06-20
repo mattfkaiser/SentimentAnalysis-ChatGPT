@@ -1,0 +1,1 @@
+UNDERSTANDING code and logic is huge.  You can't chat GPT code if your don't understand how to use that code, tell if it's viable, and fix it.

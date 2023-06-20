@@ -1,0 +1,3 @@
+But even if you plug chatgpt or whichever LLM into a game engine, it still has the same coding ability it has now, which is fairly limited when it comes to complex stuff. Maybe im wrong but im struggling to see the vision here.
+
+To be clear i use chatgpt every day with my coding and i love it,800 times better than google searches, but the limitations are very obvious

@@ -1,0 +1,3 @@
+Maybe I misunderstand, but it seems you want more out of ChatGPT than it can provide. Going to a LLM to hear how society feels, and philosophical questions seems weird- it’s not designed to answer questions like that.
+
+However, if you want to learn about details of specific views related to those topics, I think it does well. Like there is a big difference between ‘provide examples of determinism’ and ‘do we have free will?’

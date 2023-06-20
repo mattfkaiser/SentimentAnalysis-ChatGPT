@@ -1,0 +1,3 @@
+To add to that, LLMs under the hood and oversimplifying, are BIG matrices. **If you don’t feed an input into them, nothing comes out.**
+
+If we have to prove ChatGPT isn’t conscious then we also have to prove **stones** aren’t conscious.

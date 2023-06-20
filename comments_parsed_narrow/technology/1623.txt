@@ -1,0 +1,17 @@
+>"No, ChatGPT will not replace software engineers,"
+
+>But it reiterated it will never be a full replacement, but rather a tool to assist human software engineers.
+
+Which is just semantics.
+
+If you have 100 engineers without AI assist, and make 40 of those redundant by increasing the productivity of the remaining 60 by that degree of efficiency, then these 40 have been "fully replaced". It's not like they would keep all hundred and negotiate a change in salary and working hours on the basis of taking less time.
+
+And the argument that it will hit the lower levels is also presumptious, because when "tool assisting" is viewed in the past, it's actually the midsegment being replaced by low level in the sense that the knowledge to do something unassisted becomes less of a marketable trait which are not commonly in low tier segment in the first place.
+
+For instance in a world where everything is high level high context coding more low level coders get to be tool monkeys where before that coding was deeply understanding the connection between all layers of code and translation. Particularly if code efficiency is just a problem that gets solved with throwing more computation power at it, or selling new hardware to users offloading it to THEIR machines because compiler and library madness is just taken for granted.
+
+Sure, at the very top the preference is still having people who know it ALL, but historically new tools allow formerly LESS qualified individuals to compensate for that with automation/ tool assist. Not particularly enabling the ones that didn't "need" the tools in the first place to get marginally faster at the same high pay.
+
+you don't need chefs when the machines are preprogrammed to cook to perfection, you higher students who get told how to push buttons.
+
+edit: so unless "full replacement" means "nobody is ever going to need ANY software engineer anymore after", then I call BS.

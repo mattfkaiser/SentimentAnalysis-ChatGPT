@@ -1,0 +1,9 @@
+I actually just answered that in an above comment a few seconds ago. 
+
+Basically there is: Claude instant and chat gpt 3.5, the fast cheaper models 
+
+Then Claude+ and gpt4. 
+
+My test above was gpt 3.5 vs Claude instant. 
+
+I also did Claude+ and chat gpt 4. With more random questions that aren’t prompt based, where I wasn’t asking it to be a life coach for me, stuff like asking it to research medical conditions, I think I found chat gpt 4 to be a little bit better but not by a ton I think

@@ -1,0 +1,5 @@
+In the [PDF affidavit from the attorney](https://www.documentcloud.org/documents/23826751-mata-v-avianca-airlines-affidavit-in-opposition-to-motion?responsive=1&title=1), why are the mobile Chat-GPT questions and answers in two different colors of font? On the first and third pages, questions are *gray* and answers are *black*. On the second page, the answer from Chat-GPT is *gray*. This is inconsistent. When I tested, both user input and Chat-GPT replies were the same color. Were the screenshots manipulated? 
+
+Also ChatGPT says “After *double checking*, the case does indeed exist …” Does that mean he prompted it more than once to get the answer he was looking for, and the first time it rightfully stated the case doesn't exist? 
+
+The first mistake he made in getting the case title from Chat-GPT seems like a mistake, but the follow-up containing actual case data looks like he's intentionally covering his tracks, and prodded it more than once until it coughed up the hallucination he wanted to get from it. Very suspect.

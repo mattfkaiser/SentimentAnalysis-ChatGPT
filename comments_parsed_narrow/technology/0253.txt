@@ -1,0 +1,11 @@
+After 8 months how do people like you still not understand how ChatGPT works?  It’s a free service, you’re obviously internet savvy, there are white papers available along with articles and video galore. You have no excuse for this level of ignorance.
+
+If you go to ChatGPT and say “give me stock to buy now” then yes, you will probably get a junk response with hallucinated info.  That’s not the way to use ChatGPT. That’s akin saying a hammer is bad at driving nails when you hold it by the head and slam the corner of the handle on the nail.
+
+The way I would approach this with ChatGPT is to provide the stocks and relevant fundamental/technical data to the model so it doesn’t have to use it’s outdated info from 2021 and by giving it info to work with you avoid hallucination.  There is an 8K token model and a 32K token model, both more than capable of handling hundreds if not thousands of tickers and price data.
+
+ChatGPT is capable of basic math and if there’s anything more advanced required, there are plugins available to make it connect to something like WolframAlpha.
+
+While I’m not claiming ChatGPT is going to excel at picking stocks, it’s foolish to claim that it can’t assist at all because it hallucinates data when you allow it to.
+
+Edit: Downvotes don’t make me wrong. r/technology is consistently one of the least educated subreddits here. You’re consistently wrong and proud of it.

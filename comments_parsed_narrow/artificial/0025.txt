@@ -1,0 +1,1 @@
+"We are also working on a new ChatGPT Business subscription for professionals who need more control over their data as well as enterprises seeking to manage their end users. ChatGPT Business will follow our API’s data usage policies, which means that end users’ data won’t be used to train our models by default. We plan to make ChatGPT Business available in the coming months."

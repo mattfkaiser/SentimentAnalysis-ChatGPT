@@ -1,0 +1,7 @@
+There are several that have been very useful lately but my go to is the one I got off of Matt Wolfe (@MrEFlow)
+
+>What are the absolute coolest, most mind-blowing, out of the box, ChatGPT prompts that will really show off the power of ChatGPT? Give me 20. (add a focus for prompt direction)
+
+That last bit is where you would actually add a focus if you want, something like "Focus the prompts on Web scraping with Python" or whatever you're in to. It really does create some incredible prompts which I will generally take into another instance of CGPT and ask it to improve the prompt and make it more detailed, at which point i consider it the first draft and it's ready to go. The kinds of prompts you can develop with these simple tactics are absolutely incredible and will yield tons of information and perspectives about whatever you're looking into.
+
+If you think about it, you're basically asking ChatGPT to rev it's engine for you, and it does.

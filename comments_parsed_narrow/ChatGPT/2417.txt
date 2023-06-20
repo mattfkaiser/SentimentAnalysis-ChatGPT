@@ -1,0 +1,7 @@
+That's the thing, GPT can already do that IF the user knows what they're doing as well and provide the right information. ChatGPT can't go off on its own winning a case by simply asking it to win.
+
+It's a case of garbage in garbage out and it doesn't prevent users from making mistakes like OP did by revealing their hand.
+
+Though if you ask me if ChatGPT should be banned for self representation or legal usage then yes. 100% because ChatGPT explicity states not to share sensitive information as it'll use anything you send it to train itself and everything gets stored.
+
+Though an application that uses the OpenAI API to access GPT would be completely fine in both cases.

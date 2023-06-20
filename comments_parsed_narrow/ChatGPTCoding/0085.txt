@@ -1,0 +1,1 @@
+I had an idea for a simple ChatGPT plugin to help me with my PRs, but I see you took it to the next level with LangChain and a full python package, I love it!

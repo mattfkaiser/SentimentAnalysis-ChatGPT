@@ -1,0 +1,5 @@
+Research Engineer , ex MLE. 
+
+It’s mundane. I’ve tried on occasion to use it in a practical setting , realized how awful it was, didn’t touch it again. If it helps you then good, but if I personally ever see someone submit shit work because they used chatgpt or bing chat or something then I’m giving them hell. Stuff like diffusion , and other ELBO based models seem far cooler to me than autoregressive models anyway. Although I will admit that if the user is a domain expert then LLMs can be quite a good search engine. I usually use it for things I would typically google but at the same time I’ve seen it make a ton of mistakes so always have to be careful. 
+
+Ps: I am convinced all the .eth crypto bros are the ones who now have a .ai on their profile on Twitter

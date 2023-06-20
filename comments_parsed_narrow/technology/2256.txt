@@ -1,0 +1,3 @@
+And yet I'm fairly certain that if we layer a 'trolley problem' dilemma in a few layers of real-world specifics, we could get chatGPT to do just that.  I appreciate that the creators have a very basic 'don't claim to be a moral entity' hurdle, but moral dilemmas present themselves in plenty of information-delivery scenarios, including which sources to favor and why.
+
+Tl;Dr- segmenting explicitly theoretical moral dilemmas does not reassure me that chatGPT is capable of avoiding real ones.  The trolley problem is only unsolvable as an abstract - in practice, people solve it all the time using other connected ethical rubrics.

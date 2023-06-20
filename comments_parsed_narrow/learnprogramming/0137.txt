@@ -1,0 +1,3 @@
+Iv been taking the free python course that MOOC offers, and will give me a scenario and ask me to write a code that solves the scenario. It's really challenging sometimes, and forces me to understand what I'm doing and apply it. I couldn't copy and paste info from the lessons directly if I wanted to. Iv been doing it a about 4 weeks now and I'm actually becoming semi fluent in basic python, its wild. 
+
+I also use chat gpt to help me come up with ways to use the code iv learned so far, but I never really have it write anything for me. Just explain certain functions and modules, or find flaws in my code when I'm truly stumped and exhausted everything I can think of.

@@ -1,0 +1,5 @@
+Watson was never available to anyone unless you were willing and able to shovel megabucks into the IBM furnace in the mere *hope* that it might be part of a solution for a problem you were facing.
+
+Whereas GPT is available to *everyone* to try out, for *free* (and not just via the restrictive ChatGPT platform); and if you end up wanting to adopt it as part of a solution it's priced pretty affordably.
+
+Trying to draw a line between the success of one and the success of the other is a fool's errand.  You might as well be declaring buildings a failure because they never built a second Burj Khalifa.

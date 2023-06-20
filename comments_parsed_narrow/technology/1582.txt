@@ -1,0 +1,3 @@
+The coding question failed.  Even if you restrict yourself to a technical question, an engineer at that level should be able to do two things that ChatGPT doesn’t do today.  First, they should work collaboratively with the interviewer to clarify problem requirements, ChatGPT could be taught to do some of this, but it would need better math skills.  Second, it needs to gracefully handle situations where it has incomplete information.  A good candidate will say “I don’t know” eventually, while ChatGPT will confident spit out nonsense.
+
+It doesn’t matter if the candidate writes great code, those are red flags.

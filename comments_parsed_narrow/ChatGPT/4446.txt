@@ -1,0 +1,1 @@
+I use voice to text in the app, or Dragon Dictation then paste it into chatGPT. If it’s something longer, I’d rather use dragon.

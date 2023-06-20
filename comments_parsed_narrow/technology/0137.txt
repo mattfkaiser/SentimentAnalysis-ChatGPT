@@ -1,0 +1,5 @@
+Expecting a language model to know facts is like expecting a calculator to know theorems.
+
+Yes they can produce the output, but treating them as if they "know" things, and especially as if they are sentient, is a dangerous anthropomorphism for your sanity.
+
+ChatGPT calling itself "AI" is the biggest marking win of the decade and the probably also the biggest obfuscation.

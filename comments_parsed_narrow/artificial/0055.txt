@@ -1,0 +1,5 @@
+Part of my brain because… they reside in the same skull? When you access ChatGPT, each question you ask is likely handled by a different physical machine, possibly in a different building. You have no guarantee that you will get the same machine even from token to token. 
+
+How is this different from calling an api on a different codebase? Is the GitHub repo the unit of individuality?
+
+You are used to a world where organisms carry their entire available compute around on their shoulders with no real fat connectors to other sources of compute. These assumptions don’t hold here.

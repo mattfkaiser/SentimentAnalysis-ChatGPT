@@ -1,0 +1,45 @@
+The system detects that it needs information it doesn't have and goes through the available plugins to find the one it needs and calls it. In this case it gets the weather info.
+
+The plugins can be generated with a prompt at the moment, but about to add plugin generation into the tools as well. It's fully dynamic and will auto pickup new tools.
+
+Stack is Python FastAPI + Vite + Vue3 + Typescript + PrimeVue... all setup by copying/pasting chatGPT instructions.
+
+Backend, frontend, css and html mostly created by chatGPT (90%).
+
+Most time (80%) of my time was spend on prompt engineering.
+
+This all started with me wanting to find out how long is will be until AI is making me redundant. Still a bit to go, but I feel like I have a junior dev that writes instant code. As long as I guide it, it can create very complex code very well.
+
+Something like this, while trivial, would normally take me quite a while to get correct if I haven't touched python in a while:
+
+`def register_plugin(router: APIRouter, path: str, description: str):def decorator(func: Callable):u/wraps(func)async def wrapper(*args, **kwargs):result = await func(*args, **kwargs)return resultfilename = os.path.splitext(os.path.basename(inspect.getfile(func)))[0]function_name = func.__name__signature = inspect.signature(func)register(filename, function_name, signature, path, description)router.add_api_route(path, endpoint=wrapper)return wrapperreturn decorator`
+
+Let alone writing a complex js Proxy:
+
+ `const plugins = new Proxy(`  
+  `{},`  
+  `{`  
+ `get(target, prop: string) {`  
+ `const plugin = window.app.plugins.find(`  
+        `(plugin) => '${plugin.filename}__${plugin.function_name}' === prop`  
+      `);`  
+ `if (!plugin) {`  
+ `throw new Error('Plugin '${prop}' not found.');`  
+      `}`  
+ `return async function (...args: any[]) {`  
+ `const params = new URLSearchParams();`  
+ `const argNames = plugin.signature`  
+          `.slice(1, -1)`  
+          `.split(",")`  
+          `.map((arg) => arg.split(":")[0].trim());`  
+ `for (let i = 0; i < argNames.length; i++) {`  
+ `params.set(argNames[i], args[i]);`  
+        `}`  
+ `const response = await fetch(\`${plugin.path}?${params.toString()}\`);`  
+ `return response.text();`  
+      `};`  
+    `},`  
+  `}`  
+`);`
+
+As a tool for senior coders, it's absolute gold. Using GPT-4, new Bing and copilot I feel like we live in a new world... and I kinda stopped using google. Fun times!

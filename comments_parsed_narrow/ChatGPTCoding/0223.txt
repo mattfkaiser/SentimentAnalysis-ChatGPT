@@ -1,0 +1,8 @@
+Multiple reasons :  
+\- Long output - you don't have to spam it to continue every \~200-300 tokens  
+\- You can edit the conversation, delete messages, which allow you to save tokens by removing unecessary messages or parts of messages, or if you're close to the 8k limit, you can ask one thing at a time, get the answer and then delete it and ask something else.  
+\- Temperature and other settings  
+\- Role input on the left, which is convenient and can be changed at any time as well  
+
+
+So basically, a lot more control. But I do use chatgpt 4 as well - I tend to use the playground for bigger projects, and ChatGPT 4 for small scale coding that doesn't require much context or a lot of code to produce.

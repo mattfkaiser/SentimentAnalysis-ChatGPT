@@ -1,0 +1,1 @@
+I'm currently using chatgpt to teach my Python by asking me to teach me certain concepts and give me exercises to solve. If I can't solve an exercise on my own I ask chat to solve it for me and to provide an explanation.

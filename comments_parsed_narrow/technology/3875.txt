@@ -1,0 +1,11 @@
+There are so many issues with this take. 
+
+ChatGPT is not a great indicator for AI, whatever AI youre using at your job in the future could not be the same as it. I will concede I think products like ChatGPT will be similar to Excel in a "we should really use something more sophisticated but this was too easy" way. 
+
+College is only teaching you foundational knowledge which coincidentally is also what AI excels at. Youre robbing yourself of understanding your industry, knowing how to approach problems in it. And you're only giving AI problems its particularly good at so youre not really learning queries either. 
+
+Current AI cannot provide external information, if AI gives you info you are not sure if its true and cannot quickly check (code, recipe even) then its not useful. 
+
+Also, its not fair for him to grade you based on your use of AI, it is quite literally not what his students signed up for. If he's betting on AI then they should offer a major in ChatGPT. 
+
+I'm a master's student with a concentration in AI, I have close relationships with nearly all our CS professors and none of them would agree with your professor.

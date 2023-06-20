@@ -1,0 +1,7 @@
+I guarantee you that whatever TV shows AI writes will make Velma look like The Sopranos.
+
+It is designed to find the most "common" answers to questions, even poetry. Without human input guiding it, it's a Junior High student with a rhyming dictionary. Banal subjects, banal rhymes.
+
+Have it generate 5 real estate ads and they'll all be a collection of the most used phrases in real estate ads with a few "factoids" thrown in that are probably not even accurate. (My 2 bath home has 3.5 according to ChatGPT)
+
+ChatGPT can do some amazing things, but nothing like what the hype around it implies. It is incapable of reason. Asking what is 2+2 will cause it to lookup the most common answer for that question in their model. The system doesn’t even know if 4 is the right answer, just the most common.

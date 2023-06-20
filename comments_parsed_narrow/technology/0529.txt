@@ -1,0 +1,5 @@
+I think of it more as a gullible relative that believes everything they read on the internet.  I have used it to help write code and plan a vacation.   And as long as you check its work, it is a great source of ideas.  You just have to know that it can't tell the difference between right/wrong/obsolete information.   It will occasionally assume a business is still open, assume the marketing copy on a website is factual, or assume that you have access to a certain software API.   It doesn't really know, but sounds pretty confident, and that's what confuses people.   
+
+When hoax emails first started flying around, my mom said "if it wasn't true, why would they write it?".   She was used to a world where publishing anything meant spending at least some amount of money, so maliciously false information was rare.
+
+This is a new iteration of that.   It sounds like a person wrote the chatgpt output, so some people will assume that there is at least one person out there that believed what they wrote.   When in fact it's just a computer guessing.

@@ -1,0 +1,7 @@
+>they simply memorize text strings they are selectively fed and then they try to guess what text strings to reguritate (with zero understanding) in response to other text strings
+
+Why don't you just go ahead and implement this idea?  Your description make it sound easy enough!
+
+And then you'll have a version of ChatGPT that doesn't require \~100 gigaflops per emitted syllable.  You'll be able to undercut the operating costs of OpenAI, Microsoft, and Google by orders of magnitude and make mountains of money!
+
+Funny that AI researchers worldwide overlooked this one simple trick for half a century...

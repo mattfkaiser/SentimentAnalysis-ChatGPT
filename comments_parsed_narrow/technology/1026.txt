@@ -1,0 +1,11 @@
+True, doctors and AIs both make mistakes. 
+
+But doctors are held liable and accountable for their mistakes. They can be sued or lose their license, even over a single mistake. There is no comparable way to hold an AI like ChatGPT accountable.
+
+Furthermore, humans can learn instantly from their mistakes. If a doctor says "Lye is safe to drink", then another doctor can say "That's absolutely wrong" and the first doctor will never make that mistake again. 
+
+In contrast, ChatGPT makes the same, well-documented mistakes over and over again. Even though it's repeatedly been told that it made a mistake. There is no way to instantly correct it, because its internal workings are a black box. 
+
+For instance, try asking ChatGPT: "Alice has 12 apples, Bob has 8, and Chuck has 4. Alice takes half of Bob's apples and Chuck takes the rest. How many apples do they each have?" I just tried it again, and ChatGPT was wrong again.
+
+As a result, continuous self-improvement is far more straightforward for doctors than for ChatGPT. And doctors are *required* to continuously self-improve.
