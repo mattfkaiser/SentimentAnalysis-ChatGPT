@@ -5,8 +5,8 @@ import nltk
 from nrclex import NRCLex
 
 # Load the CSV file
-file_path = 'comments.csv'
-df = pd.read_csv(file_path)
+file_path = 'ChatGPTComments.xlsx'
+df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
 comments = df['Text'].astype(str)
@@ -25,7 +25,7 @@ for comment in comments:
 df['emotions'] = emotions
 
 # Save the DataFrame with emotion ratings to a new CSV file
-output_file_path = 'nrc_emotions.csv'
+output_file_path = 'nrc_emotions_chatgpt.csv'
 df.to_csv(output_file_path, index=False)
 
 # Function to categorize emotion
@@ -41,7 +41,7 @@ def categorize_emotion(emotions):
 df['emotion'] = df['emotions'].apply(categorize_emotion)
 
 # Save the DataFrame with emotion analysis to a new CSV file
-output_file_path = 'nrc_emotions_categorized.csv'
+output_file_path = 'nrc_emotions_categorized_chatgpt.csv'
 df.to_csv(output_file_path, index=False)
 
 # Function to get the top emotion
@@ -52,5 +52,5 @@ def get_top_emotion(emotions):
 df['top_emotion'] = df['emotions'].apply(get_top_emotion)
 
 # Save the DataFrame with emotion analysis to a new CSV file
-output_file_path = 'nrc_emotions_top.csv'
+output_file_path = 'nrc_emotions_top_chatgpt.csv'
 df.to_csv(output_file_path, index=False)
