@@ -5,8 +5,8 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 nltk.download('vader_lexicon')
 
 # Load the CSV file
-file_path = 'comments.csv'
-df = pd.read_csv(file_path)
+file_path = 'ChatGPTComments.xlsx'
+df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
 comments = df['Text'].astype(str)
@@ -40,5 +40,5 @@ def categorize_sentiment(compound):
 df['sentiment'] = df['sentiment_compound'].apply(categorize_sentiment)
 
 # Save the DataFrame with sentiment analysis to a new CSV file
-output_file_path = 'vader_polarity_1.csv'
+output_file_path = 'vader_polarity_chatgpt.csv'
 df.to_csv(output_file_path, index=False)
