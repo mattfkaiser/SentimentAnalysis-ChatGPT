@@ -2,8 +2,8 @@ import pandas as pd
 from textblob import TextBlob
 
 # Load the CSV file
-file_path = 'comments.csv'
-df = pd.read_csv(file_path)
+file_path = 'ChatGPTComments.xlsx'
+df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
 comments = df['Text'].astype(str)
@@ -32,5 +32,5 @@ def categorize_subjectivity(subjectivity, threshold=0.5):
 df['subjectivity_category'] = df['subjectivity'].apply(categorize_subjectivity)
 
 # Save the DataFrame with subjectivity analysis to a new CSV file
-output_file_path = 'textBlob_subjectivity_output.csv'
+output_file_path = 'textBlob_subjectivity_chatgpt.csv'
 df.to_csv(output_file_path, index=False)
