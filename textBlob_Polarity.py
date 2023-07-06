@@ -1,9 +1,9 @@
 import pandas as pd
 from textblob import TextBlob
 
-# Load the CSV file
-file_path = 'comments.csv'
-df = pd.read_csv(file_path)
+# Load the excel file
+file_path = 'ChatGPTComments.xlsx'
+df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
 comments = df['Text'].astype(str)
@@ -38,5 +38,5 @@ def categorize_sentiment(polarity):
 df['sentiment'] = df['sentiment_polarity'].apply(categorize_sentiment)
 
 # Save the DataFrame with sentiment analysis to a new CSV file
-output_file_path = 'textBlob_polarity_neutral_25.csv'
+output_file_path = 'textBlob_polarity_chatgpt.csv'
 df.to_csv(output_file_path, index=False)
