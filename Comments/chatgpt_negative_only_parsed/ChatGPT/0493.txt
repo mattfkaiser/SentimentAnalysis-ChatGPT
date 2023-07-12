@@ -1,0 +1,7 @@
+1. Research why companies are banning the use of ChatGPT due to risks of reveling sensitive data. This is not to be laughed at.
+
+2. Google Microsoft's recent announcement around Office and ChatGPT integration which is what people above are referring to
+
+3. Google OpenAIs plans to launch a business version of ChatGPT that addresses point 1
+
+TLDR: companies should experiment but not use it for anything confidential right now.

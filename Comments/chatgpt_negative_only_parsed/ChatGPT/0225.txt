@@ -1,0 +1,1 @@
+Itâ€™s not possible prompt chatGPT to code a program for you. I work with the Open AI API. He gives no details on the process because itâ€™s bogus. ChatGPT will tell you itself that it cannot code a program for you. It will give you example code all day (like stack overflow) but you still gotta plug all them there objects together right ways.

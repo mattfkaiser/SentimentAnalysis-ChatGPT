@@ -1,0 +1,13 @@
+as someone who's been programming for a long time, this thing was helping me find stuff in the LLVM compiler source code when I was trying to compile Bash to WASM. Although I never got that working because it turns out \`fork()\` is a huge problem in WASM, I got very far and Chat GPT answered incredibly specific and detailed questions.  
+
+
+Then, as other people mentioned, it seemed to get "dumber" and I also made a post about it. But, since then, it seems to have gotten "back to normal".  
+
+
+It's really tough to say if GPT is sometimes dumber, or if *I'm* sometimes dumber. I know that sounds kind of nuts, but if you think about it, it makes sense. The exact way you type something is likely to depend on an incredible number of variables, and even minor changes (according to me, by total speculation mostly) will influence how the model predicts the text.  
+
+
+Think about it this way: if you're angry, and you type a comment online but you're very careful not to come across as angry, sometimes people can still see it, right? So if you type a prompt while you're anxious about something, GPT might be more bias toward using training data that came from people who were anxious about something while they were writing their blog entry, research paper, etc.  
+
+
+There's a lot of speculation in what I just said but it would be incredibly interesting if someone did some proper research on this. It would also be nice if we could somehow have complete transparency about when OpenAI changes the model, because without that this kind of research can't even be conducted.

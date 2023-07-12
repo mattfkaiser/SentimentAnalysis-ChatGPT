@@ -1,0 +1,3 @@
+Absolute bullshit, trust nothing from this CEOs company.
+
+The best coding tool for AI is Github Copilot and it helps for tasks but not architecture, integration and shipping. It *can* speed up the idea/inception/start phase but past that you aren't putting your whole codebase into ChatGPT... ffs. This is tabloid level FOMO conman marketing, near MLM or timeshare level bullshit.

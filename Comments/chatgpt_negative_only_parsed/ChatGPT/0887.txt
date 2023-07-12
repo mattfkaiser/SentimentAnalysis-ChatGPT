@@ -1,0 +1,9 @@
+Fascinating thought experiment! Absolutely non-trivial idea but I have some doubts:
+
+1. The ability to experiment and reason about the results would require a topology completely different from the transformer architectures used in LLMs.
+
+2. Since no system to date can do (1) at a near-human level, supervised learning would be required so that the system doesn't train itself on its own gibberish and diverge into nonsense. In math-speak there is some equivalence here to "assuming what you're trying to prove."
+
+As striking as ChatGPT's performance can be, and despite how well it seems to generalize to new inputs, it is still fundamentally constrained its training data.
+
+Will a neural network ever implicitly learn enough about logical structure to synthesize valid, never-before-seen concepts? It remains to be seen, but I suspect the answer is "yes."

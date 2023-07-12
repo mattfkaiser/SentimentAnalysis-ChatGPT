@@ -1,0 +1,9 @@
+Basically you are absolutely not definitely wrong. You may even be right. We have a few things going on here which make this discussion really difficult.
+
+The definition and understanding of understanding itself.
+
+The saying that any significantly advanced technology is indistinguishable from magic seems to apply here. We ascribe human properties to this probability machine because it is SO GOOD at prediction. 
+
+What we see above though is in my opinion evidence to the contrary. Proponents of the chatgpt understands theory would no doubt say that it understands tree, word, longest; so why then does it struggle with this question? I would argue that its training data is heavily biased to including â€œlongest wordâ€ tokens with 3 or 4 highly probably outcomes â€œantidisastablishmentarianismâ€ the medical condition above etc. The probability of it being asked for the longest tree in its data set is likely much smaller. Furthermore there are many different ways to ask for the longest word using many unique token combinations. Ultimately this means as a predictor when asked this question it can understate the effect of the tree token context to effectively ignore it and produce the output you see above.
+
+Ultimately though this is just conjecture and there is no evidence either way

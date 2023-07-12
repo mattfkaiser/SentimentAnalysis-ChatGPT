@@ -1,0 +1,1 @@
+What sucks is that you cant change plugin once you start the first prompt. Kind of shitty implementation because ChatGPT doesn't understand historical context between different sessions of chats and they don't allow you to change plugins midway.

@@ -1,0 +1,1 @@
+Like the current chatGPT everyone is talking to, it has manual restrictions put on it to not say anything disparaging against any group. But that was added on by the humans very particularly. By default, if you told it to give you a hateful neonazi speech it would type it up no questions asked

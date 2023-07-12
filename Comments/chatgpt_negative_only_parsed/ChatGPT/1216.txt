@@ -1,0 +1,12 @@
+I'm calling bullshit on your prof, because ChatGPT can't remember what I asked it yesterday, much less remember it wrote an essay for  u/Alert_Assumption2237  last week.
+
+If your writing is well structured, free from spelling and grammatical errors, and factually correct, it will likely be deemed AI-written.
+
+I personally think your prof is trying to scare you (he succeeded).
+
+What prompt are you using to get the response that it wrote your essay?
+
+Because when I fed it some text of my own and asked if it wrote it, it said:  
+
+
+> As an AI, I don't create original content independently or store information from one conversation to another. However, I can generate text based on the prompts given to me. So, technically, I could generate a text similar to the one you provided given a similar prompt, but I don't have the ability to remember if I produced this exact text previously.

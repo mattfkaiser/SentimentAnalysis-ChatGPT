@@ -1,0 +1,1 @@
+If we get to a point where ChatGPT makes an error of 0.01% once every billion queries (to be on par with the FDIV bug) in a way that is trivially detectable, I will withdraw my objections.

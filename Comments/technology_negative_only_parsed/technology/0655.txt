@@ -1,0 +1,8 @@
+So one of the stances taken by Deakin University in Australia (disclaimer: I'm a Masters student in AI there) was that ChatGPT, like any other tool or platform, is a valuable industry tool or skill for students who will use it anyway once they graduate.   
+Their stance is that assignments, verification and engagement in unit content needs to change and they need to educate students to use tools like ChatGPT for enriching their learning (including understanding the pitfalls) rather than banning it. The onus is on them to prepare their education content for the future, as they need to be aligned with where industries/workforces are heading towards.   
+
+
+Mind you, we still have no idea what that means, but it is a realistic approach. The university had previously had a lot of problems in units; one would ban using Excel, the other would teach you to use RapidMiner, whilst one would ban using open-books whilst another would give take-home exams. There's an identity crisis that was brewing in academia long before ChatGPT, and all it did was to really drive home the need for revamping how students are evaluated and accredited for their work.   
+
+
+They want to avoid students using it to replace their learning and instead use it among a number of tools to learn better or understand unit content - time will tell how it pans out, but it is much more progressive than hardline bans.

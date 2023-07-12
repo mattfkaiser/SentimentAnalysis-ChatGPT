@@ -1,0 +1,15 @@
+>Gizmodo tested Dr. Gupta, and while it definitely didnâ€™t seem like a revolutionary tech by any stretch of the imagination, it did look like an inevitable ethical and privacy nightmare.
+>
+>Shkreli, who was released from prison last year after spending seven years behind bars for securities fraud, reveleaed his new AI tool on Twitter this week. During a Twitter Spaces event attended by Semafor, he claimed his new large language model was trained on data pulled from the web and online medical journals. The tech powering the AI is reportedly based on a modified version of OpenAIâ€™s wildly popular ChatGPT. Dozens of other companies at this point, including Snap, have already released their own subject or industry-focused AI alternatives powered by ChatGPT. As for the name â€œDr. Gupta,â€ that was reportedly picked because it includes the letters GPT. Yes, itâ€™s dumb, but so are most of the other names for LLMs to this point. 
+>
+>...
+>
+>Since then Shkreli tried to briefly reinvent himself, like many do, as a Crypto Bro by starting Druglike, a company that claims to want to democratize the costs of drug discovery through decentralized computing. Less than a year out of jail, however, Shkreli is already back in regulatorsâ€™ crosshairs with the FTC recently asking a federal judge to hold the Pharma Bro in contempt of court for failing to give them the info they needed to determine if he was indeed breaking back into the medical industry. Old habits, it seems, are hard to break.
+>
+>To put it mildly, there are a lot of potential problems with the Pharma Broâ€™s new AI adventure. For starters, its difficult to see how launching an AI tool giving medical advice and recommending certain drugs wouldnâ€™t violate Shkreliâ€™s drug industry ban. Then thereâ€™s the issue of accuracy. Disclaimer or not, Dr. Gupta could quickly run into some real problems recommending its users false or harmful informaiton. Large language models, including ChatGPT, are well known to â€œhallucinateâ€ or basically make up answers to questions that could have no real basis in fact. Thatâ€™s annoying when you ask it to create a cocktail, but its potentially life threatening if you ask it to tell you about a medical dose. Concerns over Guptaâ€™s medical accuracy didnâ€™t seem to bother Shkreli though.
+>
+>â€œHow do you prevent a physician from doing the same?â€ he said on Twitter.
+>
+>Then thereâ€™s the issue of all that sensitive medical data Dr. Gupta is potentially gobbling up every time a user submits a query. The Health Insurance Portability and Accountability Act (HIPAA) and other regulatory protections place stricter regulations on how companies can use and share health data. Those restrictions could look like land mines Gupta will have to constantly struggle to dance around.
+
+That question of his has got to be one that's done in bad faith. The way you prevent a physician from recommending the wrong treatments is 1) rigorous and ongoing education and training; 2) professional standards and ethics; and 3) massive legal liabilities. His LLM has none of those things.

@@ -1,0 +1,1 @@
+Please be aware that ChatGPT doesn't provide information. It provides strings of words, predicting what word would most likely come next. It is *generative* AI - it's not a search engine. That means it might provide accurate content or it might provide a mashup of stuff that could end being problematic.

@@ -1,0 +1,1 @@
+I asked chatgpt to code some basic math equations but it failed, and refused to correct certain numbers. I asked it for matlab code though, so maybe its more familiar with other languages.

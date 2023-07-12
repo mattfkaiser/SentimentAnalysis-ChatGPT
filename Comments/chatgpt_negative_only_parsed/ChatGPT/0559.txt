@@ -1,0 +1,3 @@
+You obviously don't understand how ChatGPT works. ChatGPT doesn't have an understanding of the topic it's writing about. It is able to pass the bar because it is able to predict what text is the most appropriate output in a given situation (such as answering test questions or writing code to some extent), but it's not able to understand problems in order to solve them.
+
+If you want to see what I mean, ask it to generate a some simple Z80 assembler code to add two 32-bit integers: the code it generates is always wrong.

@@ -1,0 +1,10 @@
+Document everything, email your professor in advance, CC the department chair, and ask how they are going to utilize any variants of chatGPT or the many sites that 'detect if something was written by chatGPT' - Ask them to provide the studies and data showing that the tools they plan on implementing are accurate.  They won't be able to because they are all wildly inaccurate, and this is going to ruin a ridiculous amount of students academic careers because the people in charge of making these decisions don't have a modicum of understanding of the complexities behind these "AI" models like chatgpt or gpt4.
+
+I bet if you asked your professor to explain what a feed forward neural network was they would stare at you blankly. It's one of the many simpler pieces of the puzzle that makes up these tools, but the exact mechanics of how the "learning" occurs isn't even fully understood by professional machine learning or AI experts so universities are going to throw worthless tools at their professors that only hurt students (look how notoriously inaccurate turnitin is, and its still used, or how proctorio discriminates and is widely used, or many other examples).  
+
+
+I feel sorry for current students.  
+
+
+Side note:  
+It's worth noting that while these AI tools are impressive, they are still based on what we teach them. That means that it isn't feasible to replace humans with this tool because you need someone who is able to fact-check chatGPT. I waste time occasionally getting it to give me wrong answers for fun, but imagine if someone was to try use code it generated to fix a glitch and since they don't know better, they just turned off one of the internet backbones to the east coast. You need people who know the answers to the questions chatGPT is asked, although it will be incredibly handy for reducing the "busy-work" workload.

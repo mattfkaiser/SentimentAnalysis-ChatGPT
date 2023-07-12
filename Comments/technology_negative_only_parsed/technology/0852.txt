@@ -1,0 +1,27 @@
+> Sexual harassment is already handled by existing regulations. 
+
+Goalpost moving. We're not debating whether there are other more appropriate means of addressing a problem, we're debating whether a problem exists. I agree that deepfake porn falls under sexual harassment, and the proliferation of photo editing software like Photoshop _did_ lead to new sexual harassment regulation.
+
+> Thinly veiled iterations? I believe you mean entirely original works of art. 
+
+[I do not.](https://arxiv.org/pdf/2301.13188.pdf) Copyright legislation is also a poor fit here, because it's unclear who the responsible party is. Do you sue the creators of Dall-E or similar models? Do you sue the company that used the free digital art instead of paying the artist? It's not copyright violation in the sense of someone selling art of mine without paying me, so if we're going to use copyright regulation to tackle this issue it'll need some clarification.
+
+> I donâ€™t believe anyone has ever owned the rights to data that can be obtained within their creative artwork. 
+
+I agree, and this is one of the problems these tools have highlighted. How should artists be paid if we can now generate art for free? Is this something we want to value as a culture? If we do, what's the solution? Art grants? UBI? This is part of what I was getting at with "government regulation of AI may not be the most appropriate solution to large societal issues."
+
+> Cheating has always been a thing, educators can work with and around these tools. 
+
+Agreed, this isn't a categorically new problem, it's just lowering the barrier to entry. Students could cheat before, but now they can churn out an AI-generated half-decent essay in seconds with ChatGPT that takes time to grade and attempt to identify as cheating. Lowing the barrier to cheating is still a harm of this technology.
+
+> Did [CNET] lie to the public about employing journalists?
+
+Yes, they [listed the articles as written by staff, obscuring when they were written by AI](https://www.washingtonpost.com/media/2023/01/17/cnet-ai-articles-journalism-corrections/) and they trained said AI on articles written by their former journalists.
+
+> Thatâ€™s what peer review is supposed to be for, there are a lot of ways to bullshit research, but you either believe in the review process or you have even bigger issues to deal with. 
+
+As an academic, this is not what peer review is for. Peer review is well-suited to providing constructive feedback in a trusted environment. When I submit a paper, peer reviewers suggest areas I haven't considered, or shortcomings with my approaches. They are likely to catch honest mistakes. The process is exceedingly _poorly_ suited to catching fraud; peer reviewers rarely, if ever, are asked to reproduce the work or the authors, or read to the level of detail of following every citation to make sure the article really exists. This just isn't what peer review does. Yes, this is a larger issue of which ChatGPT is only a small component.
+
+> These arenâ€™t â€œproblems,â€ theyâ€™re attempts to make it seem like AI is introducing new problems, but itâ€™s holes in the existing systems you actually have an issue with.
+
+I agree entirely. I did not mean to imply that AI is solely responsible for these problems, just that it exacerbates existing issues in our society. That doesn't mean that the problems aren't real, or that we should not try to improve the state of the world.

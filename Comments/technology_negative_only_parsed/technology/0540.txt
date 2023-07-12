@@ -1,0 +1,5 @@
+Had it try to make some functions that would solve different geometry problems in LUA, like returning which direction a position is from another position while using a user supplied argument for which angle to consider north.
+
+It worked almost completely but it only calculated from 0,0,0 on the graph. It failed to actually add the argument as part of the math.
+
+I also tried to have it parse a LUA file and print every line that started with "function" to a txt file. I noticed an issue and pointed it out, so it rewrote the code with a fix. It imported a library for parsing LUA files, but the library did not actually support what the wanted it to do. I fed chatgpt the error and it said "oh I'm sorry, that library does not actually exist. Here is another solution." And it then wrote out a new function using a different library, it even had the fix that it previously did... but it still just didn't work. After some debugging, that library also didn't work as it didn't support utf8 characters, which funnily enough the first library did.

@@ -1,0 +1,1 @@
+As someone learning python, chatGPT has been a god send. I can just post my shitty code and say "why doesn't this work" and it will write me a detailed explanation with corrections and suggestions.

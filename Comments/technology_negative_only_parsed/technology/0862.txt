@@ -1,0 +1,1 @@
+Had that experience too with a coworker that laughed at me for googling and reading the docu of a library. Turns out chatgpt just told bullshit about the methods and options available and his code did not work.

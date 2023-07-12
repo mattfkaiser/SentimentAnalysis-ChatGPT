@@ -1,0 +1,15 @@
+Altman and other insiders seem to be very worried.
+
+But at the same time the public model of chatgtp doesnt seem to give much reason to worry.
+
+Which makes it difficult for the public to share these worries other then by blindly believing the experts.
+
+I dont know why Altman and others are so woried. Maybe they have more advanced internal models that do give reason to worry,which would also be a reason to not release these models yet. Maybe such models have already shown very dangerous behaviour in tests.
+
+I am inclined to believe Altman and the other people who warn about existential risk,even without any explanation. But to the public it is not a very convincing case as the public model of chatgpt seems to be anything but dangerous to the level of extinction risk. It would help if AI companies where more open about where we are with the development,and more open about the concrete and explicit risks they might have seen in more advanced internal models and tests.
+
+Its difficult for me to pick a camp,without knowing much about the models and the risk they pose. Based on chatgpt my position would be to go full speed ahead. With regulation only for the applications of ai.
+
+If i could see the risks and have confidence they could be resolved i would be in camp B. And if i would see the risks without confidence it could be resolved in the short term i would be in camp A.
+
+But as said,information to make an educated choice is lacking. I do think we need AI developers to be more open about exactly where we are and what is going on behind the scenes. If not it will be difficult for the public to inform themselves and have an opinion in this discussion about existential risk. A discussion which seems to become more prominent by the day.

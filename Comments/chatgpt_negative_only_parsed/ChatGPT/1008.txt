@@ -1,0 +1,1 @@
+That's the same link I use. In the top center where it says "Model" and "Default (GPT-3.5)" you can click it and open the drop-down to select GPT-4. You might need to pay for ChatGPT+ to see this, I'm not sure

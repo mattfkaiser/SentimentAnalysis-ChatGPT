@@ -1,0 +1,19 @@
+While Chat GPT maybe very good, more specific domain knowledge is important in many areas. It is expensive and difficult currently to train large models. 
+
+Also Chat GPT is just an LLM, more specialized algorithms maybe better suited to different industries. Just go on youtube and people are using Chat GPT for a range of uses which it has no purpose for. 
+
+An example of this is I saw a video about using Chat GPT for a trading bot. The model is not designed for that at all and really does not fit that use case.
+
+There are also other reasons behind this as well, one of them being business related. You cannot train Chat GPT on screening for Breast Cancer for example, I am not saying GPT cannot be engineered to do it, but rather access to the data is restricted by gatekeepers who will build their own tools. 
+
+ 
+
+>Do you need a science Google and a history Google and a music Google?
+
+So to answer this question, in some ways yes. Specialized information may need to be represented or used differently. 
+
+But you have missed something, these branching off of Google is not specialized knowledge they would be search algorithms. There is a difference between search and the compiled responses. For example if I search "how do I get out of a parking ticket", Google returns a bunch of results it gives you a set of information which you can decipher. The weight of the information returned is based on Googles algorithm. 
+
+AI on the other handle takes information and compiles a response. 
+
+The difference is similar to asking the yellow pages for legal advice and asking a lawyer (AI heading towards this) for legal advice. Google is just a fancier yellow pages.

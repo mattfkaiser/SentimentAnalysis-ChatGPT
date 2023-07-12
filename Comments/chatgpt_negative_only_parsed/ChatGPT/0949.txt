@@ -1,0 +1,1 @@
+I never get short with ChatGPT until it starts making entirely fake functions for stuff that I want it to do directly. "GetBySupportedId" THAT IS NOT A REAL FUNCTION ANYWHERE IN MY CODE. GET IT RIGHT YOU CORNER CUTTING BOT

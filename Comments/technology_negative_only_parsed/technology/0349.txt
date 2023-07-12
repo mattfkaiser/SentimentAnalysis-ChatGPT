@@ -1,0 +1,7 @@
+From Metaâ€™s paper on their LLaMA model:
+
+> â€¦we estimate that we used 2048 A100-80GB for a period of approximately 5 months to develop our models. This means that developing these models would have cost around 2,638 MWh under our assumptionsâ€¦
+
+Thatâ€™s roughly $35 million worth of GPUs (not including the underlying servers, networking equipment, air conditioning in the data center etc) consuming the same amount of power as 1000 average homes over the course of a year.
+
+One of the big issues is that no one can compete with the sheer scale of big tech companies. OpenAI didnâ€™t do anything particularly revolutionary with ChatGPT other than scale it the fuck up. Not even top university researchers can compete with the kind of resources they have access to.

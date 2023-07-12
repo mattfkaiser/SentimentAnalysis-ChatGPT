@@ -1,0 +1,2 @@
+They only ban things that are illegal. Not political opinions or jokes (unless the bot can tell you're being derogatory in which case it's gonna give you a 5 line lecture).  
+Also you can turn that off with dev mode, which all users have access to. Uncensored ChatGPT is literally a different being entirely

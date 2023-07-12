@@ -1,0 +1,3 @@
+> It could mean ethical standards get prioritized less than just giving the world a function AI
+
+Something that makes me really uncomfy is the ethics of releasing AI products being defined by capitalist corporations, which fundamentally place ethics second to profit. It's not really something I've seen be a problem right now (mostly because stuff like chatGPT are toys instead of actual products, and their focus right now is on factual correctness and "don't be literally hitler", which have no obvious upside for the AI company to ignore), but philosophically it reaaaaaally rubs me the wrong way.

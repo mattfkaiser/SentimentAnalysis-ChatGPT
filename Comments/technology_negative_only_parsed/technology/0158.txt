@@ -1,0 +1,3 @@
+ChatGPT gives lots of bad answers. Large Language Models do not have information accuracy in mind as their core design principle. The main focus is to give responses that seem like were written by a human. ChatGPT should be considered as reliable as your random redditor in terms of accuracy of answers._x000D_  
+_x000D_  
+There is a reason why Google was so reluctant to relsease their LLM into the wild. But ChatGPT and Microsoft forced their hand.

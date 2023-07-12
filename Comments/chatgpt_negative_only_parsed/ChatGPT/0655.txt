@@ -1,0 +1,1 @@
+i am confused, if Chatgpt has been trained on data from 2020, how could it get realtime information?

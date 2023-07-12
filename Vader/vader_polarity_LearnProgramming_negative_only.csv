@@ -1,0 +1,167 @@
+Comment ID,Score,Author,Created,Text,Subreddit,sentiment_positive,sentiment_neutral,sentiment_negative,sentiment_compound,sentiment
+jlpa9xm,4,brickteeth,5/26/2023 10:13,"Thank you for saying this. I'm currently in school taking Java SW classes and my instructor is not helpful at all and I cannot get support from the school.
+
+So I'm basically paying to read a book read a paper of requirements with no tutorials and no help..... Why am I paying for this if I don't have access to the resource I'm paying for?....The instructor.
+
+I have used chatGPT it's been helpful but it can't do everything which is ok. But I am learning from it.",learnprogramming,0.053,0.852,0.095,-0.1558,Negative
+jlofze5,5,Mel_974,5/26/2023 5:32,"it depends, you need to be extremely precise with what you ask, otherwise when you ask for some code it'll give you something that looks like it should give you what you had in mind, but isn't quite it. Also I've found that sometimes its own compiler does not give you the proper results, compared some code that i executed in Spyder and on Chatgpt and it gave wrong answers.  
+If it is a question about a general process it is excellent, and you should mostly use it to explain a process. However when it comes to code, I wouldn't exactly trust it.",learnprogramming,0.063,0.866,0.071,-0.2271,Negative
+jloidef,3,FukuokaSapporo1,5/26/2023 6:04,"Today I asked chatGPT what sorting algorithm Swift's sorted() function uses.
+
+It said ""Comparison sort, which is a variation of Merge sort"".
+
+Me: ""Not insertion sort?""
+
+ChatGPT: ""Apologies for the confusion. You are correct. The sorting algorithm used in the given code is actually ""Insertion Sort"" rather than Merge Sort.""
+
+Me: ""Not merge sort?""
+
+ChatGPT:  ""Apologies for the confusion. You are right, the sorting algorithm used in the given code is indeed ""Merge Sort"" rather than Insertion Sort.""
+
+Me: ""Not insertion sort?""
+
+ChatGPT: ""Apologies for the confusion caused by my previous responses. Upon reevaluating the code, you are correct, the sorting algorithm used in the given code is ""Insertion Sort"" rather than Merge Sort.""
+
+Snip snap snip snap snip snap",learnprogramming,0,0.942,0.058,-0.7303,Negative
+jlsev51,1,Wo0W,5/27/2023 0:57,"Exactly. Chat GPT atm, is nothing more than a search engine like google but more advanced ofc with linguistic ML n shit",learnprogramming,0.176,0.639,0.184,-0.2983,Negative
+izk10am,3,Qdoit12Super,12/9/2022 12:53,"ChatGPT has the limited capability of ""understanding"" language, so it's not just searching for keywords and their synonyms, this is why you can ask it to perform a list of commands (if you word the list right) or to refactor some code or sentence or to mix something with a given style. Google doesn't have those capabilities as it's just a data index with some fancy search function.",learnprogramming,0.02,0.952,0.029,-0.1531,Negative
+izejzlo,414,Deleted,12/8/2022 10:14,Ask ChatGPT whether you should use it to learn. It will tell you that it is not a good idea and why.,learnprogramming,0,0.893,0.107,-0.3412,Negative
+izg8tt6,2,BebopFlow,12/8/2022 16:51,"I don't know, but I did try to have it solve a relatively simple logic bug in unity and it failed, which makes me think it's not a great tool for bugfixing. Someone who was new to Unity asked this question, and after I helped them troubleshoot it I thought it might be interesting to see if the bot could figure it out. 
+
+The user had set up a simple looping 2D patrol for a character, running in update. If they used Vector2.lerp it stopped at the first patrol point, if it used vector3.lerp it disappeared from the camera during when approaching the second point but continued the loop. It was simple enough, Unity2d still has Z levels and a 3D environment, it just uses an orthographic camera and different collision logic to negate that (usually), the guy had put the 2nd patrol point at a z level behind the camera's clipping plane, so it disappeared when navigating the z level and when constrained to vector2 it was never able to match the position of the 2nd point. When I posed the question to ChatGPT, it simply assumed that since transform.position != patrolPoint[i].transform.position right now, it never moves to the next part of the patrol, as if it was a simple While loop, and ignored the fact that update is...updated.",learnprogramming,0.035,0.858,0.106,-0.944,Negative
+izgtafz,2,jjopm,12/8/2022 19:18,"""you don't know what you don't know"" but with python, if you simply build everything that chatgpt suggests in small chunks, you can see where things break and stress test them to confirm chatgpt's assumptions. Then even is something breaks later because of a bad architectural choice, you can just go back to an earlier step in the build and rebuild with the knowledge of what went wrong (eg wrong data structure).",learnprogramming,0,0.8,0.2,-0.9568,Negative
+izf7f9z,8,SgtChrome,12/8/2022 12:48,"I assume people don't like that you said ""this goes beyond text generation"", but if everything chatGPT does is text generation then everything I do is also just text generation. Or speech generation sometimes.",learnprogramming,0,0.952,0.048,-0.1419,Negative
+izf8jf4,0,Deleted,12/8/2022 12:55,"> I assume people don't like that you said ""this goes beyond text generation"",
+
+Oh, I never look at my up/down votes. 
+
+> but if everything chatGPT does is text-generation
+
+I guess technically  thats all what is does, but I was pointing to the logic it can apply to problems. I never expected that from language models.",learnprogramming,0,0.904,0.096,-0.6255,Negative
+jjvmi5w,10,plastikmissile,5/12/2023 10:35,"I'm not the biggest fan of beginners and students using ChatGPT. The problem is that it sometimes gets things wrong, and as a beginner you would have no idea that it was wrong.",learnprogramming,0,0.674,0.326,-0.9014,Negative
+iz3zbka,1,Kaining,12/6/2022 3:05,">  It's not solving a problem it is generating an output from internal rules to try to generate an answer that would be likely.
+
+That's not that far off from what you do when you learn a skill. You start by reading about something, you ""think"" you understand the subject and you get confronted with practical exercice. To which you will get some wrong. 
+Without a way to check your work, you won't learn, you'll just repeat mistakes and think you know your subject.
+
+You need external input to validate your solution before being sure that what you did was actually solving a problem or not just be confidently wrong about something.
+
+/u/adamToolie 
+>  i donâ€™t think you should use it to learn python though, maybe use it as someone to bounce ideas off of.
+
+That's exactly what i've been doing the last two night. And that's why i pretty much wrote a single line of code yesterday (by myself) and kept trying to see if there wasn't other possible solution i'm unaware off that would be more elegant by bombarding chatGPT with question.
+
+ChatGpt will try stuff with modules, functions and methods i haven't yet encountered yet. It's not teaching per see, it's showing things that exist. Copy pasting will not teach you anything, messing with it and reading about what it shows you will.
+
+It's more of an interactive search engine than teaching tool. What makes it a ""good"" tool in my book is that the proper documentation for python do exist and you can easily crosscheck it. Then, you can have it generate examples, lots of them and test them on your own to see how things work.
+
+For example, it's the difference between a tutorial online about how to set up a local network, following it and having it either work or fail and bloody knowing about how local network do work and how to manipulate them. A google search will give you the former, messing",learnprogramming,0.066,0.86,0.073,-0.3436,Negative
+iz40htm,2,Deleted,12/6/2022 3:22,">That's not that far off from what you do when you learn a skill.
+
+But it's not the goal of the neural network. There is much scientific work being done on this problem. You seem interested in machine learning so you will probably learn more about it as you study. 
+
+Ask ChatGPT whether you should use it to learn programming. You won't like it's answer though.",learnprogramming,0.049,0.856,0.095,-0.511,Negative
+j08ffjw,12,painuVittun,12/14/2022 15:36,I wish chatGPT was around when i was a beginner. You can ask the most dumbest questions possible and the AI will never judge you.,learnprogramming,0.103,0.761,0.137,-0.2247,Negative
+jnhfnp4,2,sassycatslaps,6/8/2023 23:14,My instructor showed me chatGPT earlier this week. At first I was really impressed and wanted to test itâ€™s abilities with some simple cshtml I wrote. It got so much wrong that it was basically unusable for anything other than having it explain what a code snippet or block does if u donâ€™t want to bother googling it.,learnprogramming,0.106,0.757,0.137,-0.4562,Negative
+jnjz5j5,2,Helpful-Strategy7235,6/9/2023 13:24,"chat gpt is bullshit. i had to make an assignement in Assembly Risc V and chat gpt could not even handle hexadecimal to binary conversions properly, i ended up having to properly teach chat gpt assembly theory in 32 byte registers before making any question so that i know that he will make the logical answer based on the info that i gave it. it cost me alot of time i must say",learnprogramming,0,0.946,0.054,-0.5859,Negative
+jngt1vz,2,7th_Spectrum,6/8/2023 20:03,"ChatGPT in particular is no more than a conversational AI. The only reason it's trained on so many topics is so that it can uphold conversations, no matter the subject. It's abysmal at consistency on more abstract concepts, and will often change its answer just because you say it's wrong. It has a host of limitations, and honestly I wouldn't trust it with anything more that writing emails. I've even gone back to Stackoverflow to find my answers.",learnprogramming,0.049,0.828,0.122,-0.7271,Negative
+jdvmvrg,5,EducationalMixture82,3/27/2023 11:09,"So let me get this correct. You are blaming someone else for you and i quote:  
+*""I (and many of the students in this particular course) have fallen behind and am struggling to catch up with the coursework""*  
+Java has been around since the beginning of the 1990's. The basic concept of the language has in principal not changed. A program written in Java 1 can be run on a Java 19 runtime.  
+What I'm saying by this is that there are literally MILLIONS of locations that will provide you with basic java training information, as in Youtube, books, stack overflow, tutorials etc. etc.  
+One teacher that didn't fit your particular needs, does not mean everyone is terrible. Also if you don't like his/her teaching style, then tbh you might need to put in additional work outside.  
+
+
+Every teacher can impossibly fit each students needs, what you are asking for is an impossibility. I suggest you accept the fact that this particular teacher does not suit your teaching needs and you'll have to accept the fact that you need to compensate outside of class and put additional work in. Because the lack of java teaching material out there is not the cause.  
+
+
+And tbh. asking ChatGPT is just plain out lazy.",learnprogramming,0.023,0.875,0.102,-0.9385,Negative
+jdw7yro,-3,Outrageous_Neat_6232,3/27/2023 13:25,"I don't see how ChatGPT is lazy when I quoted the type of question I request from it. I'm aware it isn't 100% accurate, however I use it to explain a concept in the bigger picture with real world examples that i'm experienced in (food for example). Here's an example of what it gave me for loops (which we covered one example problem in class and moved on)
+
+""Loops and do-while loops serve similar purposes, but they have different structures and execution flows. Let's illustrate the difference between a loop (using a for loop as an example) and a do-while loop in the context of food:  
+Imagine you have a bowl of fruits, and you want to eat one fruit at a time until there are no fruits left in the bowl. Here's how you could represent this using a for loop and a do-while loop in pseudocode:  
+For loop:  
+bowl\_of\_fruits = 5  
+for (count = 1; count <= bowl\_of\_fruits; count++) {  
+eat\_fruit()  
+}
+
+  
+Do-while loop:  
+bowl\_of\_fruits = 5  
+do {  
+eat\_fruit()  
+bowl\_of\_fruits = bowl\_of\_fruits - 1  
+} while (bowl\_of\_fruits > 0)
+
+  
+In both cases, you're eating one fruit at a time until there are no fruits left in the bowl. However, the for loop uses a loop control variable (in this case, count) to iterate through the loop a specific number of times (equal to the number of fruits in the bowl). The loop condition is checked at the beginning, and if it's false, the loop won't execute even once.  
+In contrast, the do-while loop executes the loop body at least once, regardless of the loop condition, because the condition is checked after the loop body has been executed. In this example, you'll eat a fruit first and then check if there are any fruits left in the bowl. If there are, you'll continue eating fruits until the bowl is empty.""
+
+&#x200B;
+
+Obviously, I do not expect the professor to be that descriptive in an introductory lecture, but it's similar to how a lot of my other courses, like calc 2, physics, econ, etc. It's just my biggest gripe with it is the fact that My family has to spend thousands of dollars for a course when I could maybe get a degree in econ or something, and learn code all on my own with a minor, youtube, and online resources. Lot's of people in the other replies have given me useful advice and I will adhere to it and try to see if those work. The whole concept of university is just odd right now.",learnprogramming,0.028,0.942,0.03,-0.1779,Negative
+jes9sik,1,Th3V0id,4/3/2023 9:42,"This isnâ€™t something that can be answered. Itâ€™s up to you how long it takes - everyone learns differently. 
+
+Also, donâ€™t use ChatGPT to learn to code. In my experience asking it C# questions, it gets far more wrong than it gets right.",learnprogramming,0,0.924,0.076,-0.5256,Negative
+jmhbwe0,10,H0wdyCowPerson,6/1/2023 10:35,"I haven't seen anything from ChatGPT or other AI tools that makes me worried. It misses more than it hits and it can't create anything new, or anything with a modicum of complexity. I'll start worrying when it has replaced a single developer, which as far as I'm aware it hasn't done yet.",learnprogramming,0,0.847,0.153,-0.7441,Negative
+j5rjsr8,25,hazzafive,1/24/2023 20:37,And neither does chat GPT? It's a good example because they are both tools that are extremely powerful and were both initially feared. I don't see how this is a bad example,learnprogramming,0.159,0.663,0.178,-0.1796,Negative
+j5q3xd4,5,Cybasura,1/24/2023 14:58,"Might want to read up and understand on the fundamentals first to get a grasp of things
+
+The basic understanding is as such: ChatGPT and OpenAI, AI as  a whole are not fool proof and requires data and training set to operate
+
+Know what they are made by? Humans
+
+Know who provides the training set or data? Humans
+
+The human touch will be necessary when it comes to programming and development, that is the case generally, especially when for Quality Assurance
+
+
+Next, why the hell would that stop you and demotivate you if this is really what you want to do, that makes zero sense",learnprogramming,0.07,0.869,0.061,-0.4125,Negative
+j5qbbyl,5,AngelOfLight,1/24/2023 15:43,"ChatGPT is to programming what calculators are to mathematics - a way to make things easier, but in no way a replacement. That day may come, but it's still a long way off.",learnprogramming,0.06,0.852,0.088,-0.2263,Negative
+j5z2031,1,YacineLim,1/26/2023 10:45,"It is Google who should worry about ChatGPT not you, continue your learning don't give up, and to not feel stagnated you have to realize some projects.",learnprogramming,0,0.9,0.1,-0.4404,Negative
+jes2p5t,5,CompromisedCEO,4/3/2023 8:43,"Human programmers are still being employed.
+
+There's alot of clickbait crap being spread around stating that AI will replace everyone but it hasn't. Every few years you see the same story repeating.
+
+The results generated by ChatGPT aren't as reliable as you might think. People lie and spread misinformation for clicks and views.",learnprogramming,0,0.915,0.085,-0.5789,Negative
+jesk3fr,2,mandzeete,4/3/2023 10:58,"First things first. Forget that ChatGPT exists. Really. Just forget it. If you want to know, why, then you can search from this sub from all the 10000000000 AI and ChatGTP posts that keep asked over and over again.
+
+If you are worried about the dangers of the Internet then just read and learn about cyber security and web application security (OWASP). Like that you will know what actually is possible and what is just a paranoia. If you are worried about getting hacked then read/learn about cyber hygiene and also about OSINT (use OSINT on yourself). Because if you are not aware of what is possible and what is not then you can imagine all kind of weirdness. That I will hack you over your Reddit comment and what not.
+
+Drive-by downloads in general do nothing. They do not get executed by themself. Either you have to click on them physically or your browser has to execute them by itself (which it does not do, except with cookies and cookies will not have such negative impact on your system).
+
+Like really, don't overthink but just educate yourself on stuff. Fear caused by ignorance can just make things worse. But when you are aware of how stuff works then there will be less ignorance and also less fear.
+
+Forget hacking servers. Unless you want problems with police and such. If anything then ONLY try stuff with your own things: your own router, your own web application you host from your own PC/laptop, your own web server running inside your own PC/laptop.
+
+Most likely you are still in a high school. Better concentrate on finishing that. No point to push yourself and burn out and then fail both your high school and probably will not be accepted to a programming related job either.
+
+Why are you opposing a college? Because of the fees/loans? There exist student loans. You'll pay it back in some years when you get hired as a Junior developer. I mean, if you can then definitely go for a college degree. Many times better than learning on your own, aimlessly. Right now quite a different things that you are having problems with, it would be solved by college courses. They teach programming, cyber security, AI, cryptography (more like during Master studies, though), Linux administration and many other things.
+
+Take your time off and rest. Where are you rushing to? I started my college studies when I was 28. Sure, I could start earlier but because of BURNOUT I decided to postpone my college studies and do all the other stuff during these years. Kind of a wasted time, a bit. These years between finishing my high school studies and between starting my college studies. But all because of a BURNOUT. If I would take things easy, not rush, not go over my own limits, I would graduate high school with normal health and most likely would start my college studies also earlier. No point to drive yourself insane.",learnprogramming,0.07,0.808,0.121,-0.9797,Negative
+j8ofrn1,1,Deleted,2/15/2023 15:20,"What do you plan on doing when ChatGPT gives you a broken algorithm? Even if you were able to notice the error, say chat gpt couldnt fix it. What now?",learnprogramming,0,0.814,0.186,-0.7319,Negative
+j8lvl6g,2,FloydATC,2/15/2023 1:59,"ChatGPT doesn't understand simple logic; it doesn't know how to solve problems because it doesn't understand them. All it does is process existing knowledge and present it in a natural-sounding way. Like a newsreader on TV it has absolutely no idea what it's talking about.
+
+Don't take my word or anyone elses though. Try it yourself. Present a simple problem so obvious that no existing research answers it directly. Like how much cheese you would need to stop a bullet fired from a handgun. No amount of logical reasoning would make it understand that a gun with an effective range of 50 meters can not penetrate a 5km block of cheese.",learnprogramming,0.099,0.733,0.168,-0.8166,Negative
+j8k4tfx,1,No_Application_2380,2/14/2023 17:06,"Go ahead and run your financial life exclusively through ChatGPT. Since you don't understand the ChatGPT-generated algos you're plugging into client code, it's only fair that you not exert any control over ChatGPT's decisions about your money other than issuing commands directly to ChatGPT.
+
+Are you going to risk your own money in such a scheme? Do you think it'd be wise to risk your client's/employer's money?
+
+> I imagine this question will meet with a fair amount of pushback
+
+You could search. This question has been widely discussed on this sub.
+
+No one knows where this is all going. We still don't have self-driving cars. We still need translators when things *have* to be right. Maybe there will be some breakthrough in AGI, but at that point, all white collar work is going to change, not just those related to programming. 
+
+Who knows? Why bother worrying?",learnprogramming,0.035,0.887,0.078,-0.7587,Negative
+j8kghj2,-1,ProfessionalBus5320,2/14/2023 18:28,">Go ahead and run your financial life exclusively through ChatGPT.
+
+Hey, there's no need to straw-man the argument. Thank you.",learnprogramming,0.103,0.702,0.194,-0.296,Negative
+j0du66n,1,xlopxone,12/15/2022 17:38,"No shit, tried it just now, chatgpt â€œImprove this code<your code>â€ . This tested for html though. I tried with java inheritance, its just go offline.",learnprogramming,0,0.742,0.258,-0.743,Negative
+j7i10au,3,Cuckipede,2/6/2023 17:59,Throwing your code base into chat GPT as a contractor especially is an awful idea,learnprogramming,0,0.799,0.201,-0.5046,Negative
+j39fvpd,12,totoro27,1/6/2023 18:14,This isn't a good way of classifying the computations done by ChatGPT vs a brain because you would have the same result with a person if you locked them in a room for 6 months without access to new media.,learnmachinelearning,0,0.934,0.066,-0.3412,Negative
+jk6kf9c,1,Ol_OLUs22,5/14/2023 20:30,"True, but the person knows he was locked in, ChatGPT doesn't know that any time has passed at all. It is just stuck in 2021.",learnmachinelearning,0.069,0.839,0.091,-0.1531,Negative
+j194tez,3,addictedposter,12/22/2022 11:11,"Agreed. So basically fake reviews, generated articles are going to fill the internet now unless people know how to do prompts and techniques inside of ChatGPT and make unique content out of it. I bet there will be a ChatGPT content detector and rankings will depend on how the content looks user generated or bot generated. Time will tell I guess.",learnmachinelearning,0.034,0.911,0.055,-0.3134,Negative
+j19g2gr,2,SteinyBoy,12/22/2022 12:24,OpenAi engineer already spun out a company for this a while back. Copy smith. Easier to use dedicated version and UI for it. Youâ€™re probably right you could just use chatgpt but itâ€™s not staying free forever,learnmachinelearning,0.099,0.811,0.09,-0.1663,Negative
+j9cxwq7,3,Grubzer,2/20/2023 19:26,"I would... ask someone on r/theydidthemath or similar. ChatGPT can be *very* confident while being wrong. Ask it the classic riddle: ""Alices parents have five children: Bob, Anna, Charles, and Jimmy. What is the name of the fifth child? "" and last time i checked, it got it wrong, and i had to pursue it quite a lot for it to accept the answer",learnmachinelearning,0.087,0.821,0.093,-0.1027,Negative

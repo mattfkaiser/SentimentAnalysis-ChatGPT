@@ -1,0 +1,3 @@
+Itâ€™s not marketed as a reliable source thoughâ€¦ their docs are very explicit about its reliability being limited to a language model (and not a source of factual or unbiased information)
+
+https://help.openai.com/en/articles/6783457-what-is-chatgpt#

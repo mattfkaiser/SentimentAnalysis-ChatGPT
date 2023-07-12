@@ -1,0 +1,3 @@
+ChatGPT has no long-term memory, so it has absolutely no way to know whether it wrote an article.
+
+It doesn't even remember what was said in a single conversation if it goes beyond 8000 words.  Tell your professor to go talk to the CS department.

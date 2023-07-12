@@ -1,0 +1,1 @@
+This is according to ChatGPT itself. I think it just fakes it for the others, using data extrapolated on the ones that it was trained using.

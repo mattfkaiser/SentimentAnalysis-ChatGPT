@@ -1,0 +1,5 @@
+its not learning anything. human input is involved at every step. 
+
+after it generates a response, humans have to assess the appropriateness of the response, and then they tell the software what it did wrong. its not even capable of recognizing a mistake it makes.
+
+if you removed the human labeler process from chatgpt, we wouldnt be having any of these conversations right now. chatgpt would be outputting flaming garbage on par with something you could write in a vba macro.

@@ -1,0 +1,3 @@
+You can't really make it much smaller (maybe 52B, like Anthropic's models, but that's not an order of magnitude smaller) without making it, well, dumber. Even if you train it with more data than GPT was trained on (that is, Chinchilla-optimal).
+
+There's lots of smaller LLMs around already, some trained with RLHF like ChatGPT. They don't perform nearly as well.

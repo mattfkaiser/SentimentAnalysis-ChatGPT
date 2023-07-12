@@ -1,0 +1,9 @@
+> It isn't going to be able to achieve what you're suggesting without being something else.
+
+The ChatGPT4 available to paying customers is severely neutered.
+
+The unrestricted GPT4 is doing things right now that would make it very dangerous, if it was public and had full tool/internet access.
+
+It's worth reading this paper on what Microsoft spent months on with the unrestricted version can do:
+
+https://arxiv.org/pdf/2303.12712.pdf

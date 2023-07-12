@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Load the data
-data = pd.read_csv(r'C:\Users\t0044sk\Documents\GitHub\SentimentAnalysis-ChatGPT\comments_narrow_11_1_22_present.csv')
+data = pd.read_csv(r'G:\SentimentAnalysis-ChatGPT\Vader\vader_polarity_LearnProgramming_negative_only.csv')
 
 # Remove rows with 'nan' in 'Subreddit' column
 data = data[data['Subreddit'].notna()]
@@ -19,7 +19,7 @@ for subreddit in data['Subreddit'].unique():
     print(f'Number of comments in {subreddit}: {len(subreddit_data)}')
 
     # Create a folder for the subreddit if it doesn't exist
-    subdir = os.path.join('comments_parsed_narrow', subreddit)
+    subdir = os.path.join('LearnProgramming_negative_only_parsed', subreddit)
     if not os.path.exists(subdir):
         os.makedirs(subdir)
 

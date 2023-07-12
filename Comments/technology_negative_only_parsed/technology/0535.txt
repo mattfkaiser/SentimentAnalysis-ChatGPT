@@ -1,0 +1,3 @@
+> I suspect that chatGPT knows which users have the wherewithal to notice mistakes, after which it floods us with tons of incorrect data in an effort to "train" itself off of our reactions.
+
+it's not they just made it dumber, old chats are probably still running the earlier context

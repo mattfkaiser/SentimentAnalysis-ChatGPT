@@ -1,0 +1,3 @@
+So let's say you have an antiplagiarism tool that guarantees to detect chatGPT output.
+
+What's stopping a student from asking for a paper and simply paraphrasing the whole thing?

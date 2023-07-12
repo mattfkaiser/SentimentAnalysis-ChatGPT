@@ -1,0 +1,9 @@
+I suggested that ChatGPT 4 randomly roll 5 die
+
+CHGPT: 3,6,2,5,1
+
+I then ask it to give me 25 random numbers under 7
+
+First 5 results: 1,3,5,2,6       
+
+Hmmmmmm

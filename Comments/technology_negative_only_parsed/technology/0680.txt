@@ -1,0 +1,7 @@
+The biggest problem I've observed is, it works until it doesn't.
+
+I asked it to help with some complex powershell scripting, and it effectively invented new non-existent commandlets that *looked* correct because they followed the same structure.
+
+I.e., get-csteamscallingpolicy is a real command, it it created something like Get-CsTeamsMembershipPolicy out of thin air because it understood at some level how the commands are *supposed* to look, without being able to verify they're actually functional.
+
+It's very hit or miss depending on the context. If anything, it highlights that you should absolutely not blindly trust ChatGPT. If you don't know enough about what you're asking to be able to identify when it's wrong, you're going to hurt yourself in the long run.

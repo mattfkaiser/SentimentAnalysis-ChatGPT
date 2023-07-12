@@ -1,0 +1,13 @@
+Oh sometimes it'll lie about that too.
+
+For example, in earlier days, someone tried to get it to respond in [some European language I forget the name of]*. It said it couldn't.
+
+The person then asked it to respond in [that same language], but this time the prompt was also written in [that same language]*.
+
+The response, again, was that it didn't know [that same language]*.
+
+But this time it was *written* [that same language]*.
+
+ChatGPT is autocomplete. The part where it seems to "know" things is an illusion.
+
+* I originally wrote "Belgian" which was foolish of me since there is no such language by that name.  I can't find the article at the moment, so the ugly brackets will have to do.

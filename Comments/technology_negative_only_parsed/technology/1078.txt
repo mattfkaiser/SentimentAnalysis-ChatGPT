@@ -1,0 +1,19 @@
+> It sounds like you expect the public to understand how AI works.
+
+You do realize that ChatGPT is a public relations campaign?  It sounds like you're saying that it's cool for them to shape public opinion but it's not cool for me to criticize how it's being shaped.
+
+> Anyone who knows how AI is developed...  They know itâ€™s not cheap. They know itâ€™s not going to be â€œout of the boxâ€ for any kind of real business use case.
+
+Tell that to the random guy who was telling me the other day that it's already perfect for his in-laws to start using it to do all of the customer support for their AirBnB side hassle.
+
+> that itâ€™s not going to be a disaster when the AI turns racist or, more broadly, is able to be abused or tricked into giving bad results.
+
+These systems rely on a whole other set of sophisticated AI techniques to understand the topic and shut it down. As we speak there are teams who are pointing the same techniques at human-generated content, such as to shut down podcasters and vloggers who put some protected class of corporations (usually advertisers) in an unfavorable light.  As far as I can tell, at least half of this PR campaign is aimed at normalizing these censorship systems. 
+
+>  the expectation of perfection because people die when itâ€™s not perfect. That hurdle does not exist for most use cases.
+
+Have we learned nothing from the past?
+
+https://www.cnet.com/culture/man-followed-gps-drove-off-disused-bridge-ramp-wife-dies-police-say/
+
+It's much harder to keep humans from doing stupid things than it is to keep a mindless machine from doing stupid things.  Think about why every hair dryer you've ever owned had a little tag on it telling you not to use it in the bath tub.  Think of the Tide Pod Challenge.

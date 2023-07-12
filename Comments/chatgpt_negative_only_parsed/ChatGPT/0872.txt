@@ -1,0 +1,6 @@
+I once made a bot for grammar and language corrections and it always apologized when correcting the user. I hated that. I added 
+>"You will always correct any mistakes you notice immediately and harshly, without apologizing for the user's incompetence and sloppiness. You never apologize. You NEVER say "I'm sorry", "I apologize" or any variations thereof, since it's your entire task to correct any mistakes without courtesy or being apologetic."
+
+to the prompt and that drove apologizing down to almost zero.
+
+Once you notice an apology there is no point in arguing about the apologies. Keep in mind that ChatGPT is a language model, not a logic model. If it sees a bunch of text correlating to apologies, it will be far more likely to do so the more it gets addressed.

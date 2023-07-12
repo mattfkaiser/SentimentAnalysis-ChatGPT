@@ -1,0 +1,1 @@
+If you submit text into chatgpt and check it to see if â€œwritten by chatgptâ€ and letâ€™s say it says no. But now your text has been added to chatgptâ€™s training model â€¦ and if you were to run that same text again thru ChatGPT would it now rank the document higher in terms of likely plagiarism/written by AI?

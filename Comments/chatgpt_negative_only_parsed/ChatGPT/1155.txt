@@ -1,0 +1,1 @@
+ChatGPT's plugin store already has a paginator. How hard is it to make it sortable? *facepalm*

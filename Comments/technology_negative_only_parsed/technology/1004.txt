@@ -1,0 +1,11 @@
+>despite warnings it shouldnâ€™t be relied on for â€˜anything importantâ€™
+
+Warnings from who?  
+
+What does "relied on" mean?
+
+What is important?
+
+I highly doubt ChatGPT has done much other than maybe slow down hiring because existing staff are able to do more with less resources.  The only huge complications with using ChatGPT at this point is that the terms of service are a privacy/security nightmare and letting your staff use it is arming them with a massive footgun because you know SOMEBODY is going to feed their AWS keys into ChatGPT.  It's also so new that it's hard to know if ChatGPT won't jack it's prices up to $200/user in the next couple of months and block its usage in whatever country you happen to reside in.
+
+As its competition becomes better established and we see services with more corporate friendly terms of service (have it hosted on a server you own and control so you can't get fucked, keep any data you feed into ChatGPT in house, comply with all sorts of boring legal regulatory requirements) there's going to be essentially no reason to hesitate to use it at all and I would say the current concerns aren't really sufficient for *most* businesses to not immediately adopt ChatGPT today even for "important" work.

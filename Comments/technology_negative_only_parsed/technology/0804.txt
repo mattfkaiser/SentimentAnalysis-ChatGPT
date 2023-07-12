@@ -1,0 +1,21 @@
+Excerpt from the linked content^1 by Jessica Lyons Hardcastle:
+
+>OpenAI CEO Sam Altman feels "awful" about ChatGPT leaking some users' chat histories on Monday, and blamed an open source library bug for the snafu.
+
+>In a couple of tweets, Altman admitted the flaw, which allowed some users to see snippets of others' conversations â€” not the full contents, but recent titles â€“ with the question-and-response bot.
+
+>OpenAI has emitted its technical postmortem report into the bug, which we're told was within an open-source Redis client library called redis-py. It may indeed be this this programming error.
+
+>Essentially, OpenAI uses Redis to cache user data. The biz made a change to its systems at 0100 PT, March 20, that caused a spike in activity that led to the cache coughing up the wrong information, via this client library fault. 
+
+>The data leak persisted from that time to 1000 PT that day.
+
+>&nbsp;
+
+>It turns out more than just snippets of chat titles were leaked via this bug; some bits of people's subscription payment details were also exposed to others as well as possibly their opening messages with the chatbot.
+
+>That payment info was leaked via subscription confirmation emails going to the wrong people on March 20, or by users looking at their subscription payment details on the ChatGPT website and seeing a stranger's records during the time the bug was active. 
+
+>We've also heard that users were able to see others' names and email addresses on their own pages.
+
+^1 Jessica Lyons Hardcastle for The Register/Situation Publishing, 23 Mar. 2023, https://www.theregister.com/2023/03/23/openai_ceo_leak

@@ -1,0 +1,1 @@
+There is nothing special about `endoftext` â€” it seems like `<|...|>` are comments ignored by ChatGPT. For example, it also completely ignores `<|helloworld|>`. Although you can only have letters in there â€” spaces or special characters break this invisibility (most likely because comments can only be one token long)

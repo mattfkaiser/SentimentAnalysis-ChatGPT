@@ -1,0 +1,3 @@
+I'm confused about what data, specifically, it's referring to.
+
+It should come as absolutely no surprise to anyone that any information you enter into ChatGPT will be used to train the next version of ChatGPT. That is what you pay in exchange for using the service for free. It also specifically tells you not to ask it something that could violate your or anyone else's privacy, and most things you ask it that could violate your or anyone else's privacy will immediately return a banned answer notification.

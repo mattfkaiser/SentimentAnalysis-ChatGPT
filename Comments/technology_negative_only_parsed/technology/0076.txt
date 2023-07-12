@@ -1,0 +1,5 @@
+>The way I would approach this with ChatGPT is to provide the stocks and relevant fundamental/technical data to the model so it doesnâ€™t have to use itâ€™s outdated info from 2021 and by giving it info to work with you avoid hallucination.
+
+Yes, if you control what nouns it can put in the MadLib it does sound less like nonsense, but the fact you need to do that just means it has no capability for analysis. If it did it could check it's own work to see something as fundamental as "this company doesn't actually exists". 
+
+Again, it is a language model. It is fundamentally incapable of analysis and providing you with something that on the surface appears like what a real human would say based on training data.

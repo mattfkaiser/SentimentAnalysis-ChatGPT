@@ -1,0 +1,3 @@
+Yup.  If you ask it about a slightly more obscure topic that you know a lot about, its current limitations become very apparent.  
+
+I'm concerned that ai "knowledge" proliferation is quickly going to inundate online space with massive amounts of half-truths and misinformation.  The fact is when the software behind chatgpt or a similar service gets into the wrong hands there will be nothing stopping bot companies from swarming the internet with millions of bots that appear smarter and more cognizant than the average real internet user.

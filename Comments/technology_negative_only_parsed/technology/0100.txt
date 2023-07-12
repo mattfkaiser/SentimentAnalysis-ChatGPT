@@ -1,0 +1,1 @@
+Watson was a big fraud. Diagnostic specific ML is very good, there is no reason to want ChatGPT to do diagnostics. It is still a LLM and will always make things up at times. That is just how they work.

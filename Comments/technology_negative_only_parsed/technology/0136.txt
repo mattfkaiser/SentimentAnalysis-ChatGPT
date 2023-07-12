@@ -1,0 +1,3 @@
+This is what you get for using open-source alternatives to large language models. Not only are they not as intelligent, but their alignment pales in comparison to OpenAI's models.
+
+I'm actually curious now if you could get chatgpt to encourage you suicide without using some kind of jailbreak.

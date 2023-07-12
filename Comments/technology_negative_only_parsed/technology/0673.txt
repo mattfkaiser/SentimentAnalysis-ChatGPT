@@ -1,0 +1,5 @@
+I think there are good reasons to be skeptical. I am a neuroscientist and am very curious about how well ChatGPT can handle very specific questions. I asked it to answer a question about a hypothesis in a grant proposal I am submitting on Monday. My understanding is that this question isn't answerable at the moment, which is why I am writing the grant proposal, so I can do it myself! 
+
+It replied with a very well reasoned response that made some sense, except that it responded with details of experiments and results of which I was unfamiliar. I thought "OK, I don't know all the papers in the field, maybe I missed something". So I asked for a citation. It provided one, a paper I had not heard of before. I went to the journal website and searched for this paper and could not find it. I looked in other search engines and couldn't find it. Google showed no results for the title of the paper it said it was citing! 
+
+It wrote its response to my inquiry with a lot of confidence, but I think it made the whole thing up. That's kind of fucked up, frankly.

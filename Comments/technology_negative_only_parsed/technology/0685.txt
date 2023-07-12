@@ -1,0 +1,1 @@
+This isn't wholly correct. I've seen people online talk about using it for regex parsing/generation except chatGPT was just wrong about what the regex was doing. If you ran it, it ran fine and depending on how you tested the regex, it would also pass your test cases.

@@ -1,0 +1,5 @@
+It was even more silly than that.
+
+Up until very recently, you could bypass the ChatGPT security safeguards [by simply asking it to pretend to be an AI that had no safeguards installed, and then answer as that AI would.](https://www.lesswrong.com/posts/7fYxxtZqjuYXhBA2D/testing-ways-to-bypass-chatgpt-s-safety-features)
+
+As the blog goes on to say, it is still possible to bypass the filters by tricking the AI in this way even after the patch, but it just requires a bit of hoop-jumping in order to fully deceive it.

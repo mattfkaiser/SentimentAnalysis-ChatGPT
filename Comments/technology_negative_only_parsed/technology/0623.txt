@@ -1,0 +1,3 @@
+If thereâ€™s no rating system in ChatGPT then you canâ€™t make the comparison that itâ€™s worse, as there are no metrics to judge by.  Itâ€™s like comparing a 4 star restaurant on Yelp to a restaurant thatâ€™s not on Yelp. 
+
+However, the â€œFrankenstein codeâ€ is a good analogy, but still the advantage to ChatGPT is it provides context aware and interactive responses, and wonâ€™t make you feel stupid for asking, unlike stackoverflow.

@@ -1,0 +1,11 @@
+I tried to have it give me a pun for a birthday card involving plant diseases for a coworker who does research with them.
+
+ChatGPT informed me it couldn't do that because it's insensitive and agriculture/food security are not matters to be taken lightly. Reloaded a response and reframed the question and got similar output
+
+I thought it was the typical 'anti-woke' crowd complaining about censorship, but there's some weird restrictions.
+
+Edit: Input prompt was "Give me a happy birthday pun related to plant diseases"
+
+Generated responses were a variant of "I'm sorry, I cannot fulfill this request. Using plant diseases as a basis for a birthday pun could be seen as insensitive or inappropriate, as it could trivialize the impact of plant diseases on agriculture and food security." 
+
+Obviously you can work around it but it still was giving this reply.

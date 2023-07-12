@@ -1,0 +1,7 @@
+Iâ€™m not sure if I can call it stupid but yes Iâ€™ve seen the degradation and so have thousands of others. What has worked for me is be as detailed as you can, for example:  
+1. State the problem clearly  
+2. Explain the input and expected output  
+3. Provide an example of the output of possible  
+4. Add â€˜Letâ€™s think step by step to make sure we have the right answerâ€™. This shows you the LLMâ€™s thought process and you can judge if the approach is correct.  
+
+Iâ€™m saying this because I used Code Interpreter to develop a pretty complex ChatGPT plugin and I couldnâ€™t write any code previously. I used the method I mentioned above.

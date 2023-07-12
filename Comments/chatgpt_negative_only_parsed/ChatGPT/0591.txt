@@ -1,0 +1,12 @@
+Nah, they most certainly aren't adjusting the model based on user feedback and users correcting it. That's how you get Tay and it would spiral down towards an extremist chatbot.
+
+It's just like social media, follow a sports account, suggestions include more sports, watch that content for a bit and soon you see nothing other than sports content even if you unfollow them all.
+
+People tend to have an opinion on matters with a lot of gray area. GPT doesn't understand such thing and would follow the masses. For example, the sky is perceived as blue, nobody is gonna tell GPT it is because it knows. But if a group would say it's actually green then there's no other data disputing it from human feedback.
+
+GPT has multiple probable answers to input, the feedback option is mainly used to determine which answer is better and more suitable. It doesn't make ChatGPT learn new information but it does influence which response it would show both based on its training data.
+
+Simple example (kinda dumb but can't think of anything else):
+What borders Georgia?
+
+GPT could have two responses for this, the state Georgia and for the country Georgia. If the state is by default the more likely one but human feedback thumbs it down, generates a new response thumbs up the country response then it'll, over time, use the country one as most logical response in this context.

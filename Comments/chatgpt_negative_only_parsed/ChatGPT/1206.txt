@@ -1,0 +1,5 @@
+Go further. What indicators or metrics is it basing that conclusion on? How did your professor prompt it? Are the results reproducable?
+
+Also point out to your professor that ChatGPT literally says it can give false statements. If ChatGPT is his only evidence, he doesn't have a strong case. It's no different than asking a colleague if they think the student cheated. In my opinion, your professor should not be using ChatGPT as evidence a student cheated. Instead, it should be used to bolster other evidence against the student.
+
+Here's an example of how ChatGPT can be wrong. I tried using it to find me sources for my thesis topic. It gave me a works cited with several sources, but when I went looking for those sources, they didn't exist. ChatGPT just made up what I wanted to hear. It's likely doing the same for your professor.

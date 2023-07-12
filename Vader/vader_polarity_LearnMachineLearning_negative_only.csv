@@ -1,0 +1,172 @@
+Comment ID,Score,Author,Created,Text,Subreddit,sentiment_positive,sentiment_neutral,sentiment_negative,sentiment_compound,sentiment
+jjpuvmc,5,Seankala,5/11/2023 4:59,"MLE who's still new to industry (currently working on my first year of experience). I did my master's in CS before this with a focus on NLP.
+
+What I think of ChatGPT is what everyone already knew: bigger LMs do better. The genius behind OpenAI is that they actually provided a UI and wrapped it as a service.
+
+The value that ChatGPT provides (in my opinion) is that people no longer have to do extensive Google searches (most of the time). I can ask ChatGPT a question and just read the answer, then do minimal searching to verify the information. When I don't know what even to exactly Google, I just ask ChatGPT. I like to think of ChatGPT as the Xavier or He initialization of my Googling.
+
+What I hate is all the hype. Everyone is an AI expert now. Or a frikkin ""prompt engineer"" (whatever tf that is). I worked in cryptocurrency back in 2017-2018 when the hype was also quite real. I hate it.",learnmachinelearning,0.047,0.894,0.058,-0.4215,Negative
+jez5bil,66,bloodmummy,4/4/2023 18:11,I hate how the quality of posts and discussions plummeted in ML subs and forums following ChatGPT.,learnmachinelearning,0,0.802,0.198,-0.5719,Negative
+jezyin7,16,yourfinepettingduck,4/4/2023 21:48,"idc about people using chatGPT or even people building scammy influencer shit with it. 
+
+Itâ€™s when these folks 6 months into the fad start arguing about how LLMs work or get up on some soapbox about the future of MLâ€¦",learnmachinelearning,0.043,0.809,0.148,-0.6908,Negative
+jititlm,1,dasMaiMaiKamel,5/4/2023 7:59,"Late answer but an answer:  
+
+
+You are arguing with me over a non-argument. You literally don't know what he said. He had no clue what AI even was, he didn't even know the term bias, weights or anything. He simply watched a shitty conspiracy YouTube video. That's everything. That's honestly all you can read out of my comment...  
+
+
+I know that biology students can criticize AI. Everyone can. The knowledge is not only available to computer scientists.
+
+&#x200B;
+
+But there's a fine difference between manipulating inputs, feeding in false information and straight up saying ""Yea OpenAI sits there and tells ChatGPT to say THIS exact thing at THIS exact time"". That's not how AI works.
+
+I honestly won't watch any of these videos, because I already watched enough about this topic. I know how bias works, because as I said: I'm literally working on AI!  
+
+
+Just because the point of someone COULD be right it doesn't make their opinion valid if it's based on bs. Take this as an example:  
+
+
+If someone says ""Man today is so fucking hot, we need to fight climate change"" ( I know this is a casual saying which doesn't need to be analyzed, but take this in the context of a political debate) he is basically right about the climate change part. But ""that the day is hot"" part isn't necessarily a consequence of it. Sometimes it's just weather. Climate is something entirely different with influence on weather. The conclusion is right, however the rest doesn't need to be true. Just because something CAN happen it doesn't mean that shitty conspiracies are true now.
+
+&#x200B;
+
+If you have any doubt that he was simply talking bullshit: He later said that we are able to open a wormhole for space travel. When I asked him to explain how a wormhole works he didn't have an answer. After I explained it to him he agreed to disagree. About a scientific fact...
+
+You are right now defending a shit talker.",learnmachinelearning,0.067,0.793,0.14,-0.9829,Negative
+jeyh1nf,24,oldgrumpygeek,4/4/2023 15:30,What pisses me off about Chat GPT is that is wasn't a thing yet when I was working on my masters in DS.,learnmachinelearning,0,0.893,0.107,-0.34,Negative
+jey1gx8,-7,Robot_Basilisk,4/4/2023 13:49,"It's self-correcting. When it leads you astray, your work won't produce results. It will be similar to trying to solve a problem by using a textbook and misunderstanding it. The textbook may have been 100% accurate, but if you don't understand it, your answers will be wrong.
+
+Replacing a textbook with chatGPT moves more error onto the reference material, but vastly improves communication of said material. 
+
+If it gives you a bad citation, you'll catch it.
+
+If it gives you bad code, it may not compile or execute as expected and you will be able to copy and paste your code in and ask for help instead of just re-reading the text.
+
+I can't believe anyone would say that this isn't a potentially massive learning aid. It's not like someone is going to write a term paper over a topic and cite chatGPT for it.",learnmachinelearning,0.054,0.795,0.151,-0.9469,Negative
+jezp8xs,-7,Robot_Basilisk,4/4/2023 20:39,"Have you used chatGPT? It gives tons of such disclaimers. And textbooks don't come with them, so the double standard still exists.
+
+This alarmism is boring.",learnmachinelearning,0,0.87,0.13,-0.3818,Negative
+jexlex2,9,blevlabs,4/4/2023 12:05,"No, this is common. ChatGPT has no access to the internet, so any source or resources mentioned are fabricated by the model.",learnmachinelearning,0,0.82,0.18,-0.5267,Negative
+jf122l9,3,siposbalint0,4/5/2023 4:55,"What is this garbage, you should never rely on a model to teach you fundamentals. You cannot possibly know if the direction it gave you is right or wrong and will lead you down a path that might be straight up wrong. Use credible sources, videos, books, courses to learn from reputable people, this subreddit has a ton of advice on how to get started as well as many others.
+
+I despise this new wave of tiktokkers talking about chatgpt as the second coming of christ and act like computer vision, voice recognition and conversational ai hasn't been a thing for a decade or more.",learnmachinelearning,0.078,0.843,0.079,-0.2732,Negative
+jezjmqf,1,CumberbunBundlebunch,4/4/2023 19:58,Is ChatGPT also spamming your video across multiple subreddits for you?,learnmachinelearning,0,0.763,0.237,-0.4767,Negative
+ji41rs4,4,EverythingGoodWas,4/28/2023 18:20,I need a paragraph about the revolutionary warâ€¦Uhhâ€¦ChatGPT tell me about war or something.  Jeez if only I had taken that prompt class.,learnmachinelearning,0,0.83,0.17,-0.5994,Negative
+j97yvi3,3,math_is_my_religion,2/19/2023 18:12,"I tried building a family tree around ChatGPT. 
+[but Iâ€™m not sure if itâ€™s correct 100%](https://community.openai.com/t/gpt-family-tree/52336)",learnmachinelearning,0,0.869,0.131,-0.2411,Negative
+jgohjfv,1,kingabzpro,4/17/2023 19:58,Open-source Licence Restriction. You cannot use ChatGPT to compete against OpenAI.,learnmachinelearning,0,0.826,0.174,-0.2732,Negative
+j8uzptw,2,jhaluska,2/16/2023 22:19,Or even [chatgpt.com](https://chatgpt.com)  It's not like people don't already know the name.,learnmachinelearning,0,0.839,0.161,-0.2755,Negative
+ja8wwlk,20,f10101,2/27/2023 13:40,"Not as yet. OpenAI only publicly offer basic fine tuning services for their base GPT3 models. 
+
+No fine tuning is available for even text-davinci-003, let alone InstructGPT or ChatGPT. https://platform.openai.com/docs/guides/fine-tuning",learnmachinelearning,0.107,0.769,0.124,-0.1531,Negative
+ja7rtdq,17,cas4d,2/27/2023 9:05,"I really doubt so. chatGPT is of 175 billion of parameters. Anything with that size already requires specially built architecture no individual could afford. And your data in comparison with theirs should be insignificant. I guess they will release sth that allows users to set focus on some topics. But it is usually in the sense of having more weights on your topics in prediction, not in the sense of retraining the model. 
+
+But I am only guessing.",learnmachinelearning,0,0.933,0.067,-0.4933,Negative
+ja8dfr5,4,ObiWanCanShowMe,2/27/2023 11:37,">I really doubt so. 
+
+The answer to OP's question as asked, is NO. It is not available to train.  GPT and other models are available.
+
+If you KNOW you are only guessing, why comment in this manner? Or why start off with a negative?
+
+>chatGPT is of 175 billion of parameters. Anything with that size already requires specially built architecture no individual could afford.
+
+That wasn't the question OP is asking and is not relevant to the answer. OP seems to have a firmer grasp than you do. OP just did not know if ChatGPT was *also* available.
+
+>not in the sense of retraining the model.
+
+OP did not say retraining. No one says retraining.  Use proper terms if you are going to pretend to know what you are talking about.
+
+GPT can be trained, the extra data stays in the cloud.  There are 1000's of companies and individuals training it and that have trained it, that is why you see so many websites (if looking) that have ""AI"" based tools.  Resume builders, PowerPoint builders etc..
+
+There are three (probably more) ways to interact with GPT models other than just going to the wesbite
+
+1. You act as a middle man, just sending prompts via API http
+2. You prepare/prepend prompts specifically tailored to the desired output and complete with 1.
+3. You train your own data to facilitate a wider and specific range of output and complete with 1, 2 and your key.
+
+ChatGPT is a front facing product, it is not GPT4.  I would not know, but if I had to guess I would say ChatGPT will never be anything other than 1 and 2 with no ability to train.",learnmachinelearning,0.021,0.935,0.043,-0.6404,Negative
+jabaz5c,-1,macronancer,2/27/2023 23:43,"Besides being a total ass, you are also completely wrong. You CAN fine tune the chatGPT model, someone even posted a link to their docs.",learnmachinelearning,0.063,0.697,0.24,-0.7264,Negative
+j6nr4m6,98,sapnupuasop,1/31/2023 12:12,"Yeah, the hype is insane and the expectations are so high. so many people completely misinterpret and exaggerate the capabilities of chatgpt. Canâ€™t wait for them to realize its limitations so my LinkedIn feed isnâ€™t polluted that massively anymore",learnmachinelearning,0.049,0.782,0.169,-0.6557,Negative
+j6ofsq7,32,sapnupuasop,1/31/2023 14:42,"In my eyes itâ€™s kinda bad, besides the astounding accomplishment from a dl point of view, it just sucks because every single thing you ask needs to be fact checked manually by using googleâ€¦the only thing itâ€™s currently capable of is telling you stuff with huge confidence but you just never know if it is bullshitting or not. I even know of people integrating chatgpt in business and to me itâ€™s just complete insanity",learnmachinelearning,0.092,0.798,0.109,-0.5273,Negative
+j6rezkk,3,clauwen,2/1/2023 5:45,"I think you are vastly underestimating how much ""simple"" groundword there is in education. 
+
+I am betting money that this will be implemented for high school students everywhere. The amount of work this thing can take from a teachers shoulders will be absolutely insane.
+
+Think about your school days and how much of the teachers attention was needed for simple questions which chatgpt can easily answer that only a small fraction of the class are actually asking.
+
+Literally pick any high school topic you now something about and see if chatgpt could teach you the concepts.
+
+The barrier to asking stupid questions, which you wouldnt ask a teacher in school for a bunch of reasons is literally 0, and the answers you get for those topics are easily a net benefit.
+
+Will this replace a private teacher that is an expert on a topic and only has a single student, no not now.",learnmachinelearning,0.051,0.884,0.066,-0.3167,Negative
+j6q84wq,-3,epicwisdom,1/31/2023 21:53,"> make your boring work into an episode of Star Trek and then write the details of your discovery as a summary for billing time.
+
+The fact that you can use it to scam people is a strict negative for me.
+
+> There is nothing else Iâ€™ve used like it.
+
+Which doesn't mean much. In 2 years ChatGPT will still be completely obsolete. The question is how useful it actually is today, for uses besides academic cheating and farming ""news"" articles.",learnmachinelearning,0.06,0.765,0.175,-0.8858,Negative
+j6sxi5r,3,wind_dude,2/1/2023 12:48,"Okay, I was able to try the ChatGPT setting, I'm sorry, but I almost vomited.
+
+&#x200B;
+
+The editor lost all formatting for code. See is the VS modal you're using can support markdown.
+
+&#x200B;
+
+I suspect you are prompt engineering/appending prompts to the user input. This created extremely low quality spaghetti code, lacking any funcs, abstraction, or really usability. And it include inline comments for every line of code. This is not something chatGPT does with my prompt, it consistently produced usable code when prompted in chatGPT.
+
+&#x200B;
+
+For the chatGPT setting I would drop all attempts at your prompt engineering. This would certainly eliminate the low quality code issue. Also with the short term memory it's not necessary, if I as a user don't get what I want from ChatGPT I can ask it to correct  the output in human language.
+
+&#x200B;
+
+So in summary:
+
+\- drop the attempt at prompt engineering for chatGPT option
+
+\- correctly format code in returned responses
+
+\- nice to have: send code to editor from prompt modal. For now just insert it in where the user clicked in the editor. Long term see if you can send imports to the appropriate place (but mark/highlight them).",learnmachinelearning,0.067,0.842,0.092,-0.5286,Negative
+j84myxl,24,Robonglious,2/11/2023 11:24,"Mind-blowing. The programming was done with English sentences and the hack was just other English sentences. I know that this is built on top of other more complex things but still.
+
+This explains why ChatGPT is so bad at regurgitating song lyrics too. I never would have thought that this would be a copyright infringement but I suppose so.",learnmachinelearning,0.056,0.781,0.162,-0.8954,Negative
+j2048ks,1,starfries,12/28/2022 13:14,ChatGPT is not so much smarter than you that you can't pass English without it.,learnmachinelearning,0,0.839,0.161,-0.3991,Negative
+j1y7fck,-9,Unusual-Nature2824,12/28/2022 2:12,This is way too harsh. A lot of students struggle with grammar and ChatGPT is an excellent proofreading tool. The student shouldâ€™ve simply denied it,learnmachinelearning,0.116,0.629,0.255,-0.5267,Negative
+j1z6m60,0,CrunchyAl,12/28/2022 9:20,"People are worried too much, chatGPT doesn't code well in sorting algorithms, and other data structure challenges, failing most test cases. I tried some Hackercode examples, and it fails to give code that works (as in giving the correct output) just about every time. 
+
+I also don't think it's a bad thing to have an answer to look at, people just want to learn why their code is not working.",learnmachinelearning,0.102,0.767,0.131,-0.5047,Negative
+jdnm16e,2,spacexguy,3/25/2023 15:17,"I have been working on the second edition of my book, Learn FPGA Programming, Packt 2021.
+
+One of the requests was to add VHDL to the book. I haven't written VHDL code in 30 years, so I asked a question about how I could do something and it provided code and a testbench for it. In one glance, I knew that the timing was off in the testbench, so I told it the code looked good, but the timing was wrong. ChatGPT wrote back that it was sorry and I was correct. It then gave me code with correct timing. I'm still not sure the code would work. I got what I needed, so I didn't push it further, but I was really impressed at what it was able to produce.",learnmachinelearning,0.051,0.886,0.063,-0.1289,Negative
+j7hpfql,1,TrackLabs,2/6/2023 16:43,"Yea...yet. Are you saying nothing will ever replace ChatGPT, or what? Youre saying you doubt it, as if there will be no better version, ever?",learnmachinelearning,0.097,0.734,0.169,-0.2869,Negative
+j83x0oo,11,mano-vijnana,2/11/2023 8:34,"You can't really make it much smaller (maybe 52B, like Anthropic's models, but that's not an order of magnitude smaller) without making it, well, dumber. Even if you train it with more data than GPT was trained on (that is, Chinchilla-optimal).
+
+There's lots of smaller LLMs around already, some trained with RLHF like ChatGPT. They don't perform nearly as well.",learnmachinelearning,0.074,0.813,0.114,-0.4003,Negative
+j83xn80,14,carlinaylsworth,2/11/2023 8:40,"My understanding is that, while chatGPT was built using mostly unsupervised learning on enormous/messy datasets which can be trained with massive compute power (no prob for large players/problem for open source), instructGPT approach depends heavily on supervised learning/manually labeled data sets, which requires a lot of manpower and time (no prob for open source/prob for big players). So, it's only low hanging fruit for a volunteer/open source mass movement.",learnmachinelearning,0,0.965,0.035,-0.3321,Negative
+j3vamyg,39,ID4gotten,1/11/2023 3:20,"Not really a fact checker, since ChatGPT could just be memorizing ""facts"" from the same sources that are then just re-found by your search engine. If the original was wrong, that doesn't make ChatGPT right.",learnmachinelearning,0.061,0.856,0.083,-0.2023,Negative
+j3v7ugm,2,peardr0p,1/11/2023 2:44,"Won't it only check against things that are pre-2021? Or have I misunderstood?
+
+Edit: assuming I misunderstood and this isn't a fact-checker using chatGPT but a fact-checker FOR chatGPT!",learnmachinelearning,0,0.85,0.15,-0.4682,Negative
+j3w9xye,1,CrunchyAl,1/11/2023 9:40,"ChatGPT is just a chat bot with a lot of information. It doesn't form its own conclusions, so I don't think it is good as AGI. It will give neutral answers despite the definition to some conditions. For example, it will say that it's unfair to call Palestine under apartheid rule, despite the facts it is acknowledged as one by UN reports and experts who studied apartheid. It also will give about the same answer and do a ""both sides"" thing. It shows bias on many topics and will put the blame on not being in the data it was trained on.
+
+ It also is overhyped for its programming ability, as it can give you functional code, but it would not be the output you want or it will fail most test cases as you can try with coding challenges for sites like Hackerrank or leetcode.",learnmachinelearning,0.064,0.872,0.064,-0.2382,Negative
+j1hfijs,1,RemindMeBot,12/24/2022 5:56,"I will be messaging you in 3 days on [**2022-12-27 10:56:17 UTC**](http://www.wolframalpha.com/input/?i=2022-12-27%2010:56:17%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/learnmachinelearning/comments/zu6785/how_would_i_train_a_chatbot_like_chatgpt_on_a/j1hfh87/?context=3)
+
+[**4 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Flearnmachinelearning%2Fcomments%2Fzu6785%2Fhow_would_i_train_a_chatbot_like_chatgpt_on_a%2Fj1hfh87%2F%5D%0A%0ARemindMe%21%202022-12-27%2010%3A56%3A17%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20zu6785)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",learnmachinelearning,0,0.895,0.105,-0.6322,Negative
+j38j4fr,5,dagamer34,1/6/2023 14:47,A reminder that ChatGPT (really computers in general) are dumb machines that do a *lot* of calculations really quickly. But calling it â€œAIâ€ is a misnomer.,learnmachinelearning,0,0.911,0.089,-0.2846,Negative
+j39fvpd,12,totoro27,1/6/2023 18:14,This isn't a good way of classifying the computations done by ChatGPT vs a brain because you would have the same result with a person if you locked them in a room for 6 months without access to new media.,learnmachinelearning,0,0.934,0.066,-0.3412,Negative
+jk6kf9c,1,Ol_OLUs22,5/14/2023 20:30,"True, but the person knows he was locked in, ChatGPT doesn't know that any time has passed at all. It is just stuck in 2021.",learnmachinelearning,0.069,0.839,0.091,-0.1531,Negative
+j194tez,3,addictedposter,12/22/2022 11:11,"Agreed. So basically fake reviews, generated articles are going to fill the internet now unless people know how to do prompts and techniques inside of ChatGPT and make unique content out of it. I bet there will be a ChatGPT content detector and rankings will depend on how the content looks user generated or bot generated. Time will tell I guess.",learnmachinelearning,0.034,0.911,0.055,-0.3134,Negative
+j19g2gr,2,SteinyBoy,12/22/2022 12:24,OpenAi engineer already spun out a company for this a while back. Copy smith. Easier to use dedicated version and UI for it. Youâ€™re probably right you could just use chatgpt but itâ€™s not staying free forever,learnmachinelearning,0.099,0.811,0.09,-0.1663,Negative
+j9cxwq7,3,Grubzer,2/20/2023 19:26,"I would... ask someone on r/theydidthemath or similar. ChatGPT can be *very* confident while being wrong. Ask it the classic riddle: ""Alices parents have five children: Bob, Anna, Charles, and Jimmy. What is the name of the fifth child? "" and last time i checked, it got it wrong, and i had to pursue it quite a lot for it to accept the answer",learnmachinelearning,0.087,0.821,0.093,-0.1027,Negative

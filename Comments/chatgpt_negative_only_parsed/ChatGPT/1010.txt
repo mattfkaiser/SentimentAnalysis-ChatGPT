@@ -1,0 +1,3 @@
+No shit sherlock!
+
+This isn't for chat gpt website , it's for all those websites that use chat gpt api but doesn't specify the version

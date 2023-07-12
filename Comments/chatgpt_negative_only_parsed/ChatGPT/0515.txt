@@ -1,0 +1,1 @@
+The problem I see with ChatGPT is that my company forbids the input of any sensitive business data (rightfully). But this renders ChatGPT for me almost completely useless. We have our own dedicated ChatGPT instance which is not feeding the data back for further training but since itâ€™s running on another platform we cannot give it any business information.

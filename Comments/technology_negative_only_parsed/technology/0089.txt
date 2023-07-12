@@ -1,0 +1,25 @@
+The Elizabeth Holmes thing was physically impossible, it was a straight-up scam.
+
+ChatGPT isn't the same, while marketing, media, and social media may be making bold claims, it's still quite impressive.
+
+ChatGPT can draw correlations, and while I'm no expert, my time with ChatGPT 4 is giving me hope that it can actually help us do quite a bit, and things like diagnostics via description are in its ballpark. You can give it a description of your symptoms right now, and ask it to guess, and it'll go down likely causes while telling you it's not a doctor.
+
+I think given some refinement, and diagnostic aids, ChatGPT might be a good first break into having diagnostic ability in a phone with some data from a smart watch, and training on the user's part to give good descriptions of their symptoms.
+
+Here's what it did for me just now
+
+Me
+>What is the likely diagnosis for a sore throat, congestion, red eyes, inflamed sinuses, and a post nasal drip?
+
+ChatGPT 4
+>I am not a doctor, but I can try to provide some general information. The symptoms you describe â€“ sore throat, congestion, red eyes, inflamed sinuses, and post-nasal drip â€“ could be indicative of several different conditions, including:
+
+>    Common cold: Caused by a viral infection, the common cold can result in sore throat, congestion, and post-nasal drip. While red eyes and inflamed sinuses are not as common, they can also be present.
+
+>    Allergic rhinitis (hay fever): Allergies to pollen, dust mites, mold, or pet dander can cause symptoms such as sore throat, congestion, red and itchy eyes, and post-nasal drip. Inflammation of the sinuses can also occur due to allergies.
+
+>    Sinusitis: An infection or inflammation of the sinuses can cause symptoms like sore throat, congestion, post-nasal drip, and inflamed sinuses. Red eyes may or may not be present.
+
+>    Viral conjunctivitis (pink eye): This viral infection can cause red, itchy, and watery eyes. It's possible that it could be present alongside another condition causing the sore throat, congestion, and post-nasal drip.
+
+>It's important to see a healthcare professional for an accurate diagnosis and appropriate treatment. They may consider your medical history, the duration of your symptoms, and any additional symptoms to determine the most likely cause of your discomfort.

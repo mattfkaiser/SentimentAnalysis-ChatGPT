@@ -1,0 +1,8 @@
+I use chat GPT to decipher errors I do
+With this code: 
+(Insert relevant code, usually under 150 lines)
+
+I get this error:
+(Error thrown)
+
+And sometimes it can diagnose it correctly which helps decently

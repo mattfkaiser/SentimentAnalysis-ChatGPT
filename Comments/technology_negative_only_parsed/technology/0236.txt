@@ -1,0 +1,3 @@
+> A neural net used for an AI language model is doing essentially the same thing.
+
+That may be the case , but that is not the issue. The issue is that ChatGPT is commercially exploiting the copyrighted works of others which they do NOT have rights to. Whether the content is used to train an AI or whether it is republished they still need a license from the rights holder.

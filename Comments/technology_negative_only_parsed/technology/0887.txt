@@ -1,0 +1,3 @@
+Oh, right, cause you work at OpenAI and know precisely how every line of code works. Based on an input, the chat bot predicts what the next word should be using a combination of rule-based models and machine/deep-learning models of the language. In ChatGPTâ€™s case, it does this in real time for every word, predicting what would be the most likely next word in its own response, then outputing that word.
+
+Iâ€™m not sure how my statement that ChatGPT, or any other AI, will eventually be able to autonomously receive input from the world and perform actions as itâ€™s output contradicts any of that. Thatâ€™s basically OpenAIâ€™s mission statement - to create highly autonomous AI that can do human work - so fuck off.

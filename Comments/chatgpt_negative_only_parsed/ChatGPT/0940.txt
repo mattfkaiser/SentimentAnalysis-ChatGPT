@@ -1,0 +1,1 @@
+I'm trying to rack my brain for how this could be used to jailbreak chatgpt. It just causes chatgpt to spit out less input. There's nothing added, and the text other than what is removed is still constrained by the rules about being appropriate.

@@ -1,0 +1,10 @@
+Does nobody here even consider the possibility that it's behavior is unintended and could simply be a bug or some code rollout that went wrong?
+
+Why does everyone immediately vilify the service without considering literally any other much more plausible option/reason?
+
+&#x200B;
+
+EDIT: Also, I'm been using ChatGPT 4 today for coding and it's acting just like it always has. Even putting a block of code and a comment below the code, it understands the comment was for the code block above.  No change in behavior on my end.    
+
+
+I wonder if it's user specific, some kind of shadow-test of new chatgpt features or something that is causing some users to have different experiences.   I've seen this happen in the past when, for example, I was able to provide ChatGPT 4 a url and it understand and consumed the data at the url even though it's not suppose to...like special features OpenAI is testing on random groups of users.

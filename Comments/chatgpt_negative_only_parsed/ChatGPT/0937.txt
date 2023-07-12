@@ -1,0 +1,3 @@
+For me it told me that eating too much fruit can be bad for you and when I asked it what my prompt was, it claimed I asked "Is it possible to eat too much fruit?"
+
+That's pretty weird.  It's almost like this is a way for ChatGPT 3.5 to give you a random answer to a shower thought you never asked, lol

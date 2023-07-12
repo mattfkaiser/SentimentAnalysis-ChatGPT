@@ -1,0 +1,9 @@
+I was experimenting with ChatGPT once for my own amusement.
+
+I asked it to write Python using a specific (uncommon) library. The primary purpose behind my experimenting was to see how it dealt with questions it didn't have enough information to answer correctly.
+
+If it needed a function the library didn't have, it made it up. If the library had a function to do something specific, it would sometimes just totally ignore the intended purpose and make up a new (completely wrong) purpose for the function.
+
+When I corrected it (or asked it to double-check), it often doubled-down and cited nonexistent documentation to back up its non-working code.
+
+It was kind of scary and really made me cautious to trust it as a source. These days, I only use it to find direction before diving into actual sources.

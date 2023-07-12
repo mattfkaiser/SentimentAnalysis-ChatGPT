@@ -1,0 +1,5 @@
+Yes lawyers don't communicate directly with other side's clients without their ok. Once you are represented you usually don't talk directly. That's why the attorney references the NY Rules of professional conduct which chatGPT probably won't bring up unless you ask.
+  
+The problem with law and chatgpt is if you don't know what's wrong it can screw you over. Same with most things really. Try it with something you are familiar with that is not that basic and you'll have to correct things or re-prompt it or ask the proper follow up to get useful work. 
+  
+Like with a lot of filings there are local county court rules about how to do them properly and I don't think I've ever had ChatGPT reference those. So if it writes something up and you don't tell it to follow how the court wants it, it will likely get rejected by the clerk. It will omit steps, etc.. and sometimes it will do some dumb things. Not saying it isn't insanely helpful but it won't replace a lawyer just like it won't replace a computer programmer or historian that can spot the errors or omissions.

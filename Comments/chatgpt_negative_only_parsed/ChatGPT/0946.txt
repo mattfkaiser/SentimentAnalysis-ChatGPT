@@ -1,0 +1,3 @@
+I have managed to get chatgpt to output <|endoftext|> without any prompt before, and it then dumped out every 'thanks' response it had all at once. I never managed to replicate. 
+
+It also stripped the <| markers from the whole conversation after a while.

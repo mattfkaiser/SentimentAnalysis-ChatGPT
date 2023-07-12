@@ -1,0 +1,3 @@
+The Microsoft chat bot (Tay) was a bot that was set up to learn from people. When people figure that out, it doesn't take much for it to learn to be hateful.
+
+Chatgpt (at least the current one based on gpt3) has already done all of its learning, it's just interacting based off of what it knows to do. Only OpenAI can teach it more than it currently knows. I wouldn't expect chatgpt to have any racist tirades any time soon.

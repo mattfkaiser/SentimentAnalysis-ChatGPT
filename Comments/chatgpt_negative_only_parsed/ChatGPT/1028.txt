@@ -1,0 +1,7 @@
+The best thing is to use your own personal computer. 
+
+You said you can't install anything. But there are several portable browsers that run without installation. The IT team can monitor what you have on disk or even list all processes that are running on your laptop. I assume your laptop runs several apps in the background to monitor this. Even if you find a way, it would break company policy . I won't take the risk.
+
+ Sometimes the company allows TeamViewer or RDP. You can connect to any PC and then copy paste content. If your company installed screen recording software or gives you a virtual desktop,then you have problems too. 
+
+I would just ask IT team directly. "How can I use Chatgpt on my office computer". If they say it's banned or forbidden, I would use a phone or personal laptop or computer

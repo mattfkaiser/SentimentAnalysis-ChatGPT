@@ -1,0 +1,5 @@
+Playground is unofficially "OpenAI GPT-3.0~3.3". ChatGPT is understood as "OpenAI GPT-3.5". I started learning about this when they were on GPT-2 in early 2020.
+  
+Playground lets you access multiple models that are almost as "smart" as ChatGPT, but they wont modify your outputs with canned censoring (they will warn you sometimes though). So you can produce "almost anything" using the raw model. You can also modify temperature to make results repeatable (temp=0). ChatGPT does not allow you to change any of the settings.
+  
+ChatGPT is still "better", but the alternatives need to be talked about more.

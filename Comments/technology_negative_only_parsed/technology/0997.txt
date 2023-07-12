@@ -1,0 +1,46 @@
+>	Iâ€™m speaking from experience working at a FAANG.
+
+In **sales**, right? Per your post history? 
+
+
+Not as an engineer. Not your forte. 
+
+>	Engineers are lazy. Developers are lazy. 
+
+How would you know? You arenâ€™t one of us. You work in sales. To me, sales at my company seems lazy because I donâ€™t see them actually doing the work. When I used to mozy on down there, before Covid, it looked like social hour all the time. Because all corporate jobs after a certain point will have down time. Nobody is maximally efficient. 
+
+
+And logic workers, such as engineers, need down time to work through complex problems. Or wait for compilation. Or any other number of things. 
+
+>It honestly comes with the territory and executive leadership have always resented this.
+>
+
+How would you know? You arenâ€™t executive leadership. And, if you want to talk about lazy do-nothing jobs, upper management is where it is at. 
+
+
+>		hatGPT is just a proof of concept that that natural language processing can be combined with process streams that produce desirable code. 
+
+It produces desirable code for low impact things, or for people who donâ€™t understand software development. It is a tool at this point. 
+
+
+>As 99% of code is not new, 
+
+This is how I know for certain that you have never been a dev. Code isnâ€™t about uniqueness; itâ€™s about finding efficient solutions. It is about solving problems for other people. It isnâ€™t about novel code generation. 
+
+
+>this is devastating news to jobs that rely on this. How many developers rely on GitHub or other repositories? 
+
+GitHub is not a repository. It is a tool that hosts repositories. 
+
+
+And a lot of developers rely on it because they can put their code there. Or SVN, or self host. Depends on the enterprise. Your point is meaningless here because you may as well say â€œlook at how many developers rely on *the internet!!*
+
+>Even in its simplest form (e.g. ChatGPT-3) has seen incredible widespread application and has posed an existential threat to Google and search engines everywhere.
+
+Developers are not Google. ChatGPT poses an existential threat to manipulative human interfaces such as marketing and sales. Because these language models can accurately and effectively deceive or coerce people. Look at all the people that are losing their minds and grieving over losing a â€œfriendâ€ in Bingâ€™s now neutered Sydney, or the people spiraling the drain over Replika withholding abilities over concerns about how exploitative and manipulative it can be. 
+
+
+Because language models, like ChatGPT, are masterful manipulators. It is why it so confidently gives wrong answers *and people will argue with other people for pointing it out.*
+
+
+Your mistake was assuming you know anything about us at all, least of all by referring to us as â€œcoders.â€ A small portion of most software engineersâ€™ jobs are related to writing code. Even children can write code. It isnâ€™t special.

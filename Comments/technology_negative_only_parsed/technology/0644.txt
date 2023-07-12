@@ -1,0 +1,1 @@
+The real problem is "How do you know ChatGPT is right?". There are no sources and no provenance for the information it gives out. It's often subtly wrong. It's not AI, it's a clever ML language model that seems like it knows things. It has no sense of correctness beyond language.

@@ -1,0 +1,21 @@
+There's an excellent Future of Education forum that hosts regular YouTube videos and discussion panels.
+
+ChatGPT Part 1: https://www.youtube.com/watch?v=Bz7aW6vStBw
+
+ChatGPT Part 2: https://www.youtube.com/watch?v=gB6fM5TMp5c
+
+And if you look through the history of that YouTube channel (because ChatGPT and AI has been the second punch with the big punch being COVID and remote learning), a lot of teachers have expressed concerns that we've lost sight of teaching - that universities and schools are increasingly into the whack a mole game of: "Okay students are cheating this new way and this new way! How can we ban this entirely" instead of asking underlying questions of why students are cheating, how can we motivate students to learn and how willing people are to change curriculum and education to reflect what students actually need. Currently it is nigh impossible to get an established university administration to change change pedagogy as it is to install some new tech or building or some lazy river. 
+
+*Free* ChatGPT and equivalents are going to massively disrupt any classes that deal with writing as a demonstration of students showcasing their understanding of the material. And while the use cases are super charged now, it isn't like they were missing before. 
+
+The forum runners have expressed that:
+
+1. Writing needs to be explained as a way to organize and figure out your thoughts - and have encouraged long term journaling to express those idea before AI starts filling in thoughts for you.
+
+2. AI literacy and technology literacy is now mandatory
+
+3. That you can no longer rely on headfakes "Oh you are learning this because we are actually trying to teach you X", and authoritative learning has to end as opposed to collaborative learning. You can't just lecture to students from a pedestal anymore. 
+
+4. We need to re-examine our grading systems and encourage personal learning and fulfillment over credentials and criterias because the market moves so fast nowadays that an A+ grade in a major can suddenly be obselete by the time you graduate. You need to develop underlying skills, empower students and help them figure out what they what.
+
+Keep in mind ChatGPT is ONE generative model. Hell is currently breaking loose in the art community because people are levering part of the open source GPT model and equivalents to directly copy, mirror and generate an art created by an artist. It is going to be disruptive when someone creates a GPT model for a university course to figure out which essays get As and which do not, especially in subjective courses like fiction writing, to start giving students: "Okay this professor really likes to do things this way, you really need to prompt the AI to generate this style".

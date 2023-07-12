@@ -1,0 +1,5 @@
+As is right now, chatGPT does not work for programming, period.
+
+I've used it for basic scripintg and it never got a working piece of code at first try 
+
+In some year? could be. Soon? no way.

@@ -1,0 +1,9 @@
+It's self-correcting. When it leads you astray, your work won't produce results. It will be similar to trying to solve a problem by using a textbook and misunderstanding it. The textbook may have been 100% accurate, but if you don't understand it, your answers will be wrong.
+
+Replacing a textbook with chatGPT moves more error onto the reference material, but vastly improves communication of said material. 
+
+If it gives you a bad citation, you'll catch it.
+
+If it gives you bad code, it may not compile or execute as expected and you will be able to copy and paste your code in and ask for help instead of just re-reading the text.
+
+I can't believe anyone would say that this isn't a potentially massive learning aid. It's not like someone is going to write a term paper over a topic and cite chatGPT for it.

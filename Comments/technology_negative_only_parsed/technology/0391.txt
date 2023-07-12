@@ -1,0 +1,1 @@
+DALLE makes sense but how do you expect ChatGPT to watermark text? Whatâ€™s stopping people from just copying and pasting it or manually converting it or running it through an image-to-text app? This is stupid.

@@ -1,0 +1,3 @@
+If they went to the effort of adding random number functionality to chatgpt, they wouldnâ€™t forget to actually make it random. Itâ€™s simply a large language model, nothing more.
+
+You are right that different inputs could give different answers, because large language models give different answers to different questions

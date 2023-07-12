@@ -1,0 +1,7 @@
+This. Ask ChatGPT about problems that disproportionately affect women vs men. It'll give you an answer for women but try to avoid giving answers for men. 
+
+If you ask it detailed questions, like "Are women under-represented in engineering?" it will give you good answers that go into detail about the problem.
+
+If you ask it, "Are men disproportionately more likely to be homeless?" it will confirm that they are then attach a disclaimer about how you shouldn't draw any conclusions from that.
+
+If you ask it generally about problems affecting women it will list them. If you ask it generally about problems affecting men it will not tell you any. The only way to get it to give you more information is to already know about problems like sentencing disparities, suicides, declining education outcomes, disproportionate homicide rates, etc etc. And every time it gives you an answer, it will attach an addendum discouraging you from doing anything with that information.

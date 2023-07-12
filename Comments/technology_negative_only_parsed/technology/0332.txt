@@ -1,0 +1,3 @@
+See [this comment](https://www.reddit.com/r/programming/comments/10m443d/live_demo_catchgpt_a_new_model_for_detecting/j624wg5/) for a snippet of non-AI written text that gets flagged by multiple of these detectors as AI-generated. 
+
+While these tools look appealing at first, false-positives here are far more dangerous than with, say, plagiarism-checking tools, where the original texts can be identified and used as evidence. If a student's text gets flagged as AI-generated, how are they supposed to prove that they *didn't* use ChatGPT or a similar tool?

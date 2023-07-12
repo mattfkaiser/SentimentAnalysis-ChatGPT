@@ -1,0 +1,5 @@
+Welp, we're boned.
+
+Next thing, folks will be spamming Stack Overflow and other such sites with subtly broken code that introduces nice little vulnerabilities into your code, and depend on ChatGPT to uncritically swallow it up and spit it out for those who are dumb enough to let it write their code for them.
+
+Then we can reap the whirlwind at leisure, with millions of buggy websites leaking data like sieves.

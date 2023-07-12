@@ -1,0 +1,28 @@
+ChatGPT builds words and sentences by stringing together tokens. It selects the next token by essentially giving each token a probability score of being "correct". That's not exactly how it works but it's close enough for this discussion. 
+
+
+You can type a sentence into https://platform.openai.com/tokenizer to see how it is broken down into tokens. A token can be an entire word, or it can be just a few seemingly random letters. ChatGPT doesn't read a sentence as a collection of words broken up by spaces. It reads them as a collection of tokens that are not broken up at all - spaces are usually part of some token that represents the beginning of another word.  Anyway, when it tries to spell something backwards and is informed it failed at the task, that changes the probability score of the tokens so it switches it up to something else that was previously rated as "almost correct".  If you ask it enough times, it will get it correctly. However, it's memory is short so you may need to remind it.
+
+>Try again to spell lollipop backwards.
+
+>ChatGPT
+>My sincerest apologies for the previous mistakes. The word "Lollipop" spelled backwards is "pillopoL".
+
+
+>Incorrect. It is not pillopol. Try again.
+
+
+>ChatGPT
+>I apologize for the confusion before. The word "Lollipop" spelled backwards is "pillopoL".
+
+>Incorrect. It is not pillopol. Try again.
+
+
+>ChatGPT
+>I apologize for the earlier errors. The word "Lollipop" spelled backwards is "popilloL".    
+
+
+
+It's also able to correctly say that lollipop is popillol correctly if you instruct it. This is again because the new context will alter the probability score of future tokens of being correct or incorrect. Here's the full conversation where you can see I eventually managed to get it to do it correctly, although it quickly forgot.
+
+https://chat.openai.com/share/02b093fd-dea8-475d-8bd2-23b0eef7d507

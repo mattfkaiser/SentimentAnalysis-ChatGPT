@@ -1,0 +1,6 @@
+You do realize that, moving forward, this is *the worst version* of GPT that we'll be working with.  
+  
+AI development isn't going to stop. ChatGPT only sucks cause it's a generalized language model.  
+Train an AI on a specific data set and you'll get much more robust answers that will rival a significant portion of the human population.   
+  
+Something that clicked for me why ChatGPT isn't always great is cause it's not trying to give you the most correct answer; it's trying to give you the answer that *sounds* the most correct cause its a *language* model not a *"correct answer"* model

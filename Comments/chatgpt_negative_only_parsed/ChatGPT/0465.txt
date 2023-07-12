@@ -1,0 +1,2 @@
+You shouldnâ€™t be using ChatGPT with Swift. First reason; itâ€™s not trained on data past 2021, and Swift has changed a lot since me then.  
+Secondly; everything you input to ChatGPT is used to further train the AI, and a lot of the data it used has proprietary data (if programming is your occupation), and a lot of employees have been fired for breach of contract at their companies for exposing trade secrets to ChatGPT.

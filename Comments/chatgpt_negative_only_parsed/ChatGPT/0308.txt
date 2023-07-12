@@ -1,0 +1,1 @@
+Use it via the API instead of ChatGPT, just be warned the costs will add up the more context you add.

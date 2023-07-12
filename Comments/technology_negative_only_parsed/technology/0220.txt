@@ -1,0 +1,1 @@
+ChatGPT also has problems with obscure coding languages.  I work primarily in a java derivative right now, so there's very little of any examples online.  So it can't write it, or writes it in a different language.

@@ -1,0 +1,19 @@
+> you have to prove intentional harm
+
+Or _reckless disregard for the truth_.
+
+And OpenAI was certainly aware of the fact that ChatGPT spreads falsehoods.
+
+>  That literally cannot be in the case of a language model program.
+
+You don't just get to publish lies about people and then claim "nuh-uh the computer did it".
+
+The matter at hand here is whether the reckless disregard for the truth was from _OpenAI, by making ChatGPT available_, or by anyone who publishes ChatGPT content without extensive fact-checking.
+
+As Fred Riehl never published the content, the lawsuit is going after OpenAI, trying to prove that the former scenario applies.
+
+---
+
+And even that's not frivolous. Building a lying-machine whose design purpose is to be _as convincing a liar as possible_ and then marketing it as "AI", is certainly ethically dubious. Integrating such a tool into search engines is just idiotic.
+
+Whether that crosses the line into defamation itself, is for a judge to decide.

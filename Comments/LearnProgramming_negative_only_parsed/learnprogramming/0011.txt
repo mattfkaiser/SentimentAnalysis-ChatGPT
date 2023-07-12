@@ -1,0 +1,17 @@
+>  It's not solving a problem it is generating an output from internal rules to try to generate an answer that would be likely.
+
+That's not that far off from what you do when you learn a skill. You start by reading about something, you "think" you understand the subject and you get confronted with practical exercice. To which you will get some wrong. 
+Without a way to check your work, you won't learn, you'll just repeat mistakes and think you know your subject.
+
+You need external input to validate your solution before being sure that what you did was actually solving a problem or not just be confidently wrong about something.
+
+/u/adamToolie 
+>  i donâ€™t think you should use it to learn python though, maybe use it as someone to bounce ideas off of.
+
+That's exactly what i've been doing the last two night. And that's why i pretty much wrote a single line of code yesterday (by myself) and kept trying to see if there wasn't other possible solution i'm unaware off that would be more elegant by bombarding chatGPT with question.
+
+ChatGpt will try stuff with modules, functions and methods i haven't yet encountered yet. It's not teaching per see, it's showing things that exist. Copy pasting will not teach you anything, messing with it and reading about what it shows you will.
+
+It's more of an interactive search engine than teaching tool. What makes it a "good" tool in my book is that the proper documentation for python do exist and you can easily crosscheck it. Then, you can have it generate examples, lots of them and test them on your own to see how things work.
+
+For example, it's the difference between a tutorial online about how to set up a local network, following it and having it either work or fail and bloody knowing about how local network do work and how to manipulate them. A google search will give you the former, messing

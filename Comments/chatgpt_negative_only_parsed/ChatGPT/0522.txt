@@ -1,0 +1,1 @@
+as someone who uses chatgpt daily its hard to get used to the fact of hallucinations by the llm, been seeing a lot of invented stuff by chatgpt that can clutter databases with incorrect information if its not passed by a filter that tests results, i can see companies rolling back databases  for having too much innacurate information

@@ -1,0 +1,2 @@
+also, say you have a pretty long conversation, and you think the reply chatgpt giving you will potentially start getting worst due to its memory limitation. Ask chatgpt to summary what you discussed into a prompt.   
+then use this newly generated prompt to start a new conversation

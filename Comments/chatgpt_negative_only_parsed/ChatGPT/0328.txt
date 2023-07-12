@@ -1,0 +1,7 @@
+Itâ€™s so weird, lately I keep seeing or hearing of examples of ChatGPT fucking up code or prompts like this and I am never able to recreate the issue.
+
+People say â€œoh now instead of generating code it tells you to go look up the answer yourself or just high-level explaining itâ€ and Iâ€™m like uhhh Iâ€™ve used Chat extensively today for code and have had no problems getting as much code as I need from it and it usually works just fine.
+
+Same thing with this, I can seem to feed it any word and it has no problem reversing any string. 
+
+Why does this keep happening?

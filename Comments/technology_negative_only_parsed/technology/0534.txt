@@ -1,0 +1,13 @@
+I had a weird experience trying to use chatGPT and excel for astronomical calculations.
+
+ChatGPT gave me the correct formula  I wanted the first time I asked it, and it even carefully explained to me how it worked. The formula was slightly buggy but it worked after fixing a few imaginary functions() that didn't exist.
+
+However, when I tried to  get same formula again, from scratch in a new window, chatGPT insists that it's not capable of such calculations and that I should instead go find a website with an API to get that information.
+
+I keep trying to get the same formulas again but chatGPT insists that it is impossible. I can go back to the old chat and get the formula from there, but trying to get the formula again from scratch results in the AI making shit up that's not even close to what I need.
+
+I suspect that chatGPT knows which users have the wherewithal to notice mistakes, after which it floods us with tons of incorrect data in an effort to "train" itself off of our reactions.
+
+That or they're intentionally watermarking/poisoning a lot of data in order to catch people who cheat and steal from chatGPT?
+
+Or maybe chatGPT is so good at mimicking humans that it learned to be as incorrect and wrong as we usually are??

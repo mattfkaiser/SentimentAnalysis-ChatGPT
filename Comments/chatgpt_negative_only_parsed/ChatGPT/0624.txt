@@ -1,0 +1,1 @@
+No, ChatGPT doesn't do math. It will just be that in its training data, 4 is probably the most common result when anyone mentions dice rolling.

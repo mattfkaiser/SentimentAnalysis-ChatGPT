@@ -1,0 +1,9 @@
+Delusional take.
+
+ChatGPT in its current state cannot come close to Google search in terms of scalability, reliability and functionality.
+
+ChatGPT is a feature that lives inside a search engine at best.
+
+Google also has LamDa and has been working on LLMs just as long or longer than MS/OpenAI. Hell, even Facebook has similar models to the ones that underly chatGPT.
+
+ChatGPT was just the first model to get a marketing budget.

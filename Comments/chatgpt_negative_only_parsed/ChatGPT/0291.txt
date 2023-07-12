@@ -1,0 +1,5 @@
+There is no evidence that I've seen that indicates the chatgpt has internalized any general algorithms for any arithmetic math operations.
+
+It gets it right by having seen the exact numbers before in its dataset, or by noticing a math problem and knowing from its pre prompt instructions to feed it into a plugin.
+
+There are no guarantees it will do either of those things every time.

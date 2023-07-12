@@ -1,0 +1,15 @@
+First things first. Forget that ChatGPT exists. Really. Just forget it. If you want to know, why, then you can search from this sub from all the 10000000000 AI and ChatGTP posts that keep asked over and over again.
+
+If you are worried about the dangers of the Internet then just read and learn about cyber security and web application security (OWASP). Like that you will know what actually is possible and what is just a paranoia. If you are worried about getting hacked then read/learn about cyber hygiene and also about OSINT (use OSINT on yourself). Because if you are not aware of what is possible and what is not then you can imagine all kind of weirdness. That I will hack you over your Reddit comment and what not.
+
+Drive-by downloads in general do nothing. They do not get executed by themself. Either you have to click on them physically or your browser has to execute them by itself (which it does not do, except with cookies and cookies will not have such negative impact on your system).
+
+Like really, don't overthink but just educate yourself on stuff. Fear caused by ignorance can just make things worse. But when you are aware of how stuff works then there will be less ignorance and also less fear.
+
+Forget hacking servers. Unless you want problems with police and such. If anything then ONLY try stuff with your own things: your own router, your own web application you host from your own PC/laptop, your own web server running inside your own PC/laptop.
+
+Most likely you are still in a high school. Better concentrate on finishing that. No point to push yourself and burn out and then fail both your high school and probably will not be accepted to a programming related job either.
+
+Why are you opposing a college? Because of the fees/loans? There exist student loans. You'll pay it back in some years when you get hired as a Junior developer. I mean, if you can then definitely go for a college degree. Many times better than learning on your own, aimlessly. Right now quite a different things that you are having problems with, it would be solved by college courses. They teach programming, cyber security, AI, cryptography (more like during Master studies, though), Linux administration and many other things.
+
+Take your time off and rest. Where are you rushing to? I started my college studies when I was 28. Sure, I could start earlier but because of BURNOUT I decided to postpone my college studies and do all the other stuff during these years. Kind of a wasted time, a bit. These years between finishing my high school studies and between starting my college studies. But all because of a BURNOUT. If I would take things easy, not rush, not go over my own limits, I would graduate high school with normal health and most likely would start my college studies also earlier. No point to drive yourself insane.

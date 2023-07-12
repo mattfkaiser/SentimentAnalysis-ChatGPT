@@ -1,0 +1,3 @@
+>But in this case, GPT has issues in any long running instance, because regardless of learning, it's still using information from that session, and the longer the session, the more confused it gets.
+
+Eh? GPT has no such thing as a "running instance." Its output depends only on the input. ChatGPT mimics a persistent context by processing your conversation's history (summarization/subject identification and such) and feeding that data back into the model for every response.

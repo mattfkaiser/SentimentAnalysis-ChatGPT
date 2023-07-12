@@ -2,7 +2,7 @@ import pandas as pd
 from textblob import TextBlob
 
 # Load the excel file
-file_path = 'TechnologyComments.xlsx'
+file_path = 'LearnMachineLearningComments.xlsx'
 df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
@@ -38,5 +38,5 @@ def categorize_sentiment(polarity):
 df['sentiment'] = df['sentiment_polarity'].apply(categorize_sentiment)
 
 # Save the DataFrame with sentiment analysis to a new CSV file
-output_file_path = 'textBlob_polarity_technology.csv'
+output_file_path = 'textBlob_polarity_LearnMachineLearning.csv'
 df.to_csv(output_file_path, index=False)

@@ -1,0 +1,5 @@
+I'm not sure "mistakes" is even the right word. It isn't making a "mistake" when it gives a confidently wrong explanation because "confident" is the only goal it has. 
+
+It has no concept of "right" or "wrong," it just spits out the words it would expect to see in a human answer. Accuracy is just incidental.
+
+It's really disappointing to see it treated like the arbiter of truth, but then again we already have human pseudointellectual bullshit generators that got popular doing the same thing that ChatGPT is.

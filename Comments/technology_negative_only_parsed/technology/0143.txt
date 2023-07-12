@@ -1,0 +1,3 @@
+Chatgpt spits out bad information sometimes. We've known about this for a while. The case here is focused on if open AI is liable for the slander even though the information returned was queried by a third party. 
+
+Basically can we use chatgpt for being wrong? They will probably discover no. We can't.

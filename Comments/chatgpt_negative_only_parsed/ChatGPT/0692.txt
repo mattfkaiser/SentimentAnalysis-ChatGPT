@@ -1,0 +1,3 @@
+chatGPT' errors are harder to spot because it's a language model, and it is fluent in language and that creates an illusion that it understands the matter.
+
+in many cases if your prompt is not very detailed.. chatGPT is expert at saying lots of things and saying absolutely nothing.  that is the problem with language. ability of spotting errors comes with experience.

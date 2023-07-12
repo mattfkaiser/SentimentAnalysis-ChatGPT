@@ -1,0 +1,1 @@
+I taught a masters level database course this semester. It took special effort to write the questions in a way that chatGPT would give the wrong answer

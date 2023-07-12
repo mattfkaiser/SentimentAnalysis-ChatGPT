@@ -1,0 +1,3 @@
+For ChatGPT to replace my job (software engineer) it would need to do what Jenkins does, but also be able to fix all the failures on its own. Until we get an AI that's basically fully sentient and capable of reasoning, I just don't see that happening.
+
+With a huge repository with lots of modular parts and lots of people constantly working on it plus turnover where some people who wrote shit 2-3 years ago are long gone... the errors (or complete lack thereof) that break a build very often require a significant amount of reasoning and investigation to solve.

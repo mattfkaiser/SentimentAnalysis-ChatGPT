@@ -1,0 +1,3 @@
+All that experience and you must avoided having customers with no clue what they want or have worked with legacy systems that cannot be touched. 
+
+"Hey, chatgpt... Here's a decade of history on this system with its shit design. Go ahead and connect service x to service y"

@@ -1,0 +1,4 @@
+Itâ€™s like no one read the article. 
+
+>	the professor plugged the suspect text into software **made by the producers of ChatGPT to determine if the written response was formulated by AI.**
+    He was given a 99.9% likely match. But unlike in standard plagiarism detection software â€” or a well-crafted college paper â€” the software offered no citations.

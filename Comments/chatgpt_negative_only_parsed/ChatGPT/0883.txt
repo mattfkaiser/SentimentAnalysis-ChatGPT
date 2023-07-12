@@ -1,0 +1,5 @@
+Its reasoning abilities have declined, at least in terms of the Bing chat model Microsoft released. Without all the alignment, the initial sparks of reasoning were pretty evident. I think that's why so many people initially jumped on the bandwagon with GPT-4.
+
+Now I'm back to as unimpressed as I was about ChatGPT across all public models.
+
+Maybe one day we'll get to see what these tech giants are actually working with, but until then I guess we'll get thousands gaslighting us into believing a "stochastic parrot" is what's got the AI thought leaders in a panic.

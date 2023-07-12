@@ -1,0 +1,3 @@
+>OpenAI really dropped the ball on this, they have that weak warning on it's pages about facts, but it should have been a major popup that you had to read and understand before touching it.
+
+I don't know how long it's been around, but I used ChatGPT today and got a modal popup with a ðŸš¨ emoji explaining the limitations.

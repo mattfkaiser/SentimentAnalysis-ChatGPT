@@ -1,0 +1,3 @@
+Exactly this! Leetcode problems are common algorithms which AI has probably solved hundreds of times before. 
+Im a Software Developer and have used ChatGPT for work. Its very good at explaining small chunks of code, but struggles with larger ones. 
+Also professional code is spread over multiple files and frameworks, you cant have chatGPT solve all of that. Atleast not yet

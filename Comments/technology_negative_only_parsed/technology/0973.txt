@@ -1,0 +1,3 @@
+Problem with that is, you can't just keep exponentially increasing the size and complexity of something without problems. 10x bigger usually means 10x more expensive... and the more complicated a system becomes, the more potential points of failure it has. There are huge logistical challenges involved in scaling up these algorithms.
+
+It's also a bit presumptuous to think any version of ChatGPT can *ever* understand this stuff. At this point, it doesn't understand anything at all. It's a prediction engine, not a toddler.

@@ -1,0 +1,11 @@
+So let me get this correct. You are blaming someone else for you and i quote:  
+*"I (and many of the students in this particular course) have fallen behind and am struggling to catch up with the coursework"*  
+Java has been around since the beginning of the 1990's. The basic concept of the language has in principal not changed. A program written in Java 1 can be run on a Java 19 runtime.  
+What I'm saying by this is that there are literally MILLIONS of locations that will provide you with basic java training information, as in Youtube, books, stack overflow, tutorials etc. etc.  
+One teacher that didn't fit your particular needs, does not mean everyone is terrible. Also if you don't like his/her teaching style, then tbh you might need to put in additional work outside.  
+
+
+Every teacher can impossibly fit each students needs, what you are asking for is an impossibility. I suggest you accept the fact that this particular teacher does not suit your teaching needs and you'll have to accept the fact that you need to compensate outside of class and put additional work in. Because the lack of java teaching material out there is not the cause.  
+
+
+And tbh. asking ChatGPT is just plain out lazy.

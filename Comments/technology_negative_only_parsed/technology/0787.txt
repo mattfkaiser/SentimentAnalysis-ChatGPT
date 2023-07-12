@@ -1,0 +1,8 @@
+I went to the article because they interviewed the author, I want to know what this actually means
+
+>> GPTZero scores text on its "perplexity and burstiness" 
+
+How do you define the burstiness of a sample text? What markers is the anti-ai looking for?
+
+
+The article mentions that the creators are looking for a way to watermark chatgpt twxt. Can someone help me understand how you watermark a series of characters? Is chatgpt going to add random Unicode sections that are invisible but in code? How difficult would it be to sanitize those? Like, chatgpt can add a Unicode blank braille space at the beginning of every response u+2800. Humans wouldnâ€™t see it but every computer could realize that the sentence starts with a weird braille character and say oh ya this is chatgpt. But the same test can also fix the problem, so how do you keep the mechanism a secret while also allowing everyone to use it? I think watermark is a terrible word to use here, it kind of covers what they want but has nothing to do with text

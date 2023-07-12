@@ -1,0 +1,3 @@
+No, it is not having to make that decision in the first place as it doesn't add your chats to its overall training data.
+
+Humans behind ChatGPT will look at flagged chats and may potentially be manipulated into adding BS to the training data in future versions however.

@@ -1,0 +1,3 @@
+Problem is, Iâ€™ve used chatGPT for simple things and it gives outright incorrect solutions, which I know if asked the same thing about a year before it wouldâ€™ve had 0 problems answering correctly. 
+
+For example I asked it to do a simple logic operation between 2 short binary numbers and it messed up. Another time I asked it to write a simple function and it messed up the logic pretty badly. The accuracy is so different from how it was a year ago and this has nothing to do with making chatGPT more family friendly.

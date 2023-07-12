@@ -1,0 +1,1 @@
+Chat GPT is a language model not a knowledge engine. It just says stuff that seems legit. Ask it to do math or any kind of complicated question that you know the answer to and you will be able to see that it's wrong. It spits nonsense with confidence.

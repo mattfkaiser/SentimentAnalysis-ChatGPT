@@ -1,0 +1,6 @@
+This is due to a badly formulated query, we can choose to fight chat gpt or you can understand itâ€™s a knife . Hold the wrong end of it and itâ€™s not the food your going to cut. A effective experiment for you to run. 
+
+
+Based on the information provided in the â€œname of docsâ€: â€œurl to docsâ€ , â€œask questionâ€ 
+
+This should give you better results with less hallucinations.

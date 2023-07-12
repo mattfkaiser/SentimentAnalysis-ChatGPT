@@ -1,0 +1,23 @@
+Okay, I was able to try the ChatGPT setting, I'm sorry, but I almost vomited.
+
+&#x200B;
+
+The editor lost all formatting for code. See is the VS modal you're using can support markdown.
+
+&#x200B;
+
+I suspect you are prompt engineering/appending prompts to the user input. This created extremely low quality spaghetti code, lacking any funcs, abstraction, or really usability. And it include inline comments for every line of code. This is not something chatGPT does with my prompt, it consistently produced usable code when prompted in chatGPT.
+
+&#x200B;
+
+For the chatGPT setting I would drop all attempts at your prompt engineering. This would certainly eliminate the low quality code issue. Also with the short term memory it's not necessary, if I as a user don't get what I want from ChatGPT I can ask it to correct  the output in human language.
+
+&#x200B;
+
+So in summary:
+
+\- drop the attempt at prompt engineering for chatGPT option
+
+\- correctly format code in returned responses
+
+\- nice to have: send code to editor from prompt modal. For now just insert it in where the user clicked in the editor. Long term see if you can send imports to the appropriate place (but mark/highlight them).

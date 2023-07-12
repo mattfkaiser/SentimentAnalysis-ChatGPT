@@ -1,0 +1,3 @@
+>As a developer, the work of 10 junior people and 2 senior people can now be done with just 2 senior people and ChatGPT
+
+having used chatGPT and being an almost senior developer, I pretty much doubt it, the answer it gives are a shitshow while being painfully slow

@@ -1,0 +1,3 @@
+But that's not how people are using it. They're using it to aggregate info from the net. With a link found on a search engine, you at least know a human sat down and typed this out, and most people can use context cues to evaluate the reliability of the info. ChatGPT presents phrasing it's taking from related sources and phrasing it's wildly guessing at in Exactly the same way, so you can't tell the difference.
+
+And while I don't think the initial misunderstanding is on the AI folks, after they noticed that people were hyping it up to do things it can't, it became their responsibility to Fix That.

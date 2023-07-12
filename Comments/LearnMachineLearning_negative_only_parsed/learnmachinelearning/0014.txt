@@ -1,0 +1,3 @@
+Not as yet. OpenAI only publicly offer basic fine tuning services for their base GPT3 models. 
+
+No fine tuning is available for even text-davinci-003, let alone InstructGPT or ChatGPT. https://platform.openai.com/docs/guides/fine-tuning

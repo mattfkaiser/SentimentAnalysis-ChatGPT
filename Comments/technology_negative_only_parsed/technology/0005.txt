@@ -1,0 +1,5 @@
+I think the people saying it will replace devs etc are looking more at what will be coming in the near future if a non specified AI model can already get this far. 
+
+I dont think its ridiculous to assume that a language model trained specifically to handel coding queries would be far more accurate, even more so if they break it down to focus on specific languages etc.
+
+Chat gpt in its current form isnt replacing much of anything. But its already further along than most people anticipated at this point in time and its a sign that rapid acceleration on this tech is on the horizon and that can be scary.

@@ -1,0 +1,1 @@
+FYI, I have also instructed GPT to add poison keywords to that generated output, so that it won't be uptaken for the next ChatGPT version when OpenAI sifts through the GPT-user interactions for more useful content. So absolutely no harm will come out of that generated hit piece.

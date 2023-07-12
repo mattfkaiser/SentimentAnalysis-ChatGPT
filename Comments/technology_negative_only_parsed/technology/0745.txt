@@ -1,0 +1,11 @@
+> It's literally not even capable of producing a piece of code that is more than a few hundred lines that is unique/genuine. The best it can do is produce boilerplate code, and a large majority of that time it isn't conventional/standard.
+
+Wrong. Oh so wrong.  Most code is boiler plate with little tweaks and customization for a specific application.  There's a reason why there are design patterns, because software engineers have figured out they are correct ways to implement things depending on the application. There are always trade offs between implementations. Just because ChatGPT spits out code according to one imlpementation, doesn't mean that's the only way to do it.
+
+Your argument for the reason why ChatGPT will not take anyone's job is because it doesn't generate unique code? 
+
+>produce very inaccurate and sloppy results because its just mashing up other people's works (books, online sources) together.
+
+You don't know what you're talking about. How much time have you actually spent using ChatGPT? I'm guessing you've also never used stackoverflow. Most software development is slapping together existing chunks of code until something works.
+
+I challenge you to actually open a text editor and write a few hundreds lines of unique code. I also challenge you to generate a few hundred lines of boiler plate code. No IDEs, because I know you use an IDE as a crutch.

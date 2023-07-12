@@ -1,0 +1,7 @@
+I'm a law student. I tried to use ChatGPT to generate a skeleton argument for a domestic mooting competition but it just gave me bunch of made up English case law.
+
+Thereafter, I decided to be a bit more specific and asked ChatGPT a few questions about some ICJ judgments (public international law) and it gave me bs nonexistent information as well.
+
+Unless the developers fix the "hallucination" issue, I wouldn't trust ChatGPT to conduct any legal research. If it can't even do my law school homework, I doubt ChatGPT can solve any real life legal problems.
+
+I have been using ChatGPT to proofread, but that's the extent of its utility.

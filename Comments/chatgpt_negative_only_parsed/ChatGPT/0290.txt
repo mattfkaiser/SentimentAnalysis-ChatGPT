@@ -1,0 +1,3 @@
+I mean, the GPT API is just a more pure version, since ChatGPT itself runs on the API. They do alter GPT itself about once a month, but the consistent degradation of ChatGPTâ€™s capabilities that people have been noticing is just them changing the initial context.
+
+ChatGPT is just GPT-4 with extra context at the start, just like all of these GPT-based clones (Snapchat My AI, KhanAcademyâ€™s bot, etc.)

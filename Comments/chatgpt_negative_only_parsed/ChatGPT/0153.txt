@@ -1,0 +1,3 @@
+Every time you chat with ChatGPT, you re-send the entire chat history (or it gets read back) to ChatGPT. It reads the chat history, pretends that the conversation happened, and prepares a response. ChatGPT doesn't remember anything, ever.
+
+Edit: and if you're using the free version, complaining is ridiculous

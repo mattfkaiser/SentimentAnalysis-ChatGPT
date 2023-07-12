@@ -1,0 +1,3 @@
+calculators merely do calculations that shouldn't be part of the lesson anyways. The lesson should be about how to apply the formulas.
+
+chatGPT however can handle most kinds of assignments while making it incredibly difficult if not impossible to tell that it's the work of an AI.

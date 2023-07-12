@@ -1,0 +1,3 @@
+This morning, I came up with a mobile app idea. I told ChatGPT about it and asked it to write the code and it did.
+
+Then, I opened a new chat, summed up the whole characteristics of the app we came up with in the previous chat and asked it to write the code again ... it refused!

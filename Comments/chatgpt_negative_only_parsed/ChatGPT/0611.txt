@@ -1,0 +1,10 @@
+Im not an expert but i believe *ChatGPT* is the chat interface to the underlying LLM. Basically a system on top of the engine.
+
+The system enforces the rules that have been created.
+
+
+The engine does indeed have access to the internet.
+
+*ChatGPT* doesn't have access based on the rules set but 'jailbreaking' allows it to access stuff it normally shouldn't.
+
+Theres nothing nefarious really, there intention was to not give it access to the internet and cut the data off when they did. Theres a reason it isn't actively scraping new data from the internet (yet). There just happens to be an exploit allowing it to do thing unintended.

@@ -1,0 +1,13 @@
+I have, and the disclaimers are worded very carefully.
+
+"... the system *may occasionally* generate incorrect or misleading information... It is not intended to give *advice*."
+
+It says it's not intended to give *advice*, not that it's not intended to give *facts*. This is probably to cover their asses legally if someone hurts themselves with ChatGPT's advice. And while it does warn you that it might not always be correct, they phrase it as an unlikely possibility and don't tell you not to ask it about facts. This is probably there to try and avoid liability too, but it still implies that it's *intended* to give correct facts - just that it fails sometimes.
+
+In their list of "Limitations" on the splash screen:
+
+"May occasionally generate incorrect information" (same thoughts as above)
+
+"Limited knowledge of world and events after 2021" This one definitely implies that it's supposed to have knowledge of the world and events, just that it doesn't have anything past the archive it was trained on.
+
+So when I read those disclaimers, I feel like even those imply that it's supposed to be used as a source of factual information.

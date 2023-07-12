@@ -1,0 +1,3 @@
+Asked ChatGPT to make a tl;dr of your essay:
+
+*ChatGPT is not great at stringing together multiple prompts and needs editing by someone with language skills and domain knowledge. Job descriptions written by managers and HR people often don't match the positions well, and ChatGPT has to work with those descriptions. ChatGPT won't do better than humans unless domain experts write their own descriptions.*

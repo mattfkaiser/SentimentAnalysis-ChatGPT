@@ -1,0 +1,13 @@
+Bingo, interview targeted at finding robots, shocking finds a robot that gets the job!
+
+I presume this click-bait article is referring to a experiment on HackerRank quizzes or LeetCode tests.  And guess what ChatGPT was trained on! Those sales tests and solutions available from GitHub, if you know the answers with cooy-paste knowledge, it's easy to pass the tests.
+
+Just wait until the ChatGPT code gets to code review; or they need to comment on an ambiguous Jira ticket to understand what the customer really wants. 
+
+I expect developer jobs to be impacted by AI, but you'll need software experts to drive the AI and design the complexity for scaling, maintenance and security.
+
+There was Stanford research published 2 weeks ago that ChatGPT generated code was x10 less secure and had more bugs that human developer.  
+
+A lot of articles are echoing more of the hype around ChatGPT, be it has so many weaknesses that it's not ready for Dev work yet.  
+
+Maybe in the future it will improve.  But my gut feel is that the bigger the LLM dataset the weaker it will get at lateral thinking and pushing boundaries of it's knowledge.

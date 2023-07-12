@@ -1,0 +1,1 @@
+The only thing these threads prove to me is that people do not know how to use ChatGPT on a fundamentally basic level. They're still asking it to "act as" things which is the worst possible way to prompt a personality. They never even use "---" or "###" separation markers or ASSISTANT/USER example conversations.

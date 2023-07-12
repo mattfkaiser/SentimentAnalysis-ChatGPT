@@ -1,0 +1,5 @@
+Just to test it out few days ago, I tried to make UML diagrams for various software ideas using chatgpt (for PlantUML) and it returned really bad results, it didn't even understand some diagrams. And for stuff like yUML, it couldn't even return working code. 
+
+I thought that this could be a place gpt won't be as good atm, due to lack of data of plantuml code, and lack of knowledge of intricacies a normal software has, but I wonder if it was my lack of ability to give it good prompts or it's incompetence for designing software. 
+
+Also I agree with copilot part, all it has helped me is get done with repeatable parts of code like flag conditions, or reading data/storing it in db etc. Otherwise it uses Django code and functions that are deprecated from long

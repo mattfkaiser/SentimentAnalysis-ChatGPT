@@ -1,0 +1,14 @@
+As soon as you have AI taking importante decisions, you must have regulations. (And I am the kind of guy that hates to have to deal with endless regulations, specially when outdated)
+
+For example, what happens when AI is used to help make decisions in court? Will the AI model simple take in all the evidence and spit out the results? How far wrong could the decision be even if only 1 in a million times? Could it be influenced by interested parties? 
+We should be able to audit what produced the model, the data it used, as well as have access to the steps and decisions taken by the model using the case's evidence. The model could even have been trained with past court decisions that are no longer appropriate or that were not the best ones to be taken, because they were taken by people and people have flaws, and we should be able to challenge and assess all decisions.
+
+Going to the old story of the autonomous car having to choose between sacrificing the driver or a bunch of people in the street. Will the car companies be able to justify that the decision, whatever it was, was the best and necessary decision? Will they be able to provide a step by step report of all the related events that influenced the final decision and will it be credible enough?
+
+You can also bring into the equation things like gdpr in EU that may limit the data collected in some of those systems, and have pose other new challenges.
+
+Same thing with almost any other AI system used.
+
+As for chatgpt, right now, it may be harmless to most use cases, aside from cheating and whatnot, but what could happen if they had left it as when it was launched? It was more powerful and faster and did not have many restrictions, although some of them can still be avoided and trespassed, but it was only after people started to ask it how to make bombs and hack certain websites that we began to realize what we had at hands. 
+
+In this case OpenAI auto regulated themselves to a degree, but what if they had said "fuck it, I wanna see where it goes"?

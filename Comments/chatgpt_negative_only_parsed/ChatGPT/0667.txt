@@ -1,0 +1,5 @@
+This is funny to me, I was making a quick invoice/estimate thing and needed some quick javascript for it.
+
+I asked it for 10 calculations to test it for accuracy, and it had like 5 out of 10 wrong 'Correct' totals. I spent like 4 hours trying to figure out why the my calculations were wrong until I realised chatgpt was wrong.
+
+It took me 4 hours to realise I should just use another invoicing platform to test the calculations.

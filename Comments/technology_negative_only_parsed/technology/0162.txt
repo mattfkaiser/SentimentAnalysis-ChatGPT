@@ -1,0 +1,5 @@
+Everything you just said is wrong. Calling GPT-3 a "pathological liar" is so bizarrely anthropomorphizing and meaningless that I don't even know how to begin to refute it. These models aren't people. They don't have intentions the way that people do. GPT-3 tries to predict tokens based on its training corpus. Calling that a "pathological liar" is incoherent.
+
+But aside from that, you literally already have the tab open to the article that explains how they evaluated truthfulness, with citations. Just read it.
+
+And finally, it doesn't matter how good a job you think they did. My point is not that they succeeded in making ChatGPT accurate, but that they _designed it_ to be more accurate.

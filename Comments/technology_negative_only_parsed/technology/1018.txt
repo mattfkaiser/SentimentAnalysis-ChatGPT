@@ -1,0 +1,5 @@
+For a while, I wasn't particularly interested in playing with chatgpt but one bored day in one of my lectures, I signed up to see if it could do academic level math (I'm a math major).
+
+I gave it an ode to solve. While in most cases it's pretty decent at solving them, I gave it a specific ode to solve, this thing managed to work out half of the steps then assumed some bullshit and kept calculating using that bullshit, getting a wrong answer. A few days after that, I asked if a 1 tensor is alternating (it is, vacuously). It gave me the definition of a tensor and an alternating tensor and then from its definition, drew the wrong conclusion that it isn't alternating.
+
+It keeps making these bullshit assumptions not based on proper logic and returns wrong answers. Until they fix chat gpt making baseless assumptions, I don't think this software will get far in industrial or consumer-based uses. It's like a fancy calculator that makes mistakes from time to time.

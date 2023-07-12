@@ -1,0 +1,1 @@
+This happens because the websites have robot.txt to stop webscraping. Chatgpt has decided to now follow these rules. Unfortunately ever website has this bs. So I donâ€™t see a way around it.

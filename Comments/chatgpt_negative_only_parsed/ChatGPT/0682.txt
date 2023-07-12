@@ -1,0 +1,5 @@
+Replacing the company knowledge with a 3rd party tool and feeding data into their servers isn't a good solution. Obviously, my team's models were not as good as ChatGPT, but ChatGPT is this good mainly because of the quantity of data it was trained on.
+
+My company refused to give us resources to train our own large model, again 'cost cutting'. There must be some reason why other companies are preferring in house models instead of ChatGPT. Also, ChatGPT has various drawbacks from rate limits, response time, unpredictability, hallucination to it not being applicable for all tasks. I would rather say, in the long run, it's the company's loss, though they are free to do that.
+
+Rather they should use the API in some niche cases and as a tool, and not totally rely on it everywhere.

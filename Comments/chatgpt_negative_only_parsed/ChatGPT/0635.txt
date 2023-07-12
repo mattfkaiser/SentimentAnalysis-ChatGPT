@@ -1,0 +1,6 @@
+Unusual or outdated phrases: ChatGPT may occasionally use archaic or uncommon language that is not typically used in modern conversation or writing.
+Inconsistent or excessive vocabulary: The model may exhibit a wide range of vocabulary in a single piece of writing, using complex or technical terms without proper context.
+Lack of personal experiences: ChatGPT often lacks real-world experiences and emotions, leading to responses that are less authentic or relatable.
+Inappropriate or nonsensical responses: The model can sometimes generate irrelevant or illogical statements that do not align with the given context.
+Overuse of certain phrases or structures: ChatGPT may rely on repetitive sentence structures or frequently use certain phrases in its responses.
+Limited coherence and context understanding: The model may struggle to maintain a coherent flow of ideas or fail to grasp the full context of a question or prompt.

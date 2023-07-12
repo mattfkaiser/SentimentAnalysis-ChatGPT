@@ -1,0 +1,19 @@
+I believe there are many things combined happening here :
+
+1. This is a "proof of concept" product that got too popular
+
+2. Considering the way these models work, they can very easily adjust a few parameters that have a huge impact both in their cost and in the model capabilities (context window, search depth, processor quota, etc) . They can and do tweak these a lot for their own convenience, plain and simple and there's nothing we can do about it
+
+3. They need chatgpt not to be the holy grail as (for what I understand) the idea is for this engine to power task-oriented/fine tuned implementations that are sold separately by their "real" customers (narrow-chatgpt-resellers soon to be)
+
+And I think the latter is most importan point.
+
+If you can solve all your problems with a single subscription, in a way, this product is just too good and therefore bad for business. Maybe YOU. don't want to spend more than 20 bucks to mess around with it, but there are industry specific domain being now "milked" that would otherwise be gold mines on their own. As a programmer myself, I found a rush of power I never had before with any technology. And as an example: within one week in which opening took the world by storm,  I had already plugged chat gpt and whisper to the whatsap api and was already processing my customers natural language queries and turning them into normalized JSON datasets. That single pipeline alone would have been imposible to nail in years of RD but with this tool, I had a killer functionality working in less than one day. 
+
+Now, if a year ago someone came and told me "how much would you pay to solve this specific problem??" I don't know the answer, but I do know that after chatgpt , the answer became easy: 10 bucks is the base price for the API.
+
+See my point? They can charge the entire population 20 bucks and that would still be a fraction of the real money to be made here, as domain specific killer features.
+
+And I'm just some dude in some company. What about other cases, with big data, or with speech anÃ¡lisis for government surveillance, military, entire industries would pay endless streams of money. 
+
+They NEED their chat to be not that good. And now also they know the world knows it is possible. So they will pay. This was all advertising for the real big fishes

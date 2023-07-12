@@ -1,0 +1,1 @@
+Do not do it or you will get fired and sued - ChatGPT by default re-uses data input into it and this already has led to leaks (notably Samsung).

@@ -1,0 +1,7 @@
+Even the time spent customizing it though I think would be better spent just using my brain or using re-prompts to get the final product. 
+
+I think this is why DAN type "jailbreak" prompts aren't interesting to me. I noticed at a point I was spending more time trying to get ChatGPT to do something in a specific way than it would take for me to just edit a few lines of the response myself. 
+
+I did this thing where I was trying to make ChatGPT manage two dueling personas having a brainstorm with me. One persona was analytical and risk-averse. The other persona was creative and experimental but not always feasible. 
+
+I spent HOURS refining the parameters while ChatGPT fought me every step of the way. Finally I got frustrated and started a new thread. And I realized I got the exact same answers from the blank thread as I did from the highly filtered thread if I just prompted/re-prompted better and used my own brain.

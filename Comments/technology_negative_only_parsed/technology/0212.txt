@@ -1,0 +1,3 @@
+>It's like talking to a human.
+
+Do you know how much time (i.e. money) companies spend training their employees to NOT talk to the WRONG humans? The weakest link in IT security is humans. I'm glad you said it's like talking to a human because that's precisely how the worst data exploits happen. And this is even worse because you won't easily know that Bobby in HR has been putting company data in ChatGPT until that data leaks to other users of ChatGPT.

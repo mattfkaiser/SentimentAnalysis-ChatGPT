@@ -1,0 +1,3 @@
+That's caused by ChatGPT's RLHF. That method of finetuning results in a lot of cautious writing and avoidance of confrontation.
+
+I checked how Bing responds, and it's just overly extreme positivity. https://i.redd.it/cbhbwupl79xa1.png

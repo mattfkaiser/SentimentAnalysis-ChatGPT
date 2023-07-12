@@ -1,0 +1,3 @@
+Maybe ChatGPT can't do basic math BUT one time I was stuck with my analysis homework. The homework was to prove, that the distance of two sets is the distance of the two closest elements. I don't want to get into the mathematical details, but it was difficult and I was stuck with it for a few days. I asked ChatGPT and he made a very nice proof. Then I asked to prove it in a different way and it did it.
+
+My point is, no one will use AI for basic arithmetic, not even for differential equations, we have a ton of programs to do that. We will use AI for mathematical proofs. (Although I doubt that ChatGPT came up with that proof, but still).

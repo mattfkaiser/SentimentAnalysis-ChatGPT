@@ -1,0 +1,5 @@
+Why not use something like gpt4all and custom train it? From your directors perspective another company solved the problem before you did and now there is another basically free llm only be the market. 
+
+I wouldn't be able to convince my boss to work on designing a new llm right now since chat exists.
+
+That being said the privacy issue with chatgpt is a death nail for it being used for customer service.

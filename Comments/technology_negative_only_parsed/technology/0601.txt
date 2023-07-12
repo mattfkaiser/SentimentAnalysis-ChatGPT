@@ -1,0 +1,10 @@
+We often see these kinds of estimates thrown around for new technology, and they're often debunked shortly after. A popular one back in the day was that a single google search was equivalent to boiling a cup of water. It was, of course, bullshit.
+
+Aside from the fact that this analysis requires a ton of guesswork, there's this:
+
+> â€¢ Inference: ChatGPT needs to â€œdrinkâ€ a 500ml bottle of water for a simple conversation of roughly
+20-50 questions and answers, depending on when and where ChatGPT is deployed.
+
+So in other words, a _typical_ exchange involving, say, two questions and answers, is actually equivalent to wasting around 20-50 mL of water, according to their methodology. It's never a good sign when you have to use wildly atypical assumptions about usage to make your study produce a compelling headline.
+
+Edit: and actually, itâ€™s even less than that, because the beginning of a conversation is cheaper than the end, when there are more tokens. Short conversations are more likely in the single digit mL.

@@ -1,0 +1,3 @@
+Not exactly, but ChatGPT is saving user input for training purposes, with no legal recourse once it's submitted and scrubbed of PII. As to how that is then accessible, there are a few ways to approach it (I am not for promoting black hats, will leave it at that).
+
+Samsung's already banned use of ChatGPT after leaks.

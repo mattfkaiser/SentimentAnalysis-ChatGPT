@@ -1,0 +1,18 @@
+
+>Or _reckless disregard for the truth_.
+
+>And OpenAI was certainly aware of the fact that ChatGPT spreads falsehoods.
+
+They are aware, and they explicitly disclaim it. 
+
+>You don't just get to publish lies about people and then claim "nuh-uh the computer did it".
+
+Good thing it wasn't published, then. 
+
+>The matter at hand here is whether the reckless disregard for the truth was from _OpenAI, by making ChatGPT available_, or by anyone who publishes ChatGPT content without extensive fact-checking.
+
+Again, not reckless. They warn users that ChatGPT can claim falsehoods when other data is lacking.
+
+>And even that's not frivolous. Building a lying-machine whose design purpose is to be _as convincing a liar as possible_ and then marketing it as "AI", is certainly ethically dubious. Integrating such a tool into search engines is just idiotic.
+
+I don't think you know what ChatGPT is.

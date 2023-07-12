@@ -1,0 +1,5 @@
+We had a similar situation with a copywriter.
+
+Ultimately, though, he was not vey good at his job, was slow, had a tendency to corrupt the message, became defensive or offended when provided with feedback, and required many rounds of iteration to get things right, and even then, we felt like we were making compromises in quality to get him moved on to the next task. These problems existed before ChatGPT, but we were begrudgingly tolerating it. 
+
+When ChatGPT came out, it gave us an alternative. He ended up leaving on his own. We didn't replace him. Now we have people who are worse at English generating 5-10x as much text of roughly equivalent quality, and without corrupting the message.

@@ -1,0 +1,3 @@
+A couple months ago I experimented asking chatgpt to substitute something else for curse words. I was specific for each word e.g. "instead of shit use blimey, instead of fuck use blork" and stuff like that.
+
+As long as you've prompted clean substitutions, chatgpt will be glad to curse like a sailor.

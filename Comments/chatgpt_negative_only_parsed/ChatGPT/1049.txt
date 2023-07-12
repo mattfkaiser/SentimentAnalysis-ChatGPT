@@ -1,0 +1,5 @@
+I donâ€™t think so, my experience so far has been nearly identical. With chat GPT, I get answers to problems, not page results to query strings.
+
+Sifting through scores of irrelevant Google results, imo, is a much worse user experience than dealing with hallucinations.
+Also, most people donâ€™t seem to realize that with hallucinations, you can literally ask Chat GPT to double check its answers, and it will more often than not catch the things that are incorrect.
+It can refine its solutions. NOTHING else does that.

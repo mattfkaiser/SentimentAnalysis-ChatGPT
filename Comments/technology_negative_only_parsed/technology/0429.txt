@@ -1,0 +1,5 @@
+> The problem is, that i have no idea what's going in inside code and if the results are accurate.
+
+I would add: the bridge design software is likely much more robust than the random crap ChatGPT puts out, too. There are actual calculations you can make to simulate the physics behind the structure and you can produce more diagnostics information via graphs, charts, tables and overlays.
+
+ChatGPT is a black box even the creators don't know the inner workings of.

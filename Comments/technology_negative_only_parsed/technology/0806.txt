@@ -1,0 +1,5 @@
+They don't need all that, once you go there you are fingerprinted. They can link that to external data and know everything about you.
+
+This leaking of the convo titles or first question is sketch and suspect. Gives these data brokers insight into who you are and what you researched. It also allowed them to see business level intel of people attempting to get answers. One of the groups I work with ran all their error messages into it for debugging context/info, so now they have telemetry on what systems they use and logs.
+
+ChatGPT feels like a trojan horse trap, a big black box to harvest more data to brokers. Over on bing this combines your search with your identity. Another third party that will have your search data... ffs.

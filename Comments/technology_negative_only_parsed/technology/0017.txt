@@ -1,0 +1,6 @@
+â€œChatGPT, make a Java function that returns the value of a circleâ€™s area given the diameter as inputâ€;  
+ChatGPT generate the right code;  
+â€œHoly shit ChatGPT is gonna kill the IT industryâ€  
+Seriously I had this conversation too many times in 6 month, Iâ€™m tired boss.  
+Meanwhile Iâ€™m in pause scratching my heads for 5 days now wondering how the fuck I can fix my non working API in a 20k lines of code project, people donâ€™t understand that dev as a job is not â€œwriting a functionâ€ or â€œwrite a flappy bird like gameâ€, itâ€™s literally managing dependencies and testing all that shit.  
+AI is really far far far off from kicking devs, and imho itâ€™s not even that helpful compared to Google; especially when every IT company asks you to look out for documentation unless theyâ€™re really really bad at this job (no one likes copy&pasted code, be it Googleâ€™d or made by AI).

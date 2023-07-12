@@ -1,0 +1,9 @@
+- *Italy's ChatGPT ban*
+
+*Microsoft-backed (MSFT) OpenAI took ChatGPT offline in Italy after the national data agency temporarily banned the chatbot.*
+
+*On Friday, Italy's data protection regulator, the Italian Data Protection Authority, GPDP, announced that it would ban and investigate OpenAI's ChatGPT "with immediate effect".*
+
+**The nation's regulator accused OpenAI with neglecting to install a function that prevents minors from using the service and "unlawful collection of personal data".**
+
+Sounds legit. Unlawful collection of personal data, and use of minors are both serious topics.

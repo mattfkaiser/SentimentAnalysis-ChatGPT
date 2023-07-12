@@ -1,0 +1,5 @@
+Iâ€™m speaking from experience working at a FAANG. Engineers are lazy. Developers are lazy. It honestly comes with the territory and executive leadership have *always* resented this.
+
+ChatGPT is just a proof of concept that that natural language processing can be combined with process streams that produce desirable code. As 99% of code is not new, this is devastating news to jobs that rely on this. How many developers rely on GitHub or other repositories? Even in its simplest form (e.g. ChatGPT-3) has seen incredible widespread application and has *posed an existential threat to Google* and search engines everywhere. 
+
+Acting like somehow â€œcodersâ€ will be spared is just wishful thinking.

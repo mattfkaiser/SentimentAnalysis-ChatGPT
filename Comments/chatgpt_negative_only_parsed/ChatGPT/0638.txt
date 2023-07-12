@@ -1,0 +1,7 @@
+I don't think there are really any catch all ways of detecting whether or not something is AI generated. The best ways that are out there are generally in plagiarism detectors or in other AI tools that are trained to detect if something is AI generated, but there are always inconsistencies and endless workarounds.  
+
+
+In general, when it comes to AI protection in school, it's much more useful to structure assignments around tasks that would be difficult for an AI to do correctly. Such as referencing topics that have come about only after the training cutoff of ChatGPT, or multiple other things. If you really want to properly detect cheating through AI generation, you would need a large set of writings from the student, and have each of them failing some sort of plagiarism or AI detection test, and only then, along with other evidence, could you reasonably conclude that they have cheated.  
+
+
+TLDR there really isn't an easy solution and it's better to change the way we teach than the ways we detect cheating.

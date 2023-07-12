@@ -1,0 +1,3 @@
+This is it for me. I like to consider myself a fairly strong engineer and ChatGPT does produce some code that gets the job done but its often dog shit quality.
+
+Its really really useful if I'm learning something knew because I can feed it some code I don't understand/or trying to understand and it can explain it in detail as the other guy said. But asking it to generate code for you is hit and miss because if you don't know what you're looking at, it can give you some real crap.

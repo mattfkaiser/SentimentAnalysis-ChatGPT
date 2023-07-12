@@ -1,0 +1,5 @@
+Larger books (500 pages) which I think was not really common for obvious reasons back then would be 900k characters long at most. So even if we took just 100k books as a measurement (ignoring that most of those books were probably 1:1 copies) then we would still come up with only 900bn characters which would be almost 1TB.
+
+Chat GPT 3 was trained on 45TB of data. And that data was carefully filtered by humans. This would really not be possible back then so you would end up with tons of nonsense and would not be good at all.
+
+Human has inherent advantage because he needs only one book to read to learn. Chat GPT needs thousands of them. So your suggestion would simply not work. Humans advising it would not make a difference for its weights.

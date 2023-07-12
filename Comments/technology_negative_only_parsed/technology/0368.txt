@@ -1,0 +1,25 @@
+ChatGPT is just a language model, it is not going to be able to reproduce all of those functions at all.
+
+You would need an entirely different type of AI to produce a complete software production chain.
+
+> Human brain
+
+Humans evolved over millions/billions of years through natural selection.
+
+If you're suggesting AI needs to do that, then we'll all be long dead before that happens.
+
+> Hitler
+
+That's not at all my point of related, I'm going to ignore this because it's silly to bring up Hitler.
+
+What he did is pretty straightforward in comparison to this problem, as horrible as that sounds.
+
+Working out how to genocide millions of people has been possible for millions of years because one person is capable of killing multiple when your targets are untrained civilians unprepared for the fight.
+
+> Live user testing
+
+Now this is where the bottleneck of AI starts. The production testing data.
+
+In order for AI to get to a point where it can self replicate and solve problems, it needs to be able to simulate this step reliably itself. Because humans won't be able to keep pace enough to do this, or even *want* to, if things get out of hand.
+
+The problem with this step is that it requires the creativity and adaptability of a human brain, which is so far off where we are it's not even funny.

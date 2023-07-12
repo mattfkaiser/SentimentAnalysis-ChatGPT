@@ -1,0 +1,5 @@
+Telling me which pin plugs into which other pin. I'm not super well versed in the SPI protocol, so I more or less told it I wanted to use pins 10-15 on my microcontroller and the names of the pins on the LCD, and it told me which goes where.
+
+The crux with SPI is that pins have different names, for example MOSI, SDA, and TX are the same thing, but RES and RS are not. One is reset and the other is register select. SCL, SCK, CLK, and other variations are another thing. Then you can also call CS (chip select) RS or SS, but on my microcontroller it's called something else again.
+
+Mapping this properly was annoying and chatgpt nailed it first try.

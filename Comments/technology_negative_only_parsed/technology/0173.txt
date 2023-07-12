@@ -1,0 +1,7 @@
+Iâ€™ve played with ChatGPT for my legal practice. It often gets the general principal correct, but its justifications (legislation and common law citations) are largely erroneous. On occasion, Iâ€™ll call the Chat on its flaws, and it typically addresses the one error I pointed out, but replaces it with a new erroneous statement. If I press it enough on errors of legislative citation errors, it eventually conceded and changes its legislative justification to a common law justificationâ€¦which it also cites erroneous or fake cases.
+
+I find that it does a decent job at creating outlines, basic motion structure, and argumentative phrasing. It can even do a decent job of analyzing a particular piece of legislation or common law. However, itâ€™s ability to accurately cite is noticeably lacking. 
+
+Itâ€™s a good jumping off point, but shouldnâ€™t be used as the foundation of an motion, let alone as a final product. It doesnâ€™t appear to understand what it is generating. As one user pointed out, â€œitâ€™s just a very advanced spell check.â€
+
+Edit: A word.

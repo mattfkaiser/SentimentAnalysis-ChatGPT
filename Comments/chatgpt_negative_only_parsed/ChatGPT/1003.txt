@@ -1,0 +1,21 @@
+ChatGPT 4.0 does seem to get the Russian idiom someone mentioned correct. It also improves the German translation.
+
+Finally, someone said that in Spanish we say "it's mandarin to me". While I've heard that, it's definitely a regional thing, where I am from we only say "This is in chinese!" (esto estÃ¡ en chino!).
+
+    Spanish: "Todo me suena a chino."
+    French: "C'est du chinois pour moi."
+    German: "Das ist fÃ¼r mich bÃ¶hmische DÃ¶rfer."
+    Russian: "Ð­Ñ‚Ð¾ Ð´Ð»Ñ Ð¼ÐµÐ½Ñ ÐºÐ¸Ñ‚Ð°Ð¹ÑÐºÐ°Ñ Ð³Ñ€Ð°Ð¼Ð¾Ñ‚Ð°." (Eto dlya menya kitayskaya gramota.)
+    Arabic: "Ù‡Ø°Ø§ ÙƒÙ„Ù‡ ÙƒØ§Ù„ØµÙŠÙ†ÙŠØ© Ø¨Ø§Ù„Ù†Ø³Ø¨Ø© Ù„ÙŠ." (Hatha kulluh kalSiniya bilnisba li.)
+    Mandarin Chinese: "è¿™å¯¹æˆ‘æ¥è¯´å°±åƒå¤©ä¹¦." (ZhÃ¨ duÃ¬ wÇ’ lÃ¡i shuÅ jiÃ¹ xiÃ ng tiÄnshÅ«.)
+    Hindi: "à¤¯à¤¹ à¤®à¥‡à¤°à¥‡ à¤²à¤¿à¤ à¤¸à¤¬ à¤—à¥à¤°à¥€à¤• à¤¹à¥ˆà¥¤" (Yeh mere liye sab Greek hai.)
+    Japanese: "ã“ã‚Œã¯ç§ã«ã¨ã£ã¦å…¨ã¦ãŒã‚®ãƒªã‚·ãƒ£èªžã®ã‚ˆã†ã§ã™ã€‚" (Kore wa watashi ni totte subete ga girishago no you desu.)
+    Greek: "Î•Î¯Î½Î±Î¹ ÏŒÎ»Î± ÎºÎ¹Î½Î­Î¶Î¹ÎºÎ± Î³Î¹Î± Î¼Î­Î½Î±." (EÃ­nai Ã³la kinÃ©zika gia mÃ©na.)
+    
+    The phrase "It's all Greek to me" is an idiom that means something is difficult to understand. 
+    Each language has a similar phrase, but the specific language used in the phrase can vary. 
+    For example, in English we say "It's all Greek to me," but in Spanish and French, the phrase is "It's all Chinese to me." 
+    In German, the phrase is "It's all Bohemian villages to me." These different phrases reflect cultural differences in what is considered difficult or foreign.
+    .
+
+For reference, I used your exact same prompt

@@ -1,0 +1,5 @@
+Not *quite.*
+
+In Searle's Chinese Room thought experiment, the person handing out responses from the room has complete knowledge of the rules for what to answer to what question, without needing to understand question or answer.
+
+ChatGPT doesn't understand the rules for what to answer - it can just analyse and duplicate *proximate* patterns. It's sort of similar if you squint, but the result is that it has no basis for knowing what output a particular input needs, unlike in the Chinese Room.

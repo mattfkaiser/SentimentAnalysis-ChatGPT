@@ -1,0 +1,1 @@
+I mean chatgpt could have also helped you diagnose the issue. Usually the error is lack of detail in the question from the human.

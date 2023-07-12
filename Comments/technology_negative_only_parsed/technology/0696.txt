@@ -1,0 +1,3 @@
+You need both compute time and human labor to tune the models. Google had been dragging their feet and been lazy doing only the simple stuff, compute stuff. Let's wait how well Bard is, but my guess it will be significantly worse than ChatGPT and more on the level of GPT2 or GPT3.
+
+Google contrary to belief, is a very bureaucratic company where democracy itself is badly implemented that new products constantly die due to lack of backing and decision making.

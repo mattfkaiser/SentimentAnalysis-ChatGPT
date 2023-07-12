@@ -1,0 +1,1 @@
+Have you tried integrating chatgpt with whatever studio you're programming in? I started using the chatgpt package integrated with RStudio and it's a game changer. Not perfect but definitely a step up from any sort of help menu or documentation.

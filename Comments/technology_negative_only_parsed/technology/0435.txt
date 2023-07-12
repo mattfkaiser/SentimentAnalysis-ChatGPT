@@ -1,0 +1,5 @@
+Yeah, a worry with this mess is that the builder of the technology (ChatGPT) evidently doesnâ€™t understand the effects of their creation.  If they donâ€™t understand the effects, they canâ€™t perform a root cause analysis to figure out why those effects exist, and then address those causes.  
+
+What theyâ€™ll likely do instead is just more of whatâ€™s in the interview: make more problematic software to compensate for our other problematic software.
+
+Curious to see how this pans out.  Interestingly disruptive technology.

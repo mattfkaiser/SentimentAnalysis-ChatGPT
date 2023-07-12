@@ -1,0 +1,3 @@
+I agree, as someone who dual majored in CS and applied math in undergrad lol  
+
+Chatgpt can pull off simple math in code if it's a function it has seen an example of but fails at anything with complexity, and whiffs understanding of relationships.  i.e. David Kipping gave questions from his "astrophysics for everyone" exam where he asked simple questions like "if you double the distance of an orbiting body what happens to the orbital period" and it gave very confident explanations that were dead wrong.

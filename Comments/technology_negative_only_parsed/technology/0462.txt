@@ -1,0 +1,5 @@
+ChatGPT is studying faster than everyone else!
+
+Still don't expect my job to go away.  Maybe we'll evolve job interviews to skip HackerRank and LeetCode tests, we can see that ChatGPT has mastered that task for us.  
+
+The conclusion from the article is that Google interviews (specifically the LeetCode test questions) are worthless in a modern era of AI assistant for code developers.

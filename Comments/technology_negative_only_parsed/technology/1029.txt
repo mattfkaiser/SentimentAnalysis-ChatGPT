@@ -1,0 +1,19 @@
+It's also a great intermediary to a search engine. As in:
+
+>What is the thing in economics called where buyers can't tell if products are high quality or low quality, so aren't willing to pay for quality, so all the high quality sellers leave the market, leaving only low quality goods?
+
+>>This concept is known as the "lemons problem" or the "adverse selection problem." It was first described by George Akerlof in his 1970 paper "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism." The paper won Akerlof the Nobel Prize in Economics in 2001.
+
+Obviously you're going to google that stuff afterwards, because ChatGPT might be making it up. But for something like this where you've heard of something, but can't remember what it's called, or where you encounter something and you want to know if people have studied it, ChatGPT is invaluable. It's often hard to figure out what you need to google in these situations, and you end up having to do a lot of trial and error.
+
+The ability to continue the conversation if it doesn't get quite what you were thinking of is also a game changer. For example, say I'm a little more vague in my prompt:
+
+> What is it called when all the good sellers leave a market because buyers don't know what's good or bad?
+
+>> This phenomenon is called "adverse selection." In markets, adverse selection occurs when the less desirable goods or sellers remain in the market while the better options exit, because buyers lack information to distinguish between them. This can lead to a market with lower quality products or services, and may result in a downward spiral as more quality sellers leave the market.
+
+But I remember there being a fun name for it. How would I refine that google search? I'd probably just stab around. With ChatGPT:
+
+>I remember this having a fun name
+>
+>>Yes, the term you're thinking of is probably the "lemons problem," named after the 1970 paper by George Akerlof, "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism." In the paper, Akerlof used the market for used cars as an example, where buyers have difficulty distinguishing between good and bad cars, leading to a market filled with "lemons" (i.e. poor quality cars). The "lemons problem" is now used as a general term to describe adverse selection in markets with information asymmetry.

@@ -1,0 +1,3 @@
+>Hell, I've seen people use chatgpt as a calculator, which is probably the thing it's worst at.
+
+Yep, It can't even do multiplication if its a number it hasn't seen before. (try 3454.23423 * 23325.98862 and it will return close but always inaccurate answers. often different answers each time you ask)

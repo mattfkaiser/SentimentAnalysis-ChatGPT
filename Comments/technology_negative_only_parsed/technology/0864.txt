@@ -1,0 +1,9 @@
+Except you can send it the same query twice in a row, and get a perfect piece of code one time, and then garbage in a new session.
+
+Or there's the problem that it even makes up supporting functions/methods when it has no need to, because default ones already exist. It makes these up randomly, so unless you know the language well, you have to test it over and over to isolate them.
+
+By all means, ChatGPT is a great tool, but we are absolutely allowed and **should**, call out its flaws. And for gods sake, people need to stop defending it at every turn with the same tired arguments of "it wasn't designed to write code" and "you just need to query it better".
+
+So no... full stop no. It was explicitly designed **and trained** to be a general purpose chatbot system, and the authors intentionally made it less confident and more prone to lying, because otherwise it wouldn't answer as much (and therefore wouldn't be as interesting or get as much use). 
+
+Also for the love of god stop using "hallucinating". We shouldn't anthropomorphize code, and the phrase downplays the significance. It didn't "imagine" anything, it's just incorrect.

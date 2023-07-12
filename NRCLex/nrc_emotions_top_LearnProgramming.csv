@@ -1,0 +1,749 @@
+Comment ID,Score,Author,Created,Text,Subreddit,emotions,emotion,top_emotion
+jjpu8gk,63,acc_41_post,2023-05-11 04:50:12,"Itâ€™s mostly destroyed my interest in ML. Iâ€™m impressed obviously by the capability, but I canâ€™t bare to listen to another talk about the value of it, read about â€œprompt engineeringâ€, or whatever else. This will pass sure, but I donâ€™t love how itâ€™s continuing a trend of centralization, and a â€œone size fits allâ€ approach to ML. For the latter, this was the fun part of my job- finding the best solution to the problem. Itâ€™s going to be â€œprove to the boss that chat gpt isnâ€™t the answer to everythingâ€ for now.",learnmachinelearning,"{'fear': 0.10526315789473684, 'anger': 0.10526315789473684, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.3684210526315789, 'negative': 0.15789473684210525, 'sadness': 0.10526315789473684, 'disgust': 0.0, 'joy': 0.10526315789473684, 'anticipation': 0.05263157894736842}",Positive,positive
+jjp1ajw,20,the__itis,2023-05-10 23:22:06,"I can say this, the best use of Chat GPT is to get direction on topics you donâ€™t know about, to get validation and insight into those that you do, and to assist in writing code. 
+
+Itâ€™s still not great at understanding what is asked of it and it flat fails nuanced logic. Itâ€™s a fantastic tool, but itâ€™s basically like an average minded know it all with impeccable reading comprehension. 
+Lrenshio",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.42857142857142855, 'surprise': 0.0, 'positive': 0.5714285714285714, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jjqw5j0,5,jawnlerdoe,2023-05-11 10:52:00,"Iâ€™m a novice python programmer who writes scripts to interpret my chemistry data. Itâ€™s been great at improving my coding efficiency. Rather than searching through documentation I just ask chatgpt for an example of how to execute a particular idea, and move from there",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jjpp92f,19,purton_i,2023-05-11 03:36:22,"I'm not an ML engineer (yet) but I've been through a few hype cycles i.e. Dot com boom and Crypto etc.
+
+&#x200B;
+
+As a software engineer if there's one thing I've learned it's ""The trend is your friend"".  
+
+
+If you jumped on the Dot com or crypto wave you increased your probability of getting a higher salary. Regardless of whether you thought the technology would succeed or not.
+
+It's still a bit of a gamble, I skipped the Metaverse hype wave. Too many red flags.
+
+In the case of ChatGPT I predict we will see a lot of corporates who want to prototype a ChatGPT experience on their internal data. Think user manuals in manufacturing etc.
+
+&#x200B;
+
+So at the moment I'm teaching myself to fine tune LLaMa on PDF's using Rust, because to be honest it's fun.",learnmachinelearning,"{'fear': 0.05714285714285714, 'anger': 0.02857142857142857, 'anticip': 0.0, 'trust': 0.11428571428571428, 'surprise': 0.02857142857142857, 'positive': 0.2, 'negative': 0.11428571428571428, 'sadness': 0.05714285714285714, 'disgust': 0.02857142857142857, 'joy': 0.14285714285714285, 'anticipation': 0.22857142857142856}",Positive,anticipation
+jjpox6e,-19,EvenMoreConfusedNow,2023-05-11 03:31:51,"I want my 3 minutes back for reading the bitter lesson.
+
+It's evident that you don't understand the technology behind chatgpt well enough to appreciate it. 
+To help you put this in perspective, If every other actual AI expert claims to be worried to some degree and you're unimpressed, then someone is very wrong. Guess who.
+
+Then you claim years of experience, yet you are waiting for well crafted literature. How often do you read well crafted literature in AI?",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.0, 'positive': 0.4666666666666667, 'negative': 0.2, 'sadness': 0.06666666666666667, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.06666666666666667}",Positive,positive
+jjqrsro,8,DigThatData,2023-05-11 10:22:28,"> the results are just as inadequate as those written by humans.
+
+even if the tests aren't a perfect full coverage suite that captures every imaginable edge case or state the code can reach, something is better than nothing. lots of people who would otherwise never write tests *at all* are adding test suites now, and it's a lot easier to grow a test suite that's already in place when you encounter those edge cases. treat it the same way you would output from a junior dev: it's probably not perfect, but it's a good start and probably just needs a little polish and iteration. Also, considering where the state of the technology is right now, imagine where we'll be in a year.
+
+> The fact that you can proficiently use new tools with little prior knowledge doesn't expand your skillset
+
+I'm not a sysadmin and had never heard of kvm, qemu, vfio, virt-manager or gpu pass through a few days ago. With chatgpt's help I was able to set up virtualization with GPU pass through on my workstation. It wasn't a one-and-done thing and chatgpt didn't do it for me. having gone through that process (and chatgpt being extremely helpful but not getting everything perfectly correct), I now know *a ton* more about virtualization and pci devices than I did a week ago. suffice it to say: I beg to differ.
+
+> reading a research article and asking an LLM about confusing parts doesn't enhance your understanding or ability to comprehend complex topics. 
+
+...it literally does though? how does asking someone ""hey this part confused me, can you explain it to me?"" and iterating on that explanation not enhance your understanding or ability to comprehend complex topics?
+
+> independently grappling with complex subjects.
+
+What exactly does ""independently grappling"" mean? Seriously, think about this for a moment, and then reflect on what your process is when you are independently grappling with a complex subject. Does it involve google? Do you visit stackexchange and learn from discussions other people who have encountered those issues had previously? do you go to forums or discord and engage in discussions directly? do you hit the literature and research the topic? if you're a student, do you visit office hours or consult with your peers? Would you fault anyone or express the same concern to anyone who described to you that they were getting problem solving assistance from google, domain experts, study groups, or office hours? 
+
+If the challenges you are facing are challenges others have faced and solved already, you can leverage the work that came before you to accelerate your path to a solution. LLMs make getting on that path as easy as if you had a personal tutor in the room holding your hand. Do you have these same concerns that tutelage is a crutch that holds people back from growing rather than supporting their growth?
+
+> people will become so reliant on the simplified output of LLMs that they will be incapable of independently grappling with complex subjects.
+
+are you ""reliant"" on your junior devs and less experienced colleagues? are they able to accelerate your workflow despite perhaps not being able to meet the quality of output that you personally produce? does having a team comprised of less experienced people to supervise weaken your ability to achieve your goals or is it a force amplifier? i think maybe you're discounting the value of an extra set of hands (even clumsy hands) much more than you realize.",learnmachinelearning,"{'fear': 0.04040404040404041, 'anger': 0.04040404040404041, 'anticip': 0.0, 'trust': 0.18181818181818182, 'surprise': 0.020202020202020204, 'positive': 0.36363636363636365, 'negative': 0.1111111111111111, 'sadness': 0.06060606060606061, 'disgust': 0.030303030303030304, 'joy': 0.0707070707070707, 'anticipation': 0.08080808080808081}",Positive,positive
+jjrvfor,2,r_31415,2023-05-11 14:44:38,"While it is certainly true that having some tests is better than having no tests at all, it is important to maintain a realistic perspective regarding what will become the norm. Once an activity reaches an automated level comparable to that of humans, humans don't think ""Let me use this as a stepping stone to improve it myself"". Instead, that particular activity becomes solely handled by machines, and within a few months, it becomes inconceivable for a human to perform those tasks, as ""we humans have better things to do."" This mindset is beneficial for many repetitive and mindless tasks, but it so happens that writing tests effectively requires a significant amount of creativity and introspection. Therefore, relying on LLMs to write tests for us is not a great idea.
+
+Obviously, it is impossible to assess the extent to which you now ""know a ton more about virtualization and PCI devices than I did a week ago."" I would say you have become familiar with the way that setup is configured, but since you were extensively guided by ChatGPT, it is unlikely that you will remember many details after a few weeks. Essentially, you haven't become more proficient at solving such problems, as expertise only comes with a lot of practice, facing unexpected issues, and persisting with unsuccessful approaches until a moment of clarity arrives and you finally figure out a solution.
+
+> ...it literally does though? how does asking someone ""hey this part confused me, can you explain it to me?"" and iterating on that explanation not enhance your understanding or ability to comprehend complex topics?
+
+It doesn't enhance your understanding because you are given the answer to your question right away without being forced to think deeply about that confusing part first.
+
+> What exactly does ""independently grappling"" mean? Seriously, think about this for a moment, and then reflect on what your process is when you are independently grappling with a complex subject. Does it involve google? Do you visit stackexchange and learn from discussions other people who have encountered those issues had previously? do you go to forums or discord and engage in discussions directly? do you hit the literature and research the topic? if you're a student, do you visit office hours or consult with your peers?
+
+No, independently grappling doesn't mean searching for the solution on Google, finding a StackExchange answer, or asking others if they already know the solution. ""Independently"" means relying on your own abilities and thinking process. It doesn't mean you can't use Google to clarify concepts or consult the available literature, especially when dealing with advanced topics or unanswered questions. Nonetheless, in the same way as with ChatGPT, I would advice against pursuing these avenues until you have genuinely made a effort to solve the problem on your own. Now, you bring up a really good point: if others have already solved the same problem, why go through the trouble of doing it yourself? The reason is that by challenging yourself to frequently figure things out independently, even when existing solutions are available, you develop the confidence and essential skills needed for when you encounter unfamiliar challenges. As you know, progress doesn't arise from everyone sharing solutions that are already known, but rather from solving what no one else knows how to solve.",learnmachinelearning,"{'fear': 0.05555555555555555, 'anger': 0.03333333333333333, 'anticip': 0.0, 'trust': 0.17777777777777778, 'surprise': 0.03333333333333333, 'positive': 0.37777777777777777, 'negative': 0.1111111111111111, 'sadness': 0.044444444444444446, 'disgust': 0.022222222222222223, 'joy': 0.07777777777777778, 'anticipation': 0.06666666666666667}",Positive,positive
+jjt257d,0,r_31415,2023-05-11 19:41:31,"> what i'm emphasizing is that neurodiversity exists and the fact that I'm able to teach myself things more effectively than other people isn't necessarily reflective of a character flaw those people suffer from but rather a learned skill I have cultivated. Just because I had to engage with a particular struggle to acquire certain skills doesn't mean that struggle and those skills are intertwined.
+
+""Neurodiversity"" is not the same as ""I can't learn by myself"" or ""I can't think by myself,"" so your point seems unrelated to what we were discussing. Furthermore, as I said before, by interacting with ChatGPT, you're not really learning anything. You're simply acquiring disjoint knowledge that creates an illusion of learning because knowing things is not the same as understanding ideas. You do not retain much information, nor do you make many mistakes, or rather, the algorithm makes the mistakes for you and you're not thinking much. I know people love shortcuts and hacks to avoid putting in some effort, but at the end of the day, if you want to learn a skill or understand something complex, you have to sit down and think hard about it, and make some mistakes along the way until everything makes sense.
+
+On your second point, don't confuse the idea that a particular skill (in your example, calligraphy) is not that important nowadays with the fact that you can automate everything without negative consequences. However, I definitely agree that LLMs are a great tool for information retrieval, which complements other tools to provide assurances about accuracy.
+
+> You do you, but the longer you put off engaging with these tools, the more at risk you are of having the same kind of awkward relationship with future technology as my 80yo dad has with his cellphone he can barely use, despite having owned a cellphone for a decade or two now.
+
+I engage with those tools regularly. For instance, I like the way LangChain offers tools for information retrieval. Edge's sidebar is particularly impressive for querying information within the current context of the page. I frequently experiment with new models and learning about coding new DL architectures. Therefore, I believe it is a stretch to take my concerns about automation degrading human cognition and equate them to the relationship that older adults have with newer technological trends.",learnmachinelearning,"{'fear': 0.07352941176470588, 'anger': 0.029411764705882353, 'anticip': 0.0, 'trust': 0.1323529411764706, 'surprise': 0.04411764705882353, 'positive': 0.36764705882352944, 'negative': 0.14705882352941177, 'sadness': 0.08823529411764706, 'disgust': 0.014705882352941176, 'joy': 0.058823529411764705, 'anticipation': 0.04411764705882353}",Positive,positive
+jjoouyg,47,Thalesian,2023-05-10 21:46:52,"Machine learning engineer who started out with training in anthropology (PhD). I find text and image generators as a fascinating insight into our culture. Itâ€™s like a giant statistical device ground the mass of information on the internet into an average understanding of almost every issue. If I want to know the scientific consensus on a given issue, I ask chatGPT to explain it to me. If I want to look for overlooked areas of research, I look for where the reasoning becomes circular. An example is I asked if monotremes were mammals (yes, even though they lay eggs). I then asked how milk evolved (with live birth instead of eggs). Bingo, a logic circle that highlights a gap in our understanding.
+
+When you ask a generative model for text or an image, itâ€™s bringing you the loss minimized version of that concept. It is compelling to most people because most people are in that hump of the normal distribution for any given request the model receives. 
+
+So less wowed by the technology than I am in what it says about ourselves.",learnmachinelearning,"{'fear': 0.10344827586206896, 'anger': 0.034482758620689655, 'anticip': 0.0, 'trust': 0.2413793103448276, 'surprise': 0.0, 'positive': 0.4482758620689655, 'negative': 0.06896551724137931, 'sadness': 0.034482758620689655, 'disgust': 0.0, 'joy': 0.034482758620689655, 'anticipation': 0.034482758620689655}",Positive,positive
+jjpdwam,1,juniperking,2023-05-11 01:18:28,"this isnâ€™t really accurate. llms being trained on large amounts of data doesnâ€™t imply they output an â€œaverageâ€ opinion when you use methods like RLHF to turn them into something like chatgpt after the standard training steps. itâ€™s skewed heavily by the scorersâ€™ biases
+
+almost all llms people interface with regularly have been rlhfâ€™d; if you try conversing with gpt neox youâ€™ll see why",learnmachinelearning,"{'fear': 0.0, 'anger': 0.16666666666666666, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.0, 'positive': 0.16666666666666666, 'negative': 0.3333333333333333, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.16666666666666666}",Negative,negative
+jjq1daq,8,TheUSARMY45,2023-05-11 06:30:59,"As with other things, ChatGPT and other generative machine learning models are tools. Tools with specified purposes given what they were trained for. 
+
+You wouldnâ€™t use a shovel to drive a nail into drywall, and you wouldnâ€™t use ChatGPT to predict the stock market. 
+
+ChatGPT, because of how realistic itâ€™s outputs seem, is just the latest fad. But itâ€™s not a one stop solution to every business problem. 
+
+My biggest gripe right now is not with ChatGPT or OpenAI - its with the charlatans on LinkedIn and the like who are scamming people with schemes related to using it",learnmachinelearning,"{'fear': 0.125, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.125, 'sadness': 0.125, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.125}",Positive,trust
+jjqjatp,2,woodrebel,2023-05-11 09:20:20,I don't use linkedin. What are the charlatans doing? Selling courses on how to use chatgpt to do x and charging for it?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jjpuvmc,5,Seankala,2023-05-11 04:59:50,"MLE who's still new to industry (currently working on my first year of experience). I did my master's in CS before this with a focus on NLP.
+
+What I think of ChatGPT is what everyone already knew: bigger LMs do better. The genius behind OpenAI is that they actually provided a UI and wrapped it as a service.
+
+The value that ChatGPT provides (in my opinion) is that people no longer have to do extensive Google searches (most of the time). I can ask ChatGPT a question and just read the answer, then do minimal searching to verify the information. When I don't know what even to exactly Google, I just ask ChatGPT. I like to think of ChatGPT as the Xavier or He initialization of my Googling.
+
+What I hate is all the hype. Everyone is an AI expert now. Or a frikkin ""prompt engineer"" (whatever tf that is). I worked in cryptocurrency back in 2017-2018 when the hype was also quite real. I hate it.",learnmachinelearning,"{'fear': 0.07692307692307693, 'anger': 0.07692307692307693, 'anticip': 0.0, 'trust': 0.07692307692307693, 'surprise': 0.0, 'positive': 0.34615384615384615, 'negative': 0.15384615384615385, 'sadness': 0.07692307692307693, 'disgust': 0.07692307692307693, 'joy': 0.0, 'anticipation': 0.11538461538461539}",Positive,positive
+jjrezm8,4,marcus_hk,2023-05-11 12:56:05,"It's an impressive engineering, business, and cultural achievement. From a conceptual standpoint it's incredibly simple, which is kind of impressive in its own way.
+
+LLMs are not the end of the story. Still a long way till we reach human-like intelligence. For instance, people learn from ""raw video"". LLMs do not. They learn from discrete tokens that were curated and distilled by people. I want to see AI that learns from raw experience instead of human knowledge. I want to see AI that learns in real time. I want to see AI that can navigate and adapt to changing environments. I want to see AI that I can teach to set up a tent, or play hide and seek, or make a bed, or wash the dishes, the same way I would teach a child.
+
+ChatGPT solves none of the most interesting problems in AI. I want C-3PO, and ChatGPT is not C-3PO. The methods that gave us ChatGPT will never give us C-3PO.",learnmachinelearning,"{'fear': 0.06060606060606061, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.18181818181818182, 'surprise': 0.06060606060606061, 'positive': 0.36363636363636365, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.18181818181818182, 'anticipation': 0.15151515151515152}",Positive,positive
+jjov4qf,10,shinstra,2023-05-10 22:33:03,Head of AI at a small tech company. Itâ€™s an amazing and very exciting achievement. Overall I am highly cautious about application of this technology - especially given its potential to hallucinate convincing fictitious information. There are many applications where the current embodiment of ChatGPT-like technologies introduces a very high risk profile with potential to cause significant harm. There is a lot of overhead in managing such risks and they create far greater liabilities.,learnmachinelearning,"{'fear': 0.12, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.12, 'surprise': 0.04, 'positive': 0.28, 'negative': 0.16, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.12, 'anticipation': 0.16}",Positive,positive
+jjpe9f1,8,shayanrc,2023-05-11 01:22:19,"Working on data science and machine learning for the last 8 years. It's fascinating to see how much these models have improved over the last few years. And now that ChatGPT has made these models available to the general public, we're at the threshold of another technological revolution.
+
+Think of ChatGPT as the first iPhone. Sure, smartphones had existed before but the iPhone changed the game. Others are going to copy and improve on it, that's for sure. But it's almost impossible to predict where it's going to lead, just like it would've been hard to predict the emergence of apps like Uber and Tiktok in 2008. People are still trying figure out what we can build on top of it.",learnmachinelearning,"{'fear': 0.034482758620689655, 'anger': 0.034482758620689655, 'anticip': 0.0, 'trust': 0.13793103448275862, 'surprise': 0.034482758620689655, 'positive': 0.3448275862068966, 'negative': 0.10344827586206896, 'sadness': 0.06896551724137931, 'disgust': 0.0, 'joy': 0.034482758620689655, 'anticipation': 0.20689655172413793}",Positive,positive
+jjqi69w,3,BellyDancerUrgot,2023-05-11 09:11:34,"Research Engineer , ex MLE. 
+
+Itâ€™s mundane. Iâ€™ve tried on occasion to use it in a practical setting , realized how awful it was, didnâ€™t touch it again. If it helps you then good, but if I personally ever see someone submit shit work because they used chatgpt or bing chat or something then Iâ€™m giving them hell. Stuff like diffusion , and other ELBO based models seem far cooler to me than autoregressive models anyway. Although I will admit that if the user is a domain expert then LLMs can be quite a good search engine. I usually use it for things I would typically google but at the same time Iâ€™ve seen it make a ton of mistakes so always have to be careful. 
+
+Ps: I am convinced all the .eth crypto bros are the ones who now have a .ai on their profile on Twitter",learnmachinelearning,"{'fear': 0.06666666666666667, 'anger': 0.1, 'anticip': 0.0, 'trust': 0.13333333333333333, 'surprise': 0.06666666666666667, 'positive': 0.16666666666666666, 'negative': 0.1, 'sadness': 0.06666666666666667, 'disgust': 0.1, 'joy': 0.06666666666666667, 'anticipation': 0.13333333333333333}",Positive,positive
+jk2uac1,1,SadWheatFarmer,2023-05-13 23:40:01,"(Current software EGR in grad school studying AI and ML)
+I relate more to madrury83. ChatGPT is an amazing step forward. Itâ€™s allowed people to take a closer look into what ML could do for language models. Very good work by team at OpenAI whom deserve all of the praise and attention that their work has gotten themâ€¦. But (and there is always a but) 
+
+ChatGPT will not save or destroy the world. Itâ€™s a step forward towards something great and will probably inspire more non engineers to study the field of ML. More people of diverse applications will help introduce better technology to the public. 
+
+To me, ChatGPT is now over-hyped and could walk into the over used category of â€˜one-size-fits-allâ€™ if the broader public does not learn to understand what it is and isnâ€™t. It cannot make anything original since it learns from existing material or give a nuanced answer. I wish OpenAI created a watermark for AI generated material when they released the product from the start.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.029411764705882353, 'anticip': 0.0, 'trust': 0.20588235294117646, 'surprise': 0.029411764705882353, 'positive': 0.4117647058823529, 'negative': 0.029411764705882353, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.11764705882352941, 'anticipation': 0.17647058823529413}",Positive,positive
+jhryszp,64,sc4s2cg,2023-04-26 08:26:01,"
+>  It made up a paper that doesnâ€™t exist
+
+So on par with chatGPT then lol",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jhrmlka,2,devi83,2023-04-26 06:16:11,"Three. Danvinci-003 to be precise, which was the GPT-3 Model available on OpenAI Playground before ChatGPT released.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jhrmalu,3,devi83,2023-04-26 06:12:02,"Well, I think I used models on Playground to code before the ChatGPT interface came out, so whatever those models are. Davinci-003 which is GPT-3 I believe.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jez5bil,66,bloodmummy,2023-04-04 18:11:57,I hate how the quality of posts and discussions plummeted in ML subs and forums following ChatGPT.,learnmachinelearning,"{'fear': 0.2, 'anger': 0.2, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.2, 'sadness': 0.2, 'disgust': 0.2, 'joy': 0.0}",Negative,fear
+jezyin7,16,yourfinepettingduck,2023-04-04 21:48:46,"idc about people using chatGPT or even people building scammy influencer shit with it. 
+
+Itâ€™s when these folks 6 months into the fad start arguing about how LLMs work or get up on some soapbox about the future of MLâ€¦",learnmachinelearning,"{'fear': 0.0, 'anger': 0.2, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.2, 'negative': 0.2, 'sadness': 0.0, 'disgust': 0.2, 'joy': 0.0, 'anticipation': 0.2}",Neutral,anger
+jf63hl3,1,dasMaiMaiKamel,2023-04-06 06:38:13,"Agreed... Had a discussion with someone about ChatGPT lately. He probably watched 2-3 clickbait videos and told me that OpenAI directly influences what the AI says for their agenda. When I tried to explain to him how GPT actually works and that AI is way more complicated than saying: ""I want you to say this, so you'll do"", he blocked it off and said ""we can agree to disagree"".  
+
+
+He is literally a biology student and I'm a computer scientist working with AI. While I'm not all knowing and still far from an expert, what he said was just straight bs. Sometimes I get the feeling that AI is becoming a political opinion.",learnmachinelearning,"{'fear': 0.041666666666666664, 'anger': 0.08333333333333333, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.041666666666666664, 'positive': 0.3333333333333333, 'negative': 0.125, 'sadness': 0.041666666666666664, 'disgust': 0.041666666666666664, 'joy': 0.041666666666666664, 'anticipation': 0.08333333333333333}",Positive,positive
+jgplknp,1,Common-Maximum8431,2023-04-18 01:23:47,"I'm really bad at communicating what I believe in a nice way.. so sorry upfront.  
+AI is a political subject, a serious one! But of course, that would depend on your definition of what ""political"" means. For me, anything that distributes information to 100 million users on a daily basis has the power to incrementally and slowly introduce information into any system and, with time and some external help, shape the consensus toward any subject. If you studied computer science and you got any closer to information and system theory, you know what I'm talking about.  
+I also want to challenge the idea of a biology student being somehow not adequate to criticize artificial intelligence. In my own experience, some of the most powerful insights come from the intersection of different ways of explaining processes. I mean, think about how in a certain way LLMs understand everything as a language, how language becomes the code (coding) for everything. Biology is just another way of explaining things; the principles and logic are very valid, and your friend can have an understanding from a sensibility that you did not train yet.  
+Also, saying that you can't tell a model what to say is just wrong. You can absolutely, completely, and without a doubt decide what, how, and when certain information is given or not given. From not subtle at all strategies like ""safeguards"" that literally spell out a predetermined answer, denying access to information inside the model, to subtle fine-tuning that would circumscribe you to certain ""clusters"" of data. I mean, you literally need to adjust a parameter called ""bias"" so you can modify the output from the model. That is how models like midjurney can now represent hands more accurately. How can you tell what other fine-tuning has been made?  
+How can you know what the aggregation of billions of interactions with the model looks like each day? What ideas are being included and excluded? Did you ever ask ChatGPT about a subject that you really know about and get disappointed by how what you think is the most relevant author in that field was not included? Or a concept that was incomplete or plain wrong?  
+You can't tell because you don't have access to the entire picture, but companies can strategize on all the information they collect from these interactions and from all the associated marketing data that is collected from the entire ecosystem of products they own and from all the others they pay to get the information.  
+Companies will and for sure are ""pushing their agenda,"" which only means, doing business.  
+I have some videos that may be interesting if you want to spend the time...  
+[https://www.youtube.com/watch?v=xoVJKj8lcNQ](https://www.youtube.com/watch?v=xoVJKj8lcNQ)  
+[https://www.youtube.com/watch?v=tTBWfkE7BXU](https://www.youtube.com/watch?v=tTBWfkE7BXU)  
+[https://www.youtube.com/watch?v=fCUTX1jurJ4](https://www.youtube.com/watch?v=fCUTX1jurJ4)",learnmachinelearning,"{'fear': 0.07142857142857142, 'anger': 0.07142857142857142, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.011904761904761904, 'positive': 0.2857142857142857, 'negative': 0.15476190476190477, 'sadness': 0.05952380952380952, 'disgust': 0.05952380952380952, 'joy': 0.047619047619047616, 'anticipation': 0.09523809523809523}",Positive,positive
+jititlm,1,dasMaiMaiKamel,2023-05-04 07:59:18,"Late answer but an answer:  
+
+
+You are arguing with me over a non-argument. You literally don't know what he said. He had no clue what AI even was, he didn't even know the term bias, weights or anything. He simply watched a shitty conspiracy YouTube video. That's everything. That's honestly all you can read out of my comment...  
+
+
+I know that biology students can criticize AI. Everyone can. The knowledge is not only available to computer scientists.
+
+&#x200B;
+
+But there's a fine difference between manipulating inputs, feeding in false information and straight up saying ""Yea OpenAI sits there and tells ChatGPT to say THIS exact thing at THIS exact time"". That's not how AI works.
+
+I honestly won't watch any of these videos, because I already watched enough about this topic. I know how bias works, because as I said: I'm literally working on AI!  
+
+
+Just because the point of someone COULD be right it doesn't make their opinion valid if it's based on bs. Take this as an example:  
+
+
+If someone says ""Man today is so fucking hot, we need to fight climate change"" ( I know this is a casual saying which doesn't need to be analyzed, but take this in the context of a political debate) he is basically right about the climate change part. But ""that the day is hot"" part isn't necessarily a consequence of it. Sometimes it's just weather. Climate is something entirely different with influence on weather. The conclusion is right, however the rest doesn't need to be true. Just because something CAN happen it doesn't mean that shitty conspiracies are true now.
+
+&#x200B;
+
+If you have any doubt that he was simply talking bullshit: He later said that we are able to open a wormhole for space travel. When I asked him to explain how a wormhole works he didn't have an answer. After I explained it to him he agreed to disagree. About a scientific fact...
+
+You are right now defending a shit talker.",learnmachinelearning,"{'fear': 0.1346153846153846, 'anger': 0.15384615384615385, 'anticip': 0.0, 'trust': 0.1346153846153846, 'surprise': 0.0, 'positive': 0.23076923076923078, 'negative': 0.15384615384615385, 'sadness': 0.038461538461538464, 'disgust': 0.038461538461538464, 'joy': 0.038461538461538464, 'anticipation': 0.07692307692307693}",Positive,positive
+jeyh1nf,24,oldgrumpygeek,2023-04-04 15:30:56,What pisses me off about Chat GPT is that is wasn't a thing yet when I was working on my masters in DS.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jg7mcz1,1,relloresc,2023-04-14 06:31:42,as a current data science studentâ€¦ this is so real and Iâ€™m so sorry lmao. ChatGPT is getting me through the process of my first natural language model project in a weirdly poetic way.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3333333333333333, 'surprise': 0.0, 'positive': 0.6666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jgvm69g,1,Whats_with_her,2023-04-19 09:31:37,"As a person with no background or expertise, just a huge amount of curiosityâ€¦I typically
+Lurk in these threads. Have for a long time. I donâ€™t pretend to know what I donâ€™t. Hopefully Iâ€™m not bogging it down more by asking a question -
+
+What are good resources for a laymen with a big interest? What is the best way for me to educate myself on how exactly chatGPT learns and what the implications are? I do have some basic understanding of language models, how different types of bots work and are used online, and have listened to all the podcasts lex fridman has had in regard to AI and AGI. Where else might I go if I wanted to deepen my understanding? Thanks :)",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.05, 'positive': 0.4, 'negative': 0.05, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.1, 'anticipation': 0.15}",Positive,positive
+jgvp1yz,1,macronancer,2023-04-19 09:53:24,"Quite honestly, your best experience might be to just start talking to chatGPT. You will both see the capability, and you can literally ask it to teach you about ML from scratch.
+
+Go to chat.openai.com
+
+And just ask it like you would a person: ""im curious about machine learning, can you teach me the basic principles?""",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2727272727272727, 'surprise': 0.18181818181818182, 'positive': 0.2727272727272727, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.18181818181818182, 'anticipation': 0.09090909090909091}",Positive,trust
+jf3v6zg,1,Intelligent_Rope_912,2023-04-05 17:37:32,"Itâ€™s just a post mocking people who are new to machine learning who found out about it because of ChatGPT. I donâ€™t think anyone realistically thinks that theyâ€™re a machine learning engineer because they have a few conversations with a LLM. But then again, some people do believe theyâ€™re artists because they can create convincing prompts for an A.I art generator.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.05263157894736842, 'anticip': 0.0, 'trust': 0.21052631578947367, 'surprise': 0.05263157894736842, 'positive': 0.2631578947368421, 'negative': 0.05263157894736842, 'sadness': 0.10526315789473684, 'disgust': 0.05263157894736842, 'joy': 0.15789473684210525, 'anticipation': 0.05263157894736842}",Positive,positive
+jexgxis,7,waaves_,2023-04-04 11:36:10,More like the function was already there but most people never realised it. Even the ChatGPT devs said were curious about what people were doing with it.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jexh155,33,Taoudi,2023-04-04 11:36:50,"I agree, chatgpt is very gppd at gaslighting by sounding very confident when giving incorrect answers",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.16666666666666666, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666}",Positive,positive
+jey1gx8,-7,Robot_Basilisk,2023-04-04 13:49:50,"It's self-correcting. When it leads you astray, your work won't produce results. It will be similar to trying to solve a problem by using a textbook and misunderstanding it. The textbook may have been 100% accurate, but if you don't understand it, your answers will be wrong.
+
+Replacing a textbook with chatGPT moves more error onto the reference material, but vastly improves communication of said material. 
+
+If it gives you a bad citation, you'll catch it.
+
+If it gives you bad code, it may not compile or execute as expected and you will be able to copy and paste your code in and ask for help instead of just re-reading the text.
+
+I can't believe anyone would say that this isn't a potentially massive learning aid. It's not like someone is going to write a term paper over a topic and cite chatGPT for it.",learnmachinelearning,"{'fear': 0.13793103448275862, 'anger': 0.10344827586206896, 'anticip': 0.0, 'trust': 0.06896551724137931, 'surprise': 0.034482758620689655, 'positive': 0.10344827586206896, 'negative': 0.27586206896551724, 'sadness': 0.1724137931034483, 'disgust': 0.06896551724137931, 'joy': 0.0, 'anticipation': 0.034482758620689655}",Negative,negative
+jezp8xs,-7,Robot_Basilisk,2023-04-04 20:39:59,"Have you used chatGPT? It gives tons of such disclaimers. And textbooks don't come with them, so the double standard still exists.
+
+This alarmism is boring.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 1.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+jexlex2,9,blevlabs,2023-04-04 12:05:09,"No, this is common. ChatGPT has no access to the internet, so any source or resources mentioned are fabricated by the model.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.25}",Positive,positive
+jf122l9,3,siposbalint0,2023-04-05 04:55:57,"What is this garbage, you should never rely on a model to teach you fundamentals. You cannot possibly know if the direction it gave you is right or wrong and will lead you down a path that might be straight up wrong. Use credible sources, videos, books, courses to learn from reputable people, this subreddit has a ton of advice on how to get started as well as many others.
+
+I despise this new wave of tiktokkers talking about chatgpt as the second coming of christ and act like computer vision, voice recognition and conversational ai hasn't been a thing for a decade or more.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.043478260869565216, 'anticip': 0.0, 'trust': 0.17391304347826086, 'surprise': 0.043478260869565216, 'positive': 0.34782608695652173, 'negative': 0.17391304347826086, 'sadness': 0.0, 'disgust': 0.08695652173913043, 'joy': 0.043478260869565216, 'anticipation': 0.08695652173913043}",Positive,positive
+jewzwbr,0,SaveVideo,2023-04-04 09:37:34,"###[View link](https://rapidsave.com/info?url=/r/learnmachinelearning/comments/12bdzrx/chatgpt_can_now_teach_you_new_skills/)
+
+
+ --- 
+ [**Info**](https://np.reddit.com/user/SaveVideo/comments/jv323v/info/)&#32;|&#32; [**Feedback**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Feedback for savevideo)&#32;|&#32;[**Donate**](https://ko-fi.com/getvideo) &#32;|&#32; [**DMCA**](https://np.reddit.com/message/compose/?to=Kryptonh&subject=Content removal request for savevideo&message=https://np.reddit.com//r/learnmachinelearning/comments/12bdzrx/chatgpt_can_now_teach_you_new_skills/) &#32;|&#32; 
+ [^(reddit video downloader)](https://rapidsave.com) &#32;|&#32; [^(twitter video downloader)](https://twitsave.com)",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 1.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+jezjmqf,1,CumberbunBundlebunch,2023-04-04 19:58:20,Is ChatGPT also spamming your video across multiple subreddits for you?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jezx4s1,1,free-puppies,2023-04-04 21:38:30,Iâ€™ve tried this with more advanced topics on a more extended timeline. It honestly cannot understand things like time or difficulty. The best way to use ChatGPT to learn is to use it for quizzing and a resource for conversation. Youâ€™re not going to get a great learning plan out of it for anything that doesnâ€™t already have an easily accessible learning plan.,learnmachinelearning,"{'fear': 0.08333333333333333, 'anger': 0.08333333333333333, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.4166666666666667, 'negative': 0.08333333333333333, 'sadness': 0.08333333333333333, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.25}",Positive,positive
+jj9zjdm,2,roxburghred,2023-05-07 20:24:37,"If you want to learn about how chatgpt can be used there is currently a free course on ""chatgpt prompt engineering for dvelopers"" at deeplearning.ai  . Explains how to set up access to chatgpt from within python and how to steer chatgpt to provide good results.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.125, 'positive': 0.375, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.125, 'anticipation': 0.125}",Positive,positive
+jjexkgu,1,z_fi,2023-05-08 21:28:16,How long before you realize you should ask those questions to ChatGPT before asking here..,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 1.0}",Neutral,anticipation
+ji3we6n,6,Crypt0Nihilist,2023-04-28 17:39:43,"I messed around with Stable Diffusion and there's definitely some skill to it. A course sounds excessive though, even a short one. For ChatGPT you probably don't need more than half a sheet of paper to cover everything you need.
+
+edit: It's a 1 hour course! Sounds about right!",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 1.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+ji41rs4,4,EverythingGoodWas,2023-04-28 18:20:16,I need a paragraph about the revolutionary warâ€¦Uhhâ€¦ChatGPT tell me about war or something.  Jeez if only I had taken that prompt class.,learnmachinelearning,"{'fear': 0.3333333333333333, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.3333333333333333, 'negative': 0.3333333333333333, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j96ncwr,16,bpooqd,2023-02-19 12:39:36,seems to miss reinforcement learning with human feedback thats pretty essential to chatgpt,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.125, 'anticipation': 0.125}",Positive,positive
+j95wu9b,26,sapnupuasop,2023-02-19 09:26:52,"Oh look, another chatgpt post!",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j97yvi3,3,math_is_my_religion,2023-02-19 18:12:20,"I tried building a family tree around ChatGPT. 
+[but Iâ€™m not sure if itâ€™s correct 100%](https://community.openai.com/t/gpt-family-tree/52336)",learnmachinelearning,"{'fear': 0.0, 'anger': 0.125, 'anticip': 0.0, 'trust': 0.125, 'surprise': 0.125, 'positive': 0.25, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.125, 'joy': 0.125, 'anticipation': 0.125}",Positive,positive
+j99j92k,1,1percentof2,2023-02-20 02:46:03,Stephen Wolfram gave a great 3 hours talk on the history of neural nets and how chatGPT work. Really good,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.16666666666666666, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666, 'anticipation': 0.16666666666666666}",Positive,positive
+ji59rgt,1,Ok-Range1608,2023-04-29 00:10:35,ChatGPT has now a toggle off history https://ithinkbot.com/chatgpt-privacy-turn-off-chat-history-60e7c2578c37 Here is my take on it,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jcl8b5x,3,BouBatran,2023-03-17 13:16:41,"Looking forward for an open-source alternative.
+
+I think ChatGPT is great and I have nothing against OpenAI, but I was hoping we'll be getting something built by the community. Keep the culture alive.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.0, 'positive': 0.5714285714285714, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.14285714285714285, 'anticipation': 0.14285714285714285}",Positive,positive
+jghrc3x,2,Lost_LimitingBeliefs,2023-04-16 11:40:42,why can't we have ChatGPT (via API) help train the actual open source AI \^,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jgohjfv,1,kingabzpro,2023-04-17 19:58:14,Open-source Licence Restriction. You cannot use ChatGPT to compete against OpenAI.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jcx8cr0,1,AMGraduate564,2023-03-20 03:02:09,A nice article on this - https://the-decoder.com/openchatkit-open-source-competition-for-chatgpt/,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+ja4m6ul,2,lurkinginboston,2023-02-26 15:25:27,This revolves around using ChatGPT or openAI. Is there any other self host services to feed confidential data and get results back?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 1.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+j9whzxz,6,EverythingGoodWas,2023-02-24 20:35:51,"You are talking about a closed domain question answering system.  This is something I did for my capstone project in grad school.  While you can use an LLM like chatgpt for this, you are better off using a smaller llm or something like BERT, and feed it context from your documents via a search engine.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.6666666666666666, 'surprise': 0.0, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+j9uv9m9,3,ejpusa,2023-02-24 13:53:23,"Ok, my story. Have over 150,000 CovId links, (Subredditâ€™s) have been updating the list every 5 mins, 24/7. For 3 years now. The B2B is to make this available to healthcare interested folks. 
+
+Some great tips here. Looks like diving into the ChatGPT api is the place to be. The data is super clean, saved in a PostgreSQL database. The majority of the links are summary titles from journal articles. 
+
+Business card I guess should say â€œModel Maker.â€
+
+More to play with. :-)",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.1, 'positive': 0.3, 'negative': 0.0, 'sadness': 0.1, 'disgust': 0.1, 'joy': 0.2}",Positive,positive
+j8u31z5,5,alwaysblearnin,2023-02-16 18:16:24,I like chat.ai better for chatgpt but makes more sense for openai.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j8uzptw,2,jhaluska,2023-02-16 22:19:32,Or even [chatgpt.com](https://chatgpt.com)  It's not like people don't already know the name.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j8xo4lm,1,LadyEmaSKye,2023-02-17 13:10:32,"Because it's tangentially about chatGPT, duh. /s",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+ja8wwlk,20,f10101,2023-02-27 13:40:16,"Not as yet. OpenAI only publicly offer basic fine tuning services for their base GPT3 models. 
+
+No fine tuning is available for even text-davinci-003, let alone InstructGPT or ChatGPT. https://platform.openai.com/docs/guides/fine-tuning",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+ja7rtdq,17,cas4d,2023-02-27 09:05:00,"I really doubt so. chatGPT is of 175 billion of parameters. Anything with that size already requires specially built architecture no individual could afford. And your data in comparison with theirs should be insignificant. I guess they will release sth that allows users to set focus on some topics. But it is usually in the sense of having more weights on your topics in prediction, not in the sense of retraining the model. 
+
+But I am only guessing.",learnmachinelearning,"{'fear': 0.06666666666666667, 'anger': 0.06666666666666667, 'anticip': 0.0, 'trust': 0.13333333333333333, 'surprise': 0.06666666666666667, 'positive': 0.3333333333333333, 'negative': 0.13333333333333333, 'sadness': 0.13333333333333333, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.06666666666666667}",Positive,positive
+ja7zu5n,21,Mescallan,2023-02-27 10:05:05,"You can fine tune GPT3, which is essentially the same size as chatGPT's model. I don't believe they've released anything public facing that would allow you to fine-tune chatGPT, but it's not because it's impossible/hard to do.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.6666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.3333333333333333}",Positive,positive
+ja8dfr5,4,ObiWanCanShowMe,2023-02-27 11:37:18,">I really doubt so. 
+
+The answer to OP's question as asked, is NO. It is not available to train.  GPT and other models are available.
+
+If you KNOW you are only guessing, why comment in this manner? Or why start off with a negative?
+
+>chatGPT is of 175 billion of parameters. Anything with that size already requires specially built architecture no individual could afford.
+
+That wasn't the question OP is asking and is not relevant to the answer. OP seems to have a firmer grasp than you do. OP just did not know if ChatGPT was *also* available.
+
+>not in the sense of retraining the model.
+
+OP did not say retraining. No one says retraining.  Use proper terms if you are going to pretend to know what you are talking about.
+
+GPT can be trained, the extra data stays in the cloud.  There are 1000's of companies and individuals training it and that have trained it, that is why you see so many websites (if looking) that have ""AI"" based tools.  Resume builders, PowerPoint builders etc..
+
+There are three (probably more) ways to interact with GPT models other than just going to the wesbite
+
+1. You act as a middle man, just sending prompts via API http
+2. You prepare/prepend prompts specifically tailored to the desired output and complete with 1.
+3. You train your own data to facilitate a wider and specific range of output and complete with 1, 2 and your key.
+
+ChatGPT is a front facing product, it is not GPT4.  I would not know, but if I had to guess I would say ChatGPT will never be anything other than 1 and 2 with no ability to train.",learnmachinelearning,"{'fear': 0.047619047619047616, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.047619047619047616, 'positive': 0.47619047619047616, 'negative': 0.14285714285714285, 'sadness': 0.09523809523809523, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.047619047619047616}",Positive,positive
+ja8wab7,4,cas4d,2023-02-27 13:36:24,"Why donâ€™t you read the prompt once more and figure out his intention instead. 
+
+He did mention training on his own dataset didnâ€™t he? And his first sentence even hinted he was having the impression it could be done locally when the public API was available. My best guess of his fine tuning was more about updating the existing parameters of chatGPT using his dataset - aka retraining. I tried to clarify such idea might not be attainable. I left my comment with some ambiguity was because even if you cannot update the base parameters, but you can still â€œfine tuneâ€ it by locking up parts of the context vector or they would allow your corpus to feed into some encoder to get some latent variables, and concat the prompt with the latent variables into the model. Or what if they later release a lite offline version with trimmed down parameters and with APIs that allow you to actually update some parameters. This is particularly appealing to enterprises with private cloud infrastructures. The possibility is just wide open. Who knows, do you know enough about ChatGPT and OpenAI?",learnmachinelearning,"{'fear': 0.038461538461538464, 'anger': 0.11538461538461539, 'anticip': 0.0, 'trust': 0.038461538461538464, 'surprise': 0.11538461538461539, 'positive': 0.19230769230769232, 'negative': 0.11538461538461539, 'sadness': 0.038461538461538464, 'disgust': 0.11538461538461539, 'joy': 0.0, 'anticipation': 0.23076923076923078}",Positive,anticipation
+jaacj6s,2,beingsubmitted,2023-02-27 19:16:46,"I know enough about openAI and ChatGPT. The openAI API allows fine tuning on some large language models. This fine tuning is ""few shot"" training. So it absolutely is ""fine tuning"" ""with your own data"". It also involves adjusting the actual parameters to minimize loss on your data. For the large language transformers, openAI fine-tunes only in the decoder. 
+
+I agree that OP seems to know more about this than you do.",learnmachinelearning,"{'fear': 0.16666666666666666, 'anger': 0.16666666666666666, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.08333333333333333, 'positive': 0.16666666666666666, 'negative': 0.25, 'sadness': 0.16666666666666666, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+jabaz5c,-1,macronancer,2023-02-27 23:43:05,"Besides being a total ass, you are also completely wrong. You CAN fine tune the chatGPT model, someone even posted a link to their docs.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.5, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,positive
+jac5ma6,1,f10101,2023-02-28 06:12:14,"> You CAN fine tune the chatGPT model, someone even posted a link to their docs.
+
+Where?",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jacdt5v,1,f10101,2023-02-28 07:45:27,"Yeah, I was the one who posted that link, lol. Did you skip everything I wrote? 
+
+You cannot fine tune ChatGPT. They very explicitly do not offer the option. You can fine tune the base GPT3 model, yes, but they are not at all equivalent.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.0, 'positive': 0.6, 'negative': 0.2, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jacjqjn,1,macronancer,2023-02-28 08:38:40,"What? ChatGPT uses the davinci model, which you can fine tune. Thats literally what OP asked.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jadfe2d,1,f10101,2023-02-28 12:16:41,"Yes, you certainly would have finetuned davinci. However. Davinci is not text-davinci-003. Neither is it InstructGPT, nor ChatGPT.
+
+From the doc:
+> Fine-tuning is currently only available for the following base models: davinci, curie, babbage, and ada
+
+OpenAI only provide a fine tuning api for their base GPT models, of which Davinci is one. They do not provide APIs for tuning, as OP asked, their more advanced models like ChatGPT.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5714285714285714, 'surprise': 0.0, 'positive': 0.42857142857142855, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+ja7zqa3,4,unhott,2023-02-27 10:04:17,"Those fine tuned models are trained in the cloud. Microsoft owns the cloud (azure) chatgpt lives on, and their heavily investing in it. Chatgpt is too large to fit on any one device.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 1.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+ja88tq3,4,mydoghasapassport,2023-02-27 11:06:09,Use an open source equivalent. But read how they trained chatgpt and see it comes down to how the chose the parameters they wanted less about the size of their data set,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jaa28ns,1,ComputeLanguage,2023-02-27 18:04:42,ChatGPT is a fine-tuned GPT-3. If you want to finetune yourself then you need one of the gpt-models,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jadsbdk,1,PersonifiedAI,2023-02-28 13:37:53,"Hey from Personified -> you can try out [Personified](https://www.personified.me) - we use index your data and use semantic search with the help of GPT3 to relevant support + provide answers relating to docs <-> youâ€™re right - itâ€™s not quite Chat GPT and there are differences, but it behaves in a manner similar to what people are expecting - once their data is in :)",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.4, 'surprise': 0.0, 'positive': 0.4, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.2}",Positive,trust
+jj101pm,2,NovelspaceOnly,2023-05-05 19:45:27,"cool, love these! Not sure if you're aware of Bert topic - they did this the week of the release of chatgpt for all the popular clustering and dim reduction models/algos",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.6666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.3333333333333333}",Positive,positive
+j6nr4m6,98,sapnupuasop,2023-01-31 12:12:02,"Yeah, the hype is insane and the expectations are so high. so many people completely misinterpret and exaggerate the capabilities of chatgpt. Canâ€™t wait for them to realize its limitations so my LinkedIn feed isnâ€™t polluted that massively anymore",learnmachinelearning,"{'fear': 0.1, 'anger': 0.2, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.1, 'negative': 0.4, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.2}",Negative,negative
+j6ofsq7,32,sapnupuasop,2023-01-31 14:42:50,"In my eyes itâ€™s kinda bad, besides the astounding accomplishment from a dl point of view, it just sucks because every single thing you ask needs to be fact checked manually by using googleâ€¦the only thing itâ€™s currently capable of is telling you stuff with huge confidence but you just never know if it is bullshitting or not. I even know of people integrating chatgpt in business and to me itâ€™s just complete insanity",learnmachinelearning,"{'fear': 0.1875, 'anger': 0.125, 'anticip': 0.0, 'trust': 0.125, 'surprise': 0.0, 'positive': 0.125, 'negative': 0.125, 'sadness': 0.125, 'disgust': 0.125, 'joy': 0.0625}",Neutral,fear
+j6opfu6,20,knight1511,2023-01-31 15:42:26,"I think there exists an exaggerated opinion against ChatGPT's factual mistakes. It is obviously highly dependent on the kind of question you ask it. If you ask it something too specific, or deliberately frame the question in a convoluted way, it will certainly misfire.  
+
+In my experience, ChatGPT is best used to smoothen the initial learning experience to something new for you. For example, I will ask it the stupidest questions I can think of when I start learning a new programming language. I will ask it to draw a comparison with a language I already know. I will also ask it to debug the ""obvious"" errors or ask it how I can do something that would be ""obvious"" to a semi proficient person in that domain. ChatGPT doesn't falter here. It can understand your question very well( it's a great query parser) and let you know in simple terms the bare minimum about a topic you have no idea at all.
+
+Another example where I find using ChatGPT effective, is to simply ask a programming documentation specific implementation detail about some commonly used library. Say I have some specific question about how boto3 (AWS python SDK) client for an AWS service behaves under specific conditions. ChatGPT will more than likely get you the correct information instead of you having to skim through the documentation to find stuff relevant to you. And even if the info is incorrect or partially correct, you will get quick feedback on whether it works or not, allowing you to move to your next question or reframe the existing one
+
+I see ChatGPT as an immense productivity enhancer as it gets you the information you need much quicker and with lesser effort compared to Google search etc.",learnmachinelearning,"{'fear': 0.02702702702702703, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.1891891891891892, 'surprise': 0.0, 'positive': 0.5405405405405406, 'negative': 0.16216216216216217, 'sadness': 0.0, 'disgust': 0.02702702702702703, 'joy': 0.02702702702702703, 'anticipation': 0.02702702702702703}",Positive,positive
+j6rezkk,3,clauwen,2023-02-01 05:45:37,"I think you are vastly underestimating how much ""simple"" groundword there is in education. 
+
+I am betting money that this will be implemented for high school students everywhere. The amount of work this thing can take from a teachers shoulders will be absolutely insane.
+
+Think about your school days and how much of the teachers attention was needed for simple questions which chatgpt can easily answer that only a small fraction of the class are actually asking.
+
+Literally pick any high school topic you now something about and see if chatgpt could teach you the concepts.
+
+The barrier to asking stupid questions, which you wouldnt ask a teacher in school for a bunch of reasons is literally 0, and the answers you get for those topics are easily a net benefit.
+
+Will this replace a private teacher that is an expert on a topic and only has a single student, no not now.",learnmachinelearning,"{'fear': 0.03333333333333333, 'anger': 0.1, 'anticip': 0.0, 'trust': 0.3, 'surprise': 0.06666666666666667, 'positive': 0.26666666666666666, 'negative': 0.13333333333333333, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.06666666666666667, 'anticipation': 0.03333333333333333}",Positive,trust
+j6pjs0t,7,JFHermes,2023-01-31 18:57:48,"Yo I use it to write emails and summarise information for me about generalised topics. It's pretty easy for me to read over it and see if it's right or not and it's all written coherently and spelt correctly. 
+
+The 10 million users are doing tasks like this. Shitty, mundane, low level white collar work that allows you to spend time on the stuff that actually needs high level thought. 
+
+I feel like there is a gap in this field because most machine learning engineers aren't terribly impressed with chatGPT or the benchmarks in comparison to the others. The real benefit here is the applicability to many professions as a time saving tool. 
+
+If the machine learning community put as much time into designing models for people to actually use rather than beat benchmarks they would get hyped too.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25925925925925924, 'surprise': 0.0, 'positive': 0.37037037037037035, 'negative': 0.037037037037037035, 'sadness': 0.037037037037037035, 'disgust': 0.0, 'joy': 0.07407407407407407, 'anticipation': 0.2222222222222222}",Positive,positive
+j6patah,4,rttr123,2023-01-31 17:57:00,"I asked ""when I was 8, my brother was double my age. I am now 24, how old is my brother""
+
+""Your brother is 40"" -chatgpt",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+j6q84wq,-3,epicwisdom,2023-01-31 21:53:09,"> make your boring work into an episode of Star Trek and then write the details of your discovery as a summary for billing time.
+
+The fact that you can use it to scam people is a strict negative for me.
+
+> There is nothing else Iâ€™ve used like it.
+
+Which doesn't mean much. In 2 years ChatGPT will still be completely obsolete. The question is how useful it actually is today, for uses besides academic cheating and farming ""news"" articles.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.0, 'positive': 0.4, 'negative': 0.2, 'sadness': 0.1, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.1}",Positive,positive
+j6q9zzp,1,epicwisdom,2023-01-31 22:06:58,"> But in those few years the people who use it will gain the skills needed to describe tasks fluently and will just continue to refine and get better at using it.
+
+1. I don't think this is much of a skill. Anybody can play around with it and get a pretty good handle of it in a day.
+2. The direction of progress makes it inherently pointless to ""get better at using it."" As LLMs get better they interpret more and more queries correctly. Whatever replaces ChatGPT will take *less* skill.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.047619047619047616, 'positive': 0.2857142857142857, 'negative': 0.047619047619047616, 'sadness': 0.047619047619047616, 'disgust': 0.0, 'joy': 0.19047619047619047, 'anticipation': 0.23809523809523808}",Positive,positive
+jcfxfsi,2,Guilty_Recognition52,2023-03-16 11:31:38,"First I'd like clarify the premise. It's not really possible to have a useful language model that is *only* trained on a smaller specialized dataset. It would not be able to understand your questions without having the ""background knowledge"" from huge amounts of training data.
+
+But that doesn't mean that you can't customize the behavior to *focus* on your dataset.
+
+There are two high-level techniques for this: **transfer learning** and **prompt engineering**. They can be used individually or in combination but you probably only want to start with one if you're new to this kind of programming.
+
+Transfer learning means you are providing new *labeled* training data and actually adjusting the weights of the model so that it answers differently to the same question. Labeled data in this context means that you have text structured in the format of a user saying something in chat + the chatbot responding appropriately. In my experience people rarely have their data already formatted like that, so transfer learning is more difficult. But if you did have data structured that way this would be the best practice. For OpenAI (maker of ChatGPT) they call it ""fine-tuning"" (https://platform.openai.com/docs/guides/fine-tuning)
+
+Prompt engineering means you are carefully creating a prompt that tells the model more about the kind of answer you want. Whereas transfer learning changes how the model responds to the same question, prompt engineering changes the question. You can do this programmatically and use various techniques to provide useful context based on your specialized dataset. Then you send the question using the standard API endpoints (/chat or /completions for OpenAI). Check out this OpenAI example that uses scraped data: https://github.com/openai/openai-cookbook/tree/main/apps/web-crawl-q-and-a",learnmachinelearning,"{'fear': 0.03125, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.125, 'surprise': 0.03125, 'positive': 0.65625, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.09375, 'anticipation': 0.0625}",Positive,positive
+jcgnzzb,2,ejpusa,2023-03-16 14:18:31,"Looks like will do the job. This is the hot startup idea of the day. 
+
+What happens if we wrap the entire healthcare world in a user friendly, ChatGPT UI, or the city rules and regulations of NYC?
+
+A step-by-step guide to building a chatbot based on your own documents with GPT
+
+https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5",learnmachinelearning,"{'fear': 0.0, 'anger': 0.1111111111111111, 'anticip': 0.0, 'trust': 0.2222222222222222, 'surprise': 0.0, 'positive': 0.4444444444444444, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.1111111111111111, 'anticipation': 0.1111111111111111}",Positive,positive
+j6slthr,7,wind_dude,2023-02-01 11:36:24,"Cool, I just cancelled my copiliot, because it was usually slower than coding for me. But the way ChatGPT can be prompted when you're having a brain fart or would use stack overflow or google is helpful.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.25, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.25}",Neutral,trust
+j6someh,5,wind_dude,2023-02-01 11:53:50,"hmmm, I tried it, not what I was expecting, I have my settings to code-davinci-002 in both playground and your extension:
+
+in playground I get:
+
+```
+""""""
+a function to compare the simularity of 1000 words using spacy
+""""""
+
+import spacy
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+nlp = spacy.load('en_core_web_lg')
+
+def simularity(word1, word2):
+    """"""
+    a function to compaire the simularity of two words using spacy
+    """"""
+    return nlp(word1).similarity(nlp(word2))
+
+def simularity_matrix(words):
+    """"""
+    a function to compaire the simularity of 1000 words using spacy
+    """"""
+    simularity_matrix = np.zeros((len(words), len(words)))
+    for i in range(len(words)):
+        for j in range(len(words)):
+            simularity_matrix[i, j] = simularity(words[i], words[j])
+    return simularity_matrix
+
+def plot_simularity_matrix(simularity_matrix, words):
+    """"""
+    a function to plot the simularity matrix
+    """"""
+    df = pd.DataFrame(simularity_matrix, index=words, columns=words)
+    plt.figure(figsize=(20, 20))
+    sns.heatmap(df
+
+```
+
+&#x200B;
+
+in your extension with the same prompt I get:
+
+\`The function is used to compare the similarity of 1000 words using spacy.\`
+
+&#x200B;
+
+Haven't tried chatgpt seems like the usage is very high right now.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.34285714285714286, 'anticip': 0.0, 'trust': 0.05714285714285714, 'surprise': 0.05714285714285714, 'positive': 0.05714285714285714, 'negative': 0.34285714285714286, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.05714285714285714, 'anticipation': 0.08571428571428572}",Negative,anger
+j6sxi5r,3,wind_dude,2023-02-01 12:48:09,"Okay, I was able to try the ChatGPT setting, I'm sorry, but I almost vomited.
+
+&#x200B;
+
+The editor lost all formatting for code. See is the VS modal you're using can support markdown.
+
+&#x200B;
+
+I suspect you are prompt engineering/appending prompts to the user input. This created extremely low quality spaghetti code, lacking any funcs, abstraction, or really usability. And it include inline comments for every line of code. This is not something chatGPT does with my prompt, it consistently produced usable code when prompted in chatGPT.
+
+&#x200B;
+
+For the chatGPT setting I would drop all attempts at your prompt engineering. This would certainly eliminate the low quality code issue. Also with the short term memory it's not necessary, if I as a user don't get what I want from ChatGPT I can ask it to correct  the output in human language.
+
+&#x200B;
+
+So in summary:
+
+\- drop the attempt at prompt engineering for chatGPT option
+
+\- correctly format code in returned responses
+
+\- nice to have: send code to editor from prompt modal. For now just insert it in where the user clicked in the editor. Long term see if you can send imports to the appropriate place (but mark/highlight them).",learnmachinelearning,"{'fear': 0.125, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.375, 'sadness': 0.125, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.125}",Negative,negative
+j6t0ecv,2,Dense_Dimension_913,2023-02-01 13:05:36,Yeah you might get better results if you try ChatGPT. But I originally intended this extension to be used to read and understand code and not really a Copilot clone haha. I'm thinking of implementing a general ChatGPT chat you can have on the side to ask it general question like generate this code that does ... But there are extensions that already do that. What do you think should I implement it?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2857142857142857, 'surprise': 0.0, 'positive': 0.5714285714285714, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.14285714285714285}",Positive,positive
+j6t5qxv,2,wind_dude,2023-02-01 13:37:56,"That was with code-davinci-002 not chatGPT
+
+&#x200B;
+
+>I'm thinking of implementing a general ChatGPT chat you can have on the side to ask it general question like generate this code that does ... But there are extensions that already do that. What do you think should I implement it?
+
+I haven't seen extension that do that, but I haven't looked. For the way I use it, implementing chatGPT in VSCode and a button the sends the code to the spot I clicked in the editor would be awesome.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.4, 'surprise': 0.0, 'positive': 0.6, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j6t6lve,1,Dense_Dimension_913,2023-02-01 13:43:12,Yeah there are actually quite a lot of extensions out there that just has a ChatGPT on the side where you can ask general questions. That's why I didn't want to create another extension that does that when there tens of exact same extensions out there lol.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.25}",Positive,positive
+j6t5h4a,1,superkido511,2023-02-01 13:36:18,Can anyone review ChatGPT vs Copilot?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j6vdm0y,1,Manish909,2023-02-01 22:37:38,How about you convert your task in English question and have chatGPT write the code.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+jasn08t,1,Dense_Dimension_913,2023-03-03 14:46:19,OpenAI recently released their official ChatGPT API and I've integrated into the extension. You can now select ChatGPT as your model from the extension settings! Go check it out now!,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+jdv3wmk,7,superluminary,2023-03-27 08:48:02,"What is ChatGPT Doing by Stephen Wolfram. 
+
+Natural Language Processing with Transformers by Tunstall, Werra and Wolf. 
+
+Any of the Grokking series.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 1.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+jdxnjt5,2,SorcerousSinner,2023-03-27 19:04:27,">What is ChatGPT Doing by Stephen Wolfram.
+
+What a greatly informative article amidst all the noise on chatgpt, thanks for posting.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 1.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+jfpepy7,1,deatfpo,2023-04-10 11:22:34,"Thank you, David! I would like to ask you one more advise. At the moment I'm building a credit score solution, in which companies can send their financial sheets and revenue data, and my plataform will analyze the info and return some credit risk score based on that company. I am trying to use langchain and openai for this, but Im having a lot of trouble in reading the data (chat gpt cannot read correctly some cells on the sheets) and performing some calculations to get the company financial index. The issue here is that the sheets don't follow a strict pattern, so I am trying to use machine learning to extract useful data from it. Do you have any articles/ links that could help me with this task?",learnmachinelearning,"{'fear': 0.043478260869565216, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.17391304347826086, 'surprise': 0.08695652173913043, 'positive': 0.43478260869565216, 'negative': 0.043478260869565216, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.08695652173913043, 'anticipation': 0.13043478260869565}",Positive,positive
+j874h98,7,trikster9,2023-02-11 22:22:57,"Considering the huge context that these models have you'd have to have essentially the exact same conversation for a long while to get to the same prompt. Otherwise you have slightly different context which will lead to different hallucinations. 
+
+Don't believe me infact try it on ChatGPT. Make it hallucinate, open another chat ask it the same question but paraphrased and it'll hallucinate something else. There's a long technical reason for this which I'll skip here for brevity.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.16666666666666666, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.3333333333333333}",Positive,positive
+j84myxl,24,Robonglious,2023-02-11 11:24:12,"Mind-blowing. The programming was done with English sentences and the hack was just other English sentences. I know that this is built on top of other more complex things but still.
+
+This explains why ChatGPT is so bad at regurgitating song lyrics too. I never would have thought that this would be a copyright infringement but I suppose so.",learnmachinelearning,"{'fear': 0.1, 'anger': 0.1, 'anticip': 0.0, 'trust': 0.1, 'surprise': 0.0, 'positive': 0.1, 'negative': 0.2, 'sadness': 0.1, 'disgust': 0.1, 'joy': 0.0, 'anticipation': 0.2}",Negative,negative
+j1yggvc,84,davidebus,2022-12-28 04:15:02,I caught one using chatgpt to answer coding questions. It's going to be a major issue. Because before maybe they (the students) could look for an answer on stackoverflow and they had at least to understand and adapt it to the problem. Now they can submit the question as it is and in most cases get a good enough answer that doesn't need them to understand.,learnmachinelearning,"{'fear': 0.08333333333333333, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.08333333333333333, 'surprise': 0.08333333333333333, 'positive': 0.3333333333333333, 'negative': 0.08333333333333333, 'sadness': 0.08333333333333333, 'disgust': 0.0, 'joy': 0.08333333333333333, 'anticipation': 0.16666666666666666}",Positive,positive
+j1z88uo,26,CrunchyAl,2022-12-28 09:33:32,"ChatGPT does explain the code it writes, which I like for learning when I get stuck. I think of it like using a calculator for math problems. It also is overhyped from what I tried using Hackercode challenges failing test cases and giving the correct output.",learnmachinelearning,"{'fear': 0.09090909090909091, 'anger': 0.09090909090909091, 'anticip': 0.0, 'trust': 0.18181818181818182, 'surprise': 0.0, 'positive': 0.36363636363636365, 'negative': 0.09090909090909091, 'sadness': 0.09090909090909091, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.09090909090909091}",Positive,positive
+j21fg0e,6,AlarmDozer,2022-12-28 18:30:56,"It's not a new way of thinking; it's a good way to not think. ""I don't know, ask ChatGPT.""",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.2, 'positive': 0.2, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.2, 'anticipation': 0.2}",Positive,trust
+j253mgq,1,AskMoreQuestionsOk,2022-12-29 13:51:37,"Or, make the tests oral so the professor knows you have actually mastered the material. Thatâ€™s what I might do. 
+
+I donâ€™t have a problem using that kind of tech to create a palette for a story. Or write some marketing material. Weâ€™ve been developing this stuff since the 90s. Itâ€™s a productivity tool. I agree with you there.  
+
+But if a course is there to help you learn how to write discourse or make arguments or do research, and you skip it, youâ€™re wasting a lot of money - why even take the course? Youâ€™re not developing your own skills or point of view or distinct style of writing and I would think that youâ€™d want to develop those skills before picking up a tool that might wash it away. Youâ€™re not learning to ingest a lot of information quickly. The tool isnâ€™t going to make you good at making oral arguments, thatâ€™s a practiced art that is enhanced by learning to write good arguments. Itâ€™s not going to help you learn how to perform research. So why are you there? Drop the class so someone who actually likes to read and write can take it. 
+
+Now if the class is using chatGPT to write a story with a point of view, okay then. Everyone knows where they stand.",learnmachinelearning,"{'fear': 0.038461538461538464, 'anger': 0.07692307692307693, 'anticip': 0.0, 'trust': 0.11538461538461539, 'surprise': 0.09615384615384616, 'positive': 0.3076923076923077, 'negative': 0.057692307692307696, 'sadness': 0.057692307692307696, 'disgust': 0.019230769230769232, 'joy': 0.1346153846153846, 'anticipation': 0.09615384615384616}",Positive,positive
+j1yp74w,15,azevedro,2022-12-28 06:16:36,"Well, good to see ChatGPT training the future generation of prompt engineers. These kids are going to be master prompt engineers in the future ðŸ¤£ðŸ¤£",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.16666666666666666, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666, 'anticipation': 0.16666666666666666}",Positive,positive
+j1z8zyp,1,PastBarnacle,2022-12-28 09:39:29,ChatGPT?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j2048ks,1,starfries,2022-12-28 13:14:29,ChatGPT is not so much smarter than you that you can't pass English without it.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j1yzdic,4,vocdex,2022-12-28 08:15:40,"Well, it seems that if these assignments were really different and hard, ChatGPT would have trouble coming up with an answer. Instead, teachers should try to make better and more original assignments. This way, even if students use ChatGPT, it would only help them work faster, not just copy and paste what it generates.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.5, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.5}",Negative,negative
+j1y7fck,-9,Unusual-Nature2824,2022-12-28 02:12:20,This is way too harsh. A lot of students struggle with grammar and ChatGPT is an excellent proofreading tool. The student shouldâ€™ve simply denied it,learnmachinelearning,"{'fear': 0.1, 'anger': 0.1, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.0, 'positive': 0.1, 'negative': 0.2, 'sadness': 0.2, 'disgust': 0.0, 'joy': 0.1}",Negative,trust
+j21chb8,1,LanchestersLaw,2022-12-28 18:10:07,"On thing worth pointing out to the people who say â€œChatGPT failed my test caseâ€ is that this isnâ€™t about just ChatGPT. Everyone here understands that machine learning and computing in general has been growing exponentially. 
+
+ChatGPT-2, 3, 4 will all come out in a few years and all be substantial improvements. If the rate of progress is half of what it has been so far in machine learning, ChatGPT-2, 3, 4 are all contenders for general purpose programmers. A decently good general purpose programming AI that needs little to no direct supervision can work in development cycles of days, hours, or minutes. That development time is fast enough to create multiple entire applications and ask the customer which of the 100 versions it likes best. To reach a recursive â€œintelligence explosionâ€ we only need a model better at programing the comparatively narrow domain of machine learning models than current scientists. 
+
+I strongly feel that this is an inflection point. Previous models where not smart enough for this. ChatGPT/GPT-3.5 is smart enough for this type of thing to be probably not possible, but plausible in a realistic way. No ChatGPT will not take our jobs, but now there is a non-trivial chance that each new generation might take all of our jobs at once.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.07142857142857142, 'positive': 0.4642857142857143, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.10714285714285714, 'anticipation': 0.10714285714285714}",Positive,positive
+j21h6so,1,SayakoHoshimiya,2022-12-28 18:43:15,"Using an AI is not plagiarism, as it involves misrepresenting another person's work. ChatGPT is not a sentient person (yet).",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.5, 'sadness': 0.0, 'disgust': 0.5, 'joy': 0.0}",Negative,negative
+j1z6m60,0,CrunchyAl,2022-12-28 09:20:21,"People are worried too much, chatGPT doesn't code well in sorting algorithms, and other data structure challenges, failing most test cases. I tried some Hackercode examples, and it fails to give code that works (as in giving the correct output) just about every time. 
+
+I also don't think it's a bad thing to have an answer to look at, people just want to learn why their code is not working.",learnmachinelearning,"{'fear': 0.1111111111111111, 'anger': 0.1111111111111111, 'anticip': 0.0, 'trust': 0.05555555555555555, 'surprise': 0.0, 'positive': 0.2222222222222222, 'negative': 0.16666666666666666, 'sadness': 0.16666666666666666, 'disgust': 0.05555555555555555, 'joy': 0.0, 'anticipation': 0.1111111111111111}",Positive,positive
+jdly433,34,No-Painting-3970,2023-03-25 07:26:04,"Man, Chat GPT doesnt run code. It just generates statically right sounding outputs...",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jdmneir,4,Blasket_Basket,2023-03-25 11:11:40,"Well, it isn't an expert, it's an LLM. The only task it has to fulfill to is give plausible sounding answers, nothing to do with correctness or expertise. 
+
+Neither OpenAI nor anyone that knows anything about this topic would refer to ChatGPT as an 'expert' at literally anything. That's your mistake, not theirs. They've been very, very clear about the limitations of this model.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2727272727272727, 'surprise': 0.0, 'positive': 0.45454545454545453, 'negative': 0.09090909090909091, 'sadness': 0.09090909090909091, 'disgust': 0.0, 'joy': 0.09090909090909091}",Positive,positive
+jdm1brx,6,Blakut,2023-03-25 08:02:45,Ask chatgpt why the code is correct,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jdlxlrs,15,always_wear_pyjamas,2023-03-25 07:19:56,"ChatGPT has no idea or understanding of what it puts out. It didn't actually execute any of that code, it just outputs a statistically reasonably text as an answer when you ask it whether it executed something or other.
+
+Those numbers are also very strange. I mean, I haven no idea how long that vector was or what the numbers were, but looking at values 0, 1 and 4 in the standardized and unstandardized makes me think it wasn't calculated, just spouted out.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2857142857142857, 'surprise': 0.0, 'positive': 0.5714285714285714, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.14285714285714285}",Positive,positive
+jdnm16e,2,spacexguy,2023-03-25 15:17:11,"I have been working on the second edition of my book, Learn FPGA Programming, Packt 2021.
+
+One of the requests was to add VHDL to the book. I haven't written VHDL code in 30 years, so I asked a question about how I could do something and it provided code and a testbench for it. In one glance, I knew that the timing was off in the testbench, so I told it the code looked good, but the timing was wrong. ChatGPT wrote back that it was sorry and I was correct. It then gave me code with correct timing. I'm still not sure the code would work. I got what I needed, so I didn't push it further, but I was really impressed at what it was able to produce.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.1111111111111111, 'surprise': 0.1111111111111111, 'positive': 0.3333333333333333, 'negative': 0.1111111111111111, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.1111111111111111, 'anticipation': 0.2222222222222222}",Positive,positive
+jdmipx4,3,Smallpaul,2023-03-25 10:37:07,"Just like a human being, the code written by ChatGPT seldom works perfectly the first time. Just like a human being, you must often debug and edit its output.
+
+I have seen some nearly perfect 50 line programs spit out by GPT-4 however. It is certainly on the right path.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.0, 'positive': 0.16666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.16666666666666666, 'joy': 0.16666666666666666, 'anticipation': 0.3333333333333333}",Positive,anticipation
+jdmwu7g,1,SometimesZero,2023-03-25 12:18:52,"
+
+Repeat after me: ChatGPT isnâ€™t trained on truth.
+
+https://openai.com/blog/chatgpt
+
+> Limitations
+>ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers. Fixing this issue is challenging, as: (1) during RL training, thereâ€™s currently no source of truth
+
+Thereâ€™s no source of truth, thereâ€™s no source of truth, thereâ€™s no source of truth, thereâ€™s no source of truthâ€¦",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.38461538461538464, 'surprise': 0.0, 'positive': 0.38461538461538464, 'negative': 0.15384615384615385, 'sadness': 0.07692307692307693, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+jdpebqh,1,amw5gster,2023-03-25 23:30:26,All ChatGPT outputs are wrong. Some are useful.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 1.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+j7ejv85,19,Darkest_shader,2023-02-06 00:19:44,">I am a firm believer that ChatGPT is here to stay
+
+It is not open source software, so you can believe in whatever you want to, but the owners of ChatGPT can make it inaccessible to the general public at any moment.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3333333333333333, 'surprise': 0.0, 'positive': 0.3333333333333333, 'negative': 0.16666666666666666, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.16666666666666666}",Positive,trust
+j7fimsi,3,gutzcha,2023-02-06 07:44:36,"Even if chat gpt will not be available anymore, others, much better than chat gpt will emerge.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j7hpfql,1,TrackLabs,2023-02-06 16:43:29,"Yea...yet. Are you saying nothing will ever replace ChatGPT, or what? Youre saying you doubt it, as if there will be no better version, ever?",learnmachinelearning,"{'fear': 0.25, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.25, 'sadness': 0.25, 'disgust': 0.0, 'joy': 0.0}",Negative,fear
+j7hprnw,1,TrackLabs,2023-02-06 16:45:36,"Thats...great? But it has no say whatsoever if ChatGPT ever gets taken offline. Like, just because Coca Cola doesnt take down their brand, doesnt mean anyone else will lol",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j7fktuv,6,jrothlander,2023-02-06 08:06:01,"It's an interesting article and you are starting to see more and more of this approach in articles. I think it's a good idea and a smart approach. I think you did a good job of thinking it through and presenting the article. I enjoyed it.
+
+I didn't run any of the code and just scanned through it to see how well it did, as I'm not very familiar with PyTorch. I have spent most of my time with TensorFlow. But you have to admit that GPT3 did pretty well. I find that it does in fact get a lot of things wrong, but what it gets right is impressive. But it does get things wrong and you have to be careful when using it.
+
+When trying to think this through, you realize a few things. Most importantly, the only reason I can read through the article and code and think this is because I have spent the last few years intensively digging into AI/ML, post-grad courses, online courses, researching ways to use ML for the last 10-years or so, and I have been working in IT for the last 30-years. For the last 10-years I have had a side project of trying to use AI/ML to improve compiler optimization. Our experiances are what gives us the ability and insight to read the code and think through the process. GPT3 can't do that for us. Well, at least not yet. If you are unfamiliar with ML/DL, you'd have a hard time figure out what is going on here. So GPT3 in this case is more of a helper than anything.
+
+Also, you are getting 91% accuracy, which is good. But not good enough for production. But now you have to spend time on improving it. There are ANN generated models that get much higher, as high as 99.8% without being overfitted. So, you still have a LOT of work to do. What would it take for GPT3 to optimize this to get 99.8%? I'm not sure it can. That would be an impressive part 2 of the article... using ChatGPT to improve the accuracy, reduce overfitting, fine tuning, etc., etc. 
+
+My point is, something like this cannot replace the skilled data scientist or programmer, but it can signficantly speed up the process of developing new code. I'm not sure if GPT3 is mature enough for me to depend on it in my every day work, but I am open to it.",learnmachinelearning,"{'fear': 0.016129032258064516, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.1935483870967742, 'surprise': 0.06451612903225806, 'positive': 0.3064516129032258, 'negative': 0.08064516129032258, 'sadness': 0.016129032258064516, 'disgust': 0.0, 'joy': 0.11290322580645161, 'anticipation': 0.20967741935483872}",Positive,positive
+j7fqiqy,3,mechalf11,2023-02-06 08:56:33,"I agree with all your points! I like the idea of hyperparameter tuning using ChatGPT. Will make that as a follow-up article! I am quite confident I can get it to 98% with ChatGPT, but as you mentioned, itâ€™s because I know which questions to ask.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.25}",Positive,positive
+jeegp7j,3,Majinsei,2023-03-31 08:52:43,"You can use both. By Example fine tunning an model with your documentation, that give you little outputs with the basic context and expande it using ChatGPT for create the nlp output message~
+
+Example:
+
+User: What is the React component for footers in Client side?
+Davinci: FooterClient, that accept x pqrameter with y pqrameter for work
+App: Merge question and responses in a comprensive way
+ChatGPT: Hello! For the question what is the React component for footers in Client side. You need to use FooterClient component that accept the next field and here an Example for use it~ ReactCode~
+
+You need to have a lot of imagination!!!",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.8, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.2}",Positive,positive
+jeeic3t,2,Proxify,2023-03-31 09:05:52,Oooh so I could basically send my prompt to both the fine-tuned version and ChatGPT which would provide a more robust answer. Did I get that right?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3333333333333333, 'surprise': 0.0, 'positive': 0.6666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j83x0oo,11,mano-vijnana,2023-02-11 08:34:18,"You can't really make it much smaller (maybe 52B, like Anthropic's models, but that's not an order of magnitude smaller) without making it, well, dumber. Even if you train it with more data than GPT was trained on (that is, Chinchilla-optimal).
+
+There's lots of smaller LLMs around already, some trained with RLHF like ChatGPT. They don't perform nearly as well.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j83xn80,14,carlinaylsworth,2023-02-11 08:40:05,"My understanding is that, while chatGPT was built using mostly unsupervised learning on enormous/messy datasets which can be trained with massive compute power (no prob for large players/problem for open source), instructGPT approach depends heavily on supervised learning/manually labeled data sets, which requires a lot of manpower and time (no prob for open source/prob for big players). So, it's only low hanging fruit for a volunteer/open source mass movement.",learnmachinelearning,"{'fear': 0.1, 'anger': 0.1, 'anticip': 0.0, 'trust': 0.1, 'surprise': 0.0, 'positive': 0.2, 'negative': 0.2, 'sadness': 0.1, 'disgust': 0.1, 'joy': 0.0, 'anticipation': 0.1}",Neutral,positive
+j3vamyg,39,ID4gotten,2023-01-11 03:20:35,"Not really a fact checker, since ChatGPT could just be memorizing ""facts"" from the same sources that are then just re-found by your search engine. If the original was wrong, that doesn't make ChatGPT right.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.25, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+j3vkfrj,9,dandv,2023-01-11 05:38:24,"Could be much more useful and reliable if it checked fact-checking sites like Snopes. Otherwise, it picks up much of the online content that was used to train both ChatGPT and Google.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.4, 'surprise': 0.0, 'positive': 0.4, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.2}",Positive,trust
+j3zhxt5,2,dathanvp,2023-01-11 22:04:09,Really cool in-line style match augmenting the chatgpt tool.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 1.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j3v7ugm,2,peardr0p,2023-01-11 02:44:44,"Won't it only check against things that are pre-2021? Or have I misunderstood?
+
+Edit: assuming I misunderstood and this isn't a fact-checker using chatGPT but a fact-checker FOR chatGPT!",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j3wbwmf,2,FearAndLawyering,2023-01-11 09:53:30,this may be more interesting as a 'fact citation' tool? if you are using chatgpt to write a paper or something and you need to look up references to cite. or if you want to figure out what author the AI is currently ripping off in their output,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3333333333333333, 'surprise': 0.0, 'positive': 0.6666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j3w9xye,1,CrunchyAl,2023-01-11 09:40:04,"ChatGPT is just a chat bot with a lot of information. It doesn't form its own conclusions, so I don't think it is good as AGI. It will give neutral answers despite the definition to some conditions. For example, it will say that it's unfair to call Palestine under apartheid rule, despite the facts it is acknowledged as one by UN reports and experts who studied apartheid. It also will give about the same answer and do a ""both sides"" thing. It shows bias on many topics and will put the blame on not being in the data it was trained on.
+
+ It also is overhyped for its programming ability, as it can give you functional code, but it would not be the output you want or it will fail most test cases as you can try with coding challenges for sites like Hackerrank or leetcode.",learnmachinelearning,"{'fear': 0.045454545454545456, 'anger': 0.13636363636363635, 'anticip': 0.0, 'trust': 0.18181818181818182, 'surprise': 0.045454545454545456, 'positive': 0.18181818181818182, 'negative': 0.13636363636363635, 'sadness': 0.045454545454545456, 'disgust': 0.09090909090909091, 'joy': 0.045454545454545456, 'anticipation': 0.09090909090909091}",Positive,trust
+j3uxo8y,1,SECwontLetMeBe,2023-01-11 00:49:51,This is cool. How long did it take? Did you use ChatGPT to write any code for this?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.5}",Positive,positive
+j3wt7zx,1,QuestionAnxious,2023-01-11 11:44:18,"It took around a week to make, with most of the work happening over the weekend. And ChatGPT definitely did help me catch some errors.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 1.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,surprise
+j3yfdqd,1,LanchestersLaw,2023-01-11 17:39:15,Using the first sentence on google and chatGPT to fact check is like making sure Alex Jones is telling the truth by checking with Tucker Carlson.,learnmachinelearning,"{'fear': 0.1111111111111111, 'anger': 0.1111111111111111, 'anticip': 0.0, 'trust': 0.2222222222222222, 'surprise': 0.0, 'positive': 0.1111111111111111, 'negative': 0.1111111111111111, 'sadness': 0.1111111111111111, 'disgust': 0.1111111111111111, 'joy': 0.0, 'anticipation': 0.1111111111111111}",Neutral,trust
+j1hfw4f,138,CaptainCrunchyBoi,2022-12-24 06:02:25,"Frankly, it is probably impossible for you to make something like ChatGPT. It costs millions of dollars to train a model like that. Even just once.
+
+But a way to do something almost like that would probably be to use an open source version of GPT (like https://huggingface.co/EleutherAI/gpt-neo-2.7B), and then fine-tune the last layer or maybe just continue training with a high learning rate while feeding your dataset.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.0, 'positive': 0.42857142857142855, 'negative': 0.14285714285714285, 'sadness': 0.14285714285714285, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.14285714285714285}",Positive,positive
+j1hine5,48,kishan29j,2022-12-24 06:41:27,"This is what I would suggest OP too, Transfer Learning is one way to save you time and effort needed to train up colossal models like ChatGPT.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2857142857142857, 'surprise': 0.0, 'positive': 0.42857142857142855, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.14285714285714285, 'anticipation': 0.14285714285714285}",Positive,positive
+j1hnxrz,23,pilibitti,2022-12-24 07:50:12,"I don't think OP is trying to train a large language model from scratch (which is infeasible at this point in time) - is looking for fine-tuning tips. OpenAI provides fine tuning services for their models from what I see, probably not available for ChatGPT yet but should be there for GPT variants.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.5}",Positive,positive
+j1i3qkj,13,controltheweb,2022-12-24 10:21:40,">what transfer learning actually is?
+
+ChatGPT's answers are a starting point:
+
+""Transfer learning is a machine learning technique where a model trained on one task is re-purposed on a second related task. It is useful because it can allow you to take advantage of the ***knowledge learned from the first task and apply it to the second task, potentially improving the performance of the model on the second task***.
+
+""Transfer learning is commonly used in deep learning, where a model trained on a large dataset can be fine-tuned for a specific task by updating the model's weights with new data. This can be ***more efficient than training a model from scratch on a small dataset***, because the pre-trained model has already learned some useful features that can be transferable to the new task.
+
+""Transfer learning can be useful in a variety of applications, such as natural language processing, image classification, and speech recognition. ***It can be especially beneficial when there is a limited amount of labeled data available for the second task.""***
+
+\-----------------
+
+""To use transfer learning to improve ChatGPT on your specific dataset, you can follow these steps:
+
+""Pre-process your dataset: You will need to clean, filter, and organize your dataset to make it ready for training. This may involve removing duplicates, handling missing values, and ensuring that your data is in a suitable format for the model.
+
+""Use ChatGPT's pre-trained model as a starting point for your own task.
+
+""Fine-tune the model on your specific dataset: Using the pre-trained ChatGPT model, fine-tune it on your specific dataset by adjusting the model's hyperparameters and training it on your data. This will allow the model to adapt to your specific use case and improve its performance.
+
+""Evaluate the model: After training and fine-tuning the model, you should evaluate its performance on your specific dataset. This will help you understand how well the model is able to generate responses that are relevant and appropriate for your task.
+
+""It is important to carefully evaluate the model's performance and ensure that it is able to generate appropriate responses for your specific use case.""
+
+Generated using the [ChatGPT Chrome Extension for search](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) results.
+
+Additional excellent reference: [https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)",learnmachinelearning,"{'fear': 0.0379746835443038, 'anger': 0.012658227848101266, 'anticip': 0.0, 'trust': 0.11392405063291139, 'surprise': 0.0, 'positive': 0.620253164556962, 'negative': 0.06329113924050633, 'sadness': 0.05063291139240506, 'disgust': 0.0, 'joy': 0.05063291139240506, 'anticipation': 0.05063291139240506}",Positive,positive
+j1i2nna,3,controltheweb,2022-12-24 10:12:28,Only Davinci (and some older GPT variants) are currently available ([openai.com/api/pricing/](https://openai.com/api/pricing/)) for fine tuning (Davinci is v3.0 while ChatGPT is from the 3.5 series).,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.5, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+j1i2utd,1,olavla,2022-12-24 10:14:14,"Of course, because ChatGPT is a fine-tuned DaVinci.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j1i4zy3,5,42gauge,2022-12-24 10:32:03,I think davinci is 3.0 while chatgpt is 3.5,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j1i5cry,5,olavla,2022-12-24 10:35:01,"Per ChatGPT:
+
+ChatGPT is based on the GPT-3 language model, which was developed by OpenAI. GPT-3 stands for ""Generative Pre-training Transformer 3"" and is a state-of-the-art natural language processing (NLP) model that uses machine learning techniques to generate human-like text.
+
+GPT-3 is available in a number of different sizes, with the largest version having 175 billion parameters. The size of the GPT-3 model that is used as the basis for ChatGPT is not specified, so it is not possible to determine whether it is based on GPT-3 or GPT-3.5.
+
+It's worth noting that GPT-3 and ChatGPT are both language models developed by OpenAI, and both are designed to generate human-like text. However, ChatGPT is specifically designed to generate text in the form of a conversation, while GPT-3 is a more general-purpose language model that can be used for a wide range of NLP tasks",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.0, 'positive': 0.8571428571428571, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j1i5k3d,4,42gauge,2022-12-24 10:36:39,"Per OpenAI:  
+
+> ChatGPT is fine-tuned from a model in the GPT-3.5 series, which finished training in early 2022. You can learn more about the 3.5 series here. ChatGPT and GPT 3.5 were trained on an Azure AI supercomputing infrastructure.
+
+ChatGPT is not a reliable source",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+j1i5c45,1,olavla,2022-12-24 10:34:52,"Per ChatGPT:
+
+ChatGPT is based on the GPT-3 language model, which was developed by OpenAI. GPT-3 stands for ""Generative Pre-training Transformer 3"" and is a state-of-the-art natural language processing (NLP) model that uses machine learning techniques to generate human-like text.
+
+GPT-3 is available in a number of different sizes, with the largest version having 175 billion parameters. The size of the GPT-3 model that is used as the basis for ChatGPT is not specified, so it is not possible to determine whether it is based on GPT-3 or GPT-3.5.
+
+It's worth noting that GPT-3 and ChatGPT are both language models developed by OpenAI, and both are designed to generate human-like text. However, ChatGPT is specifically designed to generate text in the form of a conversation, while GPT-3 is a more general-purpose language model that can be used for a wide range of NLP tasks",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.0, 'positive': 0.8571428571428571, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j1iu7cg,6,f10101,2022-12-24 13:38:52,"ChatGPT might actually be able to do this already, with the right prompts. 
+
+It has a 4k word limit for its context, so you should be able to give it sufficient context to get it to respond with the perspective you want, I think.
+
+For example, I would be tempted to feed in something like:
+
+> My main character is (details about character) and his world view is as follows: (world view, beliefs etc).  Please extrapolate, using any supporting information you wish, what this character's response would be to the following argument: ""we should not paint the town in purple!""
+
+
+In the character details section, I would be inclined to include words or descriptors that would ground your prompt quite well, so it can easily link it to rich veins of knowledge to pick supporting information.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.11764705882352941, 'anticip': 0.0, 'trust': 0.23529411764705882, 'surprise': 0.0, 'positive': 0.5294117647058824, 'negative': 0.11764705882352941, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,positive
+j1jln6b,1,Sad-Scarcity4621,2022-12-24 16:53:03,"How come,  ChatGPT through browser has 1K word limit. Isn't the rate for the API the same?",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+j1i1ta7,9,gregologynet,2022-12-24 10:04:52,Have you tried asking ChatGPT?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j1irwwb,2,yoomiii,2022-12-24 13:23:03,Could you not prompt ChatGPT with what you want it to do and with the text of the philosopher?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.5, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Positive,trust
+j230i66,2,EllyEscape,2022-12-29 02:31:41,"I have discovered a method to accomplish exactly what I needed to do using a combination of format refining and utilizing u/f10101's comment. Format refining involves using context specific wording and Markdown language, such as bold and italics, as well as formatting question functions to include closed or open-ended questions. I was able to input large data sets, over 20,000 words, containing character information and background, and the method was able to generate fairly accurate replies with ease. 
+
+&#x200B;
+
+I have written a post about the formatting techniques I have learned over the past few days, which can be found at the following link: [https://www.reddit.com/r/ChatGPT/comments/zxs9n9/maximizing\_chatgpt\_prompt\_effectiveness/](https://www.reddit.com/r/ChatGPT/comments/zxs9n9/maximizing_chatgpt_prompt_effectiveness/)
+
+&#x200B;
+
+Hopefully this helps some people out.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0625, 'anticip': 0.0, 'trust': 0.1875, 'surprise': 0.0, 'positive': 0.5625, 'negative': 0.0625, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.125}",Positive,positive
+jgm6grt,1,Scratch137,2023-04-17 10:37:35,[op literally accomplished the exact thing they were looking for and you still insist it's not possible???](https://www.reddit.com/r/learnmachinelearning/comments/zu6785/how_would_i_train_a_chatbot_like_chatgpt_on_a/j230i66),learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.5}",Positive,positive
+j1hfijs,1,RemindMeBot,2022-12-24 05:56:49,"I will be messaging you in 3 days on [**2022-12-27 10:56:17 UTC**](http://www.wolframalpha.com/input/?i=2022-12-27%2010:56:17%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/learnmachinelearning/comments/zu6785/how_would_i_train_a_chatbot_like_chatgpt_on_a/j1hfh87/?context=3)
+
+[**4 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Flearnmachinelearning%2Fcomments%2Fzu6785%2Fhow_would_i_train_a_chatbot_like_chatgpt_on_a%2Fj1hfh87%2F%5D%0A%0ARemindMe%21%202022-12-27%2010%3A56%3A17%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20zu6785)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",learnmachinelearning,"{'fear': 1.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j1jkmd7,1,BellyDancerUrgot,2022-12-24 16:45:27,"U find any LLM , use transfer learning : ie-> u get the pretrained weights and then fine tune the model on ur corpus for maybe 2-6 epochs thatâ€™s it. Hugging face is easy for this. U will need a 3090 at the very least to do this tho. Since chatgpt is new might have to pay money tho.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.08333333333333333, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.08333333333333333, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666, 'anticipation': 0.16666666666666666}",Positive,positive
+jg22h5e,3,JoshInJersey,2023-04-13 00:57:59,"You probably donâ€™t want to use fine-tuning.  A retrieval (search) augmented generation pattern might work better.  
+See: https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jfelvnp,1,scottdave,2023-04-07 23:46:19,"I know that ChatGPT makes stuff up but did it really lie? 
+
+Depends on how you define ""robot"".",learnmachinelearning,"{'fear': 0.0, 'anger': 0.25, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.25, 'sadness': 0.25, 'disgust': 0.25, 'joy': 0.0}",Negative,anger
+j67zgq2,2,Deleted,2023-01-28 06:11:30,Chatgpt told him how to,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j67ci0j,5,LunchInSpace,2023-01-28 01:01:01,If you have funding for training I have scripts/data for almost exactly what you are describing. If you open source the models I'm happy to pass along what I have. (GPT-Neo fine tuning and ~25k chatGPT examples),learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.25, 'anticipation': 0.25}",Positive,trust
+j66fpd3,7,sav217,2023-01-27 20:13:54,Or just ask chatgpt for advice.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 1.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+j68gxhl,1,Alert-Estimate,2023-01-28 09:20:42,"Have you tried Bloom, it's open source and it was trained on 176b parameters, its slightly bigger than gpt3. I have been experimenting with the prompting side of  Bloom quite alot. As a result I have built quite a collection of prompts that I have been storing in my open source mobile text editor called Maker+ Ci.
+ 
+My most recent and best prompt allows me to emulate the basics of what chatGPT does in Bloom with zero shot, meaning without giving it any examples, it can easily generate code and explain it if instructed to. If you would like learn more about my work you can join my [discord](https://discord.gg/EtRcMRTh3G). If you do join the discord message me directly and let me know who you are.",learnmachinelearning,"{'fear': 0.05, 'anger': 0.15, 'anticip': 0.0, 'trust': 0.05, 'surprise': 0.05, 'positive': 0.3, 'negative': 0.15, 'sadness': 0.05, 'disgust': 0.1, 'joy': 0.0, 'anticipation': 0.1}",Positive,positive
+j5t0rv6,1,XcessiveSmash,2023-01-25 05:35:29,"Great video! Did not know about the reward function specifically was developed, that was some great insight and in incredibly clever way of doing it. I wonder how many options were ranked. 
+
+Also what does chatgpt do that goes beyond instructgpt? You used figures from the instructgpt paper, but there must have been some additional work done on it to turn it into this?",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.16666666666666666, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666, 'anticipation': 0.16666666666666666}",Positive,positive
+j5wr2hw,1,ariseff,2023-01-25 21:24:07,"Thanks! For instructgpt, between 4 & 9 responses were ranked: https://i.imgur.com/dt90xfW.png. I assume it's similar for chatgpt.
+
+Yes chatgpt does go beyond instructgpt, particularly in the data collection setup (eg interactive dialogues vs. just instruction-response pairs). As far as the training methods, the chatgpt blog post states that the same methods are used as instructgpt, and so the trends from the plots from the instructgpt paper (eg ppo vs. sft vs. gpt performance) should still hold here.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j37zrdl,20,ourtown2,2023-01-06 12:50:31,"ChatGPT explained with words:
+ChatGPT is a website powered by the GPT (Generative Pre-trained Transformer) model  
+GPT is a machine learning model trained to generate content  
+The model works by encoding input sentences into smaller pieces and giving each word a mathematical value   
+It uses self-attention to determine the context and importance of each word in the sentence  
+It then predicts the best sequence of words to use as a response  
+GPT was trained on billions of questions and answers from the internet and has also been exposed to multiple choice questions to help it learn strategies for finding the correct answer  
+It is used on the chatGPT website to generate responses to user input.",learnmachinelearning,"{'fear': 0.034482758620689655, 'anger': 0.10344827586206896, 'anticip': 0.0, 'trust': 0.1724137931034483, 'surprise': 0.0, 'positive': 0.3793103448275862, 'negative': 0.13793103448275862, 'sadness': 0.034482758620689655, 'disgust': 0.034482758620689655, 'joy': 0.034482758620689655, 'anticipation': 0.06896551724137931}",Positive,positive
+j380v86,7,theng,2023-01-06 12:56:58,"was that a ChatGPT generated answer? d:
+
+thank you",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j38j4fr,5,dagamer34,2023-01-06 14:47:33,A reminder that ChatGPT (really computers in general) are dumb machines that do a *lot* of calculations really quickly. But calling it â€œAIâ€ is a misnomer.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.5, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Negative,negative
+j38qbnf,1,dagamer34,2023-01-06 15:31:24,"Your brain processes data slower but is *always* learning. ChatGPT runs on computers that do billions of calculations a second, but it completely fails on new experiences. If you ask ChatGPT about recent events, itâ€™ll be dumbfounded as the training happened months ago. Ask it about Kevin McCarthy and his quest to get Speaker of the House of the United States and you wonâ€™t get anything of use. 
+
+Put another way, ChatGPT is truly genius level auto-complete from 6 months ago.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.14285714285714285, 'surprise': 0.0, 'positive': 0.7142857142857143, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.14285714285714285}",Positive,positive
+j39fvpd,12,totoro27,2023-01-06 18:14:20,This isn't a good way of classifying the computations done by ChatGPT vs a brain because you would have the same result with a person if you locked them in a room for 6 months without access to new media.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.16666666666666666, 'positive': 0.16666666666666666, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666, 'anticipation': 0.3333333333333333}",Positive,anticipation
+jk6kf9c,1,Ol_OLUs22,2023-05-14 20:30:24,"True, but the person knows he was locked in, ChatGPT doesn't know that any time has passed at all. It is just stuck in 2021.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 1.0}",Neutral,anticipation
+jc0tcjf,1,Reasonable-Angle-500,2023-03-13 01:14:03,"By using the dB schemas in the prompt. Chatgpt does not have to know about the entire data.
+
+ It can work almost accurately  with just the schema. You will need to create the right prompt thou.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.5, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.5}",Positive,positive
+jed1985,1,Woodboah,2023-03-30 22:59:30,"I asked it 5 questions and deleted it, it's not even close to chatgpt3 in terms of problem solving and the unfiltered version is still filtered",learnmachinelearning,"{'fear': 0.3333333333333333, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.3333333333333333, 'sadness': 0.3333333333333333, 'disgust': 0.0, 'joy': 0.0}",Negative,fear
+j17rpj4,27,ohLookAnotherBug,2022-12-22 02:51:30,"I see two issues that Google is facing now, and will need to tackle soon (and announce very publicly):
+
+* As the linked article says, LLMs have big potential to compete as the new go-to search
+* As you've mentioned, Google will need new/different ranking metrics to identify high quality content, similarly to art platforms (artstation et. al.) having to ban AI generated content.
+
+Google has tried to provide something similar to a top-1 result, but faces much greater legal difficulties, as this content is in direct competition with its customers (the ranking websites).
+
+In the end, i believe chatGPT etc. are phenomenal writing tools, which still need experts to curate and finetune content to write real quality and insightful articles. The focus will shift from cookie-cutter content to who can provide valuable insights & insider knowledge that only experts have.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.025, 'anticip': 0.0, 'trust': 0.225, 'surprise': 0.05, 'positive': 0.35, 'negative': 0.075, 'sadness': 0.05, 'disgust': 0.0, 'joy': 0.15, 'anticipation': 0.075}",Positive,positive
+j17tbyt,8,addictedposter,2022-12-22 03:13:04,Right. I think ChatGPT in its current state is really only a tool for content making (ideas and then deep diving into those ideas). Iâ€™m not sure if in the next 10 years chatbots are really going to mimic humans and even capture your voice. The true experts on specific niches will know what theyâ€™re talking about and they can just tweak their content so that they can have something original and call it their own.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3, 'surprise': 0.0, 'positive': 0.3, 'negative': 0.1, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.3}",Positive,trust
+j194ba3,3,addictedposter,2022-12-22 11:08:15,This is good advice. I better learn how to do prompts and techniques in ChatGPT so I can have a diverse set of content in my hands. So basically upskilling to do prompts and handholding ChatGPT is basically my job now lol.,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.23076923076923078, 'surprise': 0.07692307692307693, 'positive': 0.38461538461538464, 'negative': 0.07692307692307693, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.15384615384615385, 'anticipation': 0.07692307692307693}",Positive,positive
+j18gzcs,8,Lanky-Truck6409,2022-12-22 08:11:38,"Tbh I thought seo articles have been dead for years. The induatry is a sweatshop employing kids and third world country citizens to master a topic in 5 minutes of google and churn out basic articles about lawn mowers without ever having seen a lawn in real life. 
+
+Actually my first thought when I saw chatGPT used for articles was that it was written exactly like the shite I would write on vworker when I was in uni. 
+
+If you're a good writer, I suggest you just respecialize.  Writing is a vast and varied field, you definitely can do better.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.25, 'surprise': 0.08333333333333333, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.08333333333333333, 'anticipation': 0.25}",Positive,positive
+j19548a,1,addictedposter,2022-12-22 11:13:37,"Speaking of university, this could make essays and homework so much easier for students too and even for people who will have their thesis. Heck even programming students are going to have an easy time just prompting on ChatGPT for their code.",learnmachinelearning,"{'fear': 0.25, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.25, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'anticipation': 0.5}",Positive,anticipation
+j1hh9oa,1,Lanky-Truck6409,2022-12-24 06:22:08,"Yes, you definitely need to be able to understand code well enough to edit it. But i was mighty nice to have the case whens written and only have to edit them :) as someone who did grad school in my 5th language, I definitely would have appreciated something like this to spit out the basic grammar and form and only need the actual content rewritten to it, the small things like that took me ages and contributed nothing to my actual skills + i would often have very original results dismissed due to poor or unnatural Japanese when presenting them. 
+
+Also, remember that chatgpt keeps your data and that inputting your data into it does break NDAs, always use dummys.",learnmachinelearning,"{'fear': 0.14285714285714285, 'anger': 0.047619047619047616, 'anticip': 0.0, 'trust': 0.19047619047619047, 'surprise': 0.047619047619047616, 'positive': 0.19047619047619047, 'negative': 0.14285714285714285, 'sadness': 0.047619047619047616, 'disgust': 0.09523809523809523, 'joy': 0.09523809523809523}",Positive,trust
+j19u7gy,2,Lanky-Truck6409,2022-12-22 13:55:27,"Heh, i won't lie I used chatgpt for code at work the other day, and also for an application gobbledegock that is easy but would've taken me my previous free time to write. I definitely think this will change the game when it comes to wasting time on the small things. 
+
+As for homework... let's be honest, kids and students have always found ways to cheat the system and they always will. For every place that checks things thoroughly there are dozens of schools and even universities that don't.  If anything, it equalized the game for the kids who can't afford to pay someone else to write it, which honestly, i don't mind. The elite has always cheated, and always will. I do feel sorry for the kids who won't be able to make money writing their rich colleague's essays for them, but in my experience even a good chatgpt prompt is more work than they'd be willing to do...",learnmachinelearning,"{'fear': 0.0851063829787234, 'anger': 0.0851063829787234, 'anticip': 0.0, 'trust': 0.14893617021276595, 'surprise': 0.0425531914893617, 'positive': 0.14893617021276595, 'negative': 0.0851063829787234, 'sadness': 0.06382978723404255, 'disgust': 0.0851063829787234, 'joy': 0.1276595744680851, 'anticipation': 0.1276595744680851}",Positive,trust
+j191sl0,5,autumndraft,2022-12-22 10:51:27,"I agree with the sentiment that the internet will soon be filled with chat gpt related content. I had it write a one star review with a remark about the manager and it did it remarkably well. As soon as people can start churning out millions of reviews, articles, comments or whatever with the click of the button that are as convincing as chatgpt I feel it will make it even harder to rely on anything",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3333333333333333, 'surprise': 0.0, 'positive': 0.3333333333333333, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.16666666666666666, 'anticipation': 0.16666666666666666}",Positive,trust
+j194tez,3,addictedposter,2022-12-22 11:11:37,"Agreed. So basically fake reviews, generated articles are going to fill the internet now unless people know how to do prompts and techniques inside of ChatGPT and make unique content out of it. I bet there will be a ChatGPT content detector and rankings will depend on how the content looks user generated or bot generated. Time will tell I guess.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3125, 'surprise': 0.125, 'positive': 0.25, 'negative': 0.0625, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.1875, 'anticipation': 0.0625}",Positive,trust
+j19g2gr,2,SteinyBoy,2022-12-22 12:24:37,OpenAi engineer already spun out a company for this a while back. Copy smith. Easier to use dedicated version and UI for it. Youâ€™re probably right you could just use chatgpt but itâ€™s not staying free forever,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 1.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,trust
+j19ubfj,2,alphazwest,2022-12-22 13:56:10,"I think the future is unknown currently, but the direction IMO is definitely trending towards general content, having a much lower price point with the assist of AI tools.
+
+I'm both a technical writer, have run an SEO oriented agency and have been playing around with chatGPT lately as well.
+
+My general impression is that chat GPT is not a one click solution but, in the hands of someone who knows how to structure content and the general outline for the flow of an article, it is a improvement and productivity by several orders of magnitude.
+
+Without a doubt it's going to put a lot of freelance writers out of business IMO. 
+
+To counterbalance that however, specific to the SEO industry, I think the nature of search is going to change a lot as well. My advice to anyone who feels AI tools might encroach upon their bottom line is:  ready to pivot but with a mindset of ample opportunity.",learnmachinelearning,"{'fear': 0.07142857142857142, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2619047619047619, 'surprise': 0.0, 'positive': 0.35714285714285715, 'negative': 0.09523809523809523, 'sadness': 0.07142857142857142, 'disgust': 0.0, 'joy': 0.07142857142857142, 'anticipation': 0.07142857142857142}",Positive,positive
+j186s7r,4,GlueStickNamedNick,2022-12-22 06:19:09,"Not sure if this is exactly what your talking about, but recently built this site https://playful-systems.com.au and pretty much all of the copy on the sites 10 pages are all written by ChatGPT, with very light editing by me. Overall Iâ€™m very happy with it, itâ€™s much better than what I could write. But I do intend on hiring someone to rewrite it in the future.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.3, 'surprise': 0.0, 'positive': 0.2, 'negative': 0.1, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.2, 'anticipation': 0.2}",Positive,trust
+j5e5o9s,1,Glue_55,2023-01-22 04:45:22,"I work as an SEO at a digital agency. We've been using ChatGPT to enhance existing content with good results so far. So much less legwork involved. In a nutshell, we look at a current article and identify what's missing. We ask ChatGPT to write that section. Then run it through Grammarly. We've had great results for our clients because we can update at scale and much faster.   
+We're now testing 100% ChatGPT-generated content. This is being tested on our agency blog. Here it is if anyone is interested - [https://www.mo.agency/blog/salesforce-pardot](https://www.mo.agency/blog/salesforce-pardot)
+
+We did all the usual Ahref checks (Keyword Difficulty Score, content gap analysis, etc. ) 
+
+It will be interesting to see if it ranks. I think it will. Who knows if Google will introduce an update soon to identify and demerit 100% AI written content? Somehow I don't think so - as long as the AI has been utilized well and the content is unique and valuable.",learnmachinelearning,"{'fear': 0.02857142857142857, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.2, 'surprise': 0.05714285714285714, 'positive': 0.34285714285714286, 'negative': 0.05714285714285714, 'sadness': 0.05714285714285714, 'disgust': 0.02857142857142857, 'joy': 0.17142857142857143, 'anticipation': 0.05714285714285714}",Positive,positive
+jbd9bde,5,crazy_canuck,2023-03-08 00:10:17,Thatâ€™s an easy oneâ€¦ Just use ChatGPT to summarize for you,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j9cxwq7,3,Grubzer,2023-02-20 19:26:52,"I would... ask someone on r/theydidthemath or similar. ChatGPT can be *very* confident while being wrong. Ask it the classic riddle: ""Alices parents have five children: Bob, Anna, Charles, and Jimmy. What is the name of the fifth child? "" and last time i checked, it got it wrong, and i had to pursue it quite a lot for it to accept the answer",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.09090909090909091, 'surprise': 0.09090909090909091, 'positive': 0.2727272727272727, 'negative': 0.18181818181818182, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.18181818181818182, 'anticipation': 0.18181818181818182}",Positive,positive
+j4pzinb,12,Snoo26837,2023-01-17 08:31:12,"Sounds like google would obsess sparrow project, so do microsoft with chatGPT.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j4tx03v,2,wise0807,2023-01-18 00:40:50,I have a feeling that ChatGPT was a chatbot that was a trailer to what was really possible. GPT4 could actually become useful. But I am getting the feeling that Googleâ€™s (actually Deepmindâ€™s) answer with Sparrow will actually be the first AI assistant. I have come to this conclusion by inferring what the assistant is capable of from the 23 rules that they set in place for it. Very exciting stuff!,learnmachinelearning,"{'fear': 0.08333333333333333, 'anger': 0.08333333333333333, 'anticip': 0.0, 'trust': 0.08333333333333333, 'surprise': 0.125, 'positive': 0.125, 'negative': 0.08333333333333333, 'sadness': 0.08333333333333333, 'disgust': 0.08333333333333333, 'joy': 0.125, 'anticipation': 0.125}",Positive,surprise
+j5u2n2a,3,QuestionAnxious,2023-01-25 11:01:08,"The motivation being prompt engineering. With power going towards people who know the right prompt to use, it makes sense to have prompt suggestions at our fingertips instead of searching through prompt libraries._x000D_  
+_x000D_  
+The suggestions are from either 1) your recent prompts (saved on only your computer) and 2) the open source prompt database https://github.com/f/awesome-chatgpt-prompts and prompts and answers shared by others. We included the option to â€œshare prompts and answersâ€ automatically, which can also be turned off whenever -- so no data is collected when itâ€™s turned off._x000D_  
+_x000D_  
+For those interested, feel free to try the beta here: https://chrome.google.com/webstore/detail/chatgpt-prompts-search-sh/gmhdpmjdfaiegdjjekoojmpidhlcneod?hl=en&authuser=0. The suggestions are quite limited right now, but will be spending the next few weeks adding more prompt suggestions.",learnmachinelearning,"{'fear': 0.0, 'anger': 0.1111111111111111, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.4444444444444444, 'negative': 0.1111111111111111, 'sadness': 0.2222222222222222, 'disgust': 0.1111111111111111, 'joy': 0.0}",Positive,positive
+j5u5jpb,2,iosdevcoff,2023-01-25 11:19:54,Hi. This is great work. Who curates the â€œawesome chatgpt promptsâ€?,learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+j79h1qk,1,Daddys_Lil_Grandpa,2023-02-04 21:35:45,"Thanks very much for your response. I'm not quite sure I undersand your example use-case with the country, state, city stuff. Are you saying that a pointwise additive approach is good because it accommodates data where you might be missing certain input fields sometimes? And you can just not add the embedding for that field, and still have a valid input to feed through your net (which wouldn't be possible if you were concatenating them)?
+
+Secondly, was my question about the potentially ""loose/fuzzy"" nature of positional encodings a meaningful one, and did ChatGPT provide an adequate response?",learnmachinelearning,"{'fear': 0.09090909090909091, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.18181818181818182, 'surprise': 0.09090909090909091, 'positive': 0.2727272727272727, 'negative': 0.09090909090909091, 'sadness': 0.09090909090909091, 'disgust': 0.0, 'joy': 0.09090909090909091, 'anticipation': 0.09090909090909091}",Positive,positive
+j7gtziw,1,vannak139,2023-02-06 13:25:32,"As far as chatGPT goes, its answer is fine, I guess, perhaps a bit narrow. To simply say that positional encodings don't effect the semantics of word embeddings is fine to consider as True or False, but if you're going to say the semantics aren't effected you should probably focus on mentioning what does change, what improves, or else why even bother doing this? So its answer isn't foundationally wrong, just narrow. 
+
+
+
+Point-wise addition is great in a lot of circumstances, that it deals with missing data is just a bonus. The best way to consider that specific benefit is considering how a ""missing data"" labels will have to work, compared to added embeddings. The critical thing is, even if you train a ""missing label"" embedding, it'll still be uniform across all unknown examples. With stacked embeddings, this won't necessarily be the case. However, point-wise addition of embeddings can be good even without any missing data. There's lots of perspectives that you can take on this, from considering how this effects the gradient, to how it deals with vector space mappings. Its difficult to pin down a single specific reason or condition where point-wise addition works.   
+
+
+That said, I'm most often considering how the elements contribute to the semantics I think are reasonable, as well as the correlation between events- the qualities of the coincidence matrix. In the location sub-category type, you'd have a very very sparse co-incidence matrix between States and Cities, and I generally take this to imply that concatenating will not be viable. Adding is a good alternative here. Different embeddings, like Product Category and Location, seem more worthwhile to concatenate perhaps because their co-incidence matrix is relatively dense and higher population. I vaguely relate this to the number and diversity of samples each independent embedding vector is trained on. So you could train on D1xD2xD3xP1xP2, and have a very large low density space. Or, you could train on the space spanned by (D1+D2+D3)x(P1+P2), and have a smaller space with higher density, which probably helps generalization, i guess?",learnmachinelearning,"{'fear': 0.1702127659574468, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0851063829787234, 'surprise': 0.1276595744680851, 'positive': 0.19148936170212766, 'negative': 0.1702127659574468, 'sadness': 0.10638297872340426, 'disgust': 0.0, 'joy': 0.06382978723404255, 'anticipation': 0.0851063829787234}",Positive,positive
+j4mfoo7,3,dilmerv,2023-01-16 14:21:51,"ðŸ“Œ Full [Unity ChatGPT video](https://youtu.be/Z_iQr-MvPHc)
+
+â„¹ï¸ If you missed the previous videos be sure to review them in chronological order by using this [ChatGPT video playlist](https://www.youtube.com/playlist?list=PLQMQNmwN3Fvxec05vELA3D05-Y93LzFt_)",learnmachinelearning,"{'fear': 0.0, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0, 'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}",Neutral,fear
+jalyjvp,1,ziofagnano,2023-03-02 06:21:19,"From the link you provided:
+> Instacart plans to launch â€œAsk Instacartâ€ later this year.
+
+It's very hard to talk about something that is not observable.
+Here's my personal take on the problem. I'd use the prompt below as ""system"" prompt with ChatGPT API.
+
+---
+
+
+You are a helpful AI assistant for an e-commerce shop. The shop has a search functionality that can search among these dimensions:
+
+
+    {
+        ""person"": [""man"", ""woman"", ""child""],
+        ""price"": [""cheap"", ""regular"", ""expensive""],
+        ""season"": [""winter"", ""summer"", ""spring"", ""fall""]
+    }
+
+The user will ask you a question, and you need to return a JSON representation of a search query that satisfies their desires.",learnmachinelearning,"{'fear': 0.05555555555555555, 'anger': 0.0, 'anticip': 0.0, 'trust': 0.16666666666666666, 'surprise': 0.0, 'positive': 0.2777777777777778, 'negative': 0.16666666666666666, 'sadness': 0.1111111111111111, 'disgust': 0.0, 'joy': 0.1111111111111111, 'anticipation': 0.1111111111111111}",Positive,positive

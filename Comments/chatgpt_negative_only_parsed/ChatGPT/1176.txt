@@ -1,0 +1,9 @@
+This needs to be included in the auto-moderator post because itâ€™s coming up so frequently.
+
+I have put decade old college essays into chatgpt4 and asked it who wrote it. GPT4 claims it wrote them. Even after I tell it to correct itself because I wrote them it will initially apologise but when asking it again in the same conversation it will claim it wrote them again.
+
+AI detection is a load of utter bullshit.
+
+Tell any college professors who claim you used ai to run their own work through it and see what happens.
+
+EDIT: So some more knowledgeable people have highlighted that ChatGPT is an LLM and so is not in itself an AI detector. So if I have understood their comments, asking ChatGPT4 about authorship is not really a relevant question to ask it it the first place.

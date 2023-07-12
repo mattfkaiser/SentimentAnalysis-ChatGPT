@@ -1,0 +1,5 @@
+Ehh I'm not so sure about that. As a senior software engineer working on open source project, I use ChatGPT to create decent sized components in our app, and it does it pretty well. I just have to describe the design in words! Once it's made, I have to go in and make any adjustments to parameters and such, but it does cut down on my coding time probably by about 50%. It's also useful when "translating" the existing code from one framework to another. I end up spending a lot of the time on thinking through the architecture now, which isn't really easy to do with ChatGPT. It would be cool what it can do if it can scan the entire Github repository and make suggestions though.
+
+Maybe it's different for engineers in other domains though, not sure.
+
+I can totally see less demand for junior engineers in the next few years, and those who were able to get their first job, will likely need to use AI all they can to power through their work and compete with other junior engineers.

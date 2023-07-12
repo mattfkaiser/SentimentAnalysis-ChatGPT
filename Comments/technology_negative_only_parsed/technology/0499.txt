@@ -1,0 +1,3 @@
+The chatGPT and a wolfram alpha model is available here https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
+
+You just need to link it to your openai account and pay 2 cents per 750 words

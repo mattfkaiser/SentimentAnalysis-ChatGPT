@@ -1,0 +1,7 @@
+And at some point AI may be able to discern between a truthful statement and a false one.  ChatGPT shouldn't really be used as a search engine and definitely shouldn't be used without fact checking what it's telling you.  Bias is present in everything.  I think we should be just as concerned about bias in AI systems as we are about bias in media, government, and society.  So, pretty concerned.  But nobody serious is suggesting we shut down the New York Times because they sometimes have a biased viewpoint.  
+
+I'm aware of who is funding OpenAI, I'm also aware of its capped returns model.  Given the technology they're trying to develop they could very quickly become one of if not the most valuable companies on Earth.  [They've set up the venture capital model so that returns are capped at 100 times the investment.](https://www.reuters.com/business/chatgpt-owner-openai-projects-1-billion-revenue-by-2024-sources-2022-12-15/)  They're setting it up this way specifically because the owners of OpenAI don't want to create an incentive structure where investors are pressuring them to release an unsafe product.  
+
+Further, we're probably a few months away at most from Bing being available to everyone.  It provides links to the websites it pulls information from and runs on some version of the GPT-3 (some speculate GPT-4) architecture.  So it's not as if the only option we have for AI assisted search is the 'I'm feeling lucky' button.  
+
+It's okay to be skeptical of AI, but a lot of your complaints feel reactionary and lack merit.

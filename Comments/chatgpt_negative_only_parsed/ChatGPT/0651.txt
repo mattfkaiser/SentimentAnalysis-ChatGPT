@@ -1,0 +1,7 @@
+No thats not necessarily true in this case.
+
+  
+The backends is probably a few steps away from the frontend you get served when you connect to chatGPT.
+
+  
+That's why you at times might be able to load the website but the actual AI generation won't work.

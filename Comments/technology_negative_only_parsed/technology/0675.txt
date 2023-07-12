@@ -1,0 +1,1 @@
+I mean, people have already written toy database backends using ChatGPT. We are already way past â€œthis thing sucks because itâ€™s not perfectâ€ and more in the â€œwhat crazy shit can we apply this toâ€ phase.

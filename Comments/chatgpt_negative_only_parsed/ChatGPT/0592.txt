@@ -1,0 +1,5 @@
+They are using feedback from users but not without refining and cleaning the data first.
+
+I've long held the opinion that whenever you correct the model and it apologises it means this conversation is probably going to be added to a potential human feedback dataset which they may use for further refinement.
+
+RLHF is being touted as the thing that made chatgpt way better than anything other models so I doubt they would waste any human feedback

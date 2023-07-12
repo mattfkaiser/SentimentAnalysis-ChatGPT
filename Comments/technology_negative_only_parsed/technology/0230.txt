@@ -1,0 +1,7 @@
+Pluses of GitHub Copilot or ChatGPT over Slashdot:
+
+1) quick responses
+
+2) no snark
+
+3) infinite patience while iterating

@@ -1,0 +1,5 @@
+ChatGPT communicates in Chinese. Thereâ€™s no need to translate into English first. 
+
+The base research is public, the real difference between the indie scene and major corporations or states is access to compute and quality labelled training data, both of which are just money problems.
+
+There is no reason to think that there isnâ€™t a Chinese competitor other than, well, you know why you said that.
