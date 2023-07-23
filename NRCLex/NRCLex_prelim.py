@@ -5,7 +5,7 @@ import nltk
 from nrclex import NRCLex
 
 # Load the CSV file
-file_path = 'LearnProgrammingComments.xlsx'
+file_path = 'G:\SentimentAnalysis-ChatGPT\LearnProgrammingComments.xlsx'
 df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
