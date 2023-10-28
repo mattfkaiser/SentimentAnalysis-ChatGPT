@@ -5,7 +5,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 nltk.download('vader_lexicon')
 
 # Load the CSV file
-file_path = 'LearnProgrammingComments.xlsx'
+file_path = 'LearnMachineLearningComments.xlsx'
 df = pd.read_excel(file_path)
 
 # Assuming the column containing comments is named 'Text'
@@ -29,9 +29,9 @@ df['sentiment_compound'] = [sentiment['compound'] for sentiment in sentiments]
 
 # Function to categorize sentiment
 def categorize_sentiment(compound):
-    if compound > 0.1:
+    if compound > 0:
         return 'Positive'
-    elif compound < -0.1:
+    elif compound < 0:
         return 'Negative'
     else:
         return 'Neutral'
@@ -40,5 +40,5 @@ def categorize_sentiment(compound):
 df['sentiment'] = df['sentiment_compound'].apply(categorize_sentiment)
 
 # Save the DataFrame with sentiment analysis to a new CSV file
-output_file_path = 'vader_polarity_LearnProgramming.csv'
+output_file_path = 'vader_pos_neg_LearnMachineLearning.csv'
 df.to_csv(output_file_path, index=False)
